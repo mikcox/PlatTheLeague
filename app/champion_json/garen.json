@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Lux ", 
+        "Aatrox ", 
+        "Katarina ", 
+        "Darius ", 
+        "Ashe ", 
+        "Amumu ", 
+        "Xin Zhao ", 
+        "Jarvan IV ", 
+        "Alistar ", 
+        "Akali "
+    ], 
+    "Weak Against": [
+        "Teemo ", 
+        "Pantheon ", 
+        "Elise ", 
+        "Yorick ", 
+        "Jayce ", 
+        "Aatrox ", 
+        "Shyvana ", 
+        "Darius ", 
+        "Aatrox ", 
+        "Kayle "
+    ], 
+    "Strong Against": [
+        "Riven ", 
+        "Akali ", 
+        "Yasuo ", 
+        "Wukong ", 
+        "Jax ", 
+        "Nasus ", 
+        "Yasuo ", 
+        "Aatrox ", 
+        "Renekton ", 
+        "Aatrox "
+    ], 
+    "Champion Name": "garen"
+}

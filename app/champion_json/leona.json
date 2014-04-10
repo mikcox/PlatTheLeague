@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Caitlyn ", 
+        "Jinx ", 
+        "Quinn ", 
+        "Lucian ", 
+        "Draven ", 
+        "Miss Fortune ", 
+        "Vayne ", 
+        "Katarina ", 
+        "Tristana ", 
+        "Corki "
+    ], 
+    "Weak Against": [
+        "Morgana ", 
+        "Alistar ", 
+        "Lulu ", 
+        "Janna ", 
+        "Thresh ", 
+        "Annie ", 
+        "Karma ", 
+        "Zyra ", 
+        "Sivir ", 
+        "Lux "
+    ], 
+    "Strong Against": [
+        "Blitzcrank ", 
+        "Sona ", 
+        "Varus ", 
+        "Caitlyn ", 
+        "Draven ", 
+        "Jinx ", 
+        "Ashe ", 
+        "Thresh ", 
+        "Miss Fortune ", 
+        "Katarina "
+    ], 
+    "Champion Name": "leona"
+}

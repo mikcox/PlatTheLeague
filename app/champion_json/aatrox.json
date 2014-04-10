@@ -1,39 +1,129 @@
 {
-    "Good With": [
-        "Yasuo ", 
-        "Caitlyn ", 
-        "Darius ", 
-        "Jinx ", 
-        "Akali ", 
-        "Ezreal ", 
-        "Teemo ", 
-        "Corki ", 
-        "Varus ", 
-        "Thresh "
+    "ChampionName": "aatrox", 
+    "WeakAgainst": [
+        {
+            "champName": "Jax ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Fiora ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "LeBlanc ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Riven ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Teemo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Fizz ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton ", 
+            "certainty": 0
+        }
     ], 
-    "Weak Against": [
-        "Jax ", 
-        "Fiora ", 
-        "LeBlanc ", 
-        "Riven ", 
-        "Teemo ", 
-        "Pantheon ", 
-        "Fizz ", 
-        "Yasuo ", 
-        "Renekton ", 
-        "Pantheon "
+    "StrongAgainst": [
+        {
+            "champName": "Yasuo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Dr. Mundo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jinx ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ryze ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kassadin ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus ", 
+            "certainty": 0
+        }
     ], 
-    "Strong Against": [
-        "Yasuo ", 
-        "Dr. Mundo ", 
-        "Jinx ", 
-        "Darius ", 
-        "Katarina ", 
-        "Nasus ", 
-        "Ryze ", 
-        "Kassadin ", 
-        "Akali ", 
-        "Nasus "
-    ], 
-    "Champion Name": "aatrox"
+    "GoodWith": [
+        {
+            "champName": "Yasuo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Caitlyn ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jinx ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ezreal ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Teemo ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Corki ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Varus ", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Thresh ", 
+            "certainty": 0
+        }
+    ]
 }

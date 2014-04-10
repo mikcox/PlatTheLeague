@@ -1,0 +1,39 @@
+{
+    "ChampionName": "teemo", 
+    "WeakAgainst": [
+        "Yorick ", 
+        "Pantheon ", 
+        "Rumble ", 
+        "Jayce ", 
+        "Zed ", 
+        "LeBlanc ", 
+        "Aatrox ", 
+        "Renekton ", 
+        "Akali ", 
+        "Yasuo "
+    ], 
+    "StrongAgainst": [
+        "Tryndamere ", 
+        "Singed ", 
+        "Nasus ", 
+        "Garen ", 
+        "Darius ", 
+        "Aatrox ", 
+        "Yasuo ", 
+        "Aatrox ", 
+        "Volibear ", 
+        "Master Yi "
+    ], 
+    "GoodWith": [
+        "Aatrox ", 
+        "Darius ", 
+        "Twitch ", 
+        "Cassiopeia ", 
+        "Lee Sin ", 
+        "Blitzcrank ", 
+        "Tristana ", 
+        "Akali ", 
+        "Ashe ", 
+        "Alistar "
+    ]
+}

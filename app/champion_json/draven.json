@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Sona ", 
+        "Lulu ", 
+        "Alistar ", 
+        "Nami ", 
+        "Thresh ", 
+        "Leona ", 
+        "Blitzcrank ", 
+        "Soraka ", 
+        "Annie ", 
+        "Taric "
+    ], 
+    "Weak Against": [
+        "Varus ", 
+        "Thresh ", 
+        "Blitzcrank ", 
+        "Caitlyn ", 
+        "Nami ", 
+        "Aatrox ", 
+        "Quinn ", 
+        "Leona ", 
+        "Teemo ", 
+        "Taric "
+    ], 
+    "Strong Against": [
+        "Ezreal ", 
+        "Vayne ", 
+        "Lucian ", 
+        "Jinx ", 
+        "Tristana ", 
+        "Miss Fortune ", 
+        "Sivir ", 
+        "Corki ", 
+        "Ashe ", 
+        "Twitch "
+    ], 
+    "Champion Name": "draven"
+}

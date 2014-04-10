@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Yasuo ", 
+        "Lulu ", 
+        "Aatrox ", 
+        "Pantheon ", 
+        "Jax ", 
+        "Darius ", 
+        "Teemo ", 
+        "Evelynn ", 
+        "Alistar ", 
+        "Vayne "
+    ], 
+    "Weak Against": [
+        "Warwick ", 
+        "Vayne ", 
+        "Kog'Maw ", 
+        "Kayle ", 
+        "Lee Sin ", 
+        "Aatrox ", 
+        "Fizz ", 
+        "Jax ", 
+        "Garen ", 
+        "Xin Zhao "
+    ], 
+    "Strong Against": [
+        "Yorick ", 
+        "Katarina ", 
+        "Malphite ", 
+        "Darius ", 
+        "Nasus ", 
+        "Renekton ", 
+        "Teemo ", 
+        "Diana ", 
+        "Jax ", 
+        "Yasuo "
+    ], 
+    "Champion Name": "chogath"
+}

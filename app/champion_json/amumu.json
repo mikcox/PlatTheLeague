@@ -1,17 +1,6 @@
 {
-    "Good With": [
-        "Miss Fortune ", 
-        "Nunu ", 
-        "Katarina ", 
-        "Vel'Koz ", 
-        "Pantheon ", 
-        "Morgana ", 
-        "Leona ", 
-        "Caitlyn ", 
-        "Ezreal ", 
-        "Fiddlesticks "
-    ], 
-    "Weak Against": [
+    "ChampionName": "amumu", 
+    "WeakAgainst": [
         "Shyvana ", 
         "Lee Sin ", 
         "Dr. Mundo ", 
@@ -23,7 +12,7 @@
         "Olaf ", 
         "Gragas "
     ], 
-    "Strong Against": [
+    "StrongAgainst": [
         "Blitzcrank ", 
         "Katarina ", 
         "Yasuo ", 
@@ -35,5 +24,16 @@
         "Yorick ", 
         "Darius "
     ], 
-    "Champion Name": "amumu"
+    "GoodWith": [
+        "Miss Fortune ", 
+        "Nunu ", 
+        "Katarina ", 
+        "Vel'Koz ", 
+        "Pantheon ", 
+        "Morgana ", 
+        "Leona ", 
+        "Caitlyn ", 
+        "Ezreal ", 
+        "Fiddlesticks "
+    ]
 }

@@ -26,10 +26,11 @@ while(counterPickHTML.find('<h4>') != -1):
 	i = 1
 	champName = ""
 	while(counterPickHTML[champStartIndex:].split()[i] != "<div"):
-		champName = champName + counterPickHTML[champStartIndex:].split()[i] + " "
+		champName = champName + counterPickHTML[champStartIndex:].split()[i]+ " "
 		i = i+1
+	champName = champName[:-1]
 	#print champName
-	weakAgainst.append(champName)
+	weakAgainst.append({"champName": champName, "certainty":0})
 	#file.write(champName+'","')
 	counterPickHTML = counterPickHTML[champStopIndex+5:]
 	
@@ -48,8 +49,9 @@ while(badPickHTML.find('<h4>') != -1):
 	while(badPickHTML[champStartIndex:].split()[i] != "<div"):
 		champName = champName + badPickHTML[champStartIndex:].split()[i] + " "
 		i = i+1
+	champName = champName[:-1]
 	#print champName
-	strongAgainst.append(champName)
+	strongAgainst.append({"champName": champName, "certainty":0})
 	#print str(champStartIndex)+' - '+str(champStopIndex)
 	badPickHTML = badPickHTML[champStopIndex+5:]
 
@@ -67,7 +69,8 @@ while(goodDuoHTML.find('<h4>') != -1):
 	while(goodDuoHTML[champStartIndex:].split()[i] != "<div"):
 		champName = champName + goodDuoHTML[champStartIndex:].split()[i] + " "
 		i = i+1
-	goodWith.append(champName)
+	champName = champName[:-1]
+	goodWith.append({"champName": champName, "certainty":0})
 	#file.write(champName+'","')
 	#print champName
 	#print str(champStartIndex)+' - '+str(champStopIndex)
@@ -75,5 +78,5 @@ while(goodDuoHTML.find('<h4>') != -1):
 	
 	
 with open('/var/www/PlatTheLeague/app/champion_json/'+champion+'.json', 'w') as file:
-	json.dump({"Champion Name":champion, "Weak Against":weakAgainst, "Strong Against":strongAgainst, "Good With":goodWith}, file, indent=4);
+	json.dump({"ChampionName":champion, "WeakAgainst":weakAgainst, "StrongAgainst":strongAgainst, "GoodWith":goodWith}, file, indent=4);
 #file.write('"]}')

@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Amumu ", 
+        "Taric ", 
+        "Blitzcrank ", 
+        "Aatrox ", 
+        "Darius ", 
+        "Sion ", 
+        "Jarvan IV ", 
+        "Shen ", 
+        "Cho'Gath ", 
+        "Volibear "
+    ], 
+    "Weak Against": [
+        "Udyr ", 
+        "Elise ", 
+        "Shen ", 
+        "Yorick ", 
+        "Aatrox ", 
+        "Malphite ", 
+        "Cho'Gath ", 
+        "Aatrox ", 
+        "Olaf ", 
+        "Darius "
+    ], 
+    "Strong Against": [
+        "Gangplank ", 
+        "Kassadin ", 
+        "Fiora ", 
+        "Nidalee ", 
+        "Yasuo ", 
+        "Nasus ", 
+        "Teemo ", 
+        "Master Yi ", 
+        "Rengar ", 
+        "Kayle "
+    ], 
+    "Champion Name": "pantheon"
+}

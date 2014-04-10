@@ -18,23 +18,83 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		};
 		
 		$scope.ajaxGetChampInfo = function (champion) {
+			//check that we have a champion name
+			if(champion == null || champion.length < 1){
+				$scope.error = "Please enter a champion name";
+				document.getElementById("championSearchBox").style.backgroundColor = "yellow";
+				return;
+			} else {
+				$scope.error = "";
+				document.getElementById("championSearchBox").style.backgroundColor = "white";
+			}			
+			
+			//change the champion's name into what lolcounter expects
+			champion = champion.toLowerCase();
+			champion = champion.replace(" ", "");
+			champion = champion.replace("'", "");
+			
+			//submit the champion's name to our php script to go fetch the info (will be obsolete soon)
 			$.ajax({
 				type: 'POST',
 				url: 'scripts/button_actions/get_champ_info.php',
 				data: { ChampionName: champion }
+			}).done(function(data) {
+				returnJSON(champion);
 			});
 			
-			dataFactory.readJSON('champion_json/'+champion+'.json').success(function(data) {
-					$scope.results = data;
-					$scope.error = "";
-			 	}).error(function(data, status, headers, config) {
-			 		$scope.results = "";
-			 		$scope.error = 'Problem reading file: ' + status;
-			 });
 		}
 		
+	//reads the contents of the champion's JSON file into $scope.results, does a bit of formatting, and generates a $scope.error if there is one.
+	function returnJSON(champion) {
+		dataFactory.readJSON('champion_json/'+champion+'.json').success(function(data) {
+			$scope.selectedChamp = data;
+			$scope.error = "";
+			
+			//filter duplicates from WeakAgainst list
+			var uniqueNames = [];
+			var uniqueWeakAgainst = [];
+			for(var i = 0; i < $scope.selectedChamp["WeakAgainst"].length; i++){
+				if($.inArray($scope.selectedChamp["WeakAgainst"][i]["champName"], uniqueNames) == -1 ){
+					uniqueWeakAgainst.push({"champName": $scope.selectedChamp["WeakAgainst"][i]["champName"],
+											"certainty": 0});
+				}
+				uniqueNames.push($scope.selectedChamp["WeakAgainst"][i]["champName"]);
+			}
+			$scope.selectedChamp["WeakAgainst"] = uniqueWeakAgainst;
+			
+			//filter duplicates from StrongAgainst list
+			uniqueNames = [];
+			var uniqueStrongAgainst = [];
+			for(var i = 0; i < $scope.selectedChamp["StrongAgainst"].length; i++){
+				if($.inArray($scope.selectedChamp["StrongAgainst"][i]["champName"], uniqueNames) == -1 ){
+					uniqueStrongAgainst.push({"champName": $scope.selectedChamp["StrongAgainst"][i]["champName"],
+											  "certainty": 0});
+				}
+				uniqueNames.push($scope.selectedChamp["StrongAgainst"][i]["champName"]);
+			}
+			$scope.selectedChamp["StrongAgainst"] = uniqueStrongAgainst;
+			
+			//filter duplicates from GoodWith list
+			uniqueNames = [];
+			var uniqueGoodWith = [];
+			for(var i = 0; i < $scope.selectedChamp["GoodWith"].length; i++){
+				if($.inArray($scope.selectedChamp["GoodWith"][i]["champName"], uniqueNames) == -1 ){
+					uniqueGoodWith.push({"champName": $scope.selectedChamp["GoodWith"][i]["champName"],
+										 "certainty": $scope.selectedChamp["GoodWith"][i]["certainty"]});
+
+				}
+				uniqueNames.push($scope.selectedChamp["GoodWith"][i]["champName"]);
+			}
+			$scope.selectedChamp["GoodWith"] = uniqueGoodWith;
+			
+			
+			
+		}).error(function(data, status, headers, config) {
+	 		$scope.selectedChamp = "";
+	 		$scope.error = 'Problem reading file: ' + status;
+	 	});
 		
-		
+	};
 		//$scope.getChampInfo();
 		/*$scope.getPersonnel();
 		$scope.orderProp = 'Skill';
