@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Yasuo ", 
+        "Caitlyn ", 
+        "Darius ", 
+        "Jinx ", 
+        "Akali ", 
+        "Ezreal ", 
+        "Teemo ", 
+        "Corki ", 
+        "Varus ", 
+        "Thresh "
+    ], 
+    "Weak Against": [
+        "Jax ", 
+        "Fiora ", 
+        "LeBlanc ", 
+        "Riven ", 
+        "Teemo ", 
+        "Pantheon ", 
+        "Fizz ", 
+        "Yasuo ", 
+        "Renekton ", 
+        "Pantheon "
+    ], 
+    "Strong Against": [
+        "Yasuo ", 
+        "Dr. Mundo ", 
+        "Jinx ", 
+        "Darius ", 
+        "Katarina ", 
+        "Nasus ", 
+        "Ryze ", 
+        "Kassadin ", 
+        "Akali ", 
+        "Nasus "
+    ], 
+    "Champion Name": "aatrox"
+}

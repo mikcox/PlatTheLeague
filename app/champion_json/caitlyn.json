@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Leona ", 
+        "Sona ", 
+        "Thresh ", 
+        "Soraka ", 
+        "Nami ", 
+        "Alistar ", 
+        "Aatrox ", 
+        "Lulu ", 
+        "Janna ", 
+        "Morgana "
+    ], 
+    "Weak Against": [
+        "Sivir ", 
+        "Jinx ", 
+        "Yasuo ", 
+        "Varus ", 
+        "Jinx ", 
+        "Tristana ", 
+        "Lucian ", 
+        "Kog'Maw ", 
+        "Aatrox ", 
+        "Leona "
+    ], 
+    "Strong Against": [
+        "Vayne ", 
+        "Quinn ", 
+        "Corki ", 
+        "Graves ", 
+        "Ezreal ", 
+        "Quinn ", 
+        "Aatrox ", 
+        "Twitch ", 
+        "Jinx ", 
+        "Ashe "
+    ], 
+    "Champion Name": "caitlyn"
+}

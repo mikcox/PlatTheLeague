@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Nami ", 
+        "Alistar ", 
+        "Blitzcrank ", 
+        "Orianna ", 
+        "Zyra ", 
+        "Janna ", 
+        "Malphite ", 
+        "Aatrox ", 
+        "Wukong ", 
+        "Jarvan IV "
+    ], 
+    "Weak Against": [
+        "Jax ", 
+        "Fiora ", 
+        "Kayle ", 
+        "Ryze ", 
+        "Darius ", 
+        "Akali ", 
+        "Xin Zhao ", 
+        "Soraka ", 
+        "Aatrox ", 
+        "Kayle "
+    ], 
+    "Strong Against": [
+        "Vel'Koz ", 
+        "Nidalee ", 
+        "Lux ", 
+        "Gragas ", 
+        "Caitlyn ", 
+        "Ziggs ", 
+        "Kassadin ", 
+        "Aatrox ", 
+        "Heimerdinger ", 
+        "Gragas "
+    ], 
+    "Champion Name": "yasuo"
+}

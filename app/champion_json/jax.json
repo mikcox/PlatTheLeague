@@ -1,0 +1,39 @@
+{
+    "Good With": [
+        "Aatrox ", 
+        "Ahri ", 
+        "Xin Zhao ", 
+        "Amumu ", 
+        "Teemo ", 
+        "Jarvan IV ", 
+        "Darius ", 
+        "Blitzcrank ", 
+        "Pantheon ", 
+        "Alistar "
+    ], 
+    "Weak Against": [
+        "Malphite ", 
+        "Singed ", 
+        "Renekton ", 
+        "Garen ", 
+        "Pantheon ", 
+        "Jayce ", 
+        "Ryze ", 
+        "Kayle ", 
+        "Zac ", 
+        "Teemo "
+    ], 
+    "Strong Against": [
+        "Yasuo ", 
+        "Aatrox ", 
+        "Fiora ", 
+        "Master Yi ", 
+        "Xin Zhao ", 
+        "Vi ", 
+        "Tryndamere ", 
+        "Rengar ", 
+        "Yasuo ", 
+        "Zed "
+    ], 
+    "Champion Name": "jax"
+}

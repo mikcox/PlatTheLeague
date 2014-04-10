@@ -2,7 +2,7 @@
 <html lang="en" ng-app="platTheLeagueModule">
     <head>
         <meta charset="utf-8" />
-        <title>LEMR : Skills</title>
+        <title>Plat The League</title>
         <meta name="description" content="" />
         <meta name="author" content="Mik" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
