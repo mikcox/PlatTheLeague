@@ -1,8 +1,62 @@
 {
-    "ChampionName": "yasuo", 
+    "ChampionName": "shen", 
     "WeakAgainst": [
         {
+            "champName": "Yorick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Warwick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jayce", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Vladimir", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Teemo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
             "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kayle", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Pantheon", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Zed", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
             "certainty": 0
         }, 
         {
@@ -10,103 +64,7 @@
             "certainty": 0
         }, 
         {
-            "champName": "Kayle", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Ryze", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Darius", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Akali", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Xin Zhao", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Soraka", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Aatrox", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Kayle", 
-            "certainty": 0
-        }
-    ], 
-    "StrongAgainst": [
-        {
-            "champName": "Vel'Koz", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Nidalee", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Lux", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Gragas", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Caitlyn", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Ziggs", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Aatrox", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Kassadin", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Heimerdinger", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Gragas", 
-            "certainty": 0
-        }
-    ], 
-    "GoodWith": [
-        {
-            "champName": "Nami", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Alistar", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Orianna", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Zyra", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Janna", 
+            "champName": "Nasus", 
             "certainty": 0
         }, 
         {
@@ -114,15 +72,57 @@
             "certainty": 0
         }, 
         {
-            "champName": "Aatrox", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Wukong", 
+            "champName": "Jax", 
             "certainty": 0
         }, 
         {
             "champName": "Jarvan IV", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Riven", 
+            "certainty": 0
+        }
+    ], 
+    "GoodWith": [
+        {
+            "champName": "Twisted Fate", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Twitch", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ezreal", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nocturne", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Zed", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Rengar", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon", 
             "certainty": 0
         }
     ]

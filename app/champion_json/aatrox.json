@@ -2,127 +2,127 @@
     "ChampionName": "aatrox", 
     "WeakAgainst": [
         {
-            "champName": "Jax ", 
+            "champName": "Jax", 
             "certainty": 0
         }, 
         {
-            "champName": "Fiora ", 
+            "champName": "Fiora", 
             "certainty": 0
         }, 
         {
-            "champName": "LeBlanc ", 
+            "champName": "LeBlanc", 
             "certainty": 0
         }, 
         {
-            "champName": "Riven ", 
+            "champName": "Riven", 
             "certainty": 0
         }, 
         {
-            "champName": "Teemo ", 
+            "champName": "Teemo", 
             "certainty": 0
         }, 
         {
-            "champName": "Pantheon ", 
+            "champName": "Pantheon", 
             "certainty": 0
         }, 
         {
-            "champName": "Fizz ", 
+            "champName": "Yasuo", 
             "certainty": 0
         }, 
         {
-            "champName": "Yasuo ", 
+            "champName": "Fizz", 
             "certainty": 0
         }, 
         {
-            "champName": "Pantheon ", 
+            "champName": "Pantheon", 
             "certainty": 0
         }, 
         {
-            "champName": "Renekton ", 
+            "champName": "Renekton", 
             "certainty": 0
         }
     ], 
     "StrongAgainst": [
         {
-            "champName": "Yasuo ", 
+            "champName": "Yasuo", 
             "certainty": 0
         }, 
         {
-            "champName": "Dr. Mundo ", 
+            "champName": "Dr. Mundo", 
             "certainty": 0
         }, 
         {
-            "champName": "Jinx ", 
+            "champName": "Jinx", 
             "certainty": 0
         }, 
         {
-            "champName": "Darius ", 
+            "champName": "Darius", 
             "certainty": 0
         }, 
         {
-            "champName": "Katarina ", 
+            "champName": "Katarina", 
             "certainty": 0
         }, 
         {
-            "champName": "Nasus ", 
+            "champName": "Nasus", 
             "certainty": 0
         }, 
         {
-            "champName": "Ryze ", 
+            "champName": "Kassadin", 
             "certainty": 0
         }, 
         {
-            "champName": "Kassadin ", 
+            "champName": "Akali", 
             "certainty": 0
         }, 
         {
-            "champName": "Akali ", 
+            "champName": "Ryze", 
             "certainty": 0
         }, 
         {
-            "champName": "Nasus ", 
+            "champName": "Nasus", 
             "certainty": 0
         }
     ], 
     "GoodWith": [
         {
-            "champName": "Yasuo ", 
+            "champName": "Yasuo", 
             "certainty": 0
         }, 
         {
-            "champName": "Caitlyn ", 
+            "champName": "Caitlyn", 
             "certainty": 0
         }, 
         {
-            "champName": "Darius ", 
+            "champName": "Darius", 
             "certainty": 0
         }, 
         {
-            "champName": "Jinx ", 
+            "champName": "Jinx", 
             "certainty": 0
         }, 
         {
-            "champName": "Akali ", 
+            "champName": "Akali", 
             "certainty": 0
         }, 
         {
-            "champName": "Ezreal ", 
+            "champName": "Ezreal", 
             "certainty": 0
         }, 
         {
-            "champName": "Teemo ", 
+            "champName": "Teemo", 
             "certainty": 0
         }, 
         {
-            "champName": "Corki ", 
+            "champName": "Corki", 
             "certainty": 0
         }, 
         {
-            "champName": "Varus ", 
+            "champName": "Varus", 
             "certainty": 0
         }, 
         {
-            "champName": "Thresh ", 
+            "champName": "Thresh", 
             "certainty": 0
         }
     ]

@@ -4,8 +4,6 @@
 			<input type="text" class="input-large search-query" id="championSearchBox" data-ng-model="championNameQuery" placeholder="Search for a Champion"/>
 			<button class="btn btn-success" ng-click="ajaxGetChampInfo(championNameQuery)" >Search</button>
 			
-			{{selectedChamp}}
-			
 			<div>
 				<table ng-table class="table" ng-show="selectedChamp">
 					<th>{{selectedChamp.ChampionName}} is Weak Against:</th>

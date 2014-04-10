@@ -1,39 +1,129 @@
 {
-    "Good With": [
-        "Lux ", 
-        "Aatrox ", 
-        "Katarina ", 
-        "Darius ", 
-        "Ashe ", 
-        "Amumu ", 
-        "Xin Zhao ", 
-        "Jarvan IV ", 
-        "Alistar ", 
-        "Akali "
+    "ChampionName": "garen", 
+    "WeakAgainst": [
+        {
+            "champName": "Teemo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Elise", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yorick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jayce", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Shyvana", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kayle", 
+            "certainty": 0
+        }
     ], 
-    "Weak Against": [
-        "Teemo ", 
-        "Pantheon ", 
-        "Elise ", 
-        "Yorick ", 
-        "Jayce ", 
-        "Aatrox ", 
-        "Shyvana ", 
-        "Darius ", 
-        "Aatrox ", 
-        "Kayle "
+    "StrongAgainst": [
+        {
+            "champName": "Riven", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Wukong", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }
     ], 
-    "Strong Against": [
-        "Riven ", 
-        "Akali ", 
-        "Yasuo ", 
-        "Wukong ", 
-        "Jax ", 
-        "Nasus ", 
-        "Yasuo ", 
-        "Aatrox ", 
-        "Renekton ", 
-        "Aatrox "
-    ], 
-    "Champion Name": "garen"
+    "GoodWith": [
+        {
+            "champName": "Lux", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ashe", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Amumu", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Alistar", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }
+    ]
 }

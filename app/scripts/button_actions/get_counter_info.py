@@ -1,13 +1,29 @@
-import urllib2
+from urllib2 import Request, urlopen, URLError, HTTPError
 import sys
 import json
 
-#ask user for champion name
-#champion = raw_input("Please type the name of the champion you wish to counter:");
+workingdir = '/var/www/PlatTheLeague/app/champion_json/'
 
 champion = sys.argv[1]
 #send request to lolcounter
-response = urllib2.urlopen('http://www.lolcounter.com/champ/'+champion.replace(" ", ""))
+
+req = Request('http://www.lolcounter.com/champ/'+champion)
+try:
+    response = urlopen(req)
+except HTTPError as e:
+	f = open(workingdir+"error.json", 'w')
+	f.write('{"ServerError":"The server couldn\'t fulfill the request.  Error code '+str(e.code)+'"}')
+	f.close();
+	sys.exit(1)
+except URLError as e:
+	f = open(workingdir+"error.json", 'w')
+	f.write('{"ServerError":"We failed to reach a server.  Reason: '+str(e.reason)+'"}')
+	f.close();
+	sys.exit(1)
+    #print 'We failed to reach a server.'
+    #print 'Reason: ', e.reason
+
+#response = urllib2.urlopen('http://www.lolcounter.com/champ/'+champion)
 html = response.read()
 #print html
 
@@ -77,6 +93,7 @@ while(goodDuoHTML.find('<h4>') != -1):
 	goodDuoHTML = goodDuoHTML[champStopIndex+5:]
 	
 	
-with open('/var/www/PlatTheLeague/app/champion_json/'+champion+'.json', 'w') as file:
+with open(workingdir+champion+'.json', 'w') as file:
 	json.dump({"ChampionName":champion, "WeakAgainst":weakAgainst, "StrongAgainst":strongAgainst, "GoodWith":goodWith}, file, indent=4);
 #file.write('"]}')
+sys.exit(0)

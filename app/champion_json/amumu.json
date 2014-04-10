@@ -1,39 +1,129 @@
 {
     "ChampionName": "amumu", 
     "WeakAgainst": [
-        "Shyvana ", 
-        "Lee Sin ", 
-        "Dr. Mundo ", 
-        "Shaco ", 
-        "Xin Zhao ", 
-        "Olaf ", 
-        "Janna ", 
-        "Kha'Zix ", 
-        "Olaf ", 
-        "Gragas "
+        {
+            "champName": "Shyvana", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Shaco", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Olaf", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Janna", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Olaf", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Gragas", 
+            "certainty": 0
+        }
     ], 
     "StrongAgainst": [
-        "Blitzcrank ", 
-        "Katarina ", 
-        "Yasuo ", 
-        "Aatrox ", 
-        "Akali ", 
-        "Blitzcrank ", 
-        "Cho'Gath ", 
-        "Ahri ", 
-        "Yorick ", 
-        "Darius "
+        {
+            "champName": "Blitzcrank", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ahri", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yorick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }
     ], 
     "GoodWith": [
-        "Miss Fortune ", 
-        "Nunu ", 
-        "Katarina ", 
-        "Vel'Koz ", 
-        "Pantheon ", 
-        "Morgana ", 
-        "Leona ", 
-        "Caitlyn ", 
-        "Ezreal ", 
-        "Fiddlesticks "
+        {
+            "champName": "Miss Fortune", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nunu", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Morgana", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Leona", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ezreal", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "certainty": 0
+        }
     ]
 }

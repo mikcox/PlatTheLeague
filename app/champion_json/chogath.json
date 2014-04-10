@@ -1,39 +1,129 @@
 {
-    "Good With": [
-        "Yasuo ", 
-        "Lulu ", 
-        "Aatrox ", 
-        "Pantheon ", 
-        "Jax ", 
-        "Darius ", 
-        "Teemo ", 
-        "Evelynn ", 
-        "Alistar ", 
-        "Vayne "
+    "ChampionName": "chogath", 
+    "WeakAgainst": [
+        {
+            "champName": "Warwick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Vayne", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kog'Maw", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Kayle", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Fizz", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Garen", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "certainty": 0
+        }
     ], 
-    "Weak Against": [
-        "Warwick ", 
-        "Vayne ", 
-        "Kog'Maw ", 
-        "Kayle ", 
-        "Lee Sin ", 
-        "Aatrox ", 
-        "Fizz ", 
-        "Jax ", 
-        "Garen ", 
-        "Xin Zhao "
+    "StrongAgainst": [
+        {
+            "champName": "Yorick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Malphite", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Teemo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Diana", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }
     ], 
-    "Strong Against": [
-        "Yorick ", 
-        "Katarina ", 
-        "Malphite ", 
-        "Darius ", 
-        "Nasus ", 
-        "Renekton ", 
-        "Teemo ", 
-        "Diana ", 
-        "Jax ", 
-        "Yasuo "
-    ], 
-    "Champion Name": "chogath"
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Lulu", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Teemo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Evelynn", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Alistar", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Vayne", 
+            "certainty": 0
+        }
+    ]
 }

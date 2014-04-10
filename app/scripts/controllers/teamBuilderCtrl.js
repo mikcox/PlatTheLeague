@@ -32,6 +32,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			champion = champion.toLowerCase();
 			champion = champion.replace(" ", "");
 			champion = champion.replace("'", "");
+			champion = champion.replace(".", "");
 			
 			//submit the champion's name to our php script to go fetch the info (will be obsolete soon)
 			$.ajax({
@@ -41,10 +42,11 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			}).done(function(data) {
 				returnJSON(champion);
 			});
+			//returnJSON(champion);
 			
 		}
 		
-	//reads the contents of the champion's JSON file into $scope.results, does a bit of formatting, and generates a $scope.error if there is one.
+	//reads the contents of the champion's JSON file into $scope.selectedChamp, does a bit of formatting, and generates a $scope.error if there is one.
 	function returnJSON(champion) {
 		dataFactory.readJSON('champion_json/'+champion+'.json').success(function(data) {
 			$scope.selectedChamp = data;
@@ -91,7 +93,11 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			
 		}).error(function(data, status, headers, config) {
 	 		$scope.selectedChamp = "";
-	 		$scope.error = 'Problem reading file: ' + status;
+	 		dataFactory.readJSON('champion_json/error.json').success(function(data) {
+	 			$scope.error = 'Problem finding champion: check that your champion name is spelled correctly.  Error from server: "'+data["ServerError"]+'"';
+	 		}).error(function(data, status, headers, config) {
+	 			$scope.error = 'Failed to read error file. whoops!'
+	 		});
 	 	});
 		
 	};

@@ -1,16 +1,12 @@
 {
-    "ChampionName": "yasuo", 
+    "ChampionName": "kennen", 
     "WeakAgainst": [
         {
-            "champName": "Jax", 
+            "champName": "Janna", 
             "certainty": 0
         }, 
         {
-            "champName": "Fiora", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Kayle", 
+            "champName": "Yorick", 
             "certainty": 0
         }, 
         {
@@ -18,19 +14,7 @@
             "certainty": 0
         }, 
         {
-            "champName": "Darius", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Akali", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Xin Zhao", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Soraka", 
+            "champName": "Swain", 
             "certainty": 0
         }, 
         {
@@ -38,17 +22,15 @@
             "certainty": 0
         }, 
         {
-            "champName": "Kayle", 
-            "certainty": 0
-        }
-    ], 
-    "StrongAgainst": [
-        {
-            "champName": "Vel'Koz", 
+            "champName": "Pantheon", 
             "certainty": 0
         }, 
         {
-            "champName": "Nidalee", 
+            "champName": "LeBlanc", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Elise", 
             "certainty": 0
         }, 
         {
@@ -56,57 +38,63 @@
             "certainty": 0
         }, 
         {
-            "champName": "Gragas", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Caitlyn", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Ziggs", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Aatrox", 
-            "certainty": 0
-        }, 
-        {
             "champName": "Kassadin", 
             "certainty": 0
-        }, 
+        }
+    ], 
+    "StrongAgainst": [
         {
-            "champName": "Heimerdinger", 
+            "champName": "Riven", 
             "certainty": 0
         }, 
         {
-            "champName": "Gragas", 
+            "champName": "Olaf", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Singed", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Katarina", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jax", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Volibear", 
             "certainty": 0
         }
     ], 
     "GoodWith": [
         {
-            "champName": "Nami", 
+            "champName": "Jarvan IV", 
             "certainty": 0
         }, 
         {
-            "champName": "Alistar", 
+            "champName": "Amumu", 
             "certainty": 0
         }, 
         {
-            "champName": "Orianna", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Zyra", 
-            "certainty": 0
-        }, 
-        {
-            "champName": "Janna", 
+            "champName": "Katarina", 
             "certainty": 0
         }, 
         {
@@ -114,15 +102,27 @@
             "certainty": 0
         }, 
         {
-            "champName": "Aatrox", 
+            "champName": "Orianna", 
             "certainty": 0
         }, 
         {
-            "champName": "Wukong", 
+            "champName": "Vladimir", 
             "certainty": 0
         }, 
         {
-            "champName": "Jarvan IV", 
+            "champName": "Leona", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Galio", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Blitzcrank", 
             "certainty": 0
         }
     ]

@@ -1,39 +1,129 @@
 {
     "ChampionName": "teemo", 
     "WeakAgainst": [
-        "Yorick ", 
-        "Pantheon ", 
-        "Rumble ", 
-        "Jayce ", 
-        "Zed ", 
-        "LeBlanc ", 
-        "Aatrox ", 
-        "Renekton ", 
-        "Akali ", 
-        "Yasuo "
+        {
+            "champName": "Yorick", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Pantheon", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Rumble", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Jayce", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Zed", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Renekton", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }
     ], 
     "StrongAgainst": [
-        "Tryndamere ", 
-        "Singed ", 
-        "Nasus ", 
-        "Garen ", 
-        "Darius ", 
-        "Aatrox ", 
-        "Yasuo ", 
-        "Aatrox ", 
-        "Volibear ", 
-        "Master Yi "
+        {
+            "champName": "Tryndamere", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Singed", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Nasus", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Garen", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Yasuo", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Volibear", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Master Yi", 
+            "certainty": 0
+        }
     ], 
     "GoodWith": [
-        "Aatrox ", 
-        "Darius ", 
-        "Twitch ", 
-        "Cassiopeia ", 
-        "Lee Sin ", 
-        "Blitzcrank ", 
-        "Tristana ", 
-        "Akali ", 
-        "Ashe ", 
-        "Alistar "
+        {
+            "champName": "Aatrox", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Darius", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Twitch", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Cassiopeia", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Tristana", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Akali", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Ashe", 
+            "certainty": 0
+        }, 
+        {
+            "champName": "Thresh", 
+            "certainty": 0
+        }
     ]
 }
