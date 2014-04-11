@@ -1,129 +1,163 @@
 {
-    "ChampionName": "kassadin", 
+    "ChampionName": {
+        "lower": "kassadin", 
+        "pretty": "Kassadin"
+    }, 
     "WeakAgainst": [
         {
             "champName": "Talon", 
-            "certainty": 0
+            "downvotes": "2553", 
+            "upvotes": "11642"
         }, 
         {
             "champName": "Pantheon", 
-            "certainty": 0
+            "downvotes": "772", 
+            "upvotes": "2532"
         }, 
         {
             "champName": "Heimerdinger", 
-            "certainty": 0
+            "downvotes": "746", 
+            "upvotes": "1824"
         }, 
         {
             "champName": "Kha'Zix", 
-            "certainty": 0
+            "downvotes": "980", 
+            "upvotes": "2184"
         }, 
         {
             "champName": "Mordekaiser", 
-            "certainty": 0
+            "downvotes": "1260", 
+            "upvotes": "2769"
         }, 
         {
             "champName": "LeBlanc", 
-            "certainty": 0
+            "downvotes": "156", 
+            "upvotes": "417"
         }, 
         {
             "champName": "Kayle", 
-            "certainty": 0
+            "downvotes": "243", 
+            "upvotes": "580"
         }, 
         {
             "champName": "Gangplank", 
-            "certainty": 0
+            "downvotes": "560", 
+            "upvotes": "1204"
         }, 
         {
             "champName": "Sion", 
-            "certainty": 0
+            "downvotes": "640", 
+            "upvotes": "1358"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "187", 
+            "upvotes": "449"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "certainty": 0
+            "downvotes": "1055", 
+            "upvotes": "4587"
         }, 
         {
             "champName": "Lissandra", 
-            "certainty": 0
+            "downvotes": "887", 
+            "upvotes": "2898"
         }, 
         {
             "champName": "Brand", 
-            "certainty": 0
+            "downvotes": "1310", 
+            "upvotes": "3417"
         }, 
         {
             "champName": "Katarina", 
-            "certainty": 0
+            "downvotes": "1981", 
+            "upvotes": "4241"
         }, 
         {
             "champName": "Vel'Koz", 
-            "certainty": 0
+            "downvotes": "130", 
+            "upvotes": "356"
         }, 
         {
             "champName": "Elise", 
-            "certainty": 0
+            "downvotes": "926", 
+            "upvotes": "1964"
         }, 
         {
             "champName": "Lux", 
-            "certainty": 0
+            "downvotes": "1545", 
+            "upvotes": "3149"
         }, 
         {
             "champName": "Ahri", 
-            "certainty": 0
+            "downvotes": "1726", 
+            "upvotes": "3406"
         }, 
         {
             "champName": "Veigar", 
-            "certainty": 0
+            "downvotes": "655", 
+            "upvotes": "1329"
         }, 
         {
             "champName": "Twisted Fate", 
-            "certainty": 0
+            "downvotes": "527", 
+            "upvotes": "1072"
         }
     ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/kassadin.png", 
     "GoodWith": [
         {
             "champName": "Diana", 
-            "certainty": 0
+            "downvotes": "654", 
+            "upvotes": "1052"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "151", 
+            "upvotes": "260"
         }, 
         {
             "champName": "Lee Sin", 
-            "certainty": 0
+            "downvotes": "313", 
+            "upvotes": "441"
         }, 
         {
             "champName": "Ahri", 
-            "certainty": 0
+            "downvotes": "53", 
+            "upvotes": "91"
         }, 
         {
             "champName": "Akali", 
-            "certainty": 0
+            "downvotes": "40", 
+            "upvotes": "72"
         }, 
         {
             "champName": "Amumu", 
-            "certainty": 0
+            "downvotes": "149", 
+            "upvotes": "202"
         }, 
         {
             "champName": "Cho'Gath", 
-            "certainty": 0
+            "downvotes": "130", 
+            "upvotes": "173"
         }, 
         {
             "champName": "Kha'Zix", 
-            "certainty": 0
+            "downvotes": "322", 
+            "upvotes": "392"
         }, 
         {
             "champName": "Maokai", 
-            "certainty": 0
+            "downvotes": "214", 
+            "upvotes": "250"
         }, 
         {
             "champName": "Soraka", 
-            "certainty": 0
+            "downvotes": "8", 
+            "upvotes": "25"
         }
     ]
 }

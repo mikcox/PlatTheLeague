@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "draven", 
+        "pretty": "Draven"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Varus", 
+            "downvotes": "3078", 
+            "upvotes": "8795"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "517", 
+            "upvotes": "1353"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "602", 
+            "upvotes": "1431"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "3009", 
+            "upvotes": "4842"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "422", 
+            "upvotes": "723"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "131", 
+            "upvotes": "267"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "733", 
+            "upvotes": "1178"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "432", 
+            "upvotes": "685"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "365", 
+            "upvotes": "543"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "319", 
+            "upvotes": "477"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Ezreal", 
+            "downvotes": "2650", 
+            "upvotes": "9031"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "1815", 
+            "upvotes": "4811"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "904", 
+            "upvotes": "2040"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "930", 
+            "upvotes": "2033"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "1048", 
+            "upvotes": "2070"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "1444", 
+            "upvotes": "2763"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "806", 
+            "upvotes": "1565"
+        }, 
+        {
+            "champName": "Corki", 
+            "downvotes": "657", 
+            "upvotes": "1224"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "844", 
+            "upvotes": "1438"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "655", 
+            "upvotes": "1102"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/draven.png", 
+    "GoodWith": [
+        {
+            "champName": "Sona", 
+            "downvotes": "25", 
+            "upvotes": "400"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "34", 
+            "upvotes": "279"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "55", 
+            "upvotes": "343"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "132", 
+            "upvotes": "630"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "558", 
+            "upvotes": "2145"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "468", 
+            "upvotes": "1630"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "276", 
+            "upvotes": "897"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "35", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "14", 
+            "upvotes": "93"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "561", 
+            "upvotes": "1529"
+        }
+    ]
+}

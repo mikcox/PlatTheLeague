@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "warwick", 
+        "pretty": "Warwick"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Yorick", 
+            "downvotes": "574", 
+            "upvotes": "1196"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "330", 
+            "upvotes": "641"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "398", 
+            "upvotes": "647"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "596", 
+            "upvotes": "808"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "227", 
+            "upvotes": "333"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "93", 
+            "upvotes": "161"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "219", 
+            "upvotes": "308"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "422", 
+            "upvotes": "531"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "128", 
+            "upvotes": "193"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "302", 
+            "upvotes": "384"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "1073", 
+            "upvotes": "2852"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "781", 
+            "upvotes": "1940"
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "downvotes": "41", 
+            "upvotes": "131"
+        }, 
+        {
+            "champName": "Singed", 
+            "downvotes": "271", 
+            "upvotes": "462"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "72", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "375", 
+            "upvotes": "562"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "151", 
+            "upvotes": "250"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "162", 
+            "upvotes": "259"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "110", 
+            "upvotes": "189"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "345", 
+            "upvotes": "475"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/warwick.png", 
+    "GoodWith": [
+        {
+            "champName": "Malzahar", 
+            "downvotes": "342", 
+            "upvotes": "597"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "155", 
+            "upvotes": "263"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "20", 
+            "upvotes": "60"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "104", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "450", 
+            "upvotes": "625"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "343", 
+            "upvotes": "480"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "19", 
+            "upvotes": "44"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "11", 
+            "upvotes": "32"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "140", 
+            "upvotes": "163"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "58", 
+            "upvotes": "76"
+        }
+    ]
+}

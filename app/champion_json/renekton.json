@@ -1,129 +1,163 @@
 {
-    "ChampionName": "renekton", 
+    "ChampionName": {
+        "lower": "renekton", 
+        "pretty": "Renekton"
+    }, 
     "WeakAgainst": [
         {
             "champName": "Vayne", 
-            "certainty": 0
+            "downvotes": "764", 
+            "upvotes": "1924"
         }, 
         {
             "champName": "Ryze", 
-            "certainty": 0
+            "downvotes": "1332", 
+            "upvotes": "2921"
         }, 
         {
             "champName": "Elise", 
-            "certainty": 0
+            "downvotes": "1294", 
+            "upvotes": "2782"
         }, 
         {
             "champName": "Trundle", 
-            "certainty": 0
+            "downvotes": "609", 
+            "upvotes": "1175"
         }, 
         {
             "champName": "Garen", 
-            "certainty": 0
+            "downvotes": "5989", 
+            "upvotes": "10881"
         }, 
         {
             "champName": "Cho'Gath", 
-            "certainty": 0
+            "downvotes": "82", 
+            "upvotes": "216"
         }, 
         {
             "champName": "Olaf", 
-            "certainty": 0
+            "downvotes": "705", 
+            "upvotes": "1303"
         }, 
         {
             "champName": "Mordekaiser", 
-            "certainty": 0
+            "downvotes": "189", 
+            "upvotes": "399"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "132", 
+            "upvotes": "298"
         }, 
         {
-            "champName": "Volibear", 
-            "certainty": 0
+            "champName": "Shyvana", 
+            "downvotes": "1003", 
+            "upvotes": "1794"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "520", 
+            "upvotes": "1344"
         }, 
         {
             "champName": "Jax", 
-            "certainty": 0
+            "downvotes": "3154", 
+            "upvotes": "6966"
         }, 
         {
             "champName": "Akali", 
-            "certainty": 0
+            "downvotes": "1305", 
+            "upvotes": "2856"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "924", 
+            "upvotes": "1888"
         }, 
         {
             "champName": "Riven", 
-            "certainty": 0
+            "downvotes": "2581", 
+            "upvotes": "5126"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "144", 
+            "upvotes": "359"
         }, 
         {
             "champName": "Wukong", 
-            "certainty": 0
+            "downvotes": "857", 
+            "upvotes": "1671"
         }, 
         {
             "champName": "Tryndamere", 
-            "certainty": 0
+            "downvotes": "749", 
+            "upvotes": "1422"
         }, 
         {
             "champName": "Fiora", 
-            "certainty": 0
+            "downvotes": "545", 
+            "upvotes": "1039"
         }, 
         {
             "champName": "Teemo", 
-            "certainty": 0
+            "downvotes": "316", 
+            "upvotes": "631"
         }
     ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/renekton.png", 
     "GoodWith": [
         {
             "champName": "Nasus", 
-            "certainty": 0
+            "downvotes": "1081", 
+            "upvotes": "2353"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "156", 
+            "upvotes": "267"
         }, 
         {
             "champName": "Lulu", 
-            "certainty": 0
+            "downvotes": "267", 
+            "upvotes": "366"
         }, 
         {
             "champName": "Ahri", 
-            "certainty": 0
+            "downvotes": "329", 
+            "upvotes": "406"
         }, 
         {
             "champName": "Alistar", 
-            "certainty": 0
+            "downvotes": "11", 
+            "upvotes": "35"
         }, 
         {
             "champName": "Amumu", 
-            "certainty": 0
+            "downvotes": "227", 
+            "upvotes": "278"
         }, 
         {
             "champName": "Orianna", 
-            "certainty": 0
+            "downvotes": "144", 
+            "upvotes": "181"
         }, 
         {
             "champName": "Lee Sin", 
-            "certainty": 0
+            "downvotes": "111", 
+            "upvotes": "134"
         }, 
         {
             "champName": "Blitzcrank", 
-            "certainty": 0
+            "downvotes": "95", 
+            "upvotes": "113"
         }, 
         {
             "champName": "Pantheon", 
-            "certainty": 0
+            "downvotes": "59", 
+            "upvotes": "72"
         }
     ]
 }

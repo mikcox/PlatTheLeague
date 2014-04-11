@@ -1,129 +1,163 @@
 {
-    "ChampionName": "ziggs", 
+    "ChampionName": {
+        "lower": "ziggs", 
+        "pretty": "Ziggs"
+    }, 
     "WeakAgainst": [
         {
             "champName": "LeBlanc", 
-            "certainty": 0
+            "downvotes": "1726", 
+            "upvotes": "4575"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "669", 
+            "upvotes": "1525"
         }, 
         {
             "champName": "Talon", 
-            "certainty": 0
+            "downvotes": "493", 
+            "upvotes": "1105"
         }, 
         {
             "champName": "Syndra", 
-            "certainty": 0
+            "downvotes": "115", 
+            "upvotes": "248"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "92", 
+            "upvotes": "211"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "81", 
+            "upvotes": "191"
         }, 
         {
             "champName": "Akali", 
-            "certainty": 0
+            "downvotes": "516", 
+            "upvotes": "877"
         }, 
         {
             "champName": "Kassadin", 
-            "certainty": 0
+            "downvotes": "497", 
+            "upvotes": "840"
         }, 
         {
             "champName": "Zed", 
-            "certainty": 0
+            "downvotes": "382", 
+            "upvotes": "653"
         }, 
         {
             "champName": "Kha'Zix", 
-            "certainty": 0
+            "downvotes": "154", 
+            "upvotes": "296"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "certainty": 0
+            "downvotes": "717", 
+            "upvotes": "1577"
         }, 
         {
             "champName": "Heimerdinger", 
-            "certainty": 0
+            "downvotes": "670", 
+            "upvotes": "1464"
         }, 
         {
             "champName": "Karthus", 
-            "certainty": 0
+            "downvotes": "286", 
+            "upvotes": "671"
         }, 
         {
             "champName": "Vel'Koz", 
-            "certainty": 0
+            "downvotes": "98", 
+            "upvotes": "237"
         }, 
         {
             "champName": "Zed", 
-            "certainty": 0
+            "downvotes": "27", 
+            "upvotes": "112"
         }, 
         {
             "champName": "Twisted Fate", 
-            "certainty": 0
+            "downvotes": "58", 
+            "upvotes": "162"
         }, 
         {
             "champName": "Brand", 
-            "certainty": 0
+            "downvotes": "98", 
+            "upvotes": "228"
         }, 
         {
             "champName": "Lux", 
-            "certainty": 0
+            "downvotes": "643", 
+            "upvotes": "1102"
         }, 
         {
             "champName": "Ahri", 
-            "certainty": 0
+            "downvotes": "118", 
+            "upvotes": "253"
         }, 
         {
-            "champName": "Kassadin", 
-            "certainty": 0
+            "champName": "Nidalee", 
+            "downvotes": "47", 
+            "upvotes": "139"
         }
     ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/ziggs.png", 
     "GoodWith": [
         {
             "champName": "Amumu", 
-            "certainty": 0
+            "downvotes": "229", 
+            "upvotes": "530"
         }, 
         {
             "champName": "Jarvan IV", 
-            "certainty": 0
+            "downvotes": "179", 
+            "upvotes": "275"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "68", 
+            "upvotes": "113"
         }, 
         {
             "champName": "Leona", 
-            "certainty": 0
+            "downvotes": "61", 
+            "upvotes": "96"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "5", 
+            "upvotes": "29"
         }, 
         {
             "champName": "Sejuani", 
-            "certainty": 0
+            "downvotes": "112", 
+            "upvotes": "144"
         }, 
         {
             "champName": "Malphite", 
-            "certainty": 0
+            "downvotes": "224", 
+            "upvotes": "258"
         }, 
         {
             "champName": "Wukong", 
-            "certainty": 0
+            "downvotes": "12", 
+            "upvotes": "32"
         }, 
         {
             "champName": "Lux", 
-            "certainty": 0
+            "downvotes": "34", 
+            "upvotes": "53"
         }, 
         {
             "champName": "Rengar", 
-            "certainty": 0
+            "downvotes": "190", 
+            "upvotes": "197"
         }
     ]
 }

@@ -1,129 +1,163 @@
 {
-    "ChampionName": "morgana", 
+    "ChampionName": {
+        "lower": "morgana", 
+        "pretty": "Morgana"
+    }, 
     "WeakAgainst": [
         {
             "champName": "Talon", 
-            "certainty": 0
+            "downvotes": "839", 
+            "upvotes": "2518"
         }, 
         {
             "champName": "Mordekaiser", 
-            "certainty": 0
+            "downvotes": "742", 
+            "upvotes": "1454"
         }, 
         {
             "champName": "Vladimir", 
-            "certainty": 0
+            "downvotes": "814", 
+            "upvotes": "1490"
         }, 
         {
             "champName": "Aatrox", 
-            "certainty": 0
+            "downvotes": "30", 
+            "upvotes": "104"
         }, 
         {
             "champName": "Zed", 
-            "certainty": 0
+            "downvotes": "181", 
+            "upvotes": "328"
         }, 
         {
             "champName": "Fizz", 
-            "certainty": 0
+            "downvotes": "655", 
+            "upvotes": "1012"
         }, 
         {
             "champName": "Akali", 
-            "certainty": 0
+            "downvotes": "64", 
+            "upvotes": "151"
         }, 
         {
             "champName": "Gangplank", 
-            "certainty": 0
+            "downvotes": "369", 
+            "upvotes": "581"
         }, 
         {
             "champName": "Katarina", 
-            "certainty": 0
+            "downvotes": "1465", 
+            "upvotes": "2134"
         }, 
         {
             "champName": "Kha'Zix", 
-            "certainty": 0
+            "downvotes": "39", 
+            "upvotes": "99"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Leona", 
-            "certainty": 0
+            "downvotes": "575", 
+            "upvotes": "1900"
         }, 
         {
             "champName": "Thresh", 
-            "certainty": 0
+            "downvotes": "198", 
+            "upvotes": "599"
         }, 
         {
             "champName": "Blitzcrank", 
-            "certainty": 0
+            "downvotes": "295", 
+            "upvotes": "773"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "36", 
+            "upvotes": "150"
         }, 
         {
             "champName": "Heimerdinger", 
-            "certainty": 0
+            "downvotes": "41", 
+            "upvotes": "154"
         }, 
         {
             "champName": "Akali", 
-            "certainty": 0
+            "downvotes": "148", 
+            "upvotes": "348"
         }, 
         {
             "champName": "Sion", 
-            "certainty": 0
+            "downvotes": "448", 
+            "upvotes": "903"
         }, 
         {
             "champName": "Yasuo", 
-            "certainty": 0
+            "downvotes": "15", 
+            "upvotes": "101"
         }, 
         {
             "champName": "Ahri", 
-            "certainty": 0
+            "downvotes": "68", 
+            "upvotes": "194"
         }, 
         {
             "champName": "Fizz", 
-            "certainty": 0
+            "downvotes": "278", 
+            "upvotes": "549"
         }
     ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/morgana.png", 
     "GoodWith": [
         {
             "champName": "Jinx", 
-            "certainty": 0
+            "downvotes": "11", 
+            "upvotes": "131"
         }, 
         {
             "champName": "Sivir", 
-            "certainty": 0
+            "downvotes": "7", 
+            "upvotes": "104"
         }, 
         {
             "champName": "Caitlyn", 
-            "certainty": 0
+            "downvotes": "26", 
+            "upvotes": "132"
         }, 
         {
             "champName": "Ezreal", 
-            "certainty": 0
+            "downvotes": "11", 
+            "upvotes": "88"
         }, 
         {
             "champName": "Amumu", 
-            "certainty": 0
+            "downvotes": "296", 
+            "upvotes": "749"
         }, 
         {
             "champName": "Varus", 
-            "certainty": 0
+            "downvotes": "63", 
+            "upvotes": "193"
         }, 
         {
             "champName": "Lucian", 
-            "certainty": 0
+            "downvotes": "1", 
+            "upvotes": "48"
         }, 
         {
             "champName": "Vayne", 
-            "certainty": 0
+            "downvotes": "14", 
+            "upvotes": "74"
         }, 
         {
             "champName": "Lux", 
-            "certainty": 0
+            "downvotes": "42", 
+            "upvotes": "131"
         }, 
         {
             "champName": "Draven", 
-            "certainty": 0
+            "downvotes": "141", 
+            "upvotes": "329"
         }
     ]
 }

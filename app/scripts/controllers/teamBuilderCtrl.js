@@ -35,14 +35,14 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			champion = champion.replace(".", "");
 			
 			//submit the champion's name to our php script to go fetch the info (will be obsolete soon)
-			$.ajax({
+			/*$.ajax({
 				type: 'POST',
 				url: 'scripts/button_actions/get_champ_info.php',
 				data: { ChampionName: champion }
 			}).done(function(data) {
 				returnJSON(champion);
-			});
-			//returnJSON(champion);
+			});*/
+			returnJSON(champion);
 			
 		}
 		
@@ -50,6 +50,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	function returnJSON(champion) {
 		dataFactory.readJSON('champion_json/'+champion+'.json').success(function(data) {
 			$scope.selectedChamp = data;
+			$scope.unalteredData = data;
 			$scope.error = "";
 			
 			//filter duplicates from WeakAgainst list
@@ -58,7 +59,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			for(var i = 0; i < $scope.selectedChamp["WeakAgainst"].length; i++){
 				if($.inArray($scope.selectedChamp["WeakAgainst"][i]["champName"], uniqueNames) == -1 ){
 					uniqueWeakAgainst.push({"champName": $scope.selectedChamp["WeakAgainst"][i]["champName"],
-											"certainty": 0});
+											"upvotes": $scope.selectedChamp["WeakAgainst"][i]["upvotes"],
+											"downvotes": $scope.selectedChamp["WeakAgainst"][i]["downvotes"]});
 				}
 				uniqueNames.push($scope.selectedChamp["WeakAgainst"][i]["champName"]);
 			}
@@ -70,7 +72,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			for(var i = 0; i < $scope.selectedChamp["StrongAgainst"].length; i++){
 				if($.inArray($scope.selectedChamp["StrongAgainst"][i]["champName"], uniqueNames) == -1 ){
 					uniqueStrongAgainst.push({"champName": $scope.selectedChamp["StrongAgainst"][i]["champName"],
-											  "certainty": 0});
+												"upvotes": $scope.selectedChamp["StrongAgainst"][i]["upvotes"],
+												"downvotes": $scope.selectedChamp["StrongAgainst"][i]["downvotes"]});
 				}
 				uniqueNames.push($scope.selectedChamp["StrongAgainst"][i]["champName"]);
 			}
@@ -82,7 +85,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			for(var i = 0; i < $scope.selectedChamp["GoodWith"].length; i++){
 				if($.inArray($scope.selectedChamp["GoodWith"][i]["champName"], uniqueNames) == -1 ){
 					uniqueGoodWith.push({"champName": $scope.selectedChamp["GoodWith"][i]["champName"],
-										 "certainty": $scope.selectedChamp["GoodWith"][i]["certainty"]});
+										"upvotes": $scope.selectedChamp["GoodWith"][i]["upvotes"],
+										"downvotes": $scope.selectedChamp["GoodWith"][i]["downvotes"]});
 
 				}
 				uniqueNames.push($scope.selectedChamp["GoodWith"][i]["champName"]);
