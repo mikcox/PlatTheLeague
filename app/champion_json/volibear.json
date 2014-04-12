@@ -6,27 +6,27 @@
     "WeakAgainst": [
         {
             "champName": "Teemo", 
-            "downvotes": "1168", 
-            "upvotes": "2265"
+            "downvotes": "1172", 
+            "upvotes": "2274"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "328", 
-            "upvotes": "618"
+            "downvotes": "329", 
+            "upvotes": "621"
         }, 
         {
             "champName": "Jayce", 
             "downvotes": "375", 
-            "upvotes": "669"
+            "upvotes": "672"
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "399", 
-            "upvotes": "690"
+            "downvotes": "403", 
+            "upvotes": "691"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "199", 
+            "downvotes": "200", 
             "upvotes": "369"
         }, 
         {
@@ -36,65 +36,65 @@
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "193", 
-            "upvotes": "324"
-        }, 
-        {
-            "champName": "Renekton", 
-            "downvotes": "302", 
-            "upvotes": "466"
+            "downvotes": "195", 
+            "upvotes": "327"
         }, 
         {
             "champName": "Pantheon", 
             "downvotes": "106", 
-            "upvotes": "198"
+            "upvotes": "199"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "308", 
+            "upvotes": "471"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "188", 
-            "upvotes": "297"
+            "downvotes": "190", 
+            "upvotes": "301"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Nasus", 
-            "downvotes": "125", 
-            "upvotes": "309"
+            "downvotes": "129", 
+            "upvotes": "312"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "299", 
-            "upvotes": "583"
+            "downvotes": "301", 
+            "upvotes": "586"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "1087", 
-            "upvotes": "1935"
+            "downvotes": "1097", 
+            "upvotes": "1938"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "548", 
-            "upvotes": "993"
+            "downvotes": "551", 
+            "upvotes": "995"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "282", 
-            "upvotes": "541"
-        }, 
-        {
-            "champName": "Wukong", 
-            "downvotes": "96", 
-            "upvotes": "212"
+            "downvotes": "283", 
+            "upvotes": "542"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "509", 
-            "upvotes": "854"
+            "downvotes": "510", 
+            "upvotes": "857"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "98", 
+            "upvotes": "213"
         }, 
         {
             "champName": "Irelia", 
             "downvotes": "532", 
-            "upvotes": "848"
+            "upvotes": "850"
         }, 
         {
             "champName": "Tryndamere", 
@@ -116,8 +116,8 @@
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "24", 
-            "upvotes": "113"
+            "downvotes": "25", 
+            "upvotes": "112"
         }, 
         {
             "champName": "Caitlyn", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Varus", 
-            "downvotes": "20", 
-            "upvotes": "86"
+            "downvotes": "21", 
+            "upvotes": "85"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "182", 
-            "upvotes": "399"
+            "downvotes": "183", 
+            "upvotes": "400"
         }, 
         {
             "champName": "Darius", 
@@ -140,14 +140,14 @@
             "upvotes": "121"
         }, 
         {
+            "champName": "Aatrox", 
+            "downvotes": "12", 
+            "upvotes": "60"
+        }, 
+        {
             "champName": "Jinx", 
             "downvotes": "9", 
             "upvotes": "54"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "12", 
-            "upvotes": "59"
         }, 
         {
             "champName": "Jayce", 
@@ -157,7 +157,7 @@
         {
             "champName": "Miss Fortune", 
             "downvotes": "17", 
-            "upvotes": "64"
+            "upvotes": "65"
         }
     ]
 }

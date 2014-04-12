@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "ryze", 
+        "pretty": "Ryze"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Cassiopeia", 
+            "downvotes": "1378", 
+            "upvotes": "5905"
+        }, 
+        {
+            "champName": "Xerath", 
+            "downvotes": "626", 
+            "upvotes": "1854"
+        }, 
+        {
+            "champName": "Anivia", 
+            "downvotes": "841", 
+            "upvotes": "2075"
+        }, 
+        {
+            "champName": "Brand", 
+            "downvotes": "1041", 
+            "upvotes": "2261"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "723", 
+            "upvotes": "1585"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "171", 
+            "upvotes": "436"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "689", 
+            "upvotes": "1383"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "78", 
+            "upvotes": "220"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "1137", 
+            "upvotes": "2116"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "128", 
+            "upvotes": "289"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "101", 
+            "upvotes": "371"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "37", 
+            "upvotes": "182"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "7469", 
+            "upvotes": "16559"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "1345", 
+            "upvotes": "2960"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "1603", 
+            "upvotes": "3499"
+        }, 
+        {
+            "champName": "Evelynn", 
+            "downvotes": "571", 
+            "upvotes": "1249"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "36", 
+            "upvotes": "155"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "80", 
+            "upvotes": "237"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "1367", 
+            "upvotes": "2533"
+        }, 
+        {
+            "champName": "Singed", 
+            "downvotes": "169", 
+            "upvotes": "352"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/ryze.png", 
+    "GoodWith": [
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "20", 
+            "upvotes": "67"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "503", 
+            "upvotes": "791"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "21", 
+            "upvotes": "61"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "41", 
+            "upvotes": "81"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "179", 
+            "upvotes": "257"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "353", 
+            "upvotes": "478"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "476", 
+            "upvotes": "623"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "59", 
+            "upvotes": "97"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "433", 
+            "upvotes": "540"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "89", 
+            "upvotes": "110"
+        }
+    ]
+}

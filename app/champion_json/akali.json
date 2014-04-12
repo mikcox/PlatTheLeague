@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "akali", 
+        "pretty": "Akali"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "2968", 
+            "upvotes": "18555"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1514", 
+            "upvotes": "3903"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "1061", 
+            "upvotes": "2690"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "380", 
+            "upvotes": "891"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "1314", 
+            "upvotes": "2857"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "849", 
+            "upvotes": "1870"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "624", 
+            "upvotes": "1360"
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "downvotes": "374", 
+            "upvotes": "825"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "82", 
+            "upvotes": "242"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "592", 
+            "upvotes": "1232"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "121", 
+            "upvotes": "459"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "637", 
+            "upvotes": "1681"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "827", 
+            "upvotes": "2121"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "761", 
+            "upvotes": "1769"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "11", 
+            "upvotes": "108"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "171", 
+            "upvotes": "435"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "2511", 
+            "upvotes": "4886"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "162", 
+            "upvotes": "386"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "62", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "293", 
+            "upvotes": "624"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/akali.png", 
+    "GoodWith": [
+        {
+            "champName": "Aatrox", 
+            "downvotes": "26", 
+            "upvotes": "124"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "799", 
+            "upvotes": "1545"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "391", 
+            "upvotes": "693"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "13", 
+            "upvotes": "55"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "15", 
+            "upvotes": "57"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "36", 
+            "upvotes": "90"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "626", 
+            "upvotes": "1009"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "0", 
+            "upvotes": "31"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "577", 
+            "upvotes": "919"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "184", 
+            "upvotes": "297"
+        }
+    ]
+}

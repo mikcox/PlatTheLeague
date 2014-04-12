@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "poppy", 
+        "pretty": "Poppy"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Olaf", 
+            "downvotes": "539", 
+            "upvotes": "1534"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "642", 
+            "upvotes": "1251"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "314", 
+            "upvotes": "623"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "97", 
+            "upvotes": "163"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "307", 
+            "upvotes": "412"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "126", 
+            "upvotes": "187"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "207", 
+            "upvotes": "262"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "68", 
+            "upvotes": "114"
+        }, 
+        {
+            "champName": "Rumble", 
+            "downvotes": "137", 
+            "upvotes": "186"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "108", 
+            "upvotes": "147"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Gangplank", 
+            "downvotes": "399", 
+            "upvotes": "667"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "121", 
+            "upvotes": "226"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "342", 
+            "upvotes": "534"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "260", 
+            "upvotes": "389"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "146", 
+            "upvotes": "222"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "127", 
+            "upvotes": "197"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "191", 
+            "upvotes": "260"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "233", 
+            "upvotes": "293"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "130", 
+            "upvotes": "172"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "97", 
+            "upvotes": "135"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/poppy.png", 
+    "GoodWith": [
+        {
+            "champName": "Vayne", 
+            "downvotes": "154", 
+            "upvotes": "266"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "283", 
+            "upvotes": "316"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "148", 
+            "upvotes": "167"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "68", 
+            "upvotes": "84"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "74", 
+            "upvotes": "86"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "57", 
+            "upvotes": "67"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "75", 
+            "upvotes": "81"
+        }, 
+        {
+            "champName": "Nocturne", 
+            "downvotes": "74", 
+            "upvotes": "79"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "95", 
+            "upvotes": "94"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "91", 
+            "upvotes": "90"
+        }
+    ]
+}

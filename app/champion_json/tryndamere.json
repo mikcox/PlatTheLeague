@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "tryndamere", 
+        "pretty": "Tryndamere"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Teemo", 
+            "downvotes": "2337", 
+            "upvotes": "8677"
+        }, 
+        {
+            "champName": "Rammus", 
+            "downvotes": "487", 
+            "upvotes": "1450"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "1699", 
+            "upvotes": "3662"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "547", 
+            "upvotes": "1072"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "753", 
+            "upvotes": "1430"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "1133", 
+            "upvotes": "2096"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "96", 
+            "upvotes": "240"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "81", 
+            "upvotes": "213"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "150", 
+            "upvotes": "324"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "396", 
+            "upvotes": "740"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "336", 
+            "upvotes": "884"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "834", 
+            "upvotes": "1589"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "397", 
+            "upvotes": "763"
+        }, 
+        {
+            "champName": "Master Yi", 
+            "downvotes": "294", 
+            "upvotes": "458"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "574", 
+            "upvotes": "828"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "1200", 
+            "upvotes": "1653"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "190", 
+            "upvotes": "305"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "618", 
+            "upvotes": "851"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "73", 
+            "upvotes": "144"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "69", 
+            "upvotes": "138"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/tryndamere.png", 
+    "GoodWith": [
+        {
+            "champName": "Ashe", 
+            "downvotes": "192", 
+            "upvotes": "336"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "458", 
+            "upvotes": "723"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "320", 
+            "upvotes": "495"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "333", 
+            "upvotes": "493"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "63", 
+            "upvotes": "109"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "37", 
+            "upvotes": "72"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "7", 
+            "upvotes": "33"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "195", 
+            "upvotes": "244"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "164", 
+            "upvotes": "205"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "25", 
+            "upvotes": "50"
+        }
+    ]
+}

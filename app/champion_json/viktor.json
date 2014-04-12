@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "viktor", 
+        "pretty": "Viktor"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Syndra", 
+            "downvotes": "252", 
+            "upvotes": "447"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "406", 
+            "upvotes": "625"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "448", 
+            "upvotes": "661"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "644", 
+            "upvotes": "782"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "206", 
+            "upvotes": "268"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "144", 
+            "upvotes": "200"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "303", 
+            "upvotes": "371"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "92", 
+            "upvotes": "139"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "156", 
+            "upvotes": "206"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "237", 
+            "upvotes": "284"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Swain", 
+            "downvotes": "838", 
+            "upvotes": "2263"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "318", 
+            "upvotes": "780"
+        }, 
+        {
+            "champName": "Rumble", 
+            "downvotes": "190", 
+            "upvotes": "422"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "264", 
+            "upvotes": "512"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "5", 
+            "upvotes": "69"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "185", 
+            "upvotes": "344"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "209", 
+            "upvotes": "368"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "248", 
+            "upvotes": "373"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "183", 
+            "upvotes": "284"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "95", 
+            "upvotes": "167"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/viktor.png", 
+    "GoodWith": [
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "189", 
+            "upvotes": "367"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "156", 
+            "upvotes": "220"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "76", 
+            "upvotes": "108"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "59", 
+            "upvotes": "76"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "90", 
+            "upvotes": "104"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "85", 
+            "upvotes": "98"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "61", 
+            "upvotes": "75"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "129", 
+            "upvotes": "134"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "103", 
+            "upvotes": "110"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "64", 
+            "upvotes": "72"
+        }
+    ]
+}

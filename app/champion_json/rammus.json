@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "rammus", 
+        "pretty": "Rammus"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Trundle", 
+            "downvotes": "377", 
+            "upvotes": "756"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "154", 
+            "upvotes": "232"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "150", 
+            "upvotes": "218"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "234", 
+            "upvotes": "312"
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "downvotes": "287", 
+            "upvotes": "346"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "105", 
+            "upvotes": "135"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "64", 
+            "upvotes": "87"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "125", 
+            "upvotes": "138"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "118", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "72", 
+            "upvotes": "90"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "487", 
+            "upvotes": "1450"
+        }, 
+        {
+            "champName": "Master Yi", 
+            "downvotes": "479", 
+            "upvotes": "951"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "48", 
+            "upvotes": "138"
+        }, 
+        {
+            "champName": "Fiora", 
+            "downvotes": "126", 
+            "upvotes": "214"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "98", 
+            "upvotes": "170"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "103", 
+            "upvotes": "154"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "230", 
+            "upvotes": "267"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "153", 
+            "upvotes": "161"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "62", 
+            "upvotes": "80"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "86", 
+            "upvotes": "97"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/rammus.png", 
+    "GoodWith": [
+        {
+            "champName": "Ashe", 
+            "downvotes": "141", 
+            "upvotes": "213"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "147", 
+            "upvotes": "213"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "4", 
+            "upvotes": "30"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "78", 
+            "upvotes": "113"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "45", 
+            "upvotes": "72"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "98", 
+            "upvotes": "130"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "35", 
+            "upvotes": "59"
+        }, 
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "298", 
+            "upvotes": "330"
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "downvotes": "94", 
+            "upvotes": "118"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "30", 
+            "upvotes": "49"
+        }
+    ]
+}

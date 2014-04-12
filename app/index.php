@@ -22,7 +22,7 @@
         <div ng-view>
         </div>
         <footer style="margin: 3% 0% 0% 0%">
-            <p> <a href="mailto:mixter.c@gmail.com?subject=PlatTheLeague Team Builder Suggestion&body=I want to suggest a way to improve your team builder page!  Details:">Suggestions</a>
+            <p> <a href="mailto:suggestions@plattheleague.com?subject=PlatTheLeague Team Builder Suggestion&body=I want to suggest a way to improve your team builder page!  Details:">Suggestions</a>
             <h3 style="color:black">Powered By</h3>
             <a href="http://angularjs.org/"><img src="images/AngularJS-small.png"/></a>
         </footer>
@@ -34,6 +34,7 @@
         <script src="components/angular-dragdrop/src/angular-dragdrop.js"></script>
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/teamBuilderCtrl.js"></script>
+		<script src="scripts/controllers/modalInstanceCtrl.js"></script>
         <script src="scripts/services/factories.js"></script>
     </body>
 </html>

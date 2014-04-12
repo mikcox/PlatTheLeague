@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "rumble", 
+        "pretty": "Rumble"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Yorick", 
+            "downvotes": "810", 
+            "upvotes": "2122"
+        }, 
+        {
+            "champName": "Viktor", 
+            "downvotes": "190", 
+            "upvotes": "422"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "690", 
+            "upvotes": "1214"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "372", 
+            "upvotes": "655"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "32", 
+            "upvotes": "114"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "249", 
+            "upvotes": "427"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "523", 
+            "upvotes": "812"
+        }, 
+        {
+            "champName": "Volibear", 
+            "downvotes": "345", 
+            "upvotes": "471"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "483", 
+            "upvotes": "633"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "49", 
+            "upvotes": "107"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Malphite", 
+            "downvotes": "933", 
+            "upvotes": "2795"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "1033", 
+            "upvotes": "2737"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "1160", 
+            "upvotes": "2508"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "798", 
+            "upvotes": "1578"
+        }, 
+        {
+            "champName": "Singed", 
+            "downvotes": "401", 
+            "upvotes": "692"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "469", 
+            "upvotes": "778"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "62", 
+            "upvotes": "151"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "82", 
+            "upvotes": "174"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "98", 
+            "upvotes": "196"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "102", 
+            "upvotes": "201"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/rumble.png", 
+    "GoodWith": [
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "148", 
+            "upvotes": "283"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "234", 
+            "upvotes": "396"
+        }, 
+        {
+            "champName": "Sejuani", 
+            "downvotes": "273", 
+            "upvotes": "377"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "197", 
+            "upvotes": "258"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "76", 
+            "upvotes": "110"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "49", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "92", 
+            "upvotes": "120"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "45", 
+            "upvotes": "65"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "60", 
+            "upvotes": "80"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "124", 
+            "upvotes": "132"
+        }
+    ]
+}

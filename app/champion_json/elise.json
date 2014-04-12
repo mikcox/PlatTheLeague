@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "elise", 
+        "pretty": "Elise"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Kassadin", 
+            "downvotes": "929", 
+            "upvotes": "1965"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "621", 
+            "upvotes": "1225"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "461", 
+            "upvotes": "841"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "937", 
+            "upvotes": "1540"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "302", 
+            "upvotes": "464"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "356", 
+            "upvotes": "528"
+        }, 
+        {
+            "champName": "Gangplank", 
+            "downvotes": "168", 
+            "upvotes": "260"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "137", 
+            "upvotes": "213"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "100", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "110", 
+            "upvotes": "170"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Singed", 
+            "downvotes": "653", 
+            "upvotes": "1836"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "1297", 
+            "upvotes": "2798"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "596", 
+            "upvotes": "1316"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "824", 
+            "upvotes": "1682"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1389", 
+            "upvotes": "2763"
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "downvotes": "179", 
+            "upvotes": "415"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "571", 
+            "upvotes": "1147"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "231", 
+            "upvotes": "505"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "264", 
+            "upvotes": "533"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "292", 
+            "upvotes": "567"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/elise.png", 
+    "GoodWith": [
+        {
+            "champName": "Rengar", 
+            "downvotes": "461", 
+            "upvotes": "753"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "285", 
+            "upvotes": "400"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "322", 
+            "upvotes": "439"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "79", 
+            "upvotes": "112"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "441", 
+            "upvotes": "479"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "66", 
+            "upvotes": "89"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "107", 
+            "upvotes": "131"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "56", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "25", 
+            "upvotes": "45"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "32", 
+            "upvotes": "50"
+        }
+    ]
+}

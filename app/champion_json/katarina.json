@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "katarina", 
+        "pretty": "Katarina"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Diana", 
+            "downvotes": "2916", 
+            "upvotes": "12063"
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "downvotes": "913", 
+            "upvotes": "3355"
+        }, 
+        {
+            "champName": "Lissandra", 
+            "downvotes": "817", 
+            "upvotes": "2681"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "1511", 
+            "upvotes": "3831"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "611", 
+            "upvotes": "1596"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "445", 
+            "upvotes": "1138"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "321", 
+            "upvotes": "843"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "439", 
+            "upvotes": "1117"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "384", 
+            "upvotes": "981"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "623", 
+            "upvotes": "1479"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Karthus", 
+            "downvotes": "1174", 
+            "upvotes": "3649"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "324", 
+            "upvotes": "850"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "44", 
+            "upvotes": "180"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "538", 
+            "upvotes": "929"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "3489", 
+            "upvotes": "5405"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "72", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "1254", 
+            "upvotes": "1913"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "230", 
+            "upvotes": "396"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "88", 
+            "upvotes": "187"
+        }, 
+        {
+            "champName": "Zyra", 
+            "downvotes": "1077", 
+            "upvotes": "1629"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/katarina.png", 
+    "GoodWith": [
+        {
+            "champName": "Sona", 
+            "downvotes": "21", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "592", 
+            "upvotes": "2460"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "28", 
+            "upvotes": "146"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "25", 
+            "upvotes": "127"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "24", 
+            "upvotes": "99"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "27", 
+            "upvotes": "99"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "29", 
+            "upvotes": "101"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "466", 
+            "upvotes": "992"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "28", 
+            "upvotes": "96"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "205", 
+            "upvotes": "428"
+        }
+    ]
+}

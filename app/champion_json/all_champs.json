@@ -1,0 +1,830 @@
+{
+    "Champions": [
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/wukong.png", 
+            "ChampionName": {
+                "lower": "wukong", 
+                "pretty": "Wukong"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/jax.png", 
+            "ChampionName": {
+                "lower": "jax", 
+                "pretty": "Jax"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/shaco.png", 
+            "ChampionName": {
+                "lower": "shaco", 
+                "pretty": "Shaco"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/warwick.png", 
+            "ChampionName": {
+                "lower": "warwick", 
+                "pretty": "Warwick"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nidalee.png", 
+            "ChampionName": {
+                "lower": "nidalee", 
+                "pretty": "Nidalee"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/zyra.png", 
+            "ChampionName": {
+                "lower": "zyra", 
+                "pretty": "Zyra"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/brand.png", 
+            "ChampionName": {
+                "lower": "brand", 
+                "pretty": "Brand"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/rammus.png", 
+            "ChampionName": {
+                "lower": "rammus", 
+                "pretty": "Rammus"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/corki.png", 
+            "ChampionName": {
+                "lower": "corki", 
+                "pretty": "Corki"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/anivia.png", 
+            "ChampionName": {
+                "lower": "anivia", 
+                "pretty": "Anivia"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/tryndamere.png", 
+            "ChampionName": {
+                "lower": "tryndamere", 
+                "pretty": "Tryndamere"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/missfortune.png", 
+            "ChampionName": {
+                "lower": "missfortune", 
+                "pretty": "Miss Fortune"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/blitzcrank.png", 
+            "ChampionName": {
+                "lower": "blitzcrank", 
+                "pretty": "Blitzcrank"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/yorick.png", 
+            "ChampionName": {
+                "lower": "yorick", 
+                "pretty": "Yorick"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/xerath.png", 
+            "ChampionName": {
+                "lower": "xerath", 
+                "pretty": "Xerath"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/sivir.png", 
+            "ChampionName": {
+                "lower": "sivir", 
+                "pretty": "Sivir"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/riven.png", 
+            "ChampionName": {
+                "lower": "riven", 
+                "pretty": "Riven"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/orianna.png", 
+            "ChampionName": {
+                "lower": "orianna", 
+                "pretty": "Orianna"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/gangplank.png", 
+            "ChampionName": {
+                "lower": "gangplank", 
+                "pretty": "Gangplank"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/malphite.png", 
+            "ChampionName": {
+                "lower": "malphite", 
+                "pretty": "Malphite"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/poppy.png", 
+            "ChampionName": {
+                "lower": "poppy", 
+                "pretty": "Poppy"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/karthus.png", 
+            "ChampionName": {
+                "lower": "karthus", 
+                "pretty": "Karthus"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/jayce.png", 
+            "ChampionName": {
+                "lower": "jayce", 
+                "pretty": "Jayce"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nunu.png", 
+            "ChampionName": {
+                "lower": "nunu", 
+                "pretty": "Nunu"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/trundle.png", 
+            "ChampionName": {
+                "lower": "trundle", 
+                "pretty": "Trundle"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/sejuani.png", 
+            "ChampionName": {
+                "lower": "sejuani", 
+                "pretty": "Sejuani"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/graves.png", 
+            "ChampionName": {
+                "lower": "graves", 
+                "pretty": "Graves"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/morgana.png", 
+            "ChampionName": {
+                "lower": "morgana", 
+                "pretty": "Morgana"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nocturne.png", 
+            "ChampionName": {
+                "lower": "nocturne", 
+                "pretty": "Nocturne"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/lux.png", 
+            "ChampionName": {
+                "lower": "lux", 
+                "pretty": "Lux"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/shyvana.png", 
+            "ChampionName": {
+                "lower": "shyvana", 
+                "pretty": "Shyvana"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/renekton.png", 
+            "ChampionName": {
+                "lower": "renekton", 
+                "pretty": "Renekton"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/fiora.png", 
+            "ChampionName": {
+                "lower": "fiora", 
+                "pretty": "Fiora"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/jinx.png", 
+            "ChampionName": {
+                "lower": "jinx", 
+                "pretty": "Jinx"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/fizz.png", 
+            "ChampionName": {
+                "lower": "fizz", 
+                "pretty": "Fizz"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/kassadin.png", 
+            "ChampionName": {
+                "lower": "kassadin", 
+                "pretty": "Kassadin"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/sona.png", 
+            "ChampionName": {
+                "lower": "sona", 
+                "pretty": "Sona"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/irelia.png", 
+            "ChampionName": {
+                "lower": "irelia", 
+                "pretty": "Irelia"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/viktor.png", 
+            "ChampionName": {
+                "lower": "viktor", 
+                "pretty": "Viktor"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/cassiopeia.png", 
+            "ChampionName": {
+                "lower": "cassiopeia", 
+                "pretty": "Cassiopeia"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/maokai.png", 
+            "ChampionName": {
+                "lower": "maokai", 
+                "pretty": "Maokai"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/thresh.png", 
+            "ChampionName": {
+                "lower": "thresh", 
+                "pretty": "Thresh"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/kayle.png", 
+            "ChampionName": {
+                "lower": "kayle", 
+                "pretty": "Kayle"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/hecarim.png", 
+            "ChampionName": {
+                "lower": "hecarim", 
+                "pretty": "Hecarim"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/khazix.png", 
+            "ChampionName": {
+                "lower": "khazix", 
+                "pretty": "Kha'Zix"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/olaf.png", 
+            "ChampionName": {
+                "lower": "olaf", 
+                "pretty": "Olaf"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/ziggs.png", 
+            "ChampionName": {
+                "lower": "ziggs", 
+                "pretty": "Ziggs"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/syndra.png", 
+            "ChampionName": {
+                "lower": "syndra", 
+                "pretty": "Syndra"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/drmundo.png", 
+            "ChampionName": {
+                "lower": "drmundo", 
+                "pretty": "Dr. Mundo"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/karma.png", 
+            "ChampionName": {
+                "lower": "karma", 
+                "pretty": "Karma"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/annie.png", 
+            "ChampionName": {
+                "lower": "annie", 
+                "pretty": "Annie"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/akali.png", 
+            "ChampionName": {
+                "lower": "akali", 
+                "pretty": "Akali"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/leona.png", 
+            "ChampionName": {
+                "lower": "leona", 
+                "pretty": "Leona"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/yasuo.png", 
+            "ChampionName": {
+                "lower": "yasuo", 
+                "pretty": "Yasuo"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/kennen.png", 
+            "ChampionName": {
+                "lower": "kennen", 
+                "pretty": "Kennen"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/rengar.png", 
+            "ChampionName": {
+                "lower": "rengar", 
+                "pretty": "Rengar"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/ryze.png", 
+            "ChampionName": {
+                "lower": "ryze", 
+                "pretty": "Ryze"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/shen.png", 
+            "ChampionName": {
+                "lower": "shen", 
+                "pretty": "Shen"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/zac.png", 
+            "ChampionName": {
+                "lower": "zac", 
+                "pretty": "Zac"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/pantheon.png", 
+            "ChampionName": {
+                "lower": "pantheon", 
+                "pretty": "Pantheon"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/swain.png", 
+            "ChampionName": {
+                "lower": "swain", 
+                "pretty": "Swain"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/sion.png", 
+            "ChampionName": {
+                "lower": "sion", 
+                "pretty": "Sion"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/vayne.png", 
+            "ChampionName": {
+                "lower": "vayne", 
+                "pretty": "Vayne"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nasus.png", 
+            "ChampionName": {
+                "lower": "nasus", 
+                "pretty": "Nasus"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/twistedfate.png", 
+            "ChampionName": {
+                "lower": "twistedfate", 
+                "pretty": "Twisted Fate"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/chogath.png", 
+            "ChampionName": {
+                "lower": "chogath", 
+                "pretty": "Cho'Gath"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/udyr.png", 
+            "ChampionName": {
+                "lower": "udyr", 
+                "pretty": "Udyr"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/lucian.png", 
+            "ChampionName": {
+                "lower": "lucian", 
+                "pretty": "Lucian"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/volibear.png", 
+            "ChampionName": {
+                "lower": "volibear", 
+                "pretty": "Volibear"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/caitlyn.png", 
+            "ChampionName": {
+                "lower": "caitlyn", 
+                "pretty": "Caitlyn"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/darius.png", 
+            "ChampionName": {
+                "lower": "darius", 
+                "pretty": "Darius"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/zilean.png", 
+            "ChampionName": {
+                "lower": "zilean", 
+                "pretty": "Zilean"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/rumble.png", 
+            "ChampionName": {
+                "lower": "rumble", 
+                "pretty": "Rumble"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/skarner.png", 
+            "ChampionName": {
+                "lower": "skarner", 
+                "pretty": "Skarner"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/teemo.png", 
+            "ChampionName": {
+                "lower": "teemo", 
+                "pretty": "Teemo"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/urgot.png", 
+            "ChampionName": {
+                "lower": "urgot", 
+                "pretty": "Urgot"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/amumu.png", 
+            "ChampionName": {
+                "lower": "amumu", 
+                "pretty": "Amumu"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/galio.png", 
+            "ChampionName": {
+                "lower": "galio", 
+                "pretty": "Galio"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/heimerdinger.png", 
+            "ChampionName": {
+                "lower": "heimerdinger", 
+                "pretty": "Heimerdinger"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/ashe.png", 
+            "ChampionName": {
+                "lower": "ashe", 
+                "pretty": "Ashe"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/velkoz.png", 
+            "ChampionName": {
+                "lower": "velkoz", 
+                "pretty": "Vel'Koz"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/singed.png", 
+            "ChampionName": {
+                "lower": "singed", 
+                "pretty": "Singed"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/varus.png", 
+            "ChampionName": {
+                "lower": "varus", 
+                "pretty": "Varus"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/twitch.png", 
+            "ChampionName": {
+                "lower": "twitch", 
+                "pretty": "Twitch"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/garen.png", 
+            "ChampionName": {
+                "lower": "garen", 
+                "pretty": "Garen"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/diana.png", 
+            "ChampionName": {
+                "lower": "diana", 
+                "pretty": "Diana"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/masteryi.png", 
+            "ChampionName": {
+                "lower": "masteryi", 
+                "pretty": "Master Yi"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/elise.png", 
+            "ChampionName": {
+                "lower": "elise", 
+                "pretty": "Elise"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/alistar.png", 
+            "ChampionName": {
+                "lower": "alistar", 
+                "pretty": "Alistar"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/katarina.png", 
+            "ChampionName": {
+                "lower": "katarina", 
+                "pretty": "Katarina"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/mordekaiser.png", 
+            "ChampionName": {
+                "lower": "mordekaiser", 
+                "pretty": "Mordekaiser"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/kogmaw.png", 
+            "ChampionName": {
+                "lower": "kogmaw", 
+                "pretty": "Kog'Maw"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/aatrox.png", 
+            "ChampionName": {
+                "lower": "aatrox", 
+                "pretty": "Aatrox"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/draven.png", 
+            "ChampionName": {
+                "lower": "draven", 
+                "pretty": "Draven"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/fiddlesticks.png", 
+            "ChampionName": {
+                "lower": "fiddlesticks", 
+                "pretty": "Fiddlesticks"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/talon.png", 
+            "ChampionName": {
+                "lower": "talon", 
+                "pretty": "Talon"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/xinzhao.png", 
+            "ChampionName": {
+                "lower": "xinzhao", 
+                "pretty": "Xin Zhao"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/leesin.png", 
+            "ChampionName": {
+                "lower": "leesin", 
+                "pretty": "Lee Sin"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/taric.png", 
+            "ChampionName": {
+                "lower": "taric", 
+                "pretty": "Taric"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/malzahar.png", 
+            "ChampionName": {
+                "lower": "malzahar", 
+                "pretty": "Malzahar"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/lissandra.png", 
+            "ChampionName": {
+                "lower": "lissandra", 
+                "pretty": "Lissandra"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/tristana.png", 
+            "ChampionName": {
+                "lower": "tristana", 
+                "pretty": "Tristana"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/vladimir.png", 
+            "ChampionName": {
+                "lower": "vladimir", 
+                "pretty": "Vladimir"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/jarvaniv.png", 
+            "ChampionName": {
+                "lower": "jarvaniv", 
+                "pretty": "Jarvan IV"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nami.png", 
+            "ChampionName": {
+                "lower": "nami", 
+                "pretty": "Nami"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/soraka.png", 
+            "ChampionName": {
+                "lower": "soraka", 
+                "pretty": "Soraka"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/veigar.png", 
+            "ChampionName": {
+                "lower": "veigar", 
+                "pretty": "Veigar"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/janna.png", 
+            "ChampionName": {
+                "lower": "janna", 
+                "pretty": "Janna"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/nautilus.png", 
+            "ChampionName": {
+                "lower": "nautilus", 
+                "pretty": "Nautilus"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/evelynn.png", 
+            "ChampionName": {
+                "lower": "evelynn", 
+                "pretty": "Evelynn"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/gragas.png", 
+            "ChampionName": {
+                "lower": "gragas", 
+                "pretty": "Gragas"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/zed.png", 
+            "ChampionName": {
+                "lower": "zed", 
+                "pretty": "Zed"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/vi.png", 
+            "ChampionName": {
+                "lower": "vi", 
+                "pretty": "Vi"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/lulu.png", 
+            "ChampionName": {
+                "lower": "lulu", 
+                "pretty": "Lulu"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/ahri.png", 
+            "ChampionName": {
+                "lower": "ahri", 
+                "pretty": "Ahri"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/quinn.png", 
+            "ChampionName": {
+                "lower": "quinn", 
+                "pretty": "Quinn"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/leblanc.png", 
+            "ChampionName": {
+                "lower": "leblanc", 
+                "pretty": "LeBlanc"
+            }
+        }, 
+        {
+            "ChampionImageLocation": "http://www.solomid.net/guide/champ/ezreal.png", 
+            "ChampionName": {
+                "lower": "ezreal", 
+                "pretty": "Ezreal"
+            }
+        }
+    ]
+}

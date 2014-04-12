@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "maokai", 
+        "pretty": "Maokai"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Shyvana", 
+            "downvotes": "313", 
+            "upvotes": "706"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "185", 
+            "upvotes": "272"
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "downvotes": "265", 
+            "upvotes": "353"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "300", 
+            "upvotes": "372"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "168", 
+            "upvotes": "214"
+        }, 
+        {
+            "champName": "Shaco", 
+            "downvotes": "224", 
+            "upvotes": "253"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "118", 
+            "upvotes": "123"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "34", 
+            "upvotes": "57"
+        }, 
+        {
+            "champName": "Singed", 
+            "downvotes": "105", 
+            "upvotes": "111"
+        }, 
+        {
+            "champName": "Nocturne", 
+            "downvotes": "110", 
+            "upvotes": "107"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Karthus", 
+            "downvotes": "179", 
+            "upvotes": "242"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "118", 
+            "upvotes": "170"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "146", 
+            "upvotes": "184"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "176", 
+            "upvotes": "202"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "133", 
+            "upvotes": "147"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "125", 
+            "upvotes": "136"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "96", 
+            "upvotes": "112"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "138", 
+            "upvotes": "137"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "134", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "92", 
+            "upvotes": "98"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/maokai.png", 
+    "GoodWith": [
+        {
+            "champName": "Orianna", 
+            "downvotes": "156", 
+            "upvotes": "277"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "279", 
+            "upvotes": "463"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "503", 
+            "upvotes": "791"
+        }, 
+        {
+            "champName": "Zyra", 
+            "downvotes": "179", 
+            "upvotes": "236"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "190", 
+            "upvotes": "239"
+        }, 
+        {
+            "champName": "Rumble", 
+            "downvotes": "49", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Brand", 
+            "downvotes": "63", 
+            "upvotes": "92"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "157", 
+            "upvotes": "193"
+        }, 
+        {
+            "champName": "Anivia", 
+            "downvotes": "303", 
+            "upvotes": "352"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "40", 
+            "upvotes": "65"
+        }
+    ]
+}

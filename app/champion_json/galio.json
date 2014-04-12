@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "galio", 
+        "pretty": "Galio"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Udyr", 
+            "downvotes": "375", 
+            "upvotes": "747"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "395", 
+            "upvotes": "617"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "272", 
+            "upvotes": "437"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "380", 
+            "upvotes": "537"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "46", 
+            "upvotes": "101"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "98", 
+            "upvotes": "145"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "199", 
+            "upvotes": "231"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "122", 
+            "upvotes": "148"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "190", 
+            "upvotes": "201"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "136", 
+            "upvotes": "151"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Cassiopeia", 
+            "downvotes": "577", 
+            "upvotes": "2584"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "1077", 
+            "upvotes": "4640"
+        }, 
+        {
+            "champName": "Brand", 
+            "downvotes": "462", 
+            "upvotes": "1157"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "475", 
+            "upvotes": "1032"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "348", 
+            "upvotes": "666"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "429", 
+            "upvotes": "787"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "274", 
+            "upvotes": "491"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "65", 
+            "upvotes": "163"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "9", 
+            "upvotes": "70"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "314", 
+            "upvotes": "504"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/galio.png", 
+    "GoodWith": [
+        {
+            "champName": "Katarina", 
+            "downvotes": "466", 
+            "upvotes": "992"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "24", 
+            "upvotes": "81"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "17", 
+            "upvotes": "66"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "169", 
+            "upvotes": "333"
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "downvotes": "200", 
+            "upvotes": "386"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "161", 
+            "upvotes": "312"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "181", 
+            "upvotes": "312"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "25", 
+            "upvotes": "66"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "162", 
+            "upvotes": "262"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "107", 
+            "upvotes": "174"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "evelynn", 
+        "pretty": "Evelynn"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Ryze", 
+            "downvotes": "571", 
+            "upvotes": "1249"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "232", 
+            "upvotes": "431"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "274", 
+            "upvotes": "457"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "142", 
+            "upvotes": "262"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "384", 
+            "upvotes": "606"
+        }, 
+        {
+            "champName": "Cassiopeia", 
+            "downvotes": "247", 
+            "upvotes": "391"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "165", 
+            "upvotes": "258"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "146", 
+            "upvotes": "230"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "269", 
+            "upvotes": "382"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "160", 
+            "upvotes": "234"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Karthus", 
+            "downvotes": "222", 
+            "upvotes": "534"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "642", 
+            "upvotes": "1068"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "216", 
+            "upvotes": "286"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "270", 
+            "upvotes": "333"
+        }, 
+        {
+            "champName": "Nidalee", 
+            "downvotes": "97", 
+            "upvotes": "133"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "167", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "191", 
+            "upvotes": "208"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "59", 
+            "upvotes": "86"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "147", 
+            "upvotes": "161"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "365", 
+            "upvotes": "347"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/evelynn.png", 
+    "GoodWith": [
+        {
+            "champName": "Shen", 
+            "downvotes": "302", 
+            "upvotes": "438"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "168", 
+            "upvotes": "249"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "138", 
+            "upvotes": "183"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "122", 
+            "upvotes": "140"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "24", 
+            "upvotes": "43"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "112", 
+            "upvotes": "129"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "162", 
+            "upvotes": "176"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "95", 
+            "upvotes": "111"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "15", 
+            "upvotes": "33"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "143", 
+            "upvotes": "153"
+        }
+    ]
+}

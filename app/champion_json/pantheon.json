@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "pantheon", 
+        "pretty": "Pantheon"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Udyr", 
+            "downvotes": "598", 
+            "upvotes": "1368"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "596", 
+            "upvotes": "1316"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "1770", 
+            "upvotes": "3568"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "1865", 
+            "upvotes": "2704"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "25", 
+            "upvotes": "92"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "186", 
+            "upvotes": "317"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "732", 
+            "upvotes": "1079"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "416", 
+            "upvotes": "634"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "544", 
+            "upvotes": "811"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "398", 
+            "upvotes": "608"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Gangplank", 
+            "downvotes": "1226", 
+            "upvotes": "6475"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "775", 
+            "upvotes": "2538"
+        }, 
+        {
+            "champName": "Fiora", 
+            "downvotes": "834", 
+            "upvotes": "2296"
+        }, 
+        {
+            "champName": "Nidalee", 
+            "downvotes": "1161", 
+            "upvotes": "2906"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "382", 
+            "upvotes": "1001"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "898", 
+            "upvotes": "2201"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "2041", 
+            "upvotes": "4740"
+        }, 
+        {
+            "champName": "Master Yi", 
+            "downvotes": "283", 
+            "upvotes": "686"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "535", 
+            "upvotes": "1220"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "982", 
+            "upvotes": "2103"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/pantheon.png", 
+    "GoodWith": [
+        {
+            "champName": "Amumu", 
+            "downvotes": "20", 
+            "upvotes": "102"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "261", 
+            "upvotes": "600"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "219", 
+            "upvotes": "417"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "23", 
+            "upvotes": "73"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "120", 
+            "upvotes": "227"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "30", 
+            "upvotes": "78"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "4", 
+            "upvotes": "37"
+        }, 
+        {
+            "champName": "Sion", 
+            "downvotes": "145", 
+            "upvotes": "254"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "246", 
+            "upvotes": "383"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "304", 
+            "upvotes": "466"
+        }
+    ]
+}

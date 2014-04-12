@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "hecarim", 
+        "pretty": "Hecarim"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Nasus", 
+            "downvotes": "739", 
+            "upvotes": "1827"
+        }, 
+        {
+            "champName": "Sejuani", 
+            "downvotes": "345", 
+            "upvotes": "750"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "408", 
+            "upvotes": "798"
+        }, 
+        {
+            "champName": "Sejuani", 
+            "downvotes": "287", 
+            "upvotes": "457"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "239", 
+            "upvotes": "373"
+        }, 
+        {
+            "champName": "Sejuani", 
+            "downvotes": "196", 
+            "upvotes": "307"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "156", 
+            "upvotes": "251"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "52", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "143", 
+            "upvotes": "223"
+        }, 
+        {
+            "champName": "Warwick", 
+            "downvotes": "247", 
+            "upvotes": "332"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "300", 
+            "upvotes": "491"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "246", 
+            "upvotes": "311"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "108", 
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "239", 
+            "upvotes": "246"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "170", 
+            "upvotes": "168"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "133", 
+            "upvotes": "137"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "129", 
+            "upvotes": "133"
+        }, 
+        {
+            "champName": "Volibear", 
+            "downvotes": "111", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "156", 
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "110", 
+            "upvotes": "112"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/hecarim.png", 
+    "GoodWith": [
+        {
+            "champName": "Orianna", 
+            "downvotes": "247", 
+            "upvotes": "429"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "234", 
+            "upvotes": "351"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "210", 
+            "upvotes": "315"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "65", 
+            "upvotes": "114"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "18", 
+            "upvotes": "48"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "191", 
+            "upvotes": "230"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "47", 
+            "upvotes": "71"
+        }, 
+        {
+            "champName": "Gangplank", 
+            "downvotes": "414", 
+            "upvotes": "452"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "18", 
+            "upvotes": "39"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "52", 
+            "upvotes": "67"
+        }
+    ]
+}

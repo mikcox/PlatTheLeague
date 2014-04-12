@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "nocturne", 
+        "pretty": "Nocturne"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Olaf", 
+            "downvotes": "292", 
+            "upvotes": "515"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "221", 
+            "upvotes": "312"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "115", 
+            "upvotes": "166"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "208", 
+            "upvotes": "256"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "184", 
+            "upvotes": "223"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "230", 
+            "upvotes": "262"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "93", 
+            "upvotes": "117"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "155", 
+            "upvotes": "168"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "143", 
+            "upvotes": "148"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "82", 
+            "upvotes": "98"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "355", 
+            "upvotes": "778"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "206", 
+            "upvotes": "337"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "388", 
+            "upvotes": "555"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "179", 
+            "upvotes": "271"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "142", 
+            "upvotes": "208"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "134", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "131", 
+            "upvotes": "183"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "46", 
+            "upvotes": "87"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "174", 
+            "upvotes": "208"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "68", 
+            "upvotes": "103"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/nocturne.png", 
+    "GoodWith": [
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "396", 
+            "upvotes": "958"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "314", 
+            "upvotes": "537"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "170", 
+            "upvotes": "271"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "53", 
+            "upvotes": "97"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "16", 
+            "upvotes": "47"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "90", 
+            "upvotes": "141"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "160", 
+            "upvotes": "229"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "156", 
+            "upvotes": "172"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "99", 
+            "upvotes": "116"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "100", 
+            "upvotes": "105"
+        }
+    ]
+}

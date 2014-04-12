@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "diana", 
+        "pretty": "Diana"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "2451", 
+            "upvotes": "8557"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "645", 
+            "upvotes": "1503"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "1136", 
+            "upvotes": "2148"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "1037", 
+            "upvotes": "1892"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "124", 
+            "upvotes": "276"
+        }, 
+        {
+            "champName": "Cho'Gath", 
+            "downvotes": "511", 
+            "upvotes": "918"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "765", 
+            "upvotes": "1279"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "16", 
+            "upvotes": "85"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "209", 
+            "upvotes": "377"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "443", 
+            "upvotes": "722"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Katarina", 
+            "downvotes": "2916", 
+            "upvotes": "12063"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "128", 
+            "upvotes": "432"
+        }, 
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "729", 
+            "upvotes": "1843"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "316", 
+            "upvotes": "724"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "86", 
+            "upvotes": "256"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "309", 
+            "upvotes": "701"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "2174", 
+            "upvotes": "4439"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "36", 
+            "upvotes": "148"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "443", 
+            "upvotes": "926"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "1110", 
+            "upvotes": "2189"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/diana.png", 
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "5", 
+            "upvotes": "59"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "799", 
+            "upvotes": "1545"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "652", 
+            "upvotes": "1057"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "334", 
+            "upvotes": "525"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "31", 
+            "upvotes": "75"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "23", 
+            "upvotes": "59"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "7", 
+            "upvotes": "36"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "418", 
+            "upvotes": "579"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "118", 
+            "upvotes": "176"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "207", 
+            "upvotes": "282"
+        }
+    ]
+}

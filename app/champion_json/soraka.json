@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "soraka", 
+        "pretty": "Soraka"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "487", 
+            "upvotes": "1310"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "323", 
+            "upvotes": "625"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "387", 
+            "upvotes": "640"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "339", 
+            "upvotes": "480"
+        }, 
+        {
+            "champName": "Zac", 
+            "downvotes": "273", 
+            "upvotes": "395"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "158", 
+            "upvotes": "218"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "252", 
+            "upvotes": "318"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "246", 
+            "upvotes": "311"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "51", 
+            "upvotes": "91"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "118", 
+            "upvotes": "154"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Karthus", 
+            "downvotes": "438", 
+            "upvotes": "2455"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "887", 
+            "upvotes": "2306"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "95", 
+            "upvotes": "254"
+        }, 
+        {
+            "champName": "Urgot", 
+            "downvotes": "371", 
+            "upvotes": "727"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "499", 
+            "upvotes": "872"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "187", 
+            "upvotes": "354"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "2", 
+            "upvotes": "60"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "203", 
+            "upvotes": "316"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "79", 
+            "upvotes": "152"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "395", 
+            "upvotes": "550"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/soraka.png", 
+    "GoodWith": [
+        {
+            "champName": "Jinx", 
+            "downvotes": "20", 
+            "upvotes": "206"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "136", 
+            "upvotes": "648"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "87", 
+            "upvotes": "372"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "35", 
+            "upvotes": "180"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "35", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Urgot", 
+            "downvotes": "337", 
+            "upvotes": "1012"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "180", 
+            "upvotes": "554"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "322", 
+            "upvotes": "921"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "151", 
+            "upvotes": "429"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "1100", 
+            "upvotes": "2793"
+        }
+    ]
+}

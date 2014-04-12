@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "udyr", 
+        "pretty": "Udyr"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Ashe", 
+            "downvotes": "796", 
+            "upvotes": "1638"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "349", 
+            "upvotes": "611"
+        }, 
+        {
+            "champName": "Trundle", 
+            "downvotes": "444", 
+            "upvotes": "716"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "354", 
+            "upvotes": "500"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "274", 
+            "upvotes": "388"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "129", 
+            "upvotes": "178"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "205", 
+            "upvotes": "252"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "171", 
+            "upvotes": "214"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "85", 
+            "upvotes": "124"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "131", 
+            "upvotes": "169"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "816", 
+            "upvotes": "2322"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "690", 
+            "upvotes": "1884"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "679", 
+            "upvotes": "1787"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "598", 
+            "upvotes": "1368"
+        }, 
+        {
+            "champName": "Gangplank", 
+            "downvotes": "443", 
+            "upvotes": "990"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "375", 
+            "upvotes": "747"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "11", 
+            "upvotes": "91"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "29", 
+            "upvotes": "106"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "344", 
+            "upvotes": "589"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "17", 
+            "upvotes": "75"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/udyr.png", 
+    "GoodWith": [
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "376", 
+            "upvotes": "524"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "128", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "353", 
+            "upvotes": "478"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "88", 
+            "upvotes": "138"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "97", 
+            "upvotes": "137"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "91", 
+            "upvotes": "127"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "67", 
+            "upvotes": "99"
+        }, 
+        {
+            "champName": "Evelynn", 
+            "downvotes": "112", 
+            "upvotes": "129"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "83", 
+            "upvotes": "96"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "33", 
+            "upvotes": "49"
+        }
+    ]
+}

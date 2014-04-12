@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "zilean", 
+        "pretty": "Zilean"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Morgana", 
+            "downvotes": "373", 
+            "upvotes": "519"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "259", 
+            "upvotes": "339"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "157", 
+            "upvotes": "196"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "171", 
+            "upvotes": "180"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "158", 
+            "upvotes": "168"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "204", 
+            "upvotes": "205"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "120", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "132", 
+            "upvotes": "140"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "83", 
+            "upvotes": "100"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "127", 
+            "upvotes": "133"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Zac", 
+            "downvotes": "355", 
+            "upvotes": "1166"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "235", 
+            "upvotes": "441"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "90", 
+            "upvotes": "195"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "170", 
+            "upvotes": "278"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "219", 
+            "upvotes": "311"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "91", 
+            "upvotes": "138"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "249", 
+            "upvotes": "283"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "139", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "224", 
+            "upvotes": "252"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "116", 
+            "upvotes": "143"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/zilean.png", 
+    "GoodWith": [
+        {
+            "champName": "Aatrox", 
+            "downvotes": "300", 
+            "upvotes": "597"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "37", 
+            "upvotes": "100"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "32", 
+            "upvotes": "83"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "30", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "50", 
+            "upvotes": "102"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "320", 
+            "upvotes": "495"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "0", 
+            "upvotes": "29"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "234", 
+            "upvotes": "351"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "373", 
+            "upvotes": "533"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "471", 
+            "upvotes": "619"
+        }
+    ]
+}

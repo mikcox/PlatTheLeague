@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "twitch", 
+        "pretty": "Twitch"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "448", 
+            "upvotes": "1175"
+        }, 
+        {
+            "champName": "Corki", 
+            "downvotes": "480", 
+            "upvotes": "1000"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "603", 
+            "upvotes": "1201"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "1013", 
+            "upvotes": "1815"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "657", 
+            "upvotes": "1106"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "258", 
+            "upvotes": "429"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "378", 
+            "upvotes": "552"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "445", 
+            "upvotes": "620"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "473", 
+            "upvotes": "645"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "110", 
+            "upvotes": "183"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Ezreal", 
+            "downvotes": "830", 
+            "upvotes": "1784"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "371", 
+            "upvotes": "710"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "638", 
+            "upvotes": "1106"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "554", 
+            "upvotes": "922"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "580", 
+            "upvotes": "962"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "108", 
+            "upvotes": "208"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "299", 
+            "upvotes": "371"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "213", 
+            "upvotes": "270"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "175", 
+            "upvotes": "224"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "255", 
+            "upvotes": "302"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/twitch.png", 
+    "GoodWith": [
+        {
+            "champName": "Lulu", 
+            "downvotes": "25", 
+            "upvotes": "124"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "125", 
+            "upvotes": "366"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "45", 
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "33", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "362", 
+            "upvotes": "785"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "155", 
+            "upvotes": "335"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "109", 
+            "upvotes": "244"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "69", 
+            "upvotes": "168"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "77", 
+            "upvotes": "177"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "363", 
+            "upvotes": "698"
+        }
+    ]
+}

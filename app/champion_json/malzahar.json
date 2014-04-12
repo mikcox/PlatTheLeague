@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "malzahar", 
+        "pretty": "Malzahar"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Gangplank", 
+            "downvotes": "690", 
+            "upvotes": "1975"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "475", 
+            "upvotes": "1032"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "645", 
+            "upvotes": "1215"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "161", 
+            "upvotes": "291"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "267", 
+            "upvotes": "435"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "226", 
+            "upvotes": "376"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "334", 
+            "upvotes": "522"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "2352", 
+            "upvotes": "3229"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "41", 
+            "upvotes": "109"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "48", 
+            "upvotes": "117"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Katarina", 
+            "downvotes": "1511", 
+            "upvotes": "3831"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "115", 
+            "upvotes": "376"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "150", 
+            "upvotes": "460"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "651", 
+            "upvotes": "1545"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "65", 
+            "upvotes": "205"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "252", 
+            "upvotes": "550"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "571", 
+            "upvotes": "1118"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "709", 
+            "upvotes": "1369"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "578", 
+            "upvotes": "1109"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "120", 
+            "upvotes": "269"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/malzahar.png", 
+    "GoodWith": [
+        {
+            "champName": "Warwick", 
+            "downvotes": "343", 
+            "upvotes": "598"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "157", 
+            "upvotes": "227"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "153", 
+            "upvotes": "188"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "168", 
+            "upvotes": "201"
+        }, 
+        {
+            "champName": "Skarner", 
+            "downvotes": "168", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Nocturne", 
+            "downvotes": "99", 
+            "upvotes": "116"
+        }, 
+        {
+            "champName": "Anivia", 
+            "downvotes": "21", 
+            "upvotes": "36"
+        }, 
+        {
+            "champName": "Viktor", 
+            "downvotes": "64", 
+            "upvotes": "72"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "18", 
+            "upvotes": "32"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "92", 
+            "upvotes": "91"
+        }
+    ]
+}

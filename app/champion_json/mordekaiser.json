@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "mordekaiser", 
+        "pretty": "Mordekaiser"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Zyra", 
+            "downvotes": "573", 
+            "upvotes": "1305"
+        }, 
+        {
+            "champName": "Cassiopeia", 
+            "downvotes": "510", 
+            "upvotes": "1119"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "742", 
+            "upvotes": "1347"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1401", 
+            "upvotes": "2315"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "138", 
+            "upvotes": "274"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "179", 
+            "upvotes": "334"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "582", 
+            "upvotes": "933"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "436", 
+            "upvotes": "689"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "146", 
+            "upvotes": "267"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "39", 
+            "upvotes": "110"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Diana", 
+            "downvotes": "2451", 
+            "upvotes": "8557"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "1727", 
+            "upvotes": "4428"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "1061", 
+            "upvotes": "2690"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "239", 
+            "upvotes": "670"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "65", 
+            "upvotes": "246"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "1259", 
+            "upvotes": "2779"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "76", 
+            "upvotes": "224"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "744", 
+            "upvotes": "1458"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "130", 
+            "upvotes": "313"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "190", 
+            "upvotes": "405"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/mordekaiser.png", 
+    "GoodWith": [
+        {
+            "champName": "Yorick", 
+            "downvotes": "671", 
+            "upvotes": "1407"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "172", 
+            "upvotes": "277"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "411", 
+            "upvotes": "569"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "110", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "14", 
+            "upvotes": "40"
+        }, 
+        {
+            "champName": "Skarner", 
+            "downvotes": "304", 
+            "upvotes": "363"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "28", 
+            "upvotes": "52"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "134", 
+            "upvotes": "157"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "42", 
+            "upvotes": "57"
+        }, 
+        {
+            "champName": "Warwick", 
+            "downvotes": "70", 
+            "upvotes": "81"
+        }
+    ]
+}

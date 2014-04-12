@@ -6,153 +6,153 @@
     "WeakAgainst": [
         {
             "champName": "Mordekaiser", 
-            "downvotes": "1722", 
-            "upvotes": "4408"
+            "downvotes": "1727", 
+            "upvotes": "4428"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "7443", 
-            "upvotes": "16484"
+            "downvotes": "7469", 
+            "upvotes": "16559"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "811", 
-            "upvotes": "1851"
+            "downvotes": "815", 
+            "upvotes": "1863"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "314", 
-            "upvotes": "711"
+            "downvotes": "317", 
+            "upvotes": "720"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "2166", 
-            "upvotes": "4427"
+            "downvotes": "2174", 
+            "upvotes": "4439"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "974", 
-            "upvotes": "2024"
-        }, 
-        {
-            "champName": "Akali", 
-            "downvotes": "2499", 
-            "upvotes": "4851"
+            "downvotes": "978", 
+            "upvotes": "2041"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "149", 
-            "upvotes": "356"
+            "downvotes": "36", 
+            "upvotes": "146"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "2511", 
+            "upvotes": "4886"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "471", 
-            "upvotes": "962"
+            "downvotes": "472", 
+            "upvotes": "966"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "569", 
-            "upvotes": "1144"
+            "downvotes": "571", 
+            "upvotes": "1147"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Vel'Koz", 
-            "downvotes": "275", 
-            "upvotes": "1297"
+            "downvotes": "279", 
+            "upvotes": "1312"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "847", 
-            "upvotes": "3241"
+            "downvotes": "849", 
+            "upvotes": "3245"
         }, 
         {
             "champName": "Twisted Fate", 
-            "downvotes": "1222", 
-            "upvotes": "4173"
+            "downvotes": "1231", 
+            "upvotes": "4185"
         }, 
         {
             "champName": "Veigar", 
-            "downvotes": "1003", 
-            "upvotes": "2880"
+            "downvotes": "1011", 
+            "upvotes": "2896"
         }, 
         {
             "champName": "Anivia", 
-            "downvotes": "2239", 
-            "upvotes": "5338"
+            "downvotes": "2249", 
+            "upvotes": "5348"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "27", 
-            "upvotes": "153"
+            "upvotes": "156"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "1912", 
-            "upvotes": "4366"
+            "downvotes": "1921", 
+            "upvotes": "4378"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "102", 
-            "upvotes": "310"
-        }, 
-        {
-            "champName": "Syndra", 
-            "downvotes": "1388", 
-            "upvotes": "3043"
+            "downvotes": "103", 
+            "upvotes": "311"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "593", 
-            "upvotes": "1348"
+            "downvotes": "597", 
+            "upvotes": "1361"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "1393", 
+            "upvotes": "3053"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/fizz.png", 
     "GoodWith": [
         {
             "champName": "Leona", 
-            "downvotes": "23", 
-            "upvotes": "78"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "129", 
-            "upvotes": "252"
+            "downvotes": "22", 
+            "upvotes": "79"
         }, 
         {
             "champName": "Nami", 
-            "downvotes": "346", 
-            "upvotes": "613"
+            "downvotes": "350", 
+            "upvotes": "614"
         }, 
         {
-            "champName": "Yasuo", 
-            "downvotes": "3", 
-            "upvotes": "36"
+            "champName": "Aatrox", 
+            "downvotes": "133", 
+            "upvotes": "252"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "574", 
-            "upvotes": "885"
+            "downvotes": "575", 
+            "upvotes": "888"
         }, 
         {
-            "champName": "Jarvan IV", 
-            "downvotes": "265", 
-            "upvotes": "405"
+            "champName": "Yasuo", 
+            "downvotes": "4", 
+            "upvotes": "35"
         }, 
         {
             "champName": "Vi", 
-            "downvotes": "24", 
-            "upvotes": "61"
+            "downvotes": "23", 
+            "upvotes": "62"
         }, 
         {
-            "champName": "Lee Sin", 
-            "downvotes": "4", 
-            "upvotes": "32"
+            "champName": "Jarvan IV", 
+            "downvotes": "268", 
+            "upvotes": "406"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "260", 
+            "downvotes": "262", 
             "upvotes": "361"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "5", 
+            "upvotes": "31"
         }, 
         {
             "champName": "Ahri", 

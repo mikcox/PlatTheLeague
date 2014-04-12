@@ -6,123 +6,123 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "2623", 
-            "upvotes": "11044"
+            "downvotes": "2631", 
+            "upvotes": "11079"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "798", 
-            "upvotes": "1926"
+            "downvotes": "799", 
+            "upvotes": "1934"
         }, 
         {
             "champName": "LeBlanc", 
             "downvotes": "27", 
-            "upvotes": "149"
-        }, 
-        {
-            "champName": "Riven", 
-            "downvotes": "1266", 
-            "upvotes": "2705"
+            "upvotes": "151"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "1059", 
-            "upvotes": "2271"
+            "upvotes": "2276"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "1274", 
+            "upvotes": "2714"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "629", 
-            "upvotes": "1367"
+            "downvotes": "630", 
+            "upvotes": "1370"
         }, 
         {
-            "champName": "Yasuo", 
-            "downvotes": "67", 
-            "upvotes": "217"
-        }, 
-        {
-            "champName": "Fizz", 
-            "downvotes": "212", 
-            "upvotes": "506"
+            "champName": "Kayle", 
+            "downvotes": "7", 
+            "upvotes": "95"
         }, 
         {
             "champName": "Pantheon", 
             "downvotes": "16", 
-            "upvotes": "111"
+            "upvotes": "113"
         }, 
         {
-            "champName": "Renekton", 
-            "downvotes": "924", 
-            "upvotes": "1888"
+            "champName": "Fizz", 
+            "downvotes": "212", 
+            "upvotes": "508"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "69", 
+            "upvotes": "218"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
             "downvotes": "226", 
-            "upvotes": "652"
+            "upvotes": "661"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "89", 
-            "upvotes": "286"
+            "downvotes": "90", 
+            "upvotes": "288"
         }, 
         {
             "champName": "Jinx", 
-            "downvotes": "127", 
-            "upvotes": "347"
+            "downvotes": "128", 
+            "upvotes": "349"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "1591", 
-            "upvotes": "3228"
+            "downvotes": "1598", 
+            "upvotes": "3241"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "134", 
-            "upvotes": "334"
+            "downvotes": "133", 
+            "upvotes": "336"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "241", 
-            "upvotes": "539"
-        }, 
-        {
-            "champName": "Kassadin", 
-            "downvotes": "261", 
-            "upvotes": "549"
+            "downvotes": "243", 
+            "upvotes": "541"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "79", 
-            "upvotes": "217"
+            "downvotes": "78", 
+            "upvotes": "220"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "129", 
+            "upvotes": "308"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "220", 
-            "upvotes": "474"
+            "downvotes": "221", 
+            "upvotes": "475"
         }, 
         {
-            "champName": "Nidalee", 
-            "downvotes": "86", 
-            "upvotes": "229"
+            "champName": "Zed", 
+            "downvotes": "503", 
+            "upvotes": "988"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/aatrox.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "73", 
-            "upvotes": "440"
-        }, 
-        {
-            "champName": "Caitlyn", 
-            "downvotes": "25", 
-            "upvotes": "151"
+            "downvotes": "75", 
+            "upvotes": "447"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "20", 
-            "upvotes": "127"
+            "downvotes": "19", 
+            "upvotes": "129"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "27", 
+            "upvotes": "152"
         }, 
         {
             "champName": "Jinx", 
@@ -131,18 +131,13 @@
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "24", 
-            "upvotes": "125"
+            "downvotes": "26", 
+            "upvotes": "124"
         }, 
         {
             "champName": "Ezreal", 
             "downvotes": "43", 
-            "upvotes": "160"
-        }, 
-        {
-            "champName": "Teemo", 
-            "downvotes": "24", 
-            "upvotes": "107"
+            "upvotes": "161"
         }, 
         {
             "champName": "Varus", 
@@ -153,6 +148,11 @@
             "champName": "Thresh", 
             "downvotes": "16", 
             "upvotes": "86"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "25", 
+            "upvotes": "106"
         }, 
         {
             "champName": "Corki", 

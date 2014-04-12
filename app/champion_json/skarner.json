@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "skarner", 
+        "pretty": "Skarner"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Morgana", 
+            "downvotes": "298", 
+            "upvotes": "534"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "448", 
+            "upvotes": "502"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "198", 
+            "upvotes": "219"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "163", 
+            "upvotes": "184"
+        }, 
+        {
+            "champName": "Gangplank", 
+            "downvotes": "118", 
+            "upvotes": "140"
+        }, 
+        {
+            "champName": "Nautilus", 
+            "downvotes": "158", 
+            "upvotes": "168"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "162", 
+            "upvotes": "165"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "92", 
+            "upvotes": "100"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "95", 
+            "upvotes": "97"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "127", 
+            "upvotes": "115"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "239", 
+            "upvotes": "329"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "125", 
+            "upvotes": "183"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "91", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Warwick", 
+            "downvotes": "230", 
+            "upvotes": "268"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "159", 
+            "upvotes": "182"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "152", 
+            "upvotes": "156"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "69", 
+            "upvotes": "88"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "134", 
+            "upvotes": "137"
+        }, 
+        {
+            "champName": "Rammus", 
+            "downvotes": "112", 
+            "upvotes": "119"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "114", 
+            "upvotes": "115"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/skarner.png", 
+    "GoodWith": [
+        {
+            "champName": "Thresh", 
+            "downvotes": "121", 
+            "upvotes": "207"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "160", 
+            "upvotes": "228"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "163", 
+            "upvotes": "226"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "213", 
+            "upvotes": "265"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "304", 
+            "upvotes": "363"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "57", 
+            "upvotes": "83"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "24", 
+            "upvotes": "45"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "168", 
+            "upvotes": "192"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "348", 
+            "upvotes": "368"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "16", 
+            "upvotes": "35"
+        }
+    ]
+}

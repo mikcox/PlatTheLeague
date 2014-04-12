@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "missfortune", 
+        "pretty": "Miss Fortune"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Tristana", 
+            "downvotes": "1853", 
+            "upvotes": "5271"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "465", 
+            "upvotes": "1029"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "1448", 
+            "upvotes": "2771"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "77", 
+            "upvotes": "172"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "2013", 
+            "upvotes": "2996"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "85", 
+            "upvotes": "179"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "427", 
+            "upvotes": "657"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "855", 
+            "upvotes": "1254"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "251", 
+            "upvotes": "388"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "162", 
+            "upvotes": "263"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Soraka", 
+            "downvotes": "487", 
+            "upvotes": "1310"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "1724", 
+            "upvotes": "4118"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "73", 
+            "upvotes": "196"
+        }, 
+        {
+            "champName": "Dr. Mundo", 
+            "downvotes": "511", 
+            "upvotes": "930"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "1319", 
+            "upvotes": "2275"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "270", 
+            "upvotes": "475"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "1384", 
+            "upvotes": "2164"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "67", 
+            "upvotes": "155"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "624", 
+            "upvotes": "937"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "394", 
+            "upvotes": "604"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/missfortune.png", 
+    "GoodWith": [
+        {
+            "champName": "Amumu", 
+            "downvotes": "26", 
+            "upvotes": "334"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "29", 
+            "upvotes": "219"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "26", 
+            "upvotes": "194"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "103", 
+            "upvotes": "518"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "87", 
+            "upvotes": "372"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "351", 
+            "upvotes": "1224"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "375", 
+            "upvotes": "1181"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "136", 
+            "upvotes": "447"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "205", 
+            "upvotes": "639"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "696", 
+            "upvotes": "1897"
+        }
+    ]
+}

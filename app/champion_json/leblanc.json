@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "leblanc", 
+        "pretty": "LeBlanc"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Galio", 
+            "downvotes": "1077", 
+            "upvotes": "4640"
+        }, 
+        {
+            "champName": "Sion", 
+            "downvotes": "637", 
+            "upvotes": "1609"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "185", 
+            "upvotes": "415"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "80", 
+            "upvotes": "204"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "1281", 
+            "upvotes": "2217"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "107", 
+            "upvotes": "242"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "62", 
+            "upvotes": "167"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "176", 
+            "upvotes": "349"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "171", 
+            "upvotes": "332"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "300", 
+            "upvotes": "534"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "402", 
+            "upvotes": "1921"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "3501", 
+            "upvotes": "11034"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "508", 
+            "upvotes": "1636"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "1745", 
+            "upvotes": "4612"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "160", 
+            "upvotes": "465"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "27", 
+            "upvotes": "151"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "110", 
+            "upvotes": "333"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "1793", 
+            "upvotes": "3964"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "380", 
+            "upvotes": "891"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "907", 
+            "upvotes": "1997"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/leblanc.png", 
+    "GoodWith": [
+        {
+            "champName": "Akali", 
+            "downvotes": "391", 
+            "upvotes": "693"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "376", 
+            "upvotes": "524"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "174", 
+            "upvotes": "235"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "190", 
+            "upvotes": "239"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "104", 
+            "upvotes": "129"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "107", 
+            "upvotes": "131"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "16", 
+            "upvotes": "35"
+        }, 
+        {
+            "champName": "Rammus", 
+            "downvotes": "150", 
+            "upvotes": "161"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "17", 
+            "upvotes": "35"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "152", 
+            "upvotes": "159"
+        }
+    ]
+}

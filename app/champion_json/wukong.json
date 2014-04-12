@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "wukong", 
+        "pretty": "Wukong"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "1886", 
+            "upvotes": "5509"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "2038", 
+            "upvotes": "4917"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1294", 
+            "upvotes": "2601"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "951", 
+            "upvotes": "1879"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "95", 
+            "upvotes": "254"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "865", 
+            "upvotes": "1679"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "614", 
+            "upvotes": "1211"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "87", 
+            "upvotes": "227"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "92", 
+            "upvotes": "222"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "116", 
+            "upvotes": "252"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Zed", 
+            "downvotes": "1116", 
+            "upvotes": "2570"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "79", 
+            "upvotes": "202"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "38", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "79", 
+            "upvotes": "190"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "1032", 
+            "upvotes": "1699"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "937", 
+            "upvotes": "1540"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "1789", 
+            "upvotes": "2856"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "115", 
+            "upvotes": "241"
+        }, 
+        {
+            "champName": "Master Yi", 
+            "downvotes": "547", 
+            "upvotes": "889"
+        }, 
+        {
+            "champName": "Kha'Zix", 
+            "downvotes": "143", 
+            "upvotes": "273"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/wukong.png", 
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "141", 
+            "upvotes": "677"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "29", 
+            "upvotes": "111"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "20", 
+            "upvotes": "80"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "4", 
+            "upvotes": "48"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "177", 
+            "upvotes": "394"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "430", 
+            "upvotes": "867"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "205", 
+            "upvotes": "428"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "169", 
+            "upvotes": "333"
+        }, 
+        {
+            "champName": "Sejuani", 
+            "downvotes": "19", 
+            "upvotes": "63"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "229", 
+            "upvotes": "402"
+        }
+    ]
+}

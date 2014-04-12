@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "zyra", 
+        "pretty": "Zyra"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Fizz", 
+            "downvotes": "827", 
+            "upvotes": "1838"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "353", 
+            "upvotes": "628"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "1077", 
+            "upvotes": "1629"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "511", 
+            "upvotes": "792"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "215", 
+            "upvotes": "364"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "165", 
+            "upvotes": "291"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "138", 
+            "upvotes": "234"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "244", 
+            "upvotes": "371"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "370", 
+            "upvotes": "477"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "96", 
+            "upvotes": "157"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "573", 
+            "upvotes": "1305"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "385", 
+            "upvotes": "722"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "289", 
+            "upvotes": "534"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "236", 
+            "upvotes": "398"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "279", 
+            "upvotes": "433"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "113", 
+            "upvotes": "189"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "295", 
+            "upvotes": "409"
+        }, 
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "107", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "111", 
+            "upvotes": "165"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "37", 
+            "upvotes": "78"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/zyra.png", 
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "15", 
+            "upvotes": "201"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "17", 
+            "upvotes": "112"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "19", 
+            "upvotes": "110"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "50", 
+            "upvotes": "190"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "338", 
+            "upvotes": "959"
+        }, 
+        {
+            "champName": "Corki", 
+            "downvotes": "22", 
+            "upvotes": "108"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "98", 
+            "upvotes": "292"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "26", 
+            "upvotes": "103"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "294", 
+            "upvotes": "680"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "146", 
+            "upvotes": "358"
+        }
+    ]
+}

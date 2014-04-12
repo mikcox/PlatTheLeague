@@ -6,113 +6,113 @@
     "WeakAgainst": [
         {
             "champName": "Cho'Gath", 
-            "downvotes": "3085", 
-            "upvotes": "8127"
+            "downvotes": "3094", 
+            "upvotes": "8142"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "657", 
-            "upvotes": "1354"
+            "downvotes": "658", 
+            "upvotes": "1359"
         }, 
         {
             "champName": "Trundle", 
-            "downvotes": "1092", 
-            "upvotes": "1933"
+            "downvotes": "1095", 
+            "upvotes": "1939"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "1421", 
-            "upvotes": "2062"
+            "downvotes": "1425", 
+            "upvotes": "2067"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "275", 
-            "upvotes": "439"
+            "downvotes": "277", 
+            "upvotes": "443"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "660", 
+            "upvotes": "942"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "194", 
+            "downvotes": "197", 
             "upvotes": "318"
         }, 
         {
-            "champName": "Renekton", 
-            "downvotes": "653", 
-            "upvotes": "941"
-        }, 
-        {
             "champName": "Wukong", 
-            "downvotes": "145", 
-            "upvotes": "232"
-        }, 
-        {
-            "champName": "Renekton", 
-            "downvotes": "113", 
-            "upvotes": "191"
+            "downvotes": "147", 
+            "upvotes": "233"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "156", 
-            "upvotes": "244"
+            "downvotes": "157", 
+            "upvotes": "245"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "926", 
+            "upvotes": "1191"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Teemo", 
-            "downvotes": "1970", 
-            "upvotes": "8012"
+            "downvotes": "1974", 
+            "upvotes": "8037"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "1616", 
-            "upvotes": "5605"
+            "downvotes": "1625", 
+            "upvotes": "5620"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "1229", 
-            "upvotes": "4052"
+            "downvotes": "1230", 
+            "upvotes": "4062"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "1976", 
-            "upvotes": "5306"
+            "downvotes": "1983", 
+            "upvotes": "5314"
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "809", 
-            "upvotes": "2116"
+            "downvotes": "810", 
+            "upvotes": "2122"
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "480", 
-            "upvotes": "1194"
+            "downvotes": "482", 
+            "upvotes": "1195"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "527", 
-            "upvotes": "1265"
+            "downvotes": "529", 
+            "upvotes": "1272"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "515", 
+            "downvotes": "516", 
             "upvotes": "1197"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "675", 
-            "upvotes": "1521"
+            "downvotes": "679", 
+            "upvotes": "1524"
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "437", 
-            "upvotes": "934"
+            "downvotes": "438", 
+            "upvotes": "935"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/yorick.png", 
     "GoodWith": [
         {
             "champName": "Mordekaiser", 
-            "downvotes": "668", 
-            "upvotes": "1406"
+            "downvotes": "671", 
+            "upvotes": "1407"
         }, 
         {
             "champName": "Aatrox", 
@@ -122,32 +122,32 @@
         {
             "champName": "Vayne", 
             "downvotes": "333", 
-            "upvotes": "554"
+            "upvotes": "555"
         }, 
         {
             "champName": "Cassiopeia", 
             "downvotes": "329", 
-            "upvotes": "514"
+            "upvotes": "515"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "339", 
+            "downvotes": "341", 
             "upvotes": "472"
         }, 
         {
-            "champName": "Zilean", 
-            "downvotes": "352", 
-            "upvotes": "469"
+            "champName": "Ahri", 
+            "downvotes": "27", 
+            "upvotes": "61"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "28", 
-            "upvotes": "60"
+            "champName": "Zilean", 
+            "downvotes": "353", 
+            "upvotes": "469"
         }, 
         {
             "champName": "Tryndamere", 
             "downvotes": "164", 
-            "upvotes": "204"
+            "upvotes": "205"
         }, 
         {
             "champName": "Kog'Maw", 

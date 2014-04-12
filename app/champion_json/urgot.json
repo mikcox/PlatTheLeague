@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "urgot", 
+        "pretty": "Urgot"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Soraka", 
+            "downvotes": "371", 
+            "upvotes": "727"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "277", 
+            "upvotes": "420"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "276", 
+            "upvotes": "369"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "50", 
+            "upvotes": "104"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "93", 
+            "upvotes": "125"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "169", 
+            "upvotes": "191"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "100", 
+            "upvotes": "105"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "105", 
+            "upvotes": "106"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "100", 
+            "upvotes": "101"
+        }, 
+        {
+            "champName": "Trundle", 
+            "downvotes": "91", 
+            "upvotes": "87"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Graves", 
+            "downvotes": "442", 
+            "upvotes": "1068"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "227", 
+            "upvotes": "372"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "402", 
+            "upvotes": "613"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "295", 
+            "upvotes": "439"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "55", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "82", 
+            "upvotes": "136"
+        }, 
+        {
+            "champName": "Corki", 
+            "downvotes": "445", 
+            "upvotes": "523"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "220", 
+            "upvotes": "280"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "193", 
+            "upvotes": "246"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "114", 
+            "upvotes": "143"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/urgot.png", 
+    "GoodWith": [
+        {
+            "champName": "Soraka", 
+            "downvotes": "337", 
+            "upvotes": "1012"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "174", 
+            "upvotes": "351"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "94", 
+            "upvotes": "188"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "22", 
+            "upvotes": "69"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "19", 
+            "upvotes": "61"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "76", 
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "142", 
+            "upvotes": "231"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "13", 
+            "upvotes": "45"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "100", 
+            "upvotes": "158"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "17", 
+            "upvotes": "47"
+        }
+    ]
+}

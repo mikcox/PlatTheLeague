@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "xerath", 
+        "pretty": "Xerath"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Ahri", 
+            "downvotes": "1518", 
+            "upvotes": "3195"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "515", 
+            "upvotes": "867"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "431", 
+            "upvotes": "694"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "150", 
+            "upvotes": "254"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "503", 
+            "upvotes": "698"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "171", 
+            "upvotes": "265"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "122", 
+            "upvotes": "203"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "136", 
+            "upvotes": "220"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "25", 
+            "upvotes": "71"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "146", 
+            "upvotes": "197"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Ryze", 
+            "downvotes": "626", 
+            "upvotes": "1854"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "37", 
+            "upvotes": "180"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "14", 
+            "upvotes": "90"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "194", 
+            "upvotes": "380"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "13", 
+            "upvotes": "84"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "212", 
+            "upvotes": "393"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "63", 
+            "upvotes": "145"
+        }, 
+        {
+            "champName": "Lissandra", 
+            "downvotes": "148", 
+            "upvotes": "263"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "395", 
+            "upvotes": "605"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "40", 
+            "upvotes": "110"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/xerath.png", 
+    "GoodWith": [
+        {
+            "champName": "Amumu", 
+            "downvotes": "134", 
+            "upvotes": "218"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "221", 
+            "upvotes": "318"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "177", 
+            "upvotes": "212"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "99", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "88", 
+            "upvotes": "104"
+        }, 
+        {
+            "champName": "Rammus", 
+            "downvotes": "128", 
+            "upvotes": "122"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "53", 
+            "upvotes": "58"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "84", 
+            "upvotes": "81"
+        }, 
+        {
+            "champName": "Evelynn", 
+            "downvotes": "59", 
+            "upvotes": "60"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "42", 
+            "upvotes": "46"
+        }
+    ]
+}

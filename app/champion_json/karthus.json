@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "karthus", 
+        "pretty": "Karthus"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Soraka", 
+            "downvotes": "438", 
+            "upvotes": "2455"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "1058", 
+            "upvotes": "4588"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "849", 
+            "upvotes": "3245"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "1174", 
+            "upvotes": "3649"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "715", 
+            "upvotes": "2260"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "508", 
+            "upvotes": "1636"
+        }, 
+        {
+            "champName": "Veigar", 
+            "downvotes": "545", 
+            "upvotes": "1718"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "706", 
+            "upvotes": "1947"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "827", 
+            "upvotes": "2121"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "329", 
+            "upvotes": "876"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "361", 
+            "upvotes": "441"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "76", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "633", 
+            "upvotes": "624"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "351", 
+            "upvotes": "361"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "275", 
+            "upvotes": "284"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "250", 
+            "upvotes": "246"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "204", 
+            "upvotes": "199"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "201", 
+            "upvotes": "196"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "246", 
+            "upvotes": "232"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "338", 
+            "upvotes": "306"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/karthus.png", 
+    "GoodWith": [
+        {
+            "champName": "Amumu", 
+            "downvotes": "148", 
+            "upvotes": "271"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "514", 
+            "upvotes": "781"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "341", 
+            "upvotes": "472"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "20", 
+            "upvotes": "49"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "195", 
+            "upvotes": "242"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "431", 
+            "upvotes": "494"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "28", 
+            "upvotes": "50"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "3", 
+            "upvotes": "23"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "34", 
+            "upvotes": "53"
+        }, 
+        {
+            "champName": "Nocturne", 
+            "downvotes": "156", 
+            "upvotes": "172"
+        }
+    ]
+}

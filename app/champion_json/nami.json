@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "nami", 
+        "pretty": "Nami"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Lulu", 
+            "downvotes": "499", 
+            "upvotes": "949"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "531", 
+            "upvotes": "787"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "161", 
+            "upvotes": "271"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "564", 
+            "upvotes": "691"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "103", 
+            "upvotes": "162"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "264", 
+            "upvotes": "315"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "223", 
+            "upvotes": "252"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "324", 
+            "upvotes": "331"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "29", 
+            "upvotes": "59"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "338", 
+            "upvotes": "306"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Draven", 
+            "downvotes": "424", 
+            "upvotes": "726"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "428", 
+            "upvotes": "692"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "250", 
+            "upvotes": "367"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "163", 
+            "upvotes": "255"
+        }, 
+        {
+            "champName": "Urgot", 
+            "downvotes": "276", 
+            "upvotes": "369"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "289", 
+            "upvotes": "365"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "215", 
+            "upvotes": "273"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "117", 
+            "upvotes": "160"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "167", 
+            "upvotes": "189"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "101", 
+            "upvotes": "110"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/nami.png", 
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "19", 
+            "upvotes": "336"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "167", 
+            "upvotes": "1163"
+        }, 
+        {
+            "champName": "Ashe", 
+            "downvotes": "30", 
+            "upvotes": "309"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "27", 
+            "upvotes": "201"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "133", 
+            "upvotes": "629"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "180", 
+            "upvotes": "818"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "149", 
+            "upvotes": "673"
+        }, 
+        {
+            "champName": "Corki", 
+            "downvotes": "17", 
+            "upvotes": "144"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "25", 
+            "upvotes": "163"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "326", 
+            "upvotes": "1227"
+        }
+    ]
+}

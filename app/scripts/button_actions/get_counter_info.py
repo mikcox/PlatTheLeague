@@ -3,7 +3,7 @@ import sys
 import json
 import HTMLParser
 
-workingdir = '/var/www/PlatTheLeague/app/champion_json/'
+workingdir = '../../champion_json/'
 
 championPrettyName = sys.argv[1]
 #format the champ's name for sending to lolcounter

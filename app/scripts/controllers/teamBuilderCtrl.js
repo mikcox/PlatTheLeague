@@ -2,31 +2,22 @@
 platTheLeagueModule.controller('teamBuilderCtrl', [
 	'$scope',
 	'$filter',
+	'$modal',
 	'dataFactory',
 	'formatFactory',
-	function ($scope, $filter, dataFactory, formatFactory) {
+	function ($scope, $filter, $modal, dataFactory, formatFactory, modalInstanceCtrl) {
 		
-		$scope.getChampInfo = function () {
-			dataFactory.getHTTP($scope.url).success(function (data) {
-				$scope.error = '';
-				if (data) {
-					$scope.results = data;
-				}
-			}).error(function (data, status) {
-				$scope.error = 'HTTP get returned: ' + status;
+		function getAllChamps() {
+			dataFactory.readJSON('champion_json/all_champs.json').success(function(data) {
+				$scope.allChamps = data;
+			}).error(function(data, status, headers, config) {
+		 		$scope.allChamps = "";
+		 		$scope.error = 'Problem finding all champions list: unable to read all_champs.json, Error Code '+status;
 			});
+			
 		};
 		
-		$scope.ajaxGetChampInfo = function (champion) {
-			//check that we have a champion name
-			if(champion == null || champion.length < 1){
-				$scope.error = "Please enter a champion name";
-				document.getElementById("championSearchBox").style.backgroundColor = "yellow";
-				return;
-			} else {
-				$scope.error = "";
-				document.getElementById("championSearchBox").style.backgroundColor = "white";
-			}			
+		$scope.ajaxGetChampInfo = function (champion) {		
 			
 			//change the champion's name into what lolcounter expects
 			champion = champion.toLowerCase();
@@ -34,14 +25,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			champion = champion.replace("'", "");
 			champion = champion.replace(".", "");
 			
-			//submit the champion's name to our php script to go fetch the info (will be obsolete soon)
-			/*$.ajax({
-				type: 'POST',
-				url: 'scripts/button_actions/get_champ_info.php',
-				data: { ChampionName: champion }
-			}).done(function(data) {
-				returnJSON(champion);
-			});*/
+			//set $scope.selectedChamp to the champ that was clicked and return a modal
 			returnJSON(champion);
 			
 		}
@@ -56,11 +40,20 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			//filter duplicates from WeakAgainst list
 			var uniqueNames = [];
 			var uniqueWeakAgainst = [];
+			var confidence = 0;
+			var upvotes = 0;
+			var downvotes = 0;
 			for(var i = 0; i < $scope.selectedChamp["WeakAgainst"].length; i++){
 				if($.inArray($scope.selectedChamp["WeakAgainst"][i]["champName"], uniqueNames) == -1 ){
+					//calculate a confidence score:
+					upvotes = parseInt($scope.selectedChamp["WeakAgainst"][i]["upvotes"]);
+					downvotes = parseInt($scope.selectedChamp["WeakAgainst"][i]["downvotes"]);
+					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					
 					uniqueWeakAgainst.push({"champName": $scope.selectedChamp["WeakAgainst"][i]["champName"],
-											"upvotes": $scope.selectedChamp["WeakAgainst"][i]["upvotes"],
-											"downvotes": $scope.selectedChamp["WeakAgainst"][i]["downvotes"]});
+											"upvotes": upvotes,
+											"downvotes": downvotes,
+											"confidence": confidence});
 				}
 				uniqueNames.push($scope.selectedChamp["WeakAgainst"][i]["champName"]);
 			}
@@ -71,9 +64,15 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			var uniqueStrongAgainst = [];
 			for(var i = 0; i < $scope.selectedChamp["StrongAgainst"].length; i++){
 				if($.inArray($scope.selectedChamp["StrongAgainst"][i]["champName"], uniqueNames) == -1 ){
+					//calculate a confidence score:
+					upvotes = parseInt($scope.selectedChamp["StrongAgainst"][i]["upvotes"]);
+					downvotes = parseInt($scope.selectedChamp["StrongAgainst"][i]["downvotes"]);
+					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					
 					uniqueStrongAgainst.push({"champName": $scope.selectedChamp["StrongAgainst"][i]["champName"],
-												"upvotes": $scope.selectedChamp["StrongAgainst"][i]["upvotes"],
-												"downvotes": $scope.selectedChamp["StrongAgainst"][i]["downvotes"]});
+												"upvotes": upvotes,
+												"downvotes": downvotes,
+												"confidence": confidence});
 				}
 				uniqueNames.push($scope.selectedChamp["StrongAgainst"][i]["champName"]);
 			}
@@ -84,126 +83,69 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			var uniqueGoodWith = [];
 			for(var i = 0; i < $scope.selectedChamp["GoodWith"].length; i++){
 				if($.inArray($scope.selectedChamp["GoodWith"][i]["champName"], uniqueNames) == -1 ){
+					//calculate a confidence score:
+					upvotes = parseInt($scope.selectedChamp["GoodWith"][i]["upvotes"]);
+					downvotes = parseInt($scope.selectedChamp["GoodWith"][i]["downvotes"]);
+					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					
 					uniqueGoodWith.push({"champName": $scope.selectedChamp["GoodWith"][i]["champName"],
-										"upvotes": $scope.selectedChamp["GoodWith"][i]["upvotes"],
-										"downvotes": $scope.selectedChamp["GoodWith"][i]["downvotes"]});
+											"upvotes": upvotes,
+											"downvotes": downvotes,
+											"confidence": confidence});
 
 				}
 				uniqueNames.push($scope.selectedChamp["GoodWith"][i]["champName"]);
 			}
 			$scope.selectedChamp["GoodWith"] = uniqueGoodWith;
-			
-			
+			//and open our modal to display
+			$scope.openChampCounters();
 			
 		}).error(function(data, status, headers, config) {
 	 		$scope.selectedChamp = "";
-	 		dataFactory.readJSON('champion_json/error.json').success(function(data) {
-	 			$scope.error = 'Problem finding champion: check that your champion name is spelled correctly.  Error from server: "'+data["ServerError"]+'"';
-	 		}).error(function(data, status, headers, config) {
-	 			$scope.error = 'Failed to read error file. whoops!'
-	 		});
+	 		$scope.error = 'Problem finding champion: check that your champion name is spelled correctly.  Error from server: "'+status+'"';
 	 	});
 		
 	};
-		//$scope.getChampInfo();
-		/*$scope.getPersonnel();
-		$scope.orderProp = 'Skill';
-		$scope.reverse = false;
-		$scope.DeleteButtonPressed = function (name, personuri, skill, skilluri) {
-			var moveon = confirm('Delete ' + name + '\'s ' + skill + ' skill?');
-			if (moveon) {
-				//alert('Deleting ' + name + '\'s ' + skill + ' skill.  Wait a moment and refresh your page to see the change.');
-				//ajaxSubmitDeletion(personuri, skilluri);
-				updateAPISubmitDeletion(personuri, skilluri);
-			} else {
-				return;
-			}
-		};
-		function ajaxSubmitDeletion(personuri, skilluri) {
-			var deletionText = 'personuri,leveluri\n';
-			deletionText += personuri + ',' + skilluri + '\n';
-			$.ajax({
-				type: 'POST',
-				url: 'scripts/button_actions/removebuttonaction.php',
-				data: { DeletionText: deletionText }
-			});
-		}
-		function updateAPISubmitDeletion(personuri, skilluri){
-			// = 'update=PREFIX laspskills: <http://webdev1.lasp.colorado.edu:57529/laspskills#> DELETE DATA {GRAPH <http://vitro.mannlib.cornell.edu/default/vitro-kb-2> {<'+personuri+'> <laspskills:hasSkill> <'+skilluri+'>}';
-			//dataFactory.submitSPARQLUpdate($scope.urlBaseUpdate, deleteQuery);
-			$.ajax({
-				type: 'POST',
-				url: 'scripts/button_actions/removebuttonactionVIVOsparqlUpdate.php',
-				data: { DeletionText: {"personuri": personuri, "skilluri": skilluri} },
-				success: function(data){
-		            if(data == 200){
-		            	alert('Skill deleted successfully.');
-		            	location.reload();
-		            }
-		            else {
-		            	alert('Return status: '+data);
-		            }
+	$scope.opts = {
+		    backdrop: true,
+		    keyboard: true,
+		    backdropClick: true,
+		    resolve: {
+		        error: function () {
+		          return $scope.selectedChamp;
 		        }
-			});
-		}*/
-		//search functions
-		$scope.searchResults = function (person) {
-			if (person.length > 0) {
-				$scope.currentPageResults = 1;
-			}
-			return $scope.filterResults();
-		};
-		$scope.filterResults = function () {
-			var filteredResults = [];
-			filteredResults = $filter('ViewAllSearch')($scope.skills, $scope.query);
-			filteredResults = $filter('orderBy')(filteredResults, $scope.orderProp, $scope.reverse);
-			$scope.pagedResults = $scope.groupToPages(filteredResults);
-		};
-		//Pagination Functions
-		//groupToPages() does not filter input
-		$scope.groupToPages = function (list) {
-			var pagedList = [];
-			for (var i = 0; i < list.length; i++) {
-				if (i % $scope.itemsPerPage === 0) {
-					pagedList[Math.floor(i / $scope.itemsPerPage)] = [list[i]];
-				} else {
-					pagedList[Math.floor(i / $scope.itemsPerPage)].push(list[i]);
-				}
-			}
-			return pagedList;
-		};
-		$scope.countPagedList = function (list) {
-			var count = 0;
-			if (typeof list === 'undefined') {
-				return count;
-			}
-			for (var i = 0; i < list.length; i++) {
-				count += list[i].length;
-			}
-			return count;
-		};
-		//Sorting Function
-		$scope.changeSorting = function (sort) {
-			if ($scope.orderProp === sort) {
-				$scope.reverse = !$scope.reverse;
-			} else {
-				$scope.orderProp = sort;
-				$scope.reverses = false;
-			}
-			$scope.filterResults();
-		};
-		$scope.sortingClass = function (sort) {
-			var cls;
-			if ($scope.orderProp === sort) {
-				if ($scope.reverse) {
-					cls = 'sorting_asc';
-				} else {
-					cls = 'sorting_desc';
-				}
-			} else {
-				cls = 'sorting_both';
-			}
-			return cls;
-		};
+		      },
+		      templateUrl: 'views/champ_counter_modal_content.html',
+		      controller: 'modalInstanceCtrl'
+		  };
+
+		  $scope.openDialog = function(){
+		    var d = $dialog.dialog($scope.opts);
+		    //d.setErrorDetails("Server Error 500", "Some exception text"); // not working
+		    d.open().then(function(result){
+		      if(result)
+		      {
+		        alert('dialog closed with result: ' + result);
+		      }
+		    });
+		  };
+	//code for popup windows
+	$scope.openChampCounters = function () {
+
+	    var modalInstance = $modal.open({
+	      templateUrl: 'views/champ_counter_modal_content.html',
+	      controller: 'modalInstanceCtrl',
+	      resolve: {
+	        data: function () {
+	          return $scope.selectedChamp;
+	        }
+	      }
+	    });
+	    
+	  };
+	
+	
+		getAllChamps();
+	
 	}
 ]);

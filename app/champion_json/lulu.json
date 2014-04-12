@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "lulu", 
+        "pretty": "Lulu"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Soraka", 
+            "downvotes": "499", 
+            "upvotes": "872"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "94", 
+            "upvotes": "212"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "342", 
+            "upvotes": "543"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "314", 
+            "upvotes": "375"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "210", 
+            "upvotes": "243"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "98", 
+            "upvotes": "125"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "29", 
+            "upvotes": "56"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "118", 
+            "upvotes": "123"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "130", 
+            "upvotes": "129"
+        }, 
+        {
+            "champName": "Viktor", 
+            "downvotes": "45", 
+            "upvotes": "64"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Thresh", 
+            "downvotes": "538", 
+            "upvotes": "1593"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "620", 
+            "upvotes": "1443"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "63", 
+            "upvotes": "194"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "181", 
+            "upvotes": "407"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "499", 
+            "upvotes": "949"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "318", 
+            "upvotes": "600"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "54", 
+            "upvotes": "136"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "83", 
+            "upvotes": "175"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "27", 
+            "upvotes": "88"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "31", 
+            "upvotes": "92"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/lulu.png", 
+    "GoodWith": [
+        {
+            "champName": "Draven", 
+            "downvotes": "34", 
+            "upvotes": "282"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "29", 
+            "upvotes": "219"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "2", 
+            "upvotes": "94"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "197", 
+            "upvotes": "915"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "54", 
+            "upvotes": "288"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "30", 
+            "upvotes": "173"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "169", 
+            "upvotes": "612"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "15", 
+            "upvotes": "109"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "102", 
+            "upvotes": "359"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "25", 
+            "upvotes": "124"
+        }
+    ]
+}

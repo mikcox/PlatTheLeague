@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "ezreal", 
+        "pretty": "Ezreal"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Draven", 
+            "downvotes": "2660", 
+            "upvotes": "9070"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "1724", 
+            "upvotes": "4118"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "4291", 
+            "upvotes": "9967"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "761", 
+            "upvotes": "1769"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "830", 
+            "upvotes": "1784"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "2794", 
+            "upvotes": "5754"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "805", 
+            "upvotes": "1653"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "106", 
+            "upvotes": "259"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "73", 
+            "upvotes": "189"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "133", 
+            "upvotes": "286"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Ashe", 
+            "downvotes": "2587", 
+            "upvotes": "7684"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "2823", 
+            "upvotes": "7814"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "842", 
+            "upvotes": "2204"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "1718", 
+            "upvotes": "2798"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "497", 
+            "upvotes": "762"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "268", 
+            "upvotes": "426"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "531", 
+            "upvotes": "787"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "378", 
+            "upvotes": "560"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "106", 
+            "upvotes": "166"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "113", 
+            "upvotes": "164"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/ezreal.png", 
+    "GoodWith": [
+        {
+            "champName": "Thresh", 
+            "downvotes": "59", 
+            "upvotes": "706"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "98", 
+            "upvotes": "449"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "628", 
+            "upvotes": "2397"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "1112", 
+            "upvotes": "4010"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "202", 
+            "upvotes": "733"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "184", 
+            "upvotes": "663"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "10", 
+            "upvotes": "90"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "1017", 
+            "upvotes": "3022"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "652", 
+            "upvotes": "1894"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "321", 
+            "upvotes": "935"
+        }
+    ]
+}

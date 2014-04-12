@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "vi", 
+        "pretty": "Vi"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Jax", 
+            "downvotes": "936", 
+            "upvotes": "2532"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "228", 
+            "upvotes": "488"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "803", 
+            "upvotes": "1474"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "927", 
+            "upvotes": "1591"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "1040", 
+            "upvotes": "1762"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "288", 
+            "upvotes": "530"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "464", 
+            "upvotes": "779"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "21", 
+            "upvotes": "92"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "258", 
+            "upvotes": "426"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "205", 
+            "upvotes": "348"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Zac", 
+            "downvotes": "508", 
+            "upvotes": "1865"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "321", 
+            "upvotes": "843"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "227", 
+            "upvotes": "443"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "3", 
+            "upvotes": "57"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "33", 
+            "upvotes": "96"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "255", 
+            "upvotes": "385"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "500", 
+            "upvotes": "704"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "54", 
+            "upvotes": "119"
+        }, 
+        {
+            "champName": "Shaco", 
+            "downvotes": "191", 
+            "upvotes": "292"
+        }, 
+        {
+            "champName": "Master Yi", 
+            "downvotes": "18", 
+            "upvotes": "70"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/vi.png", 
+    "GoodWith": [
+        {
+            "champName": "Yasuo", 
+            "downvotes": "121", 
+            "upvotes": "539"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "575", 
+            "upvotes": "1551"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "158", 
+            "upvotes": "370"
+        }, 
+        {
+            "champName": "Riven", 
+            "downvotes": "12", 
+            "upvotes": "57"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "23", 
+            "upvotes": "62"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "164", 
+            "upvotes": "253"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "23", 
+            "upvotes": "56"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "34", 
+            "upvotes": "69"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "81", 
+            "upvotes": "127"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "17", 
+            "upvotes": "46"
+        }
+    ]
+}

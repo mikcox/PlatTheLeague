@@ -1,0 +1,26 @@
+<div style="color:black;">
+	<div class="modal-header">
+		<img src="{{selectedChamp.ChampionImageLocation}}"></img> <h3> {{selectedChamp.ChampionName.pretty}} Counter Information:</h3>
+	</div>
+	<div class="modal-body">
+			<table ng-table class="table" ng-show="selectedChamp">
+				<th>{{selectedChamp.ChampionName.pretty}} is Weak Against:</th>
+				<th>{{selectedChamp.ChampionName.pretty}} is Strong Against:</th>
+				<th>{{selectedChamp.ChampionName.pretty}} is Good With:</th>
+				<tr>
+					<td><li ng-repeat="counterChamp in selectedChamp.WeakAgainst">
+						{{counterChamp.champName}} (Confidence: {{counterChamp.confidence}}, from {{counterChamp.upvotes + counterChamp.downvotes}} votes)
+					</li></td>
+					<td><li ng-repeat="badChamp in selectedChamp.StrongAgainst">
+						{{badChamp.champName}} (Confidence: {{badChamp.confidence}}, from {{badChamp.upvotes + badChamp.downvotes}} votes)
+					</li></td>
+					<td><li ng-repeat="goodWith in selectedChamp.GoodWith">
+						{{goodWith.champName}} (Confidence: {{goodWith.confidence}}, from {{goodWith.upvotes + goodWith.downvotes}} votes)
+					</li></td>
+				</tr>
+			</table>
+	</div>
+	<div class="modal-footer">
+		<button class="btn btn-warning" ng-click="cancel()">Close</button>
+	</div>
+</div>

@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "singed", 
+        "pretty": "Singed"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Teemo", 
+            "downvotes": "2202", 
+            "upvotes": "6657"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "534", 
+            "upvotes": "1523"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "653", 
+            "upvotes": "1836"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "999", 
+            "upvotes": "2289"
+        }, 
+        {
+            "champName": "Kennen", 
+            "downvotes": "568", 
+            "upvotes": "1259"
+        }, 
+        {
+            "champName": "Yorick", 
+            "downvotes": "182", 
+            "upvotes": "430"
+        }, 
+        {
+            "champName": "Jayce", 
+            "downvotes": "1217", 
+            "upvotes": "2417"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "219", 
+            "upvotes": "457"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "70", 
+            "upvotes": "188"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "169", 
+            "upvotes": "352"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Jax", 
+            "downvotes": "2388", 
+            "upvotes": "5455"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "1438", 
+            "upvotes": "2924"
+        }, 
+        {
+            "champName": "Fiora", 
+            "downvotes": "1011", 
+            "upvotes": "1879"
+        }, 
+        {
+            "champName": "Irelia", 
+            "downvotes": "696", 
+            "upvotes": "1018"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "282", 
+            "upvotes": "440"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "311", 
+            "upvotes": "479"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "586", 
+            "upvotes": "810"
+        }, 
+        {
+            "champName": "Nasus", 
+            "downvotes": "136", 
+            "upvotes": "227"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "21", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "152", 
+            "upvotes": "242"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/singed.png", 
+    "GoodWith": [
+        {
+            "champName": "Cassiopeia", 
+            "downvotes": "517", 
+            "upvotes": "990"
+        }, 
+        {
+            "champName": "Volibear", 
+            "downvotes": "433", 
+            "upvotes": "737"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "20", 
+            "upvotes": "55"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "334", 
+            "upvotes": "485"
+        }, 
+        {
+            "champName": "Sion", 
+            "downvotes": "126", 
+            "upvotes": "193"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "14", 
+            "upvotes": "43"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "105", 
+            "upvotes": "155"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "145", 
+            "upvotes": "193"
+        }, 
+        {
+            "champName": "Zilean", 
+            "downvotes": "320", 
+            "upvotes": "391"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "1", 
+            "upvotes": "24"
+        }
+    ]
+}

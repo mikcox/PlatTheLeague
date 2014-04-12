@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "janna", 
+        "pretty": "Janna"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Sona", 
+            "downvotes": "421", 
+            "upvotes": "761"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "316", 
+            "upvotes": "442"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "215", 
+            "upvotes": "273"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "81", 
+            "upvotes": "116"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "165", 
+            "upvotes": "194"
+        }, 
+        {
+            "champName": "Skarner", 
+            "downvotes": "152", 
+            "upvotes": "156"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "150", 
+            "upvotes": "147"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "134", 
+            "upvotes": "132"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "109", 
+            "upvotes": "111"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "57", 
+            "upvotes": "72"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Kennen", 
+            "downvotes": "549", 
+            "upvotes": "1586"
+        }, 
+        {
+            "champName": "Alistar", 
+            "downvotes": "444", 
+            "upvotes": "972"
+        }, 
+        {
+            "champName": "Fiddlesticks", 
+            "downvotes": "443", 
+            "upvotes": "926"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "919", 
+            "upvotes": "1741"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "345", 
+            "upvotes": "610"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "380", 
+            "upvotes": "537"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "479", 
+            "upvotes": "643"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "55", 
+            "upvotes": "106"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "295", 
+            "upvotes": "354"
+        }, 
+        {
+            "champName": "Udyr", 
+            "downvotes": "205", 
+            "upvotes": "252"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/janna.png", 
+    "GoodWith": [
+        {
+            "champName": "Varus", 
+            "downvotes": "37", 
+            "upvotes": "303"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "125", 
+            "upvotes": "728"
+        }, 
+        {
+            "champName": "Jinx", 
+            "downvotes": "14", 
+            "upvotes": "148"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "138", 
+            "upvotes": "597"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "31", 
+            "upvotes": "188"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "20", 
+            "upvotes": "133"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "245", 
+            "upvotes": "764"
+        }, 
+        {
+            "champName": "Lucian", 
+            "downvotes": "19", 
+            "upvotes": "103"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "299", 
+            "upvotes": "825"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "42", 
+            "upvotes": "157"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "lux", 
+        "pretty": "Lux"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Talon", 
+            "downvotes": "1442", 
+            "upvotes": "5162"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "580", 
+            "upvotes": "1581"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "1921", 
+            "upvotes": "4378"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "1551", 
+            "upvotes": "3151"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "1085", 
+            "upvotes": "2208"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "1312", 
+            "upvotes": "2409"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "21", 
+            "upvotes": "108"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "181", 
+            "upvotes": "391"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "176", 
+            "upvotes": "382"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "806", 
+            "upvotes": "1443"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Karthus", 
+            "downvotes": "715", 
+            "upvotes": "2260"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "1137", 
+            "upvotes": "2116"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "579", 
+            "upvotes": "1069"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "394", 
+            "upvotes": "738"
+        }, 
+        {
+            "champName": "Lissandra", 
+            "downvotes": "1117", 
+            "upvotes": "1949"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "130", 
+            "upvotes": "257"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "40", 
+            "upvotes": "120"
+        }, 
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "592", 
+            "upvotes": "914"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "231", 
+            "upvotes": "388"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "777", 
+            "upvotes": "1161"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/lux.png", 
+    "GoodWith": [
+        {
+            "champName": "Jinx", 
+            "downvotes": "33", 
+            "upvotes": "172"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "558", 
+            "upvotes": "1475"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "74", 
+            "upvotes": "207"
+        }, 
+        {
+            "champName": "Nidalee", 
+            "downvotes": "31", 
+            "upvotes": "112"
+        }, 
+        {
+            "champName": "Morgana", 
+            "downvotes": "41", 
+            "upvotes": "133"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "61", 
+            "upvotes": "167"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "80", 
+            "upvotes": "203"
+        }, 
+        {
+            "champName": "Sivir", 
+            "downvotes": "30", 
+            "upvotes": "93"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1043", 
+            "upvotes": "1941"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "62", 
+            "upvotes": "148"
+        }
+    ]
+}

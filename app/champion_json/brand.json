@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "brand", 
+        "pretty": "Brand"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Kassadin", 
+            "downvotes": "1320", 
+            "upvotes": "3425"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "462", 
+            "upvotes": "1157"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "1219", 
+            "upvotes": "2392"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "964", 
+            "upvotes": "1744"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "15", 
+            "upvotes": "93"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "100", 
+            "upvotes": "230"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "99", 
+            "upvotes": "227"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "164", 
+            "upvotes": "329"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "63", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "317", 
+            "upvotes": "551"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Annie", 
+            "downvotes": "1911", 
+            "upvotes": "4509"
+        }, 
+        {
+            "champName": "Ryze", 
+            "downvotes": "1041", 
+            "upvotes": "2261"
+        }, 
+        {
+            "champName": "Heimerdinger", 
+            "downvotes": "45", 
+            "upvotes": "143"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "34", 
+            "upvotes": "121"
+        }, 
+        {
+            "champName": "Gragas", 
+            "downvotes": "125", 
+            "upvotes": "256"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "193", 
+            "upvotes": "358"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "8", 
+            "upvotes": "73"
+        }, 
+        {
+            "champName": "Lissandra", 
+            "downvotes": "471", 
+            "upvotes": "750"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "469", 
+            "upvotes": "747"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "38", 
+            "upvotes": "114"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/brand.png", 
+    "GoodWith": [
+        {
+            "champName": "Amumu", 
+            "downvotes": "332", 
+            "upvotes": "561"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "237", 
+            "upvotes": "370"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "144", 
+            "upvotes": "209"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "54", 
+            "upvotes": "89"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "59", 
+            "upvotes": "95"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "17", 
+            "upvotes": "42"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "327", 
+            "upvotes": "393"
+        }, 
+        {
+            "champName": "Maokai", 
+            "downvotes": "63", 
+            "upvotes": "92"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "127", 
+            "upvotes": "161"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "135", 
+            "upvotes": "168"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "ChampionName": {
+        "lower": "sona", 
+        "pretty": "Sona"
+    }, 
+    "WeakAgainst": [
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "556", 
+            "upvotes": "1765"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "420", 
+            "upvotes": "794"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "775", 
+            "upvotes": "1365"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "393", 
+            "upvotes": "560"
+        }, 
+        {
+            "champName": "Draven", 
+            "downvotes": "242", 
+            "upvotes": "364"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "310", 
+            "upvotes": "389"
+        }, 
+        {
+            "champName": "Nidalee", 
+            "downvotes": "175", 
+            "upvotes": "226"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "61", 
+            "upvotes": "104"
+        }, 
+        {
+            "champName": "Zyra", 
+            "downvotes": "218", 
+            "upvotes": "248"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "201", 
+            "upvotes": "231"
+        }
+    ], 
+    "StrongAgainst": [
+        {
+            "champName": "Trundle", 
+            "downvotes": "1038", 
+            "upvotes": "2726"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "603", 
+            "upvotes": "1201"
+        }, 
+        {
+            "champName": "Janna", 
+            "downvotes": "421", 
+            "upvotes": "761"
+        }, 
+        {
+            "champName": "Nunu", 
+            "downvotes": "349", 
+            "upvotes": "602"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "342", 
+            "upvotes": "543"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "127", 
+            "upvotes": "209"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "197", 
+            "upvotes": "219"
+        }, 
+        {
+            "champName": "Nami", 
+            "downvotes": "324", 
+            "upvotes": "331"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "194", 
+            "upvotes": "210"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "142", 
+            "upvotes": "153"
+        }
+    ], 
+    "ChampionImageLocation": "http://www.solomid.net/guide/champ/sona.png", 
+    "GoodWith": [
+        {
+            "champName": "Draven", 
+            "downvotes": "23", 
+            "upvotes": "402"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "55", 
+            "upvotes": "588"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "42", 
+            "upvotes": "415"
+        }, 
+        {
+            "champName": "Tristana", 
+            "downvotes": "25", 
+            "upvotes": "214"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "21", 
+            "upvotes": "171"
+        }, 
+        {
+            "champName": "Kog'Maw", 
+            "downvotes": "21", 
+            "upvotes": "156"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "1112", 
+            "upvotes": "4010"
+        }, 
+        {
+            "champName": "Quinn", 
+            "downvotes": "23", 
+            "upvotes": "126"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "256", 
+            "upvotes": "751"
+        }, 
+        {
+            "champName": "Miss Fortune", 
+            "downvotes": "696", 
+            "upvotes": "1897"
+        }
+    ]
+}
