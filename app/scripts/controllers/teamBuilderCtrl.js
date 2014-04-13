@@ -15,7 +15,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			
 		};
 		
-		$scope.ajaxGetChampInfo = function (champion) {		
+		$scope.ajaxGetChampInfo = function(champion) {		
 			
 			//change the champion's name into what lolcounter expects
 			champion = champion.toLowerCase();
@@ -39,7 +39,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 			if(indexOfMatch == -1){
-				alert('Internal problem... lost track of champion '+champion+'. Whoops!!');
+				alert('Internal problem... lost track of champion "'+champion+'". Whoops!!');
 				return;
 			}
 			var selectedChamp = $scope.allChamps[indexOfMatch];

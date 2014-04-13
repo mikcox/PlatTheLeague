@@ -8,7 +8,7 @@
 				ng-change="filterChamps()" placeholder="Search" style="width:70%"/>
 						<br>
 						All Champions: 
-						<div ng-repeat="champ in filteredChamps">
+						<div ng-repeat="champ in allChamps | allChampTextFilter:allChampFilterQuery">
 							<div class="btn btn-draggable" data-drag="true" data-jqyoui-options="{revert: 'invalid'}" ng-model="allChamps" 
 							jqyoui-draggable="{index: $index, animate:true, applyFilter:'filterChamps'}"
 							ng-click="ajaxGetChampInfo(champ.ChampionName.lower)">
@@ -231,11 +231,29 @@
 						<br>
 						<table id="teamDiv" class="thumbnail" ng-show="teamScore"
 						style="margin:0 auto; text-align:center;">
-						<th colspan="3" style="width:100%;"><h3> Overall Team Score: </h3><th>
+						<th colspan="3" style="width:100%;"><h3>Overall Team Score:</h3><th>
 						<tr>
 						<tr ng-show="teamScore">
 							<td colspan="3">
 								{{teamScore}}
+								<br>
+								<br>
+								<h3>Prediction:</h3>
+							</td>
+						</tr>
+						<tr ng-show="teamScore > 0">
+							<td colspan="3">
+								Blue Team Wins!
+							</td>
+						</tr>
+						<tr ng-show="teamScore < 0">
+							<td colspan="3">
+								Purple Team Wins!
+							</td>
+						</tr>
+						<tr ng-show="teamScore == 0">
+							<td colspan="3">
+								Could go either way!
 							</td>
 						</tr>
 						</table>
