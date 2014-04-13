@@ -36,5 +36,6 @@
         <script src="scripts/controllers/teamBuilderCtrl.js"></script>
 		<script src="scripts/controllers/modalInstanceCtrl.js"></script>
         <script src="scripts/services/factories.js"></script>
+        <script src="scripts/filters/filters.js"></script>
     </body>
 </html>

@@ -9,7 +9,16 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		
 		function getAllChamps() {
 			dataFactory.readJSON('champion_json/all_champs.json').success(function(data) {
-				$scope.allChamps = data;
+				$scope.allChamps = data["Champions"];
+				//sort the champion list
+				$scope.allChamps.sort(function (a, b) {
+					if (a["ChampionName"]["pretty"].toUpperCase() < b["ChampionName"]["pretty"].toUpperCase()) {
+						return -1;
+					} else if (a["ChampionName"]["pretty"].toUpperCase() > b["ChampionName"]["pretty"].toUpperCase()) {
+						return 1;
+					}
+					return 0;
+				});
 			}).error(function(data, status, headers, config) {
 		 		$scope.allChamps = "";
 		 		$scope.error = 'Problem finding all champions list: unable to read all_champs.json, Error Code '+status;
@@ -48,7 +57,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 					//calculate a confidence score:
 					upvotes = parseInt($scope.selectedChamp["WeakAgainst"][i]["upvotes"]);
 					downvotes = parseInt($scope.selectedChamp["WeakAgainst"][i]["downvotes"]);
-					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					confidence = Math.round(Math.sqrt(upvotes-downvotes) * Math.pow(upvotes/downvotes, 3)) / 100;
 					
 					uniqueWeakAgainst.push({"champName": $scope.selectedChamp["WeakAgainst"][i]["champName"],
 											"upvotes": upvotes,
@@ -67,7 +76,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 					//calculate a confidence score:
 					upvotes = parseInt($scope.selectedChamp["StrongAgainst"][i]["upvotes"]);
 					downvotes = parseInt($scope.selectedChamp["StrongAgainst"][i]["downvotes"]);
-					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					confidence = Math.round(Math.sqrt(upvotes-downvotes) * Math.pow(upvotes/downvotes, 3)) / 100;
 					
 					uniqueStrongAgainst.push({"champName": $scope.selectedChamp["StrongAgainst"][i]["champName"],
 												"upvotes": upvotes,
@@ -86,7 +95,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 					//calculate a confidence score:
 					upvotes = parseInt($scope.selectedChamp["GoodWith"][i]["upvotes"]);
 					downvotes = parseInt($scope.selectedChamp["GoodWith"][i]["downvotes"]);
-					confidence = Math.round(upvotes * 100 / downvotes) / 100;
+					confidence = Math.round(Math.sqrt(upvotes-downvotes) * Math.pow(upvotes/downvotes, 3)) / 100;
 					
 					uniqueGoodWith.push({"champName": $scope.selectedChamp["GoodWith"][i]["champName"],
 											"upvotes": upvotes,
@@ -97,6 +106,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				uniqueNames.push($scope.selectedChamp["GoodWith"][i]["champName"]);
 			}
 			$scope.selectedChamp["GoodWith"] = uniqueGoodWith;
+			
+			
 			//and open our modal to display
 			$scope.openChampCounters();
 			
@@ -106,29 +117,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	 	});
 		
 	};
-	$scope.opts = {
-		    backdrop: true,
-		    keyboard: true,
-		    backdropClick: true,
-		    resolve: {
-		        error: function () {
-		          return $scope.selectedChamp;
-		        }
-		      },
-		      templateUrl: 'views/champ_counter_modal_content.html',
-		      controller: 'modalInstanceCtrl'
-		  };
-
-		  $scope.openDialog = function(){
-		    var d = $dialog.dialog($scope.opts);
-		    //d.setErrorDetails("Server Error 500", "Some exception text"); // not working
-		    d.open().then(function(result){
-		      if(result)
-		      {
-		        alert('dialog closed with result: ' + result);
-		      }
-		    });
-		  };
+	
 	//code for popup windows
 	$scope.openChampCounters = function () {
 
@@ -143,9 +132,15 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	    });
 	    
 	  };
+	  
+	  //code for drag and drop:
+	  $scope.filterIt = function() {
+		return $filter('filter')($scope.allChamps, $scope.allChampFilterQuery);
+	  };
 	
-	
-		getAllChamps();
+	  $scope.topLane1 = [];
+	  $scope.topLane2 = [];
+	  getAllChamps();
 	
 	}
 ]);
