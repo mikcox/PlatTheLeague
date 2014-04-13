@@ -4,6 +4,7 @@ var filterMod = angular.module('teamBuilderFilters', []);
 filterMod.filter('allChampTextFilter', function () {
 	return function (haystack, needle) {
 		var returnList = [];
+		
 		if (!needle || needle.length < 1) {
 			haystack.sort(function (a, b) {
 				if (a["ChampionName"]["pretty"].toUpperCase() < b["ChampionName"]["pretty"].toUpperCase()) {

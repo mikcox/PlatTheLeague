@@ -7,37 +7,37 @@
         {
             "champName": "Ashe", 
             "downvotes": "796", 
-            "upvotes": "1638"
+            "upvotes": "1639"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "349", 
-            "upvotes": "611"
+            "upvotes": "612"
         }, 
         {
             "champName": "Trundle", 
-            "downvotes": "444", 
-            "upvotes": "716"
+            "downvotes": "443", 
+            "upvotes": "719"
         }, 
         {
             "champName": "Kayle", 
             "downvotes": "354", 
-            "upvotes": "500"
+            "upvotes": "504"
         }, 
         {
             "champName": "Jax", 
             "downvotes": "274", 
-            "upvotes": "388"
+            "upvotes": "389"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "129", 
-            "upvotes": "178"
+            "downvotes": "128", 
+            "upvotes": "180"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "205", 
-            "upvotes": "252"
+            "downvotes": "206", 
+            "upvotes": "251"
         }, 
         {
             "champName": "Vladimir", 
@@ -46,8 +46,8 @@
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "85", 
-            "upvotes": "124"
+            "downvotes": "86", 
+            "upvotes": "125"
         }, 
         {
             "champName": "Aatrox", 
@@ -58,28 +58,28 @@
     "StrongAgainst": [
         {
             "champName": "Lee Sin", 
-            "downvotes": "816", 
-            "upvotes": "2322"
+            "downvotes": "817", 
+            "upvotes": "2328"
         }, 
         {
             "champName": "Lee Sin", 
             "downvotes": "690", 
-            "upvotes": "1884"
+            "upvotes": "1888"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "679", 
+            "downvotes": "680", 
             "upvotes": "1787"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "598", 
-            "upvotes": "1368"
+            "downvotes": "599", 
+            "upvotes": "1371"
         }, 
         {
             "champName": "Gangplank", 
-            "downvotes": "443", 
-            "upvotes": "990"
+            "downvotes": "442", 
+            "upvotes": "991"
         }, 
         {
             "champName": "Galio", 
@@ -88,18 +88,18 @@
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "11", 
+            "downvotes": "12", 
             "upvotes": "91"
         }, 
         {
             "champName": "Nasus", 
             "downvotes": "29", 
-            "upvotes": "106"
+            "upvotes": "107"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "344", 
-            "upvotes": "589"
+            "upvotes": "590"
         }, 
         {
             "champName": "Jax", 
@@ -111,13 +111,13 @@
     "GoodWith": [
         {
             "champName": "LeBlanc", 
-            "downvotes": "376", 
-            "upvotes": "524"
+            "downvotes": "375", 
+            "upvotes": "526"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "128", 
-            "upvotes": "192"
+            "downvotes": "127", 
+            "upvotes": "193"
         }, 
         {
             "champName": "Ryze", 
@@ -126,8 +126,8 @@
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "88", 
-            "upvotes": "138"
+            "downvotes": "89", 
+            "upvotes": "137"
         }, 
         {
             "champName": "Amumu", 
@@ -135,14 +135,14 @@
             "upvotes": "137"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "91", 
-            "upvotes": "127"
-        }, 
-        {
             "champName": "Blitzcrank", 
             "downvotes": "67", 
-            "upvotes": "99"
+            "upvotes": "100"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "92", 
+            "upvotes": "126"
         }, 
         {
             "champName": "Evelynn", 
@@ -150,14 +150,14 @@
             "upvotes": "129"
         }, 
         {
+            "champName": "Gragas", 
+            "downvotes": "118", 
+            "upvotes": "131"
+        }, 
+        {
             "champName": "Lee Sin", 
             "downvotes": "83", 
             "upvotes": "96"
-        }, 
-        {
-            "champName": "Orianna", 
-            "downvotes": "33", 
-            "upvotes": "49"
         }
     ]
 }

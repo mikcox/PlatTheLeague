@@ -1,10 +1,16 @@
 'use strict';
 /* Services */
-platTheLeagueModule.factory('dataFactory', function ($http) {
+platTheLeagueModule.factory('dataFactory', function ($http, $q) {
 	var dataFactory = {};	
 	
 	dataFactory.readJSON = function(file) {
-		return $http.get(file);
+		var deferred = $q.defer();
+		
+		$http.get(file).success(function(data) {
+			deferred.resolve(data);
+		});
+		
+		return deferred.promise;
 	}
 	
 	

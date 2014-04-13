@@ -6,37 +6,37 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "936", 
-            "upvotes": "2532"
+            "downvotes": "939", 
+            "upvotes": "2534"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "228", 
-            "upvotes": "488"
+            "downvotes": "231", 
+            "upvotes": "490"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "803", 
-            "upvotes": "1474"
+            "upvotes": "1478"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "927", 
-            "upvotes": "1591"
+            "downvotes": "928", 
+            "upvotes": "1593"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "1040", 
+            "downvotes": "1041", 
             "upvotes": "1762"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "288", 
+            "downvotes": "289", 
             "upvotes": "530"
         }, 
         {
             "champName": "Karma", 
-            "downvotes": "464", 
+            "downvotes": "465", 
             "upvotes": "779"
         }, 
         {
@@ -47,24 +47,24 @@
         {
             "champName": "Renekton", 
             "downvotes": "258", 
-            "upvotes": "426"
+            "upvotes": "427"
         }, 
         {
-            "champName": "Olaf", 
-            "downvotes": "205", 
-            "upvotes": "348"
+            "champName": "Xin Zhao", 
+            "downvotes": "41", 
+            "upvotes": "115"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Zac", 
-            "downvotes": "508", 
-            "upvotes": "1865"
+            "downvotes": "509", 
+            "upvotes": "1867"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "321", 
-            "upvotes": "843"
+            "upvotes": "846"
         }, 
         {
             "champName": "Jarvan IV", 
@@ -82,57 +82,57 @@
             "upvotes": "96"
         }, 
         {
-            "champName": "Shyvana", 
-            "downvotes": "255", 
-            "upvotes": "385"
-        }, 
-        {
             "champName": "Malphite", 
             "downvotes": "500", 
-            "upvotes": "704"
+            "upvotes": "705"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "257", 
+            "upvotes": "384"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "54", 
-            "upvotes": "119"
+            "upvotes": "120"
         }, 
         {
             "champName": "Shaco", 
             "downvotes": "191", 
-            "upvotes": "292"
+            "upvotes": "293"
         }, 
         {
             "champName": "Master Yi", 
             "downvotes": "18", 
-            "upvotes": "70"
+            "upvotes": "73"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/vi.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "121", 
+            "downvotes": "122", 
             "upvotes": "539"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "575", 
+            "downvotes": "576", 
             "upvotes": "1551"
         }, 
         {
             "champName": "Orianna", 
             "downvotes": "158", 
-            "upvotes": "370"
+            "upvotes": "371"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "12", 
-            "upvotes": "57"
+            "downvotes": "11", 
+            "upvotes": "58"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "23", 
-            "upvotes": "62"
+            "downvotes": "24", 
+            "upvotes": "61"
         }, 
         {
             "champName": "Blitzcrank", 
@@ -145,11 +145,6 @@
             "upvotes": "56"
         }, 
         {
-            "champName": "Zed", 
-            "downvotes": "34", 
-            "upvotes": "69"
-        }, 
-        {
             "champName": "Ahri", 
             "downvotes": "81", 
             "upvotes": "127"
@@ -158,6 +153,11 @@
             "champName": "Jayce", 
             "downvotes": "17", 
             "upvotes": "46"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "35", 
+            "upvotes": "68"
         }
     ]
 }

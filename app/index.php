@@ -16,8 +16,8 @@
             <a id="logo" href="#/"><img src="images/platinum_logo.png"/></a>
         </header>
         <div style="width:100%; text-align:center;">
-            <p style="margin-bottom: 0; font-size: 30px; line-height: 1; letter-spacing: -1px; color:black;">
-            	Team Builder Beta</p>
+            <h1 style="margin-bottom: 0; color:black;">
+            	Team Builder Beta</h1>
         </div>
         <div ng-view>
         </div>

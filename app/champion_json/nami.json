@@ -17,22 +17,22 @@
         {
             "champName": "Fizz", 
             "downvotes": "161", 
-            "upvotes": "271"
-        }, 
-        {
-            "champName": "Leona", 
-            "downvotes": "564", 
-            "upvotes": "691"
+            "upvotes": "272"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "103", 
-            "upvotes": "162"
+            "downvotes": "102", 
+            "upvotes": "163"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "565", 
+            "upvotes": "691"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "264", 
-            "upvotes": "315"
+            "downvotes": "263", 
+            "upvotes": "316"
         }, 
         {
             "champName": "Vayne", 
@@ -42,7 +42,7 @@
         {
             "champName": "Sona", 
             "downvotes": "324", 
-            "upvotes": "331"
+            "upvotes": "332"
         }, 
         {
             "champName": "Yasuo", 
@@ -51,25 +51,25 @@
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "338", 
-            "upvotes": "306"
+            "downvotes": "339", 
+            "upvotes": "305"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Draven", 
             "downvotes": "424", 
-            "upvotes": "726"
+            "upvotes": "728"
         }, 
         {
             "champName": "Taric", 
-            "downvotes": "428", 
-            "upvotes": "692"
+            "downvotes": "427", 
+            "upvotes": "695"
         }, 
         {
             "champName": "Thresh", 
             "downvotes": "250", 
-            "upvotes": "367"
+            "upvotes": "369"
         }, 
         {
             "champName": "Katarina", 
@@ -78,12 +78,12 @@
         }, 
         {
             "champName": "Urgot", 
-            "downvotes": "276", 
-            "upvotes": "369"
+            "downvotes": "275", 
+            "upvotes": "370"
         }, 
         {
             "champName": "Karma", 
-            "downvotes": "289", 
+            "downvotes": "290", 
             "upvotes": "365"
         }, 
         {
@@ -98,51 +98,51 @@
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "167", 
-            "upvotes": "189"
+            "downvotes": "166", 
+            "upvotes": "190"
         }, 
         {
-            "champName": "Caitlyn", 
-            "downvotes": "101", 
-            "upvotes": "110"
+            "champName": "Draven", 
+            "downvotes": "69", 
+            "upvotes": "84"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/nami.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "19", 
-            "upvotes": "336"
+            "downvotes": "18", 
+            "upvotes": "337"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "167", 
-            "upvotes": "1163"
+            "downvotes": "166", 
+            "upvotes": "1165"
         }, 
         {
             "champName": "Ashe", 
             "downvotes": "30", 
-            "upvotes": "309"
+            "upvotes": "310"
         }, 
         {
             "champName": "Tristana", 
-            "downvotes": "27", 
-            "upvotes": "201"
+            "downvotes": "26", 
+            "upvotes": "202"
         }, 
         {
             "champName": "Draven", 
             "downvotes": "133", 
-            "upvotes": "629"
+            "upvotes": "630"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "180", 
-            "upvotes": "818"
+            "downvotes": "181", 
+            "upvotes": "819"
         }, 
         {
             "champName": "Varus", 
-            "downvotes": "149", 
-            "upvotes": "673"
+            "downvotes": "148", 
+            "upvotes": "675"
         }, 
         {
             "champName": "Corki", 
@@ -151,13 +151,13 @@
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "25", 
-            "upvotes": "163"
+            "downvotes": "24", 
+            "upvotes": "164"
         }, 
         {
             "champName": "Jinx", 
-            "downvotes": "326", 
-            "upvotes": "1227"
+            "downvotes": "327", 
+            "upvotes": "1230"
         }
     ]
 }

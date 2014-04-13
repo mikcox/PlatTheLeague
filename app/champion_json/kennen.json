@@ -6,48 +6,48 @@
     "WeakAgainst": [
         {
             "champName": "Janna", 
-            "downvotes": "549", 
-            "upvotes": "1586"
+            "downvotes": "548", 
+            "upvotes": "1590"
         }, 
         {
             "champName": "Yorick", 
             "downvotes": "438", 
-            "upvotes": "935"
+            "upvotes": "938"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "1367", 
-            "upvotes": "2533"
+            "downvotes": "1373", 
+            "upvotes": "2536"
         }, 
         {
             "champName": "Swain", 
             "downvotes": "578", 
-            "upvotes": "1065"
+            "upvotes": "1066"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "109", 
-            "upvotes": "229"
+            "downvotes": "110", 
+            "upvotes": "228"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "71", 
-            "upvotes": "159"
+            "downvotes": "73", 
+            "upvotes": "158"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "298", 
+            "downvotes": "300", 
             "upvotes": "465"
         }, 
         {
-            "champName": "Elise", 
-            "downvotes": "95", 
-            "upvotes": "183"
+            "champName": "Lux", 
+            "downvotes": "195", 
+            "upvotes": "315"
         }, 
         {
-            "champName": "Lux", 
-            "downvotes": "194", 
-            "upvotes": "315"
+            "champName": "Elise", 
+            "downvotes": "96", 
+            "upvotes": "182"
         }, 
         {
             "champName": "Diana", 
@@ -58,22 +58,22 @@
     "StrongAgainst": [
         {
             "champName": "Riven", 
-            "downvotes": "1347", 
-            "upvotes": "3045"
+            "downvotes": "1350", 
+            "upvotes": "3046"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "1197", 
-            "upvotes": "2592"
+            "downvotes": "1198", 
+            "upvotes": "2595"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "568", 
-            "upvotes": "1259"
+            "downvotes": "569", 
+            "upvotes": "1261"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "721", 
+            "downvotes": "724", 
             "upvotes": "1425"
         }, 
         {
@@ -88,56 +88,56 @@
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "181", 
+            "downvotes": "182", 
             "upvotes": "365"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "283", 
+            "upvotes": "522"
         }, 
         {
             "champName": "Tryndamere", 
             "downvotes": "76", 
-            "upvotes": "185"
-        }, 
-        {
-            "champName": "Jax", 
-            "downvotes": "284", 
-            "upvotes": "516"
+            "upvotes": "186"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "638", 
-            "upvotes": "1078"
+            "upvotes": "1085"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/kennen.png", 
     "GoodWith": [
         {
             "champName": "Amumu", 
-            "downvotes": "403", 
+            "downvotes": "404", 
             "upvotes": "826"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "78", 
-            "upvotes": "184"
+            "downvotes": "77", 
+            "upvotes": "186"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "58", 
-            "upvotes": "140"
+            "downvotes": "57", 
+            "upvotes": "141"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "31", 
-            "upvotes": "91"
-        }, 
-        {
-            "champName": "Orianna", 
-            "downvotes": "21", 
-            "upvotes": "67"
+            "downvotes": "32", 
+            "upvotes": "90"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "527", 
-            "upvotes": "874"
+            "downvotes": "525", 
+            "upvotes": "877"
+        }, 
+        {
+            "champName": "Orianna", 
+            "downvotes": "22", 
+            "upvotes": "66"
         }, 
         {
             "champName": "Leona", 
@@ -145,19 +145,19 @@
             "upvotes": "124"
         }, 
         {
-            "champName": "Blitzcrank", 
-            "downvotes": "5", 
-            "upvotes": "37"
-        }, 
-        {
             "champName": "Fiddlesticks", 
-            "downvotes": "212", 
-            "upvotes": "341"
+            "downvotes": "210", 
+            "upvotes": "343"
         }, 
         {
             "champName": "Galio", 
-            "downvotes": "162", 
-            "upvotes": "262"
+            "downvotes": "163", 
+            "upvotes": "261"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "50", 
+            "upvotes": "97"
         }
     ]
 }

@@ -7,42 +7,42 @@
         {
             "champName": "Talon", 
             "downvotes": "2561", 
-            "upvotes": "11659"
+            "upvotes": "11670"
         }, 
         {
             "champName": "Pantheon", 
             "downvotes": "775", 
-            "upvotes": "2538"
+            "upvotes": "2539"
         }, 
         {
             "champName": "Heimerdinger", 
-            "downvotes": "748", 
-            "upvotes": "1829"
+            "downvotes": "749", 
+            "upvotes": "1835"
         }, 
         {
             "champName": "Kha'Zix", 
             "downvotes": "981", 
-            "upvotes": "2189"
+            "upvotes": "2192"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "1259", 
-            "upvotes": "2779"
+            "downvotes": "1260", 
+            "upvotes": "2778"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "158", 
+            "downvotes": "159", 
             "upvotes": "417"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "245", 
-            "upvotes": "582"
+            "downvotes": "244", 
+            "upvotes": "584"
         }, 
         {
             "champName": "Sion", 
             "downvotes": "641", 
-            "upvotes": "1359"
+            "upvotes": "1363"
         }, 
         {
             "champName": "Gangplank", 
@@ -52,24 +52,24 @@
         {
             "champName": "Yasuo", 
             "downvotes": "190", 
-            "upvotes": "451"
+            "upvotes": "452"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "1058", 
-            "upvotes": "4588"
+            "downvotes": "1059", 
+            "upvotes": "4590"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "901", 
-            "upvotes": "2897"
+            "downvotes": "902", 
+            "upvotes": "2902"
         }, 
         {
             "champName": "Brand", 
-            "downvotes": "1320", 
-            "upvotes": "3425"
+            "downvotes": "1326", 
+            "upvotes": "3428"
         }, 
         {
             "champName": "Vel'Koz", 
@@ -78,41 +78,41 @@
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "1994", 
-            "upvotes": "4247"
+            "downvotes": "1998", 
+            "upvotes": "4251"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "929", 
+            "downvotes": "932", 
             "upvotes": "1965"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "1551", 
-            "upvotes": "3151"
+            "downvotes": "1552", 
+            "upvotes": "3156"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "1732", 
-            "upvotes": "3410"
+            "downvotes": "1736", 
+            "upvotes": "3412"
         }, 
         {
             "champName": "Veigar", 
-            "downvotes": "656", 
-            "upvotes": "1336"
+            "downvotes": "659", 
+            "upvotes": "1338"
         }, 
         {
             "champName": "Twisted Fate", 
             "downvotes": "528", 
-            "upvotes": "1072"
+            "upvotes": "1073"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/kassadin.png", 
     "GoodWith": [
         {
             "champName": "Diana", 
-            "downvotes": "652", 
-            "upvotes": "1057"
+            "downvotes": "655", 
+            "upvotes": "1056"
         }, 
         {
             "champName": "Aatrox", 
@@ -121,8 +121,8 @@
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "317", 
-            "upvotes": "440"
+            "downvotes": "315", 
+            "upvotes": "442"
         }, 
         {
             "champName": "Ahri", 
@@ -132,7 +132,7 @@
         {
             "champName": "Amumu", 
             "downvotes": "150", 
-            "upvotes": "204"
+            "upvotes": "206"
         }, 
         {
             "champName": "Akali", 
@@ -146,18 +146,18 @@
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "323", 
-            "upvotes": "394"
+            "downvotes": "324", 
+            "upvotes": "393"
         }, 
         {
             "champName": "Maokai", 
-            "downvotes": "213", 
-            "upvotes": "251"
+            "downvotes": "214", 
+            "upvotes": "250"
         }, 
         {
-            "champName": "Ashe", 
-            "downvotes": "106", 
-            "upvotes": "114"
+            "champName": "Soraka", 
+            "downvotes": "8", 
+            "upvotes": "25"
         }
     ]
 }

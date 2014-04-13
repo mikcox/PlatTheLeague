@@ -7,7 +7,7 @@
         {
             "champName": "Soraka", 
             "downvotes": "371", 
-            "upvotes": "727"
+            "upvotes": "729"
         }, 
         {
             "champName": "Sivir", 
@@ -16,12 +16,12 @@
         }, 
         {
             "champName": "Nami", 
-            "downvotes": "276", 
-            "upvotes": "369"
+            "downvotes": "275", 
+            "upvotes": "370"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "50", 
+            "downvotes": "51", 
             "upvotes": "104"
         }, 
         {
@@ -36,13 +36,13 @@
         }, 
         {
             "champName": "Alistar", 
-            "downvotes": "100", 
+            "downvotes": "101", 
             "upvotes": "105"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "105", 
-            "upvotes": "106"
+            "upvotes": "107"
         }, 
         {
             "champName": "Alistar", 
@@ -58,13 +58,13 @@
     "StrongAgainst": [
         {
             "champName": "Graves", 
-            "downvotes": "442", 
+            "downvotes": "443", 
             "upvotes": "1068"
         }, 
         {
             "champName": "Ashe", 
             "downvotes": "227", 
-            "upvotes": "372"
+            "upvotes": "373"
         }, 
         {
             "champName": "Vayne", 
@@ -73,13 +73,13 @@
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "295", 
-            "upvotes": "439"
+            "downvotes": "294", 
+            "upvotes": "441"
         }, 
         {
             "champName": "Jinx", 
             "downvotes": "55", 
-            "upvotes": "115"
+            "upvotes": "116"
         }, 
         {
             "champName": "Teemo", 
@@ -88,8 +88,8 @@
         }, 
         {
             "champName": "Corki", 
-            "downvotes": "445", 
-            "upvotes": "523"
+            "downvotes": "444", 
+            "upvotes": "524"
         }, 
         {
             "champName": "Varus", 
@@ -121,23 +121,23 @@
         }, 
         {
             "champName": "Alistar", 
-            "downvotes": "94", 
-            "upvotes": "188"
+            "downvotes": "93", 
+            "upvotes": "189"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "22", 
-            "upvotes": "69"
-        }, 
-        {
-            "champName": "Lulu", 
-            "downvotes": "19", 
-            "upvotes": "61"
+            "downvotes": "23", 
+            "upvotes": "68"
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "76", 
-            "upvotes": "149"
+            "downvotes": "75", 
+            "upvotes": "150"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "20", 
+            "upvotes": "60"
         }, 
         {
             "champName": "Thresh", 
@@ -145,19 +145,19 @@
             "upvotes": "231"
         }, 
         {
-            "champName": "Sona", 
-            "downvotes": "13", 
-            "upvotes": "45"
-        }, 
-        {
             "champName": "Blitzcrank", 
-            "downvotes": "100", 
-            "upvotes": "158"
+            "downvotes": "99", 
+            "upvotes": "159"
         }, 
         {
             "champName": "Nami", 
-            "downvotes": "17", 
-            "upvotes": "47"
+            "downvotes": "16", 
+            "upvotes": "48"
+        }, 
+        {
+            "champName": "Sona", 
+            "downvotes": "14", 
+            "upvotes": "44"
         }
     ]
 }

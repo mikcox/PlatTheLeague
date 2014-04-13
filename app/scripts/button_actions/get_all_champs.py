@@ -32,10 +32,16 @@ else:
         print champjson["data"][i]["name"]
         prettyName = champjson["data"][i]["name"]
         lowerName = champjson["data"][i]["name"].lower().replace(" ", "").replace("'", "").replace(".", "")
-        allChamps.append({"ChampionName":{"pretty":prettyName, "lower":lowerName},
-                          "ChampionImageLocation":"http://www.solomid.net/guide/champ/"+lowerName+".png"})
+        allChamps.append({"ChampionName":{"pretty":prettyName, "lower":lowerName}})
         call(["python", workingdir+"get_counter_info.py", prettyName])
-    
+    #read all the counter information into a variable
+    for i in range(0, len(allChamps)):
+        champName = allChamps[i]["ChampionName"]["lower"]
+        counterJSON = ''
+        with open(champJSONdir+champName+'.json', 'r') as file:
+            counterJSON = json.load(file);
+            allChamps[i] = counterJSON;
+    #and dump the variable into an all_champs.json file
     with open(champJSONdir+'all_champs.json', 'w') as file:
         json.dump({"Champions":allChamps}, file, indent=4, sort_keys=True);
 	

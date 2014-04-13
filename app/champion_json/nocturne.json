@@ -6,28 +6,28 @@
     "WeakAgainst": [
         {
             "champName": "Olaf", 
-            "downvotes": "292", 
-            "upvotes": "515"
+            "downvotes": "293", 
+            "upvotes": "516"
         }, 
         {
             "champName": "Udyr", 
             "downvotes": "221", 
-            "upvotes": "312"
+            "upvotes": "314"
         }, 
         {
             "champName": "Graves", 
             "downvotes": "115", 
-            "upvotes": "166"
+            "upvotes": "167"
         }, 
         {
             "champName": "Karma", 
-            "downvotes": "208", 
-            "upvotes": "256"
+            "downvotes": "209", 
+            "upvotes": "258"
         }, 
         {
             "champName": "Vi", 
-            "downvotes": "184", 
-            "upvotes": "223"
+            "downvotes": "186", 
+            "upvotes": "222"
         }, 
         {
             "champName": "Shyvana", 
@@ -45,21 +45,21 @@
             "upvotes": "168"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "143", 
-            "upvotes": "148"
-        }, 
-        {
             "champName": "Kha'Zix", 
             "downvotes": "82", 
-            "upvotes": "98"
+            "upvotes": "99"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "144", 
+            "upvotes": "148"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Twisted Fate", 
             "downvotes": "355", 
-            "upvotes": "778"
+            "upvotes": "779"
         }, 
         {
             "champName": "Darius", 
@@ -69,7 +69,7 @@
         {
             "champName": "Lee Sin", 
             "downvotes": "388", 
-            "upvotes": "555"
+            "upvotes": "556"
         }, 
         {
             "champName": "Veigar", 
@@ -79,12 +79,12 @@
         {
             "champName": "Shen", 
             "downvotes": "142", 
-            "upvotes": "208"
+            "upvotes": "209"
         }, 
         {
             "champName": "Xin Zhao", 
             "downvotes": "134", 
-            "upvotes": "192"
+            "upvotes": "194"
         }, 
         {
             "champName": "Karthus", 
@@ -92,14 +92,14 @@
             "upvotes": "183"
         }, 
         {
-            "champName": "Nunu", 
-            "downvotes": "46", 
-            "upvotes": "87"
+            "champName": "Shen", 
+            "downvotes": "173", 
+            "upvotes": "210"
         }, 
         {
-            "champName": "Shen", 
-            "downvotes": "174", 
-            "upvotes": "208"
+            "champName": "Nunu", 
+            "downvotes": "49", 
+            "upvotes": "85"
         }, 
         {
             "champName": "Elise", 
@@ -116,13 +116,18 @@
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "314", 
-            "upvotes": "537"
+            "downvotes": "313", 
+            "upvotes": "539"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "170", 
-            "upvotes": "271"
+            "downvotes": "171", 
+            "upvotes": "270"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "16", 
+            "upvotes": "48"
         }, 
         {
             "champName": "Pantheon", 
@@ -130,19 +135,14 @@
             "upvotes": "97"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "16", 
-            "upvotes": "47"
+            "champName": "Rengar", 
+            "downvotes": "159", 
+            "upvotes": "230"
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "90", 
-            "upvotes": "141"
-        }, 
-        {
-            "champName": "Rengar", 
-            "downvotes": "160", 
-            "upvotes": "229"
+            "downvotes": "91", 
+            "upvotes": "140"
         }, 
         {
             "champName": "Karthus", 
@@ -156,8 +156,8 @@
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "100", 
-            "upvotes": "105"
+            "downvotes": "99", 
+            "upvotes": "106"
         }
     ]
 }

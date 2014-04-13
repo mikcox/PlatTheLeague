@@ -6,23 +6,23 @@
     "WeakAgainst": [
         {
             "champName": "Syndra", 
-            "downvotes": "681", 
-            "upvotes": "2749"
+            "downvotes": "682", 
+            "upvotes": "2757"
         }, 
         {
             "champName": "Vel'Koz", 
-            "downvotes": "307", 
-            "upvotes": "808"
+            "downvotes": "309", 
+            "upvotes": "810"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "1787", 
-            "upvotes": "4063"
+            "downvotes": "1790", 
+            "upvotes": "4072"
         }, 
         {
             "champName": "Ziggs", 
-            "downvotes": "675", 
-            "upvotes": "1475"
+            "downvotes": "680", 
+            "upvotes": "1479"
         }, 
         {
             "champName": "Malzahar", 
@@ -31,18 +31,18 @@
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "68", 
-            "upvotes": "209"
+            "downvotes": "71", 
+            "upvotes": "210"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "42", 
+            "downvotes": "43", 
             "upvotes": "155"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "394", 
-            "upvotes": "738"
+            "downvotes": "395", 
+            "upvotes": "741"
         }, 
         {
             "champName": "Brand", 
@@ -52,49 +52,49 @@
         {
             "champName": "Xerath", 
             "downvotes": "194", 
-            "upvotes": "380"
+            "upvotes": "383"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Katarina", 
-            "downvotes": "439", 
-            "upvotes": "1117"
+            "downvotes": "441", 
+            "upvotes": "1122"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "748", 
-            "upvotes": "1829"
+            "downvotes": "749", 
+            "upvotes": "1835"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "300", 
-            "upvotes": "592"
+            "downvotes": "301", 
+            "upvotes": "595"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "20", 
-            "upvotes": "97"
-        }, 
-        {
-            "champName": "Zed", 
-            "downvotes": "15", 
-            "upvotes": "82"
+            "upvotes": "100"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "40", 
-            "upvotes": "118"
+            "downvotes": "42", 
+            "upvotes": "124"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "16", 
+            "upvotes": "82"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "67", 
+            "downvotes": "68", 
             "upvotes": "156"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "659", 
-            "upvotes": "1012"
+            "downvotes": "661", 
+            "upvotes": "1011"
         }, 
         {
             "champName": "Nidalee", 
@@ -104,15 +104,15 @@
         {
             "champName": "Talon", 
             "downvotes": "22", 
-            "upvotes": "86"
+            "upvotes": "87"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/heimerdinger.png", 
     "GoodWith": [
         {
             "champName": "Blitzcrank", 
-            "downvotes": "223", 
-            "upvotes": "387"
+            "downvotes": "224", 
+            "upvotes": "386"
         }, 
         {
             "champName": "Teemo", 
@@ -121,8 +121,8 @@
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "135", 
-            "upvotes": "185"
+            "downvotes": "134", 
+            "upvotes": "186"
         }, 
         {
             "champName": "Vi", 
@@ -141,8 +141,8 @@
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "17", 
-            "upvotes": "36"
+            "downvotes": "16", 
+            "upvotes": "37"
         }, 
         {
             "champName": "Ezreal", 

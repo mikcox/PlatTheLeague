@@ -6,17 +6,17 @@
     "WeakAgainst": [
         {
             "champName": "Ahri", 
-            "downvotes": "1518", 
-            "upvotes": "3195"
+            "downvotes": "1521", 
+            "upvotes": "3196"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "515", 
-            "upvotes": "867"
+            "downvotes": "518", 
+            "upvotes": "869"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "431", 
+            "downvotes": "434", 
             "upvotes": "694"
         }, 
         {
@@ -26,23 +26,23 @@
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "503", 
-            "upvotes": "698"
-        }, 
-        {
-            "champName": "Syndra", 
-            "downvotes": "171", 
-            "upvotes": "265"
+            "downvotes": "505", 
+            "upvotes": "697"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "122", 
-            "upvotes": "203"
+            "downvotes": "121", 
+            "upvotes": "204"
+        }, 
+        {
+            "champName": "Syndra", 
+            "downvotes": "172", 
+            "upvotes": "265"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "136", 
-            "upvotes": "220"
+            "downvotes": "137", 
+            "upvotes": "221"
         }, 
         {
             "champName": "Aatrox", 
@@ -50,16 +50,16 @@
             "upvotes": "71"
         }, 
         {
-            "champName": "Malzahar", 
-            "downvotes": "146", 
-            "upvotes": "197"
+            "champName": "Ziggs", 
+            "downvotes": "34", 
+            "upvotes": "79"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "626", 
-            "upvotes": "1854"
+            "downvotes": "627", 
+            "upvotes": "1859"
         }, 
         {
             "champName": "Vel'Koz", 
@@ -74,7 +74,7 @@
         {
             "champName": "Heimerdinger", 
             "downvotes": "194", 
-            "upvotes": "380"
+            "upvotes": "383"
         }, 
         {
             "champName": "Vel'Koz", 
@@ -84,27 +84,27 @@
         {
             "champName": "Karthus", 
             "downvotes": "212", 
-            "upvotes": "393"
+            "upvotes": "395"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "63", 
-            "upvotes": "145"
+            "downvotes": "62", 
+            "upvotes": "146"
         }, 
         {
             "champName": "Lissandra", 
             "downvotes": "148", 
-            "upvotes": "263"
+            "upvotes": "264"
         }, 
         {
             "champName": "Annie", 
-            "downvotes": "395", 
-            "upvotes": "605"
+            "downvotes": "397", 
+            "upvotes": "606"
         }, 
         {
-            "champName": "Yasuo", 
-            "downvotes": "40", 
-            "upvotes": "110"
+            "champName": "Fizz", 
+            "downvotes": "25", 
+            "upvotes": "90"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/xerath.png", 
@@ -112,17 +112,17 @@
         {
             "champName": "Amumu", 
             "downvotes": "134", 
-            "upvotes": "218"
+            "upvotes": "219"
         }, 
         {
             "champName": "Jarvan IV", 
             "downvotes": "221", 
-            "upvotes": "318"
+            "upvotes": "319"
         }, 
         {
             "champName": "Varus", 
-            "downvotes": "177", 
-            "upvotes": "212"
+            "downvotes": "179", 
+            "upvotes": "210"
         }, 
         {
             "champName": "Leona", 
@@ -145,14 +145,14 @@
             "upvotes": "58"
         }, 
         {
+            "champName": "Evelynn", 
+            "downvotes": "58", 
+            "upvotes": "61"
+        }, 
+        {
             "champName": "Akali", 
             "downvotes": "84", 
             "upvotes": "81"
-        }, 
-        {
-            "champName": "Evelynn", 
-            "downvotes": "59", 
-            "upvotes": "60"
         }, 
         {
             "champName": "Jayce", 

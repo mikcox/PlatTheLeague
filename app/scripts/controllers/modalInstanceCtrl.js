@@ -6,7 +6,6 @@ platTheLeagueModule.controller('modalInstanceCtrl', [
 	function ($scope, $modalInstance, data) {
 		$scope.selectedChamp = data;
 		
-		$scope.test = 'foo';
 		$scope.cancel = function () {
 			$modalInstance.dismiss('cancel');
 		};

@@ -6,33 +6,33 @@
     "WeakAgainst": [
         {
             "champName": "Fizz", 
-            "downvotes": "2249", 
-            "upvotes": "5348"
-        }, 
-        {
-            "champName": "Kassadin", 
-            "downvotes": "935", 
-            "upvotes": "1816"
+            "downvotes": "2252", 
+            "upvotes": "5354"
         }, 
         {
             "champName": "Diana", 
             "downvotes": "898", 
-            "upvotes": "1746"
+            "upvotes": "1748"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "937", 
+            "upvotes": "1816"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "1150", 
-            "upvotes": "1831"
+            "downvotes": "1151", 
+            "upvotes": "1832"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "136", 
-            "upvotes": "261"
+            "downvotes": "138", 
+            "upvotes": "263"
         }, 
         {
             "champName": "Gragas", 
             "downvotes": "442", 
-            "upvotes": "709"
+            "upvotes": "712"
         }, 
         {
             "champName": "Talon", 
@@ -42,54 +42,54 @@
         {
             "champName": "Yasuo", 
             "downvotes": "5", 
-            "upvotes": "61"
+            "upvotes": "62"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "359", 
-            "upvotes": "519"
+            "downvotes": "358", 
+            "upvotes": "522"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "263", 
-            "upvotes": "371"
+            "champName": "Akali", 
+            "downvotes": "236", 
+            "upvotes": "338"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "841", 
-            "upvotes": "2075"
+            "downvotes": "843", 
+            "upvotes": "2076"
         }, 
         {
             "champName": "Karthus", 
             "downvotes": "352", 
-            "upvotes": "732"
+            "upvotes": "734"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "643", 
-            "upvotes": "1208"
+            "downvotes": "647", 
+            "upvotes": "1210"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "536", 
-            "upvotes": "988"
+            "downvotes": "538", 
+            "upvotes": "989"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "97", 
-            "upvotes": "179"
-        }, 
-        {
-            "champName": "Zed", 
-            "downvotes": "58", 
-            "upvotes": "127"
+            "downvotes": "98", 
+            "upvotes": "180"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "329", 
-            "upvotes": "477"
+            "upvotes": "478"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "59", 
+            "upvotes": "127"
         }, 
         {
             "champName": "LeBlanc", 
@@ -99,7 +99,7 @@
         {
             "champName": "Akali", 
             "downvotes": "304", 
-            "upvotes": "431"
+            "upvotes": "432"
         }, 
         {
             "champName": "Lux", 
@@ -116,23 +116,23 @@
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "19", 
-            "upvotes": "66"
+            "downvotes": "18", 
+            "upvotes": "67"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "189", 
-            "upvotes": "312"
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "downvotes": "44", 
-            "upvotes": "87"
+            "downvotes": "190", 
+            "upvotes": "314"
         }, 
         {
             "champName": "Ashe", 
             "downvotes": "156", 
-            "upvotes": "235"
+            "upvotes": "236"
+        }, 
+        {
+            "champName": "Blitzcrank", 
+            "downvotes": "45", 
+            "upvotes": "86"
         }, 
         {
             "champName": "Aatrox", 
@@ -141,23 +141,23 @@
         }, 
         {
             "champName": "Trundle", 
-            "downvotes": "298", 
+            "downvotes": "299", 
             "upvotes": "403"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "15", 
+            "downvotes": "16", 
             "upvotes": "43"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "24", 
-            "upvotes": "53"
+            "champName": "Amumu", 
+            "downvotes": "115", 
+            "upvotes": "158"
         }, 
         {
-            "champName": "Darius", 
-            "downvotes": "15", 
-            "upvotes": "42"
+            "champName": "Ahri", 
+            "downvotes": "25", 
+            "upvotes": "52"
         }
     ]
 }

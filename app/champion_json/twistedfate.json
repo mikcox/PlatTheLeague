@@ -6,42 +6,42 @@
     "WeakAgainst": [
         {
             "champName": "Fizz", 
-            "downvotes": "1231", 
-            "upvotes": "4185"
+            "downvotes": "1233", 
+            "upvotes": "4194"
         }, 
         {
             "champName": "Diana", 
             "downvotes": "729", 
-            "upvotes": "1843"
+            "upvotes": "1844"
         }, 
         {
             "champName": "Nocturne", 
             "downvotes": "355", 
-            "upvotes": "778"
-        }, 
-        {
-            "champName": "LeBlanc", 
-            "downvotes": "710", 
-            "upvotes": "1468"
+            "upvotes": "779"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "5", 
-            "upvotes": "86"
+            "upvotes": "88"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "712", 
+            "upvotes": "1468"
         }, 
         {
             "champName": "Kassadin", 
             "downvotes": "528", 
-            "upvotes": "1072"
+            "upvotes": "1073"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "1037", 
+            "downvotes": "1038", 
             "upvotes": "1917"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "229", 
+            "downvotes": "230", 
             "upvotes": "468"
         }, 
         {
@@ -50,30 +50,30 @@
             "upvotes": "310"
         }, 
         {
-            "champName": "Zed", 
-            "downvotes": "505", 
-            "upvotes": "901"
+            "champName": "Aatrox", 
+            "downvotes": "29", 
+            "upvotes": "115"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "875", 
-            "upvotes": "1297"
+            "downvotes": "874", 
+            "upvotes": "1300"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "325", 
-            "upvotes": "449"
+            "downvotes": "324", 
+            "upvotes": "450"
         }, 
         {
             "champName": "Evelynn", 
-            "downvotes": "534", 
-            "upvotes": "665"
+            "downvotes": "532", 
+            "upvotes": "667"
         }, 
         {
             "champName": "Evelynn", 
-            "downvotes": "439", 
+            "downvotes": "440", 
             "upvotes": "541"
         }, 
         {
@@ -87,14 +87,14 @@
             "upvotes": "179"
         }, 
         {
+            "champName": "Karthus", 
+            "downvotes": "223", 
+            "upvotes": "246"
+        }, 
+        {
             "champName": "Katarina", 
             "downvotes": "345", 
             "upvotes": "355"
-        }, 
-        {
-            "champName": "Karthus", 
-            "downvotes": "225", 
-            "upvotes": "244"
         }, 
         {
             "champName": "Fiddlesticks", 
@@ -103,7 +103,7 @@
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "141", 
+            "downvotes": "142", 
             "upvotes": "160"
         }
     ], 
@@ -117,27 +117,22 @@
         {
             "champName": "Shen", 
             "downvotes": "425", 
-            "upvotes": "856"
+            "upvotes": "857"
         }, 
         {
             "champName": "Gangplank", 
-            "downvotes": "267", 
+            "downvotes": "268", 
             "upvotes": "349"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "36", 
-            "upvotes": "61"
+            "downvotes": "35", 
+            "upvotes": "62"
         }, 
         {
             "champName": "Caitlyn", 
             "downvotes": "7", 
             "upvotes": "29"
-        }, 
-        {
-            "champName": "Taric", 
-            "downvotes": "92", 
-            "upvotes": "118"
         }, 
         {
             "champName": "Ashe", 
@@ -146,18 +141,23 @@
         }, 
         {
             "champName": "Rammus", 
-            "downvotes": "298", 
-            "upvotes": "330"
+            "downvotes": "299", 
+            "upvotes": "331"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "93", 
+            "upvotes": "117"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "188", 
-            "upvotes": "210"
+            "downvotes": "187", 
+            "upvotes": "211"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "127", 
-            "upvotes": "139"
+            "downvotes": "128", 
+            "upvotes": "138"
         }
     ]
 }

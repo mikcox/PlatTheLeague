@@ -7,46 +7,46 @@
         {
             "champName": "Pantheon", 
             "downvotes": "535", 
-            "upvotes": "1220"
+            "upvotes": "1221"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "2002", 
-            "upvotes": "4201"
+            "downvotes": "2001", 
+            "upvotes": "4203"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "811", 
+            "downvotes": "815", 
             "upvotes": "1734"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "853", 
-            "upvotes": "1527"
+            "downvotes": "854", 
+            "upvotes": "1530"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "404", 
-            "upvotes": "725"
+            "upvotes": "726"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "553", 
-            "upvotes": "931"
+            "downvotes": "556", 
+            "upvotes": "932"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "439", 
+            "downvotes": "440", 
             "upvotes": "728"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "540", 
+            "downvotes": "543", 
             "upvotes": "872"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "52", 
+            "downvotes": "53", 
             "upvotes": "137"
         }, 
         {
@@ -58,28 +58,28 @@
     "StrongAgainst": [
         {
             "champName": "Kha'Zix", 
-            "downvotes": "1324", 
-            "upvotes": "2498"
+            "downvotes": "1327", 
+            "upvotes": "2503"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "74", 
-            "upvotes": "186"
+            "upvotes": "187"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "288", 
-            "upvotes": "509"
+            "downvotes": "287", 
+            "upvotes": "510"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "277", 
-            "upvotes": "477"
+            "downvotes": "278", 
+            "upvotes": "478"
         }, 
         {
             "champName": "Kha'Zix", 
             "downvotes": "416", 
-            "upvotes": "668"
+            "upvotes": "670"
         }, 
         {
             "champName": "Renekton", 
@@ -89,30 +89,30 @@
         {
             "champName": "Riven", 
             "downvotes": "262", 
-            "upvotes": "429"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "11", 
-            "upvotes": "70"
+            "upvotes": "430"
         }, 
         {
             "champName": "Tryndamere", 
             "downvotes": "176", 
-            "upvotes": "290"
+            "upvotes": "291"
         }, 
         {
-            "champName": "Singed", 
-            "downvotes": "247", 
-            "upvotes": "375"
+            "champName": "Aatrox", 
+            "downvotes": "12", 
+            "upvotes": "70"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "26", 
+            "upvotes": "87"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/rengar.png", 
     "GoodWith": [
         {
             "champName": "Kha'Zix", 
-            "downvotes": "922", 
-            "upvotes": "3005"
+            "downvotes": "926", 
+            "upvotes": "3002"
         }, 
         {
             "champName": "Orianna", 
@@ -121,18 +121,18 @@
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "12", 
-            "upvotes": "55"
+            "downvotes": "13", 
+            "upvotes": "54"
         }, 
         {
             "champName": "Elise", 
             "downvotes": "461", 
-            "upvotes": "753"
+            "upvotes": "754"
         }, 
         {
             "champName": "Shen", 
             "downvotes": "406", 
-            "upvotes": "647"
+            "upvotes": "648"
         }, 
         {
             "champName": "Jax", 
@@ -141,8 +141,8 @@
         }, 
         {
             "champName": "Nocturne", 
-            "downvotes": "160", 
-            "upvotes": "229"
+            "downvotes": "159", 
+            "upvotes": "230"
         }, 
         {
             "champName": "Zilean", 
@@ -150,14 +150,14 @@
             "upvotes": "247"
         }, 
         {
+            "champName": "Ahri", 
+            "downvotes": "21", 
+            "upvotes": "46"
+        }, 
+        {
             "champName": "Alistar", 
             "downvotes": "6", 
             "upvotes": "29"
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "downvotes": "5", 
-            "upvotes": "27"
         }
     ]
 }

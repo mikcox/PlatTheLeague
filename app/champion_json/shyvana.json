@@ -6,113 +6,113 @@
     "WeakAgainst": [
         {
             "champName": "Olaf", 
-            "downvotes": "1216", 
-            "upvotes": "3157"
+            "downvotes": "1219", 
+            "upvotes": "3169"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "231", 
-            "upvotes": "505"
+            "downvotes": "230", 
+            "upvotes": "511"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "507", 
-            "upvotes": "883"
+            "downvotes": "508", 
+            "upvotes": "884"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "326", 
-            "upvotes": "554"
+            "downvotes": "330", 
+            "upvotes": "558"
         }, 
         {
             "champName": "Trundle", 
-            "downvotes": "144", 
-            "upvotes": "263"
+            "downvotes": "145", 
+            "upvotes": "269"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "165", 
-            "upvotes": "281"
+            "downvotes": "166", 
+            "upvotes": "283"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "150", 
-            "upvotes": "256"
+            "downvotes": "151", 
+            "upvotes": "257"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "274", 
-            "upvotes": "416"
+            "downvotes": "276", 
+            "upvotes": "417"
         }, 
         {
-            "champName": "Vi", 
-            "downvotes": "255", 
-            "upvotes": "385"
+            "champName": "Aatrox", 
+            "downvotes": "148", 
+            "upvotes": "244"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "687", 
+            "downvotes": "688", 
             "upvotes": "943"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Nautilus", 
-            "downvotes": "558", 
-            "upvotes": "2433"
+            "downvotes": "560", 
+            "upvotes": "2441"
         }, 
         {
             "champName": "Nautilus", 
-            "downvotes": "324", 
-            "upvotes": "1193"
-        }, 
-        {
-            "champName": "Nautilus", 
-            "downvotes": "407", 
-            "upvotes": "1245"
+            "downvotes": "325", 
+            "upvotes": "1198"
         }, 
         {
             "champName": "Nautilus", 
             "downvotes": "408", 
-            "upvotes": "1076"
+            "upvotes": "1248"
+        }, 
+        {
+            "champName": "Nautilus", 
+            "downvotes": "409", 
+            "upvotes": "1083"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "638", 
-            "upvotes": "1608"
+            "downvotes": "640", 
+            "upvotes": "1610"
         }, 
         {
             "champName": "Maokai", 
-            "downvotes": "313", 
+            "downvotes": "314", 
             "upvotes": "706"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "163", 
+            "downvotes": "167", 
             "upvotes": "399"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "565", 
-            "upvotes": "1145"
+            "downvotes": "571", 
+            "upvotes": "1149"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "219", 
-            "upvotes": "481"
+            "downvotes": "221", 
+            "upvotes": "482"
         }, 
         {
             "champName": "Wukong", 
             "downvotes": "87", 
-            "upvotes": "227"
+            "upvotes": "228"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/shyvana.png", 
     "GoodWith": [
         {
             "champName": "Orianna", 
-            "downvotes": "307", 
-            "upvotes": "547"
+            "downvotes": "306", 
+            "upvotes": "548"
         }, 
         {
             "champName": "Riven", 
@@ -120,34 +120,34 @@
             "upvotes": "114"
         }, 
         {
+            "champName": "Shen", 
+            "downvotes": "130", 
+            "upvotes": "177"
+        }, 
+        {
             "champName": "Jarvan IV", 
             "downvotes": "94", 
             "upvotes": "133"
         }, 
         {
-            "champName": "Shen", 
-            "downvotes": "130", 
-            "upvotes": "174"
-        }, 
-        {
-            "champName": "Yasuo", 
-            "downvotes": "16", 
-            "upvotes": "35"
-        }, 
-        {
-            "champName": "Lulu", 
-            "downvotes": "152", 
-            "upvotes": "165"
-        }, 
-        {
             "champName": "Malphite", 
-            "downvotes": "146", 
-            "upvotes": "158"
+            "downvotes": "145", 
+            "upvotes": "159"
         }, 
         {
             "champName": "Nautilus", 
-            "downvotes": "147", 
-            "upvotes": "158"
+            "downvotes": "146", 
+            "upvotes": "159"
+        }, 
+        {
+            "champName": "Lulu", 
+            "downvotes": "153", 
+            "upvotes": "164"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "17", 
+            "upvotes": "35"
         }, 
         {
             "champName": "Darius", 

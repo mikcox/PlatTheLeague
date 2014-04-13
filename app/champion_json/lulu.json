@@ -6,75 +6,75 @@
     "WeakAgainst": [
         {
             "champName": "Soraka", 
-            "downvotes": "499", 
-            "upvotes": "872"
+            "downvotes": "500", 
+            "upvotes": "875"
         }, 
         {
             "champName": "Syndra", 
-            "downvotes": "94", 
-            "upvotes": "212"
+            "downvotes": "95", 
+            "upvotes": "213"
         }, 
         {
             "champName": "Sona", 
             "downvotes": "342", 
-            "upvotes": "543"
+            "upvotes": "545"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "314", 
-            "upvotes": "375"
+            "downvotes": "315", 
+            "upvotes": "374"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "210", 
-            "upvotes": "243"
+            "downvotes": "211", 
+            "upvotes": "242"
         }, 
         {
             "champName": "Ziggs", 
-            "downvotes": "98", 
+            "downvotes": "99", 
             "upvotes": "125"
         }, 
         {
             "champName": "Morgana", 
             "downvotes": "29", 
-            "upvotes": "56"
+            "upvotes": "58"
         }, 
         {
             "champName": "Lucian", 
             "downvotes": "118", 
-            "upvotes": "123"
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "downvotes": "130", 
-            "upvotes": "129"
+            "upvotes": "124"
         }, 
         {
             "champName": "Viktor", 
             "downvotes": "45", 
-            "upvotes": "64"
+            "upvotes": "65"
+        }, 
+        {
+            "champName": "Brand", 
+            "downvotes": "58", 
+            "upvotes": "74"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Thresh", 
-            "downvotes": "538", 
-            "upvotes": "1593"
+            "downvotes": "543", 
+            "upvotes": "1602"
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "620", 
-            "upvotes": "1443"
-        }, 
-        {
-            "champName": "Akali", 
-            "downvotes": "63", 
-            "upvotes": "194"
+            "downvotes": "621", 
+            "upvotes": "1446"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "181", 
-            "upvotes": "407"
+            "upvotes": "411"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "66", 
+            "upvotes": "197"
         }, 
         {
             "champName": "Nami", 
@@ -89,12 +89,12 @@
         {
             "champName": "Fizz", 
             "downvotes": "54", 
-            "upvotes": "136"
+            "upvotes": "138"
         }, 
         {
             "champName": "LeBlanc", 
             "downvotes": "83", 
-            "upvotes": "175"
+            "upvotes": "176"
         }, 
         {
             "champName": "Akali", 
@@ -103,21 +103,21 @@
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "31", 
-            "upvotes": "92"
+            "downvotes": "32", 
+            "upvotes": "93"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/lulu.png", 
     "GoodWith": [
         {
             "champName": "Draven", 
-            "downvotes": "34", 
-            "upvotes": "282"
+            "downvotes": "33", 
+            "upvotes": "283"
         }, 
         {
             "champName": "Miss Fortune", 
             "downvotes": "29", 
-            "upvotes": "219"
+            "upvotes": "220"
         }, 
         {
             "champName": "Yasuo", 
@@ -131,8 +131,8 @@
         }, 
         {
             "champName": "Varus", 
-            "downvotes": "54", 
-            "upvotes": "288"
+            "downvotes": "55", 
+            "upvotes": "287"
         }, 
         {
             "champName": "Jinx", 
@@ -141,18 +141,18 @@
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "169", 
-            "upvotes": "612"
+            "downvotes": "170", 
+            "upvotes": "611"
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "15", 
-            "upvotes": "109"
+            "downvotes": "16", 
+            "upvotes": "108"
         }, 
         {
             "champName": "Tristana", 
-            "downvotes": "102", 
-            "upvotes": "359"
+            "downvotes": "103", 
+            "upvotes": "358"
         }, 
         {
             "champName": "Twitch", 

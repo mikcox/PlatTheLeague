@@ -6,33 +6,33 @@
     "WeakAgainst": [
         {
             "champName": "Sivir", 
-            "downvotes": "1267", 
-            "upvotes": "3030"
+            "downvotes": "1268", 
+            "upvotes": "3036"
         }, 
         {
             "champName": "Urgot", 
-            "downvotes": "442", 
+            "downvotes": "443", 
             "upvotes": "1068"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "2239", 
-            "upvotes": "4641"
+            "downvotes": "2245", 
+            "upvotes": "4648"
         }, 
         {
             "champName": "Miss Fortune", 
-            "downvotes": "1384", 
-            "upvotes": "2164"
+            "downvotes": "1387", 
+            "upvotes": "2167"
         }, 
         {
             "champName": "Corki", 
-            "downvotes": "519", 
-            "upvotes": "807"
+            "downvotes": "518", 
+            "upvotes": "808"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "690", 
-            "upvotes": "999"
+            "downvotes": "692", 
+            "upvotes": "1000"
         }, 
         {
             "champName": "Tristana", 
@@ -42,12 +42,12 @@
         {
             "champName": "Aatrox", 
             "downvotes": "84", 
-            "upvotes": "142"
+            "upvotes": "143"
         }, 
         {
             "champName": "Taric", 
             "downvotes": "313", 
-            "upvotes": "389"
+            "upvotes": "390"
         }, 
         {
             "champName": "Rammus", 
@@ -59,22 +59,22 @@
         {
             "champName": "Varus", 
             "downvotes": "1763", 
-            "upvotes": "5543"
+            "upvotes": "5555"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "4291", 
-            "upvotes": "9967"
+            "downvotes": "4295", 
+            "upvotes": "9973"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "1049", 
-            "upvotes": "2080"
+            "downvotes": "1052", 
+            "upvotes": "2083"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "1994", 
-            "upvotes": "3872"
+            "downvotes": "1999", 
+            "upvotes": "3878"
         }, 
         {
             "champName": "Jinx", 
@@ -83,8 +83,8 @@
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "364", 
-            "upvotes": "625"
+            "downvotes": "366", 
+            "upvotes": "628"
         }, 
         {
             "champName": "Quinn", 
@@ -97,14 +97,14 @@
             "upvotes": "111"
         }, 
         {
-            "champName": "Twitch", 
-            "downvotes": "462", 
-            "upvotes": "539"
-        }, 
-        {
             "champName": "Nocturne", 
             "downvotes": "115", 
-            "upvotes": "166"
+            "upvotes": "167"
+        }, 
+        {
+            "champName": "Twitch", 
+            "downvotes": "462", 
+            "upvotes": "540"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/graves.png", 
@@ -121,13 +121,13 @@
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "26", 
-            "upvotes": "205"
+            "downvotes": "27", 
+            "upvotes": "204"
         }, 
         {
             "champName": "Leona", 
             "downvotes": "601", 
-            "upvotes": "1865"
+            "upvotes": "1866"
         }, 
         {
             "champName": "Sona", 
@@ -135,19 +135,19 @@
             "upvotes": "751"
         }, 
         {
-            "champName": "Soraka", 
-            "downvotes": "538", 
-            "upvotes": "1302"
-        }, 
-        {
             "champName": "Nami", 
             "downvotes": "384", 
             "upvotes": "940"
         }, 
         {
+            "champName": "Soraka", 
+            "downvotes": "540", 
+            "upvotes": "1302"
+        }, 
+        {
             "champName": "Blitzcrank", 
-            "downvotes": "551", 
-            "upvotes": "1322"
+            "downvotes": "552", 
+            "upvotes": "1323"
         }, 
         {
             "champName": "Janna", 
