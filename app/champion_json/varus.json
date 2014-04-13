@@ -7,47 +7,47 @@
         {
             "champName": "Graves", 
             "downvotes": "1763", 
-            "upvotes": "5543"
+            "upvotes": "5555"
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "907", 
-            "upvotes": "2721"
+            "downvotes": "908", 
+            "upvotes": "2738"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "846", 
-            "upvotes": "1819"
+            "downvotes": "848", 
+            "upvotes": "1820"
         }, 
         {
             "champName": "Tristana", 
-            "downvotes": "1261", 
-            "upvotes": "2176"
+            "downvotes": "1264", 
+            "upvotes": "2179"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "602", 
-            "upvotes": "1061"
+            "downvotes": "604", 
+            "upvotes": "1063"
         }, 
         {
             "champName": "Leona", 
             "downvotes": "455", 
-            "upvotes": "797"
+            "upvotes": "798"
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "407", 
+            "downvotes": "409", 
             "upvotes": "622"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "171", 
-            "upvotes": "284"
+            "downvotes": "170", 
+            "upvotes": "285"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "65", 
-            "upvotes": "127"
+            "downvotes": "66", 
+            "upvotes": "126"
         }, 
         {
             "champName": "Thresh", 
@@ -58,23 +58,23 @@
     "StrongAgainst": [
         {
             "champName": "Draven", 
-            "downvotes": "3086", 
-            "upvotes": "8829"
+            "downvotes": "3087", 
+            "upvotes": "8838"
         }, 
         {
             "champName": "Jinx", 
-            "downvotes": "1212", 
-            "upvotes": "2702"
+            "downvotes": "1216", 
+            "upvotes": "2710"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "2825", 
-            "upvotes": "6036"
+            "downvotes": "2829", 
+            "upvotes": "6040"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "1724", 
-            "upvotes": "3172"
+            "downvotes": "1725", 
+            "upvotes": "3177"
         }, 
         {
             "champName": "Aatrox", 
@@ -83,23 +83,23 @@
         }, 
         {
             "champName": "Quinn", 
-            "downvotes": "771", 
-            "upvotes": "1375"
+            "downvotes": "774", 
+            "upvotes": "1378"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "781", 
-            "upvotes": "1229"
+            "downvotes": "780", 
+            "upvotes": "1232"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "804", 
+            "downvotes": "805", 
             "upvotes": "1232"
         }, 
         {
             "champName": "Miss Fortune", 
-            "downvotes": "855", 
-            "upvotes": "1254"
+            "downvotes": "858", 
+            "upvotes": "1253"
         }, 
         {
             "champName": "Ezreal", 
@@ -116,23 +116,23 @@
         }, 
         {
             "champName": "Nami", 
-            "downvotes": "149", 
-            "upvotes": "673"
+            "downvotes": "148", 
+            "upvotes": "675"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "122", 
-            "upvotes": "561"
+            "downvotes": "123", 
+            "upvotes": "560"
         }, 
         {
             "champName": "Lulu", 
-            "downvotes": "54", 
-            "upvotes": "288"
+            "downvotes": "55", 
+            "upvotes": "287"
         }, 
         {
             "champName": "Thresh", 
             "downvotes": "253", 
-            "upvotes": "966"
+            "upvotes": "970"
         }, 
         {
             "champName": "Alistar", 
@@ -141,8 +141,13 @@
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "901", 
-            "upvotes": "2532"
+            "downvotes": "902", 
+            "upvotes": "2533"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "14", 
+            "upvotes": "89"
         }, 
         {
             "champName": "Taric", 
@@ -153,11 +158,6 @@
             "champName": "Zyra", 
             "downvotes": "98", 
             "upvotes": "292"
-        }, 
-        {
-            "champName": "Sona", 
-            "downvotes": "357", 
-            "upvotes": "916"
         }
     ]
 }

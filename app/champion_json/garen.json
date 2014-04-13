@@ -6,65 +6,65 @@
     "WeakAgainst": [
         {
             "champName": "Teemo", 
-            "downvotes": "4752", 
-            "upvotes": "11489"
+            "downvotes": "4758", 
+            "upvotes": "11510"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "1073", 
-            "upvotes": "2171"
+            "downvotes": "1076", 
+            "upvotes": "2179"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "1389", 
-            "upvotes": "2763"
+            "downvotes": "1390", 
+            "upvotes": "2765"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "1491", 
-            "upvotes": "2611"
+            "downvotes": "1492", 
+            "upvotes": "2617"
         }, 
         {
             "champName": "Yorick", 
             "downvotes": "1489", 
-            "upvotes": "2607"
+            "upvotes": "2609"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "201", 
+            "downvotes": "202", 
             "upvotes": "410"
         }, 
         {
             "champName": "Shyvana", 
             "downvotes": "150", 
-            "upvotes": "317"
+            "upvotes": "318"
         }, 
         {
             "champName": "Darius", 
             "downvotes": "578", 
-            "upvotes": "1024"
+            "upvotes": "1027"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "149", 
+            "downvotes": "151", 
             "upvotes": "307"
         }, 
         {
             "champName": "Kayle", 
             "downvotes": "458", 
-            "upvotes": "778"
+            "upvotes": "781"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Riven", 
-            "downvotes": "4153", 
-            "upvotes": "12124"
+            "downvotes": "4159", 
+            "upvotes": "12154"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "1514", 
-            "upvotes": "3903"
+            "downvotes": "1515", 
+            "upvotes": "3906"
         }, 
         {
             "champName": "Yasuo", 
@@ -73,33 +73,33 @@
         }, 
         {
             "champName": "Wukong", 
-            "downvotes": "1294", 
-            "upvotes": "2601"
+            "downvotes": "1296", 
+            "upvotes": "2606"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "3250", 
-            "upvotes": "6389"
+            "downvotes": "3256", 
+            "upvotes": "6403"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "1882", 
-            "upvotes": "3709"
+            "downvotes": "1886", 
+            "upvotes": "3714"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "83", 
+            "downvotes": "84", 
             "upvotes": "237"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "175", 
-            "upvotes": "398"
+            "downvotes": "177", 
+            "upvotes": "397"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "6023", 
-            "upvotes": "10953"
+            "downvotes": "6033", 
+            "upvotes": "10994"
         }, 
         {
             "champName": "Aatrox", 
@@ -111,8 +111,8 @@
     "GoodWith": [
         {
             "champName": "Lux", 
-            "downvotes": "1043", 
-            "upvotes": "1941"
+            "downvotes": "1041", 
+            "upvotes": "1943"
         }, 
         {
             "champName": "Aatrox", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "1210", 
-            "upvotes": "1696"
+            "downvotes": "1209", 
+            "upvotes": "1699"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "25", 
-            "upvotes": "54"
+            "downvotes": "24", 
+            "upvotes": "55"
         }, 
         {
             "champName": "Xin Zhao", 
@@ -151,8 +151,8 @@
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "714", 
-            "upvotes": "810"
+            "downvotes": "716", 
+            "upvotes": "809"
         }, 
         {
             "champName": "Alistar", 

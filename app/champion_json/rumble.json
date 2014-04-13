@@ -6,48 +6,48 @@
     "WeakAgainst": [
         {
             "champName": "Yorick", 
-            "downvotes": "810", 
-            "upvotes": "2122"
+            "downvotes": "813", 
+            "upvotes": "2124"
         }, 
         {
             "champName": "Viktor", 
-            "downvotes": "190", 
+            "downvotes": "191", 
             "upvotes": "422"
         }, 
         {
             "champName": "Xin Zhao", 
             "downvotes": "690", 
-            "upvotes": "1214"
-        }, 
-        {
-            "champName": "Elise", 
-            "downvotes": "372", 
-            "upvotes": "655"
+            "upvotes": "1215"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "32", 
-            "upvotes": "114"
+            "upvotes": "117"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "373", 
+            "upvotes": "655"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "249", 
-            "upvotes": "427"
+            "downvotes": "250", 
+            "upvotes": "429"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "523", 
+            "downvotes": "524", 
             "upvotes": "812"
         }, 
         {
             "champName": "Volibear", 
-            "downvotes": "345", 
-            "upvotes": "471"
+            "downvotes": "344", 
+            "upvotes": "472"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "483", 
-            "upvotes": "633"
+            "downvotes": "482", 
+            "upvotes": "637"
         }, 
         {
             "champName": "Pantheon", 
@@ -58,52 +58,52 @@
     "StrongAgainst": [
         {
             "champName": "Malphite", 
-            "downvotes": "933", 
-            "upvotes": "2795"
+            "downvotes": "935", 
+            "upvotes": "2798"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "1033", 
-            "upvotes": "2737"
+            "downvotes": "1032", 
+            "upvotes": "2742"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "1160", 
-            "upvotes": "2508"
+            "upvotes": "2512"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "798", 
+            "downvotes": "801", 
             "upvotes": "1578"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "401", 
-            "upvotes": "692"
+            "upvotes": "693"
         }, 
         {
             "champName": "Zed", 
             "downvotes": "469", 
-            "upvotes": "778"
+            "upvotes": "779"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "62", 
+            "downvotes": "63", 
             "upvotes": "151"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "82", 
-            "upvotes": "174"
+            "upvotes": "175"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "98", 
-            "upvotes": "196"
+            "upvotes": "197"
         }, 
         {
             "champName": "Wukong", 
-            "downvotes": "102", 
+            "downvotes": "103", 
             "upvotes": "201"
         }
     ], 
@@ -116,13 +116,13 @@
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "234", 
-            "upvotes": "396"
+            "downvotes": "233", 
+            "upvotes": "397"
         }, 
         {
             "champName": "Sejuani", 
             "downvotes": "273", 
-            "upvotes": "377"
+            "upvotes": "378"
         }, 
         {
             "champName": "Kennen", 

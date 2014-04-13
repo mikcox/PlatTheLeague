@@ -6,43 +6,43 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "1165", 
-            "upvotes": "3203"
+            "downvotes": "1168", 
+            "upvotes": "3211"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "536", 
-            "upvotes": "1414"
+            "downvotes": "537", 
+            "upvotes": "1417"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "297", 
-            "upvotes": "536"
+            "downvotes": "298", 
+            "upvotes": "537"
         }, 
         {
             "champName": "Volibear", 
-            "downvotes": "510", 
+            "downvotes": "511", 
             "upvotes": "857"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "491", 
-            "upvotes": "806"
+            "downvotes": "492", 
+            "upvotes": "807"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "339", 
-            "upvotes": "547"
+            "upvotes": "549"
         }, 
         {
             "champName": "Fiora", 
             "downvotes": "171", 
-            "upvotes": "304"
+            "upvotes": "305"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "94", 
-            "upvotes": "181"
+            "downvotes": "95", 
+            "upvotes": "182"
         }, 
         {
             "champName": "Renekton", 
@@ -59,22 +59,22 @@
         {
             "champName": "Yasuo", 
             "downvotes": "115", 
-            "upvotes": "375"
+            "upvotes": "376"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "720", 
-            "upvotes": "1379"
+            "downvotes": "722", 
+            "upvotes": "1380"
         }, 
         {
             "champName": "Nasus", 
             "downvotes": "71", 
-            "upvotes": "197"
+            "upvotes": "199"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "11", 
-            "upvotes": "90"
+            "downvotes": "12", 
+            "upvotes": "91"
         }, 
         {
             "champName": "Aatrox", 
@@ -83,8 +83,13 @@
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "572", 
+            "downvotes": "574", 
             "upvotes": "1034"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "53", 
+            "upvotes": "156"
         }, 
         {
             "champName": "Riven", 
@@ -92,14 +97,9 @@
             "upvotes": "362"
         }, 
         {
-            "champName": "Aatrox", 
-            "downvotes": "53", 
-            "upvotes": "155"
-        }, 
-        {
             "champName": "Rumble", 
             "downvotes": "690", 
-            "upvotes": "1214"
+            "upvotes": "1215"
         }, 
         {
             "champName": "Zed", 
@@ -112,7 +112,7 @@
         {
             "champName": "Yasuo", 
             "downvotes": "27", 
-            "upvotes": "176"
+            "upvotes": "177"
         }, 
         {
             "champName": "Aatrox", 
@@ -131,18 +131,18 @@
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "227", 
+            "downvotes": "228", 
             "upvotes": "375"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "369", 
+            "downvotes": "370", 
             "upvotes": "584"
         }, 
         {
             "champName": "Pantheon", 
             "downvotes": "381", 
-            "upvotes": "558"
+            "upvotes": "560"
         }, 
         {
             "champName": "Teemo", 

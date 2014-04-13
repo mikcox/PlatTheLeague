@@ -6,18 +6,18 @@
     "WeakAgainst": [
         {
             "champName": "Fizz", 
-            "downvotes": "1393", 
-            "upvotes": "3053"
-        }, 
-        {
-            "champName": "Talon", 
-            "downvotes": "497", 
-            "upvotes": "901"
+            "downvotes": "1396", 
+            "upvotes": "3060"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "90", 
-            "upvotes": "218"
+            "upvotes": "219"
+        }, 
+        {
+            "champName": "Talon", 
+            "downvotes": "500", 
+            "upvotes": "902"
         }, 
         {
             "champName": "Yasuo", 
@@ -26,8 +26,8 @@
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "146", 
-            "upvotes": "267"
+            "downvotes": "147", 
+            "upvotes": "268"
         }, 
         {
             "champName": "Aatrox", 
@@ -35,104 +35,104 @@
             "upvotes": "117"
         }, 
         {
-            "champName": "Kassadin", 
-            "downvotes": "524", 
-            "upvotes": "767"
+            "champName": "Gragas", 
+            "downvotes": "269", 
+            "upvotes": "418"
         }, 
         {
             "champName": "Ziggs", 
-            "downvotes": "289", 
+            "downvotes": "290", 
             "upvotes": "446"
         }, 
         {
-            "champName": "Gragas", 
-            "downvotes": "270", 
-            "upvotes": "417"
+            "champName": "Kassadin", 
+            "downvotes": "527", 
+            "upvotes": "766"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "61", 
+            "downvotes": "62", 
             "upvotes": "134"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Heimerdinger", 
-            "downvotes": "681", 
-            "upvotes": "2749"
+            "downvotes": "682", 
+            "upvotes": "2757"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "863", 
-            "upvotes": "2213"
+            "downvotes": "865", 
+            "upvotes": "2217"
         }, 
         {
             "champName": "Vel'Koz", 
-            "downvotes": "143", 
-            "upvotes": "429"
+            "downvotes": "142", 
+            "upvotes": "432"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "22", 
-            "upvotes": "120"
-        }, 
-        {
-            "champName": "LeBlanc", 
-            "downvotes": "185", 
-            "upvotes": "415"
+            "downvotes": "23", 
+            "upvotes": "123"
         }, 
         {
             "champName": "Nidalee", 
             "downvotes": "55", 
-            "upvotes": "173"
+            "upvotes": "176"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "187", 
+            "upvotes": "420"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "579", 
-            "upvotes": "1112"
+            "downvotes": "578", 
+            "upvotes": "1116"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "300", 
+            "downvotes": "301", 
             "upvotes": "597"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "15", 
-            "upvotes": "96"
+            "downvotes": "16", 
+            "upvotes": "98"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "105", 
-            "upvotes": "251"
+            "downvotes": "107", 
+            "upvotes": "254"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/syndra.png", 
     "GoodWith": [
         {
             "champName": "Nami", 
-            "downvotes": "147", 
-            "upvotes": "255"
+            "downvotes": "145", 
+            "upvotes": "257"
         }, 
         {
             "champName": "Zac", 
-            "downvotes": "146", 
+            "downvotes": "147", 
             "upvotes": "249"
         }, 
         {
             "champName": "Zilean", 
             "downvotes": "373", 
-            "upvotes": "533"
+            "upvotes": "534"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "112", 
-            "upvotes": "146"
+            "downvotes": "113", 
+            "upvotes": "145"
         }, 
         {
             "champName": "Maokai", 
-            "downvotes": "149", 
-            "upvotes": "175"
+            "downvotes": "150", 
+            "upvotes": "174"
         }, 
         {
             "champName": "Thresh", 
@@ -156,8 +156,8 @@
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "48", 
-            "upvotes": "62"
+            "downvotes": "49", 
+            "upvotes": "61"
         }
     ]
 }

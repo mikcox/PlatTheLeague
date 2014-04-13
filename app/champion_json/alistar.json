@@ -7,37 +7,37 @@
         {
             "champName": "Janna", 
             "downvotes": "444", 
-            "upvotes": "972"
+            "upvotes": "973"
         }, 
         {
             "champName": "Vayne", 
             "downvotes": "556", 
-            "upvotes": "840"
+            "upvotes": "843"
         }, 
         {
             "champName": "Lulu", 
-            "downvotes": "345", 
+            "downvotes": "347", 
             "upvotes": "427"
         }, 
         {
             "champName": "Cho'Gath", 
             "downvotes": "277", 
-            "upvotes": "346"
+            "upvotes": "348"
         }, 
         {
             "champName": "Soraka", 
             "downvotes": "262", 
-            "upvotes": "303"
+            "upvotes": "304"
+        }, 
+        {
+            "champName": "Olaf", 
+            "downvotes": "201", 
+            "upvotes": "241"
         }, 
         {
             "champName": "Morgana", 
             "downvotes": "110", 
             "upvotes": "149"
-        }, 
-        {
-            "champName": "Olaf", 
-            "downvotes": "201", 
-            "upvotes": "239"
         }, 
         {
             "champName": "Zyra", 
@@ -47,11 +47,11 @@
         {
             "champName": "Ahri", 
             "downvotes": "128", 
-            "upvotes": "139"
+            "upvotes": "140"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "86", 
+            "downvotes": "88", 
             "upvotes": "104"
         }
     ], 
@@ -59,47 +59,47 @@
         {
             "champName": "Blitzcrank", 
             "downvotes": "647", 
-            "upvotes": "2658"
+            "upvotes": "2661"
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "893", 
-            "upvotes": "2682"
+            "downvotes": "895", 
+            "upvotes": "2684"
         }, 
         {
             "champName": "Thresh", 
-            "downvotes": "662", 
-            "upvotes": "1703"
+            "downvotes": "664", 
+            "upvotes": "1705"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "445", 
-            "upvotes": "1138"
+            "upvotes": "1141"
         }, 
         {
             "champName": "Fiddlesticks", 
-            "downvotes": "344", 
-            "upvotes": "551"
+            "downvotes": "345", 
+            "upvotes": "552"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "30", 
-            "upvotes": "84"
+            "downvotes": "31", 
+            "upvotes": "85"
         }, 
         {
             "champName": "Taric", 
-            "downvotes": "260", 
-            "upvotes": "322"
+            "downvotes": "259", 
+            "upvotes": "323"
         }, 
         {
             "champName": "Miss Fortune", 
             "downvotes": "104", 
-            "upvotes": "140"
+            "upvotes": "141"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "206", 
-            "upvotes": "239"
+            "downvotes": "207", 
+            "upvotes": "240"
         }, 
         {
             "champName": "Draven", 
@@ -112,12 +112,12 @@
         {
             "champName": "Yasuo", 
             "downvotes": "45", 
-            "upvotes": "420"
+            "upvotes": "422"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "54", 
-            "upvotes": "345"
+            "downvotes": "56", 
+            "upvotes": "343"
         }, 
         {
             "champName": "Miss Fortune", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Jinx", 
-            "downvotes": "11", 
-            "upvotes": "122"
+            "downvotes": "10", 
+            "upvotes": "123"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "100", 
-            "upvotes": "418"
+            "downvotes": "101", 
+            "upvotes": "417"
         }, 
         {
             "champName": "Varus", 
@@ -145,14 +145,14 @@
             "upvotes": "663"
         }, 
         {
-            "champName": "Vayne", 
-            "downvotes": "766", 
-            "upvotes": "2182"
+            "champName": "Corki", 
+            "downvotes": "47", 
+            "upvotes": "186"
         }, 
         {
-            "champName": "Corki", 
-            "downvotes": "48", 
-            "upvotes": "185"
+            "champName": "Vayne", 
+            "downvotes": "768", 
+            "upvotes": "2184"
         }, 
         {
             "champName": "Ashe", 

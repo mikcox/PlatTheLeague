@@ -11,42 +11,42 @@
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "395", 
+            "downvotes": "396", 
             "upvotes": "617"
         }, 
         {
             "champName": "Talon", 
             "downvotes": "272", 
-            "upvotes": "437"
+            "upvotes": "438"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "380", 
-            "upvotes": "537"
+            "downvotes": "381", 
+            "upvotes": "536"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "46", 
-            "upvotes": "101"
+            "downvotes": "47", 
+            "upvotes": "100"
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "98", 
+            "downvotes": "99", 
             "upvotes": "145"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "199", 
-            "upvotes": "231"
+            "downvotes": "201", 
+            "upvotes": "230"
         }, 
         {
             "champName": "Lux", 
             "downvotes": "122", 
-            "upvotes": "148"
+            "upvotes": "150"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "190", 
+            "downvotes": "191", 
             "upvotes": "201"
         }, 
         {
@@ -59,42 +59,42 @@
         {
             "champName": "Cassiopeia", 
             "downvotes": "577", 
-            "upvotes": "2584"
+            "upvotes": "2585"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "1077", 
-            "upvotes": "4640"
+            "downvotes": "1081", 
+            "upvotes": "4660"
         }, 
         {
             "champName": "Brand", 
             "downvotes": "462", 
-            "upvotes": "1157"
+            "upvotes": "1159"
         }, 
         {
             "champName": "Malzahar", 
             "downvotes": "475", 
-            "upvotes": "1032"
+            "upvotes": "1033"
         }, 
         {
             "champName": "Veigar", 
-            "downvotes": "348", 
-            "upvotes": "666"
+            "downvotes": "349", 
+            "upvotes": "665"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "429", 
-            "upvotes": "787"
+            "downvotes": "430", 
+            "upvotes": "788"
         }, 
         {
             "champName": "Kassadin", 
             "downvotes": "274", 
-            "upvotes": "491"
+            "upvotes": "492"
         }, 
         {
             "champName": "Akali", 
             "downvotes": "65", 
-            "upvotes": "163"
+            "upvotes": "164"
         }, 
         {
             "champName": "Teemo", 
@@ -103,21 +103,21 @@
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "314", 
-            "upvotes": "504"
+            "downvotes": "316", 
+            "upvotes": "503"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/galio.png", 
     "GoodWith": [
         {
             "champName": "Katarina", 
-            "downvotes": "466", 
+            "downvotes": "467", 
             "upvotes": "992"
         }, 
         {
             "champName": "Miss Fortune", 
             "downvotes": "24", 
-            "upvotes": "81"
+            "upvotes": "82"
         }, 
         {
             "champName": "Orianna", 
@@ -131,13 +131,13 @@
         }, 
         {
             "champName": "Fiddlesticks", 
-            "downvotes": "200", 
+            "downvotes": "201", 
             "upvotes": "386"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "161", 
-            "upvotes": "312"
+            "downvotes": "162", 
+            "upvotes": "311"
         }, 
         {
             "champName": "Amumu", 
@@ -151,8 +151,8 @@
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "162", 
-            "upvotes": "262"
+            "downvotes": "163", 
+            "upvotes": "261"
         }, 
         {
             "champName": "Morgana", 

@@ -6,33 +6,33 @@
     "WeakAgainst": [
         {
             "champName": "Olaf", 
-            "downvotes": "3169", 
-            "upvotes": "8705"
+            "downvotes": "3170", 
+            "upvotes": "8713"
         }, 
         {
             "champName": "Udyr", 
-            "downvotes": "679", 
+            "downvotes": "680", 
             "upvotes": "1787"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "2097", 
-            "upvotes": "3826"
+            "downvotes": "2100", 
+            "upvotes": "3828"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "2067", 
-            "upvotes": "3601"
+            "downvotes": "2073", 
+            "upvotes": "3608"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "356", 
-            "upvotes": "616"
+            "downvotes": "355", 
+            "upvotes": "618"
         }, 
         {
             "champName": "Lee Sin", 
             "downvotes": "246", 
-            "upvotes": "442"
+            "upvotes": "443"
         }, 
         {
             "champName": "Teemo", 
@@ -41,7 +41,7 @@
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "50", 
+            "downvotes": "51", 
             "upvotes": "137"
         }, 
         {
@@ -51,45 +51,45 @@
         }, 
         {
             "champName": "Volibear", 
-            "downvotes": "532", 
-            "upvotes": "850"
+            "downvotes": "534", 
+            "upvotes": "849"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
             "downvotes": "78", 
-            "upvotes": "278"
+            "upvotes": "280"
         }, 
         {
             "champName": "Diana", 
             "downvotes": "645", 
-            "upvotes": "1503"
+            "upvotes": "1504"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "920", 
-            "upvotes": "1890"
+            "downvotes": "922", 
+            "upvotes": "1889"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "810", 
-            "upvotes": "1499"
+            "downvotes": "813", 
+            "upvotes": "1500"
         }, 
         {
             "champName": "Gangplank", 
-            "downvotes": "1077", 
-            "upvotes": "1828"
+            "downvotes": "1078", 
+            "upvotes": "1829"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "275", 
-            "upvotes": "511"
+            "upvotes": "512"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "1702", 
-            "upvotes": "2770"
+            "downvotes": "1701", 
+            "upvotes": "2774"
         }, 
         {
             "champName": "Teemo", 
@@ -98,13 +98,13 @@
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "28", 
-            "upvotes": "103"
+            "downvotes": "29", 
+            "upvotes": "104"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "413", 
-            "upvotes": "683"
+            "downvotes": "416", 
+            "upvotes": "684"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/irelia.png", 
@@ -116,23 +116,23 @@
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "929", 
-            "upvotes": "1292"
+            "downvotes": "928", 
+            "upvotes": "1294"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "118", 
-            "upvotes": "180"
+            "downvotes": "117", 
+            "upvotes": "181"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "197", 
+            "upvotes": "284"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "14", 
             "upvotes": "44"
-        }, 
-        {
-            "champName": "Lee Sin", 
-            "downvotes": "198", 
-            "upvotes": "281"
         }, 
         {
             "champName": "Orianna", 
@@ -145,14 +145,14 @@
             "upvotes": "95"
         }, 
         {
-            "champName": "Malphite", 
-            "downvotes": "122", 
-            "upvotes": "150"
-        }, 
-        {
             "champName": "Jarvan IV", 
             "downvotes": "152", 
             "upvotes": "180"
+        }, 
+        {
+            "champName": "Malphite", 
+            "downvotes": "123", 
+            "upvotes": "149"
         }, 
         {
             "champName": "Anivia", 

@@ -204,6 +204,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	  
 	  $scope.topLane1 = [];
 	  $scope.topLane2 = [];
+	  $scope.midLane1 = [];
+	  $scope.midLane2 = [];
 	  getAllChamps();
 	
 	}

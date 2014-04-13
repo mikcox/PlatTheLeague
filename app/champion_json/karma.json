@@ -6,27 +6,27 @@
     "WeakAgainst": [
         {
             "champName": "Veigar", 
-            "downvotes": "575", 
-            "upvotes": "808"
+            "downvotes": "577", 
+            "upvotes": "806"
         }, 
         {
             "champName": "Nami", 
-            "downvotes": "289", 
+            "downvotes": "290", 
             "upvotes": "365"
         }, 
         {
             "champName": "Malzahar", 
-            "downvotes": "91", 
-            "upvotes": "125"
+            "downvotes": "92", 
+            "upvotes": "124"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "167", 
-            "upvotes": "195"
+            "downvotes": "168", 
+            "upvotes": "194"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "224", 
+            "downvotes": "225", 
             "upvotes": "236"
         }, 
         {
@@ -40,14 +40,14 @@
             "upvotes": "122"
         }, 
         {
+            "champName": "Xerath", 
+            "downvotes": "76", 
+            "upvotes": "91"
+        }, 
+        {
             "champName": "Ahri", 
             "downvotes": "131", 
             "upvotes": "132"
-        }, 
-        {
-            "champName": "Xerath", 
-            "downvotes": "76", 
-            "upvotes": "89"
         }, 
         {
             "champName": "Cassiopeia", 
@@ -58,23 +58,23 @@
     "StrongAgainst": [
         {
             "champName": "Vi", 
-            "downvotes": "464", 
+            "downvotes": "465", 
             "upvotes": "779"
         }, 
         {
             "champName": "Fizz", 
             "downvotes": "229", 
-            "upvotes": "398"
-        }, 
-        {
-            "champName": "Leona", 
-            "downvotes": "103", 
-            "upvotes": "205"
+            "upvotes": "399"
         }, 
         {
             "champName": "Diana", 
             "downvotes": "166", 
             "upvotes": "293"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "105", 
+            "upvotes": "206"
         }, 
         {
             "champName": "Akali", 
@@ -83,8 +83,8 @@
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "203", 
-            "upvotes": "331"
+            "downvotes": "202", 
+            "upvotes": "332"
         }, 
         {
             "champName": "Katarina", 
@@ -93,18 +93,18 @@
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "77", 
-            "upvotes": "136"
+            "downvotes": "76", 
+            "upvotes": "137"
         }, 
         {
             "champName": "Zilean", 
-            "downvotes": "259", 
-            "upvotes": "339"
+            "downvotes": "258", 
+            "upvotes": "340"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "15", 
-            "upvotes": "59"
+            "upvotes": "62"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/karma.png", 
@@ -115,24 +115,24 @@
             "upvotes": "188"
         }, 
         {
-            "champName": "Ezreal", 
-            "downvotes": "265", 
-            "upvotes": "493"
-        }, 
-        {
             "champName": "Sivir", 
             "downvotes": "28", 
-            "upvotes": "81"
+            "upvotes": "82"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "268", 
+            "upvotes": "491"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "119", 
+            "downvotes": "121", 
             "upvotes": "227"
         }, 
         {
             "champName": "Lucian", 
             "downvotes": "157", 
-            "upvotes": "276"
+            "upvotes": "277"
         }, 
         {
             "champName": "Vayne", 
@@ -141,8 +141,8 @@
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "114", 
-            "upvotes": "191"
+            "downvotes": "115", 
+            "upvotes": "190"
         }, 
         {
             "champName": "Varus", 
@@ -150,14 +150,14 @@
             "upvotes": "122"
         }, 
         {
+            "champName": "Draven", 
+            "downvotes": "73", 
+            "upvotes": "115"
+        }, 
+        {
             "champName": "Miss Fortune", 
             "downvotes": "92", 
             "upvotes": "138"
-        }, 
-        {
-            "champName": "Draven", 
-            "downvotes": "73", 
-            "upvotes": "114"
         }
     ]
 }

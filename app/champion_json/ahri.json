@@ -6,95 +6,95 @@
     "WeakAgainst": [
         {
             "champName": "LeBlanc", 
-            "downvotes": "3501", 
-            "upvotes": "11034"
+            "downvotes": "3506", 
+            "upvotes": "11055"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "1291", 
-            "upvotes": "3112"
+            "downvotes": "1293", 
+            "upvotes": "3113"
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "931", 
-            "upvotes": "2125"
+            "downvotes": "934", 
+            "upvotes": "2126"
         }, 
         {
             "champName": "Annie", 
-            "downvotes": "2119", 
-            "upvotes": "4205"
+            "downvotes": "2122", 
+            "upvotes": "4212"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "1732", 
-            "upvotes": "3410"
+            "downvotes": "1736", 
+            "upvotes": "3412"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "1110", 
-            "upvotes": "2189"
+            "downvotes": "1109", 
+            "upvotes": "2194"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "292", 
-            "upvotes": "625"
+            "upvotes": "626"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "1130", 
-            "upvotes": "2166"
+            "downvotes": "1134", 
+            "upvotes": "2170"
         }, 
         {
             "champName": "Malzahar", 
-            "downvotes": "709", 
-            "upvotes": "1369"
+            "downvotes": "706", 
+            "upvotes": "1374"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "1351", 
-            "upvotes": "2504"
+            "downvotes": "1355", 
+            "upvotes": "2508"
         }
     ], 
     "StrongAgainst": [
         {
-            "champName": "Karthus", 
-            "downvotes": "706", 
-            "upvotes": "1947"
+            "champName": "Vel'Koz", 
+            "downvotes": "167", 
+            "upvotes": "550"
         }, 
         {
-            "champName": "Vel'Koz", 
-            "downvotes": "169", 
-            "upvotes": "543"
+            "champName": "Karthus", 
+            "downvotes": "704", 
+            "upvotes": "1950"
         }, 
         {
             "champName": "Xerath", 
-            "downvotes": "1518", 
-            "upvotes": "3195"
+            "downvotes": "1521", 
+            "upvotes": "3196"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "837", 
-            "upvotes": "1570"
+            "downvotes": "840", 
+            "upvotes": "1572"
         }, 
         {
             "champName": "Twisted Fate", 
-            "downvotes": "1037", 
+            "downvotes": "1038", 
             "upvotes": "1917"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "335", 
-            "upvotes": "648"
         }, 
         {
             "champName": "Zed", 
             "downvotes": "366", 
-            "upvotes": "701"
+            "upvotes": "703"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "336", 
+            "upvotes": "648"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "496", 
-            "upvotes": "900"
+            "downvotes": "497", 
+            "upvotes": "899"
         }, 
         {
             "champName": "Jax", 
@@ -125,19 +125,14 @@
             "upvotes": "96"
         }, 
         {
-            "champName": "Katarina", 
-            "downvotes": "29", 
-            "upvotes": "101"
-        }, 
-        {
             "champName": "Leona", 
             "downvotes": "32", 
             "upvotes": "104"
         }, 
         {
-            "champName": "Alistar", 
-            "downvotes": "17", 
-            "upvotes": "71"
+            "champName": "Katarina", 
+            "downvotes": "30", 
+            "upvotes": "100"
         }, 
         {
             "champName": "Sona", 
@@ -150,14 +145,19 @@
             "upvotes": "161"
         }, 
         {
-            "champName": "Varus", 
-            "downvotes": "17", 
-            "upvotes": "67"
+            "champName": "Alistar", 
+            "downvotes": "18", 
+            "upvotes": "70"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "22", 
-            "upvotes": "76"
+            "downvotes": "23", 
+            "upvotes": "75"
+        }, 
+        {
+            "champName": "Varus", 
+            "downvotes": "18", 
+            "upvotes": "66"
         }
     ]
 }

@@ -6,28 +6,28 @@
     "WeakAgainst": [
         {
             "champName": "Olaf", 
-            "downvotes": "539", 
-            "upvotes": "1534"
+            "downvotes": "537", 
+            "upvotes": "1539"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "642", 
-            "upvotes": "1251"
+            "downvotes": "641", 
+            "upvotes": "1253"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "314", 
-            "upvotes": "623"
+            "downvotes": "313", 
+            "upvotes": "624"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "97", 
-            "upvotes": "163"
+            "upvotes": "166"
         }, 
         {
             "champName": "Irelia", 
             "downvotes": "307", 
-            "upvotes": "412"
+            "upvotes": "414"
         }, 
         {
             "champName": "Renekton", 
@@ -36,7 +36,7 @@
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "207", 
+            "downvotes": "208", 
             "upvotes": "262"
         }, 
         {
@@ -46,40 +46,40 @@
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "137", 
-            "upvotes": "186"
+            "downvotes": "138", 
+            "upvotes": "187"
         }, 
         {
             "champName": "Kayle", 
             "downvotes": "108", 
-            "upvotes": "147"
+            "upvotes": "148"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Gangplank", 
-            "downvotes": "399", 
+            "downvotes": "401", 
             "upvotes": "667"
         }, 
         {
             "champName": "Kha'Zix", 
             "downvotes": "121", 
-            "upvotes": "226"
+            "upvotes": "227"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "342", 
+            "downvotes": "343", 
             "upvotes": "534"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "260", 
-            "upvotes": "389"
+            "downvotes": "262", 
+            "upvotes": "391"
         }, 
         {
             "champName": "Vi", 
             "downvotes": "146", 
-            "upvotes": "222"
+            "upvotes": "223"
         }, 
         {
             "champName": "Jax", 
@@ -88,17 +88,17 @@
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "191", 
+            "downvotes": "192", 
             "upvotes": "260"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "233", 
+            "downvotes": "234", 
             "upvotes": "293"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "130", 
+            "downvotes": "132", 
             "upvotes": "172"
         }, 
         {
@@ -112,16 +112,16 @@
         {
             "champName": "Vayne", 
             "downvotes": "154", 
-            "upvotes": "266"
+            "upvotes": "267"
         }, 
         {
             "champName": "Cho'Gath", 
-            "downvotes": "283", 
+            "downvotes": "284", 
             "upvotes": "316"
         }, 
         {
             "champName": "Alistar", 
-            "downvotes": "148", 
+            "downvotes": "149", 
             "upvotes": "167"
         }, 
         {
@@ -140,14 +140,14 @@
             "upvotes": "67"
         }, 
         {
-            "champName": "Jax", 
-            "downvotes": "75", 
-            "upvotes": "81"
-        }, 
-        {
             "champName": "Nocturne", 
             "downvotes": "74", 
             "upvotes": "79"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "76", 
+            "upvotes": "80"
         }, 
         {
             "champName": "Shen", 

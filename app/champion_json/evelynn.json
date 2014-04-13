@@ -6,8 +6,8 @@
     "WeakAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "571", 
-            "upvotes": "1249"
+            "downvotes": "569", 
+            "upvotes": "1251"
         }, 
         {
             "champName": "Kassadin", 
@@ -16,23 +16,23 @@
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "274", 
-            "upvotes": "457"
+            "downvotes": "275", 
+            "upvotes": "456"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "142", 
-            "upvotes": "262"
+            "downvotes": "144", 
+            "upvotes": "263"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "384", 
+            "downvotes": "385", 
             "upvotes": "606"
         }, 
         {
             "champName": "Cassiopeia", 
-            "downvotes": "247", 
-            "upvotes": "391"
+            "downvotes": "248", 
+            "upvotes": "390"
         }, 
         {
             "champName": "Malzahar", 
@@ -58,13 +58,13 @@
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "222", 
+            "downvotes": "223", 
             "upvotes": "534"
         }, 
         {
             "champName": "Gragas", 
             "downvotes": "642", 
-            "upvotes": "1068"
+            "upvotes": "1069"
         }, 
         {
             "champName": "Morgana", 
@@ -73,7 +73,7 @@
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "270", 
+            "downvotes": "271", 
             "upvotes": "333"
         }, 
         {
@@ -88,7 +88,7 @@
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "191", 
+            "downvotes": "192", 
             "upvotes": "208"
         }, 
         {
@@ -112,11 +112,11 @@
         {
             "champName": "Shen", 
             "downvotes": "302", 
-            "upvotes": "438"
+            "upvotes": "439"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "168", 
+            "downvotes": "169", 
             "upvotes": "249"
         }, 
         {
@@ -125,24 +125,24 @@
             "upvotes": "183"
         }, 
         {
-            "champName": "Jax", 
-            "downvotes": "122", 
-            "upvotes": "140"
-        }, 
-        {
             "champName": "Fizz", 
             "downvotes": "24", 
-            "upvotes": "43"
+            "upvotes": "44"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "123", 
+            "upvotes": "141"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "161", 
+            "upvotes": "177"
         }, 
         {
             "champName": "Udyr", 
             "downvotes": "112", 
             "upvotes": "129"
-        }, 
-        {
-            "champName": "Amumu", 
-            "downvotes": "162", 
-            "upvotes": "176"
         }, 
         {
             "champName": "Zilean", 

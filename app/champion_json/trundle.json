@@ -6,65 +6,65 @@
     "WeakAgainst": [
         {
             "champName": "Sona", 
-            "downvotes": "1038", 
-            "upvotes": "2726"
+            "downvotes": "1041", 
+            "upvotes": "2740"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "323", 
-            "upvotes": "586"
+            "downvotes": "325", 
+            "upvotes": "588"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "276", 
-            "upvotes": "499"
-        }, 
-        {
-            "champName": "Pantheon", 
-            "downvotes": "186", 
-            "upvotes": "306"
+            "downvotes": "278", 
+            "upvotes": "500"
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "318", 
-            "upvotes": "483"
+            "downvotes": "320", 
+            "upvotes": "485"
+        }, 
+        {
+            "champName": "Pantheon", 
+            "downvotes": "189", 
+            "upvotes": "307"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "193", 
-            "upvotes": "290"
+            "downvotes": "192", 
+            "upvotes": "292"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "42", 
-            "upvotes": "97"
+            "upvotes": "98"
         }, 
         {
             "champName": "Heimerdinger", 
-            "downvotes": "197", 
+            "downvotes": "198", 
             "upvotes": "263"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "108", 
-            "upvotes": "159"
+            "downvotes": "110", 
+            "upvotes": "161"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "155", 
-            "upvotes": "194"
+            "downvotes": "157", 
+            "upvotes": "195"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Lee Sin", 
-            "downvotes": "1249", 
-            "upvotes": "3978"
+            "downvotes": "1252", 
+            "upvotes": "3987"
         }, 
         {
             "champName": "Dr. Mundo", 
             "downvotes": "193", 
-            "upvotes": "709"
+            "upvotes": "712"
         }, 
         {
             "champName": "Nasus", 
@@ -73,66 +73,66 @@
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "620", 
-            "upvotes": "1198"
+            "downvotes": "622", 
+            "upvotes": "1205"
         }, 
         {
             "champName": "Rammus", 
             "downvotes": "377", 
-            "upvotes": "756"
+            "upvotes": "757"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "1095", 
-            "upvotes": "1939"
+            "downvotes": "1094", 
+            "upvotes": "1943"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "237", 
-            "upvotes": "470"
+            "downvotes": "238", 
+            "upvotes": "472"
         }, 
         {
             "champName": "Udyr", 
-            "downvotes": "444", 
-            "upvotes": "716"
-        }, 
-        {
-            "champName": "Jax", 
-            "downvotes": "256", 
-            "upvotes": "431"
+            "downvotes": "443", 
+            "upvotes": "719"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "144", 
-            "upvotes": "263"
+            "downvotes": "145", 
+            "upvotes": "269"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "259", 
+            "upvotes": "431"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/trundle.png", 
     "GoodWith": [
         {
             "champName": "Lissandra", 
-            "downvotes": "241", 
+            "downvotes": "242", 
             "upvotes": "336"
         }, 
         {
             "champName": "Anivia", 
-            "downvotes": "298", 
+            "downvotes": "299", 
             "upvotes": "403"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "89", 
-            "upvotes": "126"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "29", 
-            "upvotes": "52"
+            "downvotes": "90", 
+            "upvotes": "125"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "123", 
-            "upvotes": "150"
+            "downvotes": "122", 
+            "upvotes": "153"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "30", 
+            "upvotes": "52"
         }, 
         {
             "champName": "Yasuo", 

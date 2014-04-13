@@ -6,100 +6,100 @@
     "WeakAgainst": [
         {
             "champName": "Blitzcrank", 
-            "downvotes": "556", 
+            "downvotes": "557", 
             "upvotes": "1765"
         }, 
         {
             "champName": "Thresh", 
             "downvotes": "420", 
-            "upvotes": "794"
+            "upvotes": "795"
         }, 
         {
             "champName": "Leona", 
             "downvotes": "775", 
-            "upvotes": "1365"
+            "upvotes": "1370"
         }, 
         {
             "champName": "Miss Fortune", 
             "downvotes": "393", 
-            "upvotes": "560"
+            "upvotes": "561"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "242", 
-            "upvotes": "364"
+            "downvotes": "243", 
+            "upvotes": "363"
         }, 
         {
             "champName": "Taric", 
-            "downvotes": "310", 
-            "upvotes": "389"
+            "downvotes": "311", 
+            "upvotes": "390"
         }, 
         {
             "champName": "Nidalee", 
             "downvotes": "175", 
-            "upvotes": "226"
+            "upvotes": "227"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "61", 
-            "upvotes": "104"
-        }, 
-        {
-            "champName": "Zyra", 
-            "downvotes": "218", 
-            "upvotes": "248"
+            "upvotes": "105"
         }, 
         {
             "champName": "Graves", 
             "downvotes": "201", 
             "upvotes": "231"
+        }, 
+        {
+            "champName": "Zyra", 
+            "downvotes": "219", 
+            "upvotes": "247"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Trundle", 
-            "downvotes": "1038", 
-            "upvotes": "2726"
+            "downvotes": "1041", 
+            "upvotes": "2740"
         }, 
         {
             "champName": "Twitch", 
-            "downvotes": "603", 
-            "upvotes": "1201"
+            "downvotes": "604", 
+            "upvotes": "1204"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "421", 
-            "upvotes": "761"
+            "downvotes": "420", 
+            "upvotes": "766"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "349", 
-            "upvotes": "602"
+            "downvotes": "348", 
+            "upvotes": "603"
         }, 
         {
             "champName": "Lulu", 
             "downvotes": "342", 
-            "upvotes": "543"
+            "upvotes": "545"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "127", 
-            "upvotes": "209"
+            "downvotes": "126", 
+            "upvotes": "210"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "197", 
-            "upvotes": "219"
+            "downvotes": "198", 
+            "upvotes": "218"
         }, 
         {
             "champName": "Nami", 
             "downvotes": "324", 
-            "upvotes": "331"
+            "upvotes": "332"
         }, 
         {
             "champName": "Taric", 
-            "downvotes": "194", 
-            "upvotes": "210"
+            "downvotes": "196", 
+            "upvotes": "209"
         }, 
         {
             "champName": "Thresh", 
@@ -111,18 +111,18 @@
     "GoodWith": [
         {
             "champName": "Draven", 
-            "downvotes": "23", 
-            "upvotes": "402"
+            "downvotes": "25", 
+            "upvotes": "400"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "55", 
+            "downvotes": "58", 
             "upvotes": "588"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "42", 
-            "upvotes": "415"
+            "downvotes": "41", 
+            "upvotes": "417"
         }, 
         {
             "champName": "Tristana", 
@@ -141,8 +141,8 @@
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "1112", 
-            "upvotes": "4010"
+            "downvotes": "1114", 
+            "upvotes": "4013"
         }, 
         {
             "champName": "Quinn", 
@@ -157,7 +157,7 @@
         {
             "champName": "Miss Fortune", 
             "downvotes": "696", 
-            "upvotes": "1897"
+            "upvotes": "1899"
         }
     ]
 }

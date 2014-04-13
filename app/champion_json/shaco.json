@@ -6,38 +6,38 @@
     "WeakAgainst": [
         {
             "champName": "Lee Sin", 
-            "downvotes": "713", 
-            "upvotes": "2814"
+            "downvotes": "714", 
+            "upvotes": "2821"
         }, 
         {
             "champName": "Vi", 
             "downvotes": "191", 
-            "upvotes": "292"
+            "upvotes": "293"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "239", 
-            "upvotes": "338"
+            "upvotes": "339"
         }, 
         {
             "champName": "Warwick", 
-            "downvotes": "304", 
-            "upvotes": "380"
+            "downvotes": "305", 
+            "upvotes": "379"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "169", 
-            "upvotes": "228"
+            "downvotes": "171", 
+            "upvotes": "226"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "134", 
+            "upvotes": "159"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "170", 
-            "upvotes": "194"
-        }, 
-        {
-            "champName": "Nasus", 
-            "downvotes": "189", 
-            "upvotes": "209"
+            "downvotes": "172", 
+            "upvotes": "193"
         }, 
         {
             "champName": "Jax", 
@@ -45,9 +45,9 @@
             "upvotes": "80"
         }, 
         {
-            "champName": "Rengar", 
-            "downvotes": "134", 
-            "upvotes": "158"
+            "champName": "Nasus", 
+            "downvotes": "190", 
+            "upvotes": "209"
         }, 
         {
             "champName": "Brand", 
@@ -59,32 +59,32 @@
         {
             "champName": "Amumu", 
             "downvotes": "397", 
-            "upvotes": "610"
+            "upvotes": "613"
         }, 
         {
             "champName": "Master Yi", 
-            "downvotes": "190", 
+            "downvotes": "191", 
             "upvotes": "254"
         }, 
         {
             "champName": "Xerath", 
             "downvotes": "292", 
-            "upvotes": "320"
+            "upvotes": "321"
         }, 
         {
             "champName": "Maokai", 
             "downvotes": "224", 
-            "upvotes": "253"
+            "upvotes": "254"
         }, 
         {
             "champName": "Twitch", 
-            "downvotes": "164", 
+            "downvotes": "165", 
             "upvotes": "189"
         }, 
         {
             "champName": "Ashe", 
             "downvotes": "106", 
-            "upvotes": "113"
+            "upvotes": "114"
         }, 
         {
             "champName": "Master Yi", 
@@ -94,7 +94,7 @@
         {
             "champName": "Darius", 
             "downvotes": "81", 
-            "upvotes": "86"
+            "upvotes": "87"
         }, 
         {
             "champName": "Nocturne", 
@@ -102,37 +102,37 @@
             "upvotes": "82"
         }, 
         {
-            "champName": "Elise", 
-            "downvotes": "105", 
-            "upvotes": "98"
+            "champName": "Yorick", 
+            "downvotes": "88", 
+            "upvotes": "87"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/shaco.png", 
     "GoodWith": [
         {
             "champName": "Blitzcrank", 
-            "downvotes": "193", 
-            "upvotes": "410"
+            "downvotes": "192", 
+            "upvotes": "412"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "192", 
-            "upvotes": "296"
+            "downvotes": "191", 
+            "upvotes": "298"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "122", 
-            "upvotes": "190"
+            "downvotes": "124", 
+            "upvotes": "189"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "117", 
-            "upvotes": "145"
+            "downvotes": "118", 
+            "upvotes": "144"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "106", 
-            "upvotes": "128"
+            "downvotes": "105", 
+            "upvotes": "130"
         }, 
         {
             "champName": "Lee Sin", 
@@ -145,19 +145,19 @@
             "upvotes": "86"
         }, 
         {
-            "champName": "Evelynn", 
-            "downvotes": "123", 
-            "upvotes": "113"
+            "champName": "Heimerdinger", 
+            "downvotes": "51", 
+            "upvotes": "57"
         }, 
         {
-            "champName": "Heimerdinger", 
-            "downvotes": "52", 
-            "upvotes": "56"
+            "champName": "Evelynn", 
+            "downvotes": "122", 
+            "upvotes": "114"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "62", 
-            "upvotes": "62"
+            "downvotes": "60", 
+            "upvotes": "64"
         }
     ]
 }

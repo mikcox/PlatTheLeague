@@ -6,12 +6,12 @@
     "WeakAgainst": [
         {
             "champName": "Sona", 
-            "downvotes": "421", 
-            "upvotes": "761"
+            "downvotes": "420", 
+            "upvotes": "766"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "316", 
+            "downvotes": "317", 
             "upvotes": "442"
         }, 
         {
@@ -21,7 +21,7 @@
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "81", 
+            "downvotes": "82", 
             "upvotes": "116"
         }, 
         {
@@ -36,18 +36,18 @@
         }, 
         {
             "champName": "Soraka", 
-            "downvotes": "150", 
+            "downvotes": "152", 
             "upvotes": "147"
         }, 
         {
             "champName": "Maokai", 
-            "downvotes": "134", 
-            "upvotes": "132"
+            "downvotes": "135", 
+            "upvotes": "131"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "109", 
-            "upvotes": "111"
+            "downvotes": "110", 
+            "upvotes": "112"
         }, 
         {
             "champName": "Hecarim", 
@@ -58,33 +58,33 @@
     "StrongAgainst": [
         {
             "champName": "Kennen", 
-            "downvotes": "549", 
-            "upvotes": "1586"
+            "downvotes": "548", 
+            "upvotes": "1590"
         }, 
         {
             "champName": "Alistar", 
             "downvotes": "444", 
-            "upvotes": "972"
+            "upvotes": "973"
         }, 
         {
             "champName": "Fiddlesticks", 
             "downvotes": "443", 
-            "upvotes": "926"
+            "upvotes": "927"
         }, 
         {
             "champName": "Leona", 
             "downvotes": "919", 
-            "upvotes": "1741"
+            "upvotes": "1745"
         }, 
         {
             "champName": "Thresh", 
             "downvotes": "345", 
-            "upvotes": "610"
+            "upvotes": "611"
         }, 
         {
             "champName": "Galio", 
-            "downvotes": "380", 
-            "upvotes": "537"
+            "downvotes": "381", 
+            "upvotes": "536"
         }, 
         {
             "champName": "Amumu", 
@@ -93,18 +93,18 @@
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "55", 
+            "downvotes": "57", 
             "upvotes": "106"
         }, 
         {
             "champName": "Nunu", 
             "downvotes": "295", 
-            "upvotes": "354"
+            "upvotes": "355"
         }, 
         {
             "champName": "Udyr", 
-            "downvotes": "205", 
-            "upvotes": "252"
+            "downvotes": "206", 
+            "upvotes": "251"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/janna.png", 
@@ -121,23 +121,23 @@
         }, 
         {
             "champName": "Jinx", 
-            "downvotes": "14", 
-            "upvotes": "148"
+            "downvotes": "15", 
+            "upvotes": "147"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "138", 
-            "upvotes": "597"
+            "downvotes": "139", 
+            "upvotes": "598"
         }, 
         {
             "champName": "Tristana", 
-            "downvotes": "31", 
-            "upvotes": "188"
+            "downvotes": "32", 
+            "upvotes": "187"
         }, 
         {
             "champName": "Quinn", 
-            "downvotes": "20", 
-            "upvotes": "133"
+            "downvotes": "21", 
+            "upvotes": "132"
         }, 
         {
             "champName": "Caitlyn", 
@@ -146,13 +146,13 @@
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "19", 
-            "upvotes": "103"
+            "downvotes": "18", 
+            "upvotes": "104"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "299", 
-            "upvotes": "825"
+            "downvotes": "300", 
+            "upvotes": "824"
         }, 
         {
             "champName": "Sivir", 

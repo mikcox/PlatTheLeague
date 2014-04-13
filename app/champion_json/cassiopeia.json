@@ -7,22 +7,22 @@
         {
             "champName": "Galio", 
             "downvotes": "577", 
-            "upvotes": "2584"
+            "upvotes": "2585"
         }, 
         {
             "champName": "LeBlanc", 
             "downvotes": "659", 
-            "upvotes": "1340"
+            "upvotes": "1342"
         }, 
         {
             "champName": "Talon", 
             "downvotes": "484", 
-            "upvotes": "932"
+            "upvotes": "934"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "788", 
-            "upvotes": "1245"
+            "downvotes": "789", 
+            "upvotes": "1246"
         }, 
         {
             "champName": "Gragas", 
@@ -31,18 +31,18 @@
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "317", 
-            "upvotes": "479"
+            "downvotes": "316", 
+            "upvotes": "480"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "496", 
+            "upvotes": "713"
         }, 
         {
             "champName": "Orianna", 
             "downvotes": "45", 
             "upvotes": "113"
-        }, 
-        {
-            "champName": "Ahri", 
-            "downvotes": "496", 
-            "upvotes": "712"
         }, 
         {
             "champName": "Katarina", 
@@ -52,29 +52,29 @@
         {
             "champName": "Lux", 
             "downvotes": "719", 
-            "upvotes": "975"
+            "upvotes": "978"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "1378", 
-            "upvotes": "5905"
+            "downvotes": "1380", 
+            "upvotes": "5914"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "510", 
+            "downvotes": "511", 
             "upvotes": "1119"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "37", 
-            "upvotes": "144"
+            "downvotes": "38", 
+            "upvotes": "145"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "265", 
-            "upvotes": "567"
+            "downvotes": "270", 
+            "upvotes": "566"
         }, 
         {
             "champName": "Yasuo", 
@@ -83,7 +83,7 @@
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "794", 
+            "downvotes": "797", 
             "upvotes": "1323"
         }, 
         {
@@ -94,12 +94,12 @@
         {
             "champName": "Vladimir", 
             "downvotes": "355", 
-            "upvotes": "587"
+            "upvotes": "588"
         }, 
         {
             "champName": "Akali", 
             "downvotes": "266", 
-            "upvotes": "435"
+            "upvotes": "436"
         }, 
         {
             "champName": "Fizz", 
@@ -116,18 +116,13 @@
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "517", 
-            "upvotes": "990"
+            "downvotes": "518", 
+            "upvotes": "989"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "329", 
-            "upvotes": "515"
-        }, 
-        {
-            "champName": "Katarina", 
-            "downvotes": "24", 
-            "upvotes": "60"
+            "downvotes": "328", 
+            "upvotes": "516"
         }, 
         {
             "champName": "Ahri", 
@@ -140,24 +135,29 @@
             "upvotes": "46"
         }, 
         {
-            "champName": "Amumu", 
-            "downvotes": "177", 
-            "upvotes": "239"
+            "champName": "Katarina", 
+            "downvotes": "25", 
+            "upvotes": "59"
         }, 
         {
-            "champName": "Akali", 
-            "downvotes": "5", 
-            "upvotes": "29"
+            "champName": "Amumu", 
+            "downvotes": "178", 
+            "upvotes": "240"
         }, 
         {
             "champName": "Twitch", 
-            "downvotes": "158", 
+            "downvotes": "159", 
             "upvotes": "196"
         }, 
         {
             "champName": "Malphite", 
             "downvotes": "79", 
             "upvotes": "107"
+        }, 
+        {
+            "champName": "Akali", 
+            "downvotes": "6", 
+            "upvotes": "28"
         }
     ]
 }

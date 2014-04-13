@@ -6,59 +6,59 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "1494", 
-            "upvotes": "4620"
+            "downvotes": "1499", 
+            "upvotes": "4637"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "283", 
-            "upvotes": "686"
+            "downvotes": "282", 
+            "upvotes": "688"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "691", 
-            "upvotes": "1359"
+            "downvotes": "693", 
+            "upvotes": "1363"
         }, 
         {
             "champName": "Rammus", 
-            "downvotes": "479", 
-            "upvotes": "951"
+            "downvotes": "481", 
+            "upvotes": "950"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "528", 
-            "upvotes": "1012"
+            "downvotes": "529", 
+            "upvotes": "1013"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "163", 
+            "downvotes": "164", 
             "upvotes": "358"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "118", 
+            "downvotes": "120", 
             "upvotes": "278"
         }, 
         {
             "champName": "Fiora", 
             "downvotes": "324", 
-            "upvotes": "620"
-        }, 
-        {
-            "champName": "Darius", 
-            "downvotes": "117", 
-            "upvotes": "253"
+            "upvotes": "622"
         }, 
         {
             "champName": "Lee Sin", 
             "downvotes": "58", 
-            "upvotes": "155"
+            "upvotes": "159"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "117", 
+            "upvotes": "254"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "293", 
+            "downvotes": "296", 
             "upvotes": "611"
         }, 
         {
@@ -69,42 +69,42 @@
         {
             "champName": "Lux", 
             "downvotes": "806", 
-            "upvotes": "1340"
+            "upvotes": "1342"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "185", 
-            "upvotes": "343"
+            "downvotes": "187", 
+            "upvotes": "345"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "460", 
-            "upvotes": "662"
+            "downvotes": "462", 
+            "upvotes": "660"
         }, 
         {
             "champName": "Heimerdinger", 
             "downvotes": "474", 
-            "upvotes": "632"
-        }, 
-        {
-            "champName": "Twisted Fate", 
-            "downvotes": "213", 
-            "upvotes": "298"
+            "upvotes": "633"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "35", 
-            "upvotes": "88"
+            "downvotes": "34", 
+            "upvotes": "90"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "53", 
-            "upvotes": "109"
+            "upvotes": "111"
+        }, 
+        {
+            "champName": "Twisted Fate", 
+            "downvotes": "213", 
+            "upvotes": "299"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "112", 
-            "upvotes": "167"
+            "downvotes": "111", 
+            "upvotes": "169"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/masteryi.png", 
@@ -117,37 +117,37 @@
         {
             "champName": "Ashe", 
             "downvotes": "373", 
-            "upvotes": "589"
+            "upvotes": "590"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "194", 
-            "upvotes": "293"
-        }, 
-        {
-            "champName": "Darius", 
-            "downvotes": "31", 
-            "upvotes": "69"
+            "downvotes": "193", 
+            "upvotes": "294"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "149", 
+            "downvotes": "150", 
             "upvotes": "227"
         }, 
         {
+            "champName": "Darius", 
+            "downvotes": "32", 
+            "upvotes": "68"
+        }, 
+        {
             "champName": "Blitzcrank", 
-            "downvotes": "111", 
-            "upvotes": "159"
+            "downvotes": "112", 
+            "upvotes": "158"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "132", 
-            "upvotes": "180"
+            "downvotes": "133", 
+            "upvotes": "179"
         }, 
         {
             "champName": "Morgana", 
             "downvotes": "238", 
-            "upvotes": "299"
+            "upvotes": "300"
         }, 
         {
             "champName": "Teemo", 

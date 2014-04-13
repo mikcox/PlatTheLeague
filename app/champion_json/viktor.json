@@ -6,28 +6,33 @@
     "WeakAgainst": [
         {
             "champName": "Syndra", 
-            "downvotes": "252", 
-            "upvotes": "447"
+            "downvotes": "251", 
+            "upvotes": "448"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "406", 
-            "upvotes": "625"
+            "downvotes": "407", 
+            "upvotes": "628"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "448", 
+            "downvotes": "449", 
             "upvotes": "661"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "644", 
+            "downvotes": "647", 
             "upvotes": "782"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "206", 
-            "upvotes": "268"
+            "downvotes": "207", 
+            "upvotes": "271"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "303", 
+            "upvotes": "373"
         }, 
         {
             "champName": "Gragas", 
@@ -35,76 +40,71 @@
             "upvotes": "200"
         }, 
         {
-            "champName": "Lux", 
-            "downvotes": "303", 
-            "upvotes": "371"
-        }, 
-        {
             "champName": "Ziggs", 
             "downvotes": "92", 
-            "upvotes": "139"
+            "upvotes": "141"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "156", 
-            "upvotes": "206"
+            "downvotes": "158", 
+            "upvotes": "207"
         }, 
         {
             "champName": "Kassadin", 
             "downvotes": "237", 
-            "upvotes": "284"
+            "upvotes": "285"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Swain", 
-            "downvotes": "838", 
-            "upvotes": "2263"
+            "downvotes": "839", 
+            "upvotes": "2268"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "318", 
-            "upvotes": "780"
+            "upvotes": "782"
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "190", 
+            "downvotes": "191", 
             "upvotes": "422"
         }, 
         {
             "champName": "Ryze", 
             "downvotes": "264", 
-            "upvotes": "512"
+            "upvotes": "513"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "5", 
-            "upvotes": "69"
+            "upvotes": "71"
         }, 
         {
             "champName": "Fizz", 
             "downvotes": "185", 
-            "upvotes": "344"
+            "upvotes": "347"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "209", 
+            "downvotes": "210", 
             "upvotes": "368"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "248", 
-            "upvotes": "373"
+            "upvotes": "374"
         }, 
         {
             "champName": "Akali", 
             "downvotes": "183", 
-            "upvotes": "284"
+            "upvotes": "285"
         }, 
         {
             "champName": "Lux", 
             "downvotes": "95", 
-            "upvotes": "167"
+            "upvotes": "169"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/viktor.png", 
@@ -116,13 +116,13 @@
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "156", 
-            "upvotes": "220"
+            "downvotes": "155", 
+            "upvotes": "221"
         }, 
         {
             "champName": "Sona", 
-            "downvotes": "76", 
-            "upvotes": "108"
+            "downvotes": "77", 
+            "upvotes": "107"
         }, 
         {
             "champName": "Leona", 
@@ -145,19 +145,19 @@
             "upvotes": "75"
         }, 
         {
-            "champName": "Diana", 
-            "downvotes": "129", 
-            "upvotes": "134"
-        }, 
-        {
             "champName": "Akali", 
             "downvotes": "103", 
             "upvotes": "110"
         }, 
         {
+            "champName": "Diana", 
+            "downvotes": "130", 
+            "upvotes": "133"
+        }, 
+        {
             "champName": "Malzahar", 
-            "downvotes": "64", 
-            "upvotes": "72"
+            "downvotes": "65", 
+            "upvotes": "71"
         }
     ]
 }

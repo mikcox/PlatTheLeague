@@ -6,42 +6,42 @@
     "WeakAgainst": [
         {
             "champName": "Miss Fortune", 
-            "downvotes": "487", 
-            "upvotes": "1310"
+            "downvotes": "488", 
+            "upvotes": "1311"
         }, 
         {
             "champName": "Tristana", 
             "downvotes": "323", 
-            "upvotes": "625"
+            "upvotes": "626"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "387", 
-            "upvotes": "640"
+            "downvotes": "386", 
+            "upvotes": "643"
         }, 
         {
             "champName": "Varus", 
             "downvotes": "339", 
-            "upvotes": "480"
+            "upvotes": "481"
         }, 
         {
             "champName": "Zac", 
             "downvotes": "273", 
-            "upvotes": "395"
+            "upvotes": "396"
         }, 
         {
             "champName": "Thresh", 
-            "downvotes": "158", 
-            "upvotes": "218"
+            "downvotes": "159", 
+            "upvotes": "219"
         }, 
         {
             "champName": "Leona", 
             "downvotes": "252", 
-            "upvotes": "318"
+            "upvotes": "319"
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "246", 
+            "downvotes": "247", 
             "upvotes": "311"
         }, 
         {
@@ -51,35 +51,35 @@
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "118", 
+            "downvotes": "119", 
             "upvotes": "154"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "438", 
-            "upvotes": "2455"
+            "downvotes": "439", 
+            "upvotes": "2458"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "887", 
-            "upvotes": "2306"
+            "downvotes": "888", 
+            "upvotes": "2314"
         }, 
         {
             "champName": "Wukong", 
             "downvotes": "95", 
-            "upvotes": "254"
+            "upvotes": "257"
         }, 
         {
             "champName": "Urgot", 
             "downvotes": "371", 
-            "upvotes": "727"
+            "upvotes": "729"
         }, 
         {
             "champName": "Lulu", 
-            "downvotes": "499", 
-            "upvotes": "872"
+            "downvotes": "500", 
+            "upvotes": "875"
         }, 
         {
             "champName": "Katarina", 
@@ -88,23 +88,23 @@
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "2", 
-            "upvotes": "60"
+            "downvotes": "3", 
+            "upvotes": "59"
         }, 
         {
             "champName": "Lucian", 
-            "downvotes": "203", 
+            "downvotes": "204", 
             "upvotes": "316"
         }, 
         {
             "champName": "Akali", 
             "downvotes": "79", 
-            "upvotes": "152"
+            "upvotes": "154"
         }, 
         {
             "champName": "Nunu", 
             "downvotes": "395", 
-            "upvotes": "550"
+            "upvotes": "551"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/soraka.png", 
@@ -112,12 +112,12 @@
         {
             "champName": "Jinx", 
             "downvotes": "20", 
-            "upvotes": "206"
+            "upvotes": "207"
         }, 
         {
             "champName": "Caitlyn", 
             "downvotes": "136", 
-            "upvotes": "648"
+            "upvotes": "649"
         }, 
         {
             "champName": "Miss Fortune", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "35", 
+            "downvotes": "36", 
             "upvotes": "180"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "35", 
-            "upvotes": "164"
+            "downvotes": "36", 
+            "upvotes": "163"
         }, 
         {
             "champName": "Urgot", 
@@ -141,23 +141,23 @@
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "180", 
-            "upvotes": "554"
+            "downvotes": "179", 
+            "upvotes": "555"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "322", 
-            "upvotes": "921"
+            "downvotes": "323", 
+            "upvotes": "920"
         }, 
         {
             "champName": "Lucian", 
             "downvotes": "151", 
-            "upvotes": "429"
+            "upvotes": "430"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "1100", 
-            "upvotes": "2793"
+            "downvotes": "1102", 
+            "upvotes": "2796"
         }
     ]
 }
