@@ -1,7 +1,11 @@
 'use strict';
 
 /* App Module */
-var platTheLeagueModule = angular.module('platTheLeagueModule', [ 'ngDragDrop', 'ui.bootstrap', 'ngRoute', 'teamBuilderFilters']); //dependencies go inside the square brackets
+var platTheLeagueModule = angular.module('platTheLeagueModule', [ 'ngDragDrop',
+                                                                  'ui.bootstrap',
+                                                                  'ngRoute',
+                                                                  'highcharts-ng',
+                                                                  'teamBuilderFilters']); //dependencies go inside the square brackets
 
 platTheLeagueModule.config(function ($routeProvider, $httpProvider) {
     $routeProvider. //this controls navigation within our app

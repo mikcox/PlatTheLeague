@@ -3,7 +3,7 @@
 	<div id="circle">&nbsp;</div>
 		<div class="row-fluid" style="color:black">
 			<div id="allChampsList" class="thumbnail" style="float:left; width:15%;" data-drop="true" data-jqyoui-options ng-model="allChamps"
-			jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions', onDrop: 'filterChamps'}">
+			jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}">
 				<input type="text" class="input-large search-query" data-ng-model="allChampFilterQuery" 
 				ng-change="filterChamps()" placeholder="Search" style="width:70%"/>
 						<br>
@@ -229,6 +229,16 @@
 						</tr>
 						</table>
 						<br>
+						<table id="lateGameDiv" class="thumbnail" ng-show="lateGameScore"
+						style="margin:0 auto; text-align:center;">
+						<th colspan="3" style="width:100%;"><h3> Late Game Score: </h3><th>
+						<tr ng-show="lateGameScore">
+							<td colspan="3">
+								{{lateGameScore}}
+							</td>
+						</tr>
+						</table>
+						<br>
 						<table id="teamDiv" class="thumbnail" ng-show="teamScore"
 						style="margin:0 auto; text-align:center;">
 						<th colspan="3" style="width:100%;"><h3>Overall Team Score:</h3><th>
@@ -257,9 +267,14 @@
 							</td>
 						</tr>
 						</table>
+						<div id="chartDiv" style="text-align:center;">
+							<highchart id="highChartsTest" config="chartConfig" style="height: 300px;">
+							</highchart>
+						</div>
 					</div>
 				</div>
-					{{error}}
+				{{error}}
+				</div>
 			</div>
 		</div>
 	</div>	

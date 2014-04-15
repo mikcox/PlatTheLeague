@@ -32,6 +32,8 @@
         <script src="components/angular-route/angular-route.js"></script>
         <script src="components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
         <script src="components/angular-dragdrop/src/angular-dragdrop.js"></script>
+        <script src="components/highcharts-ng/src/highcharts-ng.js"></script>
+        <script src="components/highcharts.com/js/highcharts.src.js"></script>
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/teamBuilderCtrl.js"></script>
 		<script src="scripts/controllers/modalInstanceCtrl.js"></script>
