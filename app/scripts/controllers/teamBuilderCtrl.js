@@ -5,7 +5,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	'$modal',
 	'$q',
 	'dataFactory',
-	function ($scope, $filter, $modal, $q, dataFactory, modalInstanceCtrl) {
+	function ($scope, $filter, $modal, $q, dataFactory) {
 		
 		function getAllChamps() {
 			dataFactory.readJSON('champion_json/all_champs.json').then(function(data) {
@@ -818,7 +818,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.openChampCountersModal = function (champ) {
 
 		var modalInstance = $modal.open({
-	      templateUrl: 'views/champ_counter_modal_content.html',
+	      templateUrl: 'views/champ_counter_modal_content.php',
 	      controller: 'modalInstanceCtrl',
 	      resolve: {
 	    	  data: function () {
