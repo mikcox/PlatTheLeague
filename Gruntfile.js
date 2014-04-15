@@ -293,7 +293,7 @@ module.exports = function (grunt) {
         	}
         },
         // Allow the use of non-minsafe AngularJS files. Automatically makes it
-        // minsafe compatible so Uglify does not destroy the ng references
+        // minsafe compatible so Uglify does not destroy the ng references -->>  not super true in my experience...
         ngmin: {
           dist: {
             files: [{
@@ -304,10 +304,13 @@ module.exports = function (grunt) {
             }]
           }
         },
+        //need to overwrite default uglify task since the grunt uglify plugin doesn't play nice with angular
         uglify: {
-        	  options: {
-        	    mangle: false
-        	  }
+        	options: {
+        		//mangle rewrites variable names, which causes problems with angular injectors.
+        		//as such, I disable the mangle feature.
+        		mangle: false
+        	}
         },
         htmlmin: {
             dist: {
