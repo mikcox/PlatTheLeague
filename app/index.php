@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="styles/bootstrap.css">
         <link rel="stylesheet" href="styles/app.css">
 		<!-- endbuild -->
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
 
     <body class="no-logo fae">

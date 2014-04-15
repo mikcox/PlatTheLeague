@@ -239,6 +239,10 @@
 						</tr>
 						</table>
 						<br>
+						<div id="chartDiv" style="text-align:center;" ng-show="teamScore">
+							<highchart id="highChartsTest" config="chartConfig" style="height: 300px;">
+							</highchart>
+						</div>
 						<table id="teamDiv" class="thumbnail" ng-show="teamScore"
 						style="margin:0 auto; text-align:center;">
 						<th colspan="3" style="width:100%;"><h3>Overall Team Score:</h3><th>
@@ -267,10 +271,6 @@
 							</td>
 						</tr>
 						</table>
-						<div id="chartDiv" style="text-align:center;" ng-show="teamScore">
-							<highchart id="highChartsTest" config="chartConfig" style="height: 300px;">
-							</highchart>
-						</div>
 					</div>
 				</div>
 				{{error}}
