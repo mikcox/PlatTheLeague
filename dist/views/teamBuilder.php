@@ -137,7 +137,7 @@
 						</tr>
 						<tr ng-show="topScore">
 							<td colspan="3">
-								{{topScore}}
+								<p style="display:inline" ng-show="topScore > 0">+</p>{{topScore}}
 							</td>
 						</tr>
 						</table>
@@ -166,7 +166,7 @@
 						</tr>
 						<tr ng-show="midScore">
 							<td colspan="3">
-								{{midScore}}
+								<p style="display:inline" ng-show="midScore > 0">+</p>{{midScore}}
 							</td>
 						</tr>
 						</table>
@@ -195,7 +195,7 @@
 						</tr>
 						<tr ng-show="botScore">
 							<td colspan="3">
-								{{botScore}}
+								<p style="display:inline" ng-show="botScore > 0">+</p>{{botScore}}
 							</td>
 						</tr>
 						</table>
@@ -224,7 +224,7 @@
 						</tr>
 						<tr ng-show="jungleScore">
 							<td colspan="3">
-								{{jungleScore}}
+								<p style="display:inline" ng-show="jungleScore > 0">+</p>{{jungleScore}}
 							</td>
 						</tr>
 						</table>
@@ -234,18 +234,22 @@
 						<th colspan="3" style="width:100%;"><h3> Late Game Score: </h3><th>
 						<tr ng-show="lateGameScore">
 							<td colspan="3">
-								{{lateGameScore}}
+								<p style="display:inline" ng-show="lateGameScore > 0">+</p>{{lateGameScore}}
 							</td>
 						</tr>
 						</table>
 						<br>
+						<div id="chartDiv" style="text-align:center;" ng-show="teamScore">
+							<highchart id="highChartsTest" config="chartConfig" style="height: 300px;">
+							</highchart>
+						</div>
 						<table id="teamDiv" class="thumbnail" ng-show="teamScore"
 						style="margin:0 auto; text-align:center;">
 						<th colspan="3" style="width:100%;"><h3>Overall Team Score:</h3><th>
 						<tr>
 						<tr ng-show="teamScore">
 							<td colspan="3">
-								{{teamScore}}
+								<p style="display:inline" ng-show="teamScore > 0">+</p>{{teamScore}}
 								<br>
 								<br>
 								<h3>Prediction:</h3>
@@ -267,10 +271,6 @@
 							</td>
 						</tr>
 						</table>
-						<div id="chartDiv" style="text-align:center;" ng-show="teamScore">
-							<highchart id="highChartsTest" config="chartConfig" style="height: 300px;">
-							</highchart>
-						</div>
 					</div>
 				</div>
 				{{error}}
