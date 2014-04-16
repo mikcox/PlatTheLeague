@@ -6,128 +6,128 @@
     "WeakAgainst": [
         {
             "champName": "Shyvana", 
-            "downvotes": "560", 
-            "upvotes": "2441"
+            "downvotes": "563", 
+            "upvotes": "2461"
         }, 
         {
             "champName": "Shyvana", 
             "downvotes": "325", 
-            "upvotes": "1198"
+            "upvotes": "1213"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "408", 
-            "upvotes": "1248"
+            "downvotes": "411", 
+            "upvotes": "1260"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "409", 
-            "upvotes": "1083"
+            "downvotes": "411", 
+            "upvotes": "1101"
         }, 
         {
             "champName": "Udyr", 
             "downvotes": "127", 
-            "upvotes": "170"
+            "upvotes": "172"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "174", 
+            "downvotes": "175", 
             "upvotes": "185"
         }, 
         {
             "champName": "Vi", 
-            "downvotes": "73", 
-            "upvotes": "88"
+            "downvotes": "74", 
+            "upvotes": "89"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "96", 
-            "upvotes": "102"
+            "upvotes": "105"
         }, 
         {
             "champName": "Lulu", 
             "downvotes": "105", 
-            "upvotes": "107"
+            "upvotes": "108"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "102", 
-            "upvotes": "104"
+            "downvotes": "103", 
+            "upvotes": "105"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Katarina", 
-            "downvotes": "184", 
-            "upvotes": "335"
+            "downvotes": "186", 
+            "upvotes": "336"
         }, 
         {
             "champName": "Evelynn", 
             "downvotes": "156", 
-            "upvotes": "216"
+            "upvotes": "219"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "150", 
-            "upvotes": "182"
+            "downvotes": "152", 
+            "upvotes": "183"
         }, 
         {
             "champName": "Skarner", 
-            "downvotes": "158", 
-            "upvotes": "169"
+            "downvotes": "157", 
+            "upvotes": "172"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "86", 
-            "upvotes": "106"
+            "upvotes": "108"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "88", 
+            "downvotes": "89", 
             "upvotes": "102"
         }, 
         {
             "champName": "Fizz", 
             "downvotes": "126", 
-            "upvotes": "128"
-        }, 
-        {
-            "champName": "Shen", 
-            "downvotes": "90", 
-            "upvotes": "96"
-        }, 
-        {
-            "champName": "Galio", 
-            "downvotes": "122", 
-            "upvotes": "118"
+            "upvotes": "129"
         }, 
         {
             "champName": "Thresh", 
             "downvotes": "67", 
-            "upvotes": "77"
+            "upvotes": "79"
+        }, 
+        {
+            "champName": "Galio", 
+            "downvotes": "122", 
+            "upvotes": "119"
+        }, 
+        {
+            "champName": "Shen", 
+            "downvotes": "91", 
+            "upvotes": "96"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/nautilus.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "44", 
+            "downvotes": "45", 
             "upvotes": "143"
         }, 
         {
             "champName": "Thresh", 
-            "downvotes": "33", 
-            "upvotes": "77"
+            "downvotes": "36", 
+            "upvotes": "76"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "168", 
-            "upvotes": "236"
+            "downvotes": "167", 
+            "upvotes": "238"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "23", 
-            "upvotes": "52"
+            "downvotes": "22", 
+            "upvotes": "53"
         }, 
         {
             "champName": "Vayne", 
@@ -136,8 +136,8 @@
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "190", 
-            "upvotes": "251"
+            "downvotes": "189", 
+            "upvotes": "252"
         }, 
         {
             "champName": "Teemo", 
@@ -146,18 +146,18 @@
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "45", 
-            "upvotes": "75"
-        }, 
-        {
-            "champName": "Graves", 
-            "downvotes": "113", 
-            "upvotes": "153"
+            "downvotes": "44", 
+            "upvotes": "76"
         }, 
         {
             "champName": "Corki", 
-            "downvotes": "49", 
-            "upvotes": "79"
+            "downvotes": "48", 
+            "upvotes": "80"
+        }, 
+        {
+            "champName": "Graves", 
+            "downvotes": "112", 
+            "upvotes": "154"
         }
     ]
 }

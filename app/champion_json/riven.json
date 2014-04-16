@@ -6,105 +6,105 @@
     "WeakAgainst": [
         {
             "champName": "Garen", 
-            "downvotes": "4159", 
-            "upvotes": "12154"
+            "downvotes": "4183", 
+            "upvotes": "12238"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "3100", 
-            "upvotes": "7052"
+            "downvotes": "3108", 
+            "upvotes": "7083"
         }, 
         {
             "champName": "Kennen", 
-            "downvotes": "1350", 
-            "upvotes": "3046"
+            "downvotes": "1349", 
+            "upvotes": "3060"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "2606", 
-            "upvotes": "5174"
+            "downvotes": "2630", 
+            "upvotes": "5218"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "571", 
-            "upvotes": "1149"
+            "downvotes": "578", 
+            "upvotes": "1158"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "2783", 
-            "upvotes": "5261"
+            "downvotes": "2798", 
+            "upvotes": "5309"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "941", 
-            "upvotes": "1812"
+            "downvotes": "943", 
+            "upvotes": "1826"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "70", 
-            "upvotes": "201"
-        }, 
-        {
-            "champName": "Fiora", 
-            "downvotes": "742", 
-            "upvotes": "1384"
+            "downvotes": "71", 
+            "upvotes": "202"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "173", 
-            "upvotes": "372"
+            "downvotes": "172", 
+            "upvotes": "377"
+        }, 
+        {
+            "champName": "Fiora", 
+            "downvotes": "754", 
+            "upvotes": "1408"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
-            "downvotes": "1474", 
-            "upvotes": "3656"
+            "downvotes": "1484", 
+            "upvotes": "3669"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "153", 
-            "upvotes": "428"
+            "upvotes": "434"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "1275", 
-            "upvotes": "2716"
+            "downvotes": "1283", 
+            "upvotes": "2726"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "34", 
-            "upvotes": "143"
+            "downvotes": "36", 
+            "upvotes": "148"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "538", 
-            "upvotes": "1070"
+            "downvotes": "539", 
+            "upvotes": "1080"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "1136", 
-            "upvotes": "2151"
+            "downvotes": "1139", 
+            "upvotes": "2161"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "1604", 
-            "upvotes": "2986"
-        }, 
-        {
-            "champName": "Fizz", 
-            "downvotes": "134", 
-            "upvotes": "315"
-        }, 
-        {
-            "champName": "Vel'Koz", 
-            "downvotes": "128", 
-            "upvotes": "304"
+            "downvotes": "1613", 
+            "upvotes": "2999"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "56", 
-            "upvotes": "171"
+            "upvotes": "173"
+        }, 
+        {
+            "champName": "Fizz", 
+            "downvotes": "136", 
+            "upvotes": "317"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "129", 
+            "upvotes": "303"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/riven.png", 
@@ -112,12 +112,12 @@
         {
             "champName": "Yasuo", 
             "downvotes": "13", 
-            "upvotes": "78"
+            "upvotes": "80"
         }, 
         {
             "champName": "Vi", 
-            "downvotes": "11", 
-            "upvotes": "58"
+            "downvotes": "12", 
+            "upvotes": "57"
         }, 
         {
             "champName": "Aatrox", 
@@ -127,22 +127,22 @@
         {
             "champName": "Orianna", 
             "downvotes": "298", 
-            "upvotes": "446"
-        }, 
-        {
-            "champName": "Amumu", 
-            "downvotes": "321", 
-            "upvotes": "477"
+            "upvotes": "451"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "251", 
-            "upvotes": "378"
+            "upvotes": "382"
+        }, 
+        {
+            "champName": "Amumu", 
+            "downvotes": "324", 
+            "upvotes": "480"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "928", 
-            "upvotes": "1294"
+            "downvotes": "929", 
+            "upvotes": "1296"
         }, 
         {
             "champName": "Jarvan IV", 
@@ -151,13 +151,13 @@
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "13", 
-            "upvotes": "40"
+            "downvotes": "12", 
+            "upvotes": "42"
         }, 
         {
-            "champName": "Lee Sin", 
-            "downvotes": "204", 
-            "upvotes": "270"
+            "champName": "Shyvana", 
+            "downvotes": "76", 
+            "upvotes": "116"
         }
     ]
 }

@@ -6,23 +6,28 @@
     "WeakAgainst": [
         {
             "champName": "Yorick", 
-            "downvotes": "1976", 
-            "upvotes": "8042"
+            "downvotes": "1984", 
+            "upvotes": "8074"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "2042", 
-            "upvotes": "4752"
+            "downvotes": "2048", 
+            "upvotes": "4773"
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "1160", 
-            "upvotes": "2512"
+            "downvotes": "1163", 
+            "upvotes": "2525"
+        }, 
+        {
+            "champName": "Zed", 
+            "downvotes": "1122", 
+            "upvotes": "2107"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "1586", 
-            "upvotes": "2943"
+            "downvotes": "1588", 
+            "upvotes": "2950"
         }, 
         {
             "champName": "LeBlanc", 
@@ -30,81 +35,76 @@
             "upvotes": "448"
         }, 
         {
-            "champName": "Zed", 
-            "downvotes": "1122", 
-            "upvotes": "2096"
-        }, 
-        {
-            "champName": "Renekton", 
-            "downvotes": "320", 
-            "upvotes": "643"
-        }, 
-        {
             "champName": "Aatrox", 
             "downvotes": "184", 
-            "upvotes": "398"
+            "upvotes": "399"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "866", 
-            "upvotes": "1602"
+            "downvotes": "871", 
+            "upvotes": "1605"
         }, 
         {
-            "champName": "Kayle", 
-            "downvotes": "91", 
-            "upvotes": "230"
+            "champName": "Renekton", 
+            "downvotes": "327", 
+            "upvotes": "645"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "144", 
+            "upvotes": "321"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Tryndamere", 
-            "downvotes": "2341", 
-            "upvotes": "8684"
+            "downvotes": "2361", 
+            "upvotes": "8721"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "2201", 
-            "upvotes": "6663"
+            "downvotes": "2207", 
+            "upvotes": "6675"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "3335", 
-            "upvotes": "9460"
+            "downvotes": "3349", 
+            "upvotes": "9509"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "4758", 
-            "upvotes": "11510"
+            "downvotes": "4773", 
+            "upvotes": "11556"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "8987", 
-            "upvotes": "18869"
+            "downvotes": "9030", 
+            "upvotes": "18940"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "1060", 
-            "upvotes": "2277"
+            "downvotes": "1065", 
+            "upvotes": "2285"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "273", 
-            "upvotes": "623"
+            "downvotes": "274", 
+            "upvotes": "624"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "124", 
-            "upvotes": "319"
+            "downvotes": "126", 
+            "upvotes": "317"
         }, 
         {
             "champName": "Volibear", 
-            "downvotes": "1172", 
-            "upvotes": "2276"
+            "downvotes": "1179", 
+            "upvotes": "2289"
         }, 
         {
             "champName": "Master Yi", 
-            "downvotes": "693", 
-            "upvotes": "1363"
+            "downvotes": "698", 
+            "upvotes": "1375"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/teemo.png", 
@@ -120,19 +120,19 @@
             "upvotes": "107"
         }, 
         {
-            "champName": "Cassiopeia", 
-            "downvotes": "945", 
-            "upvotes": "2011"
+            "champName": "Twitch", 
+            "downvotes": "34", 
+            "upvotes": "114"
         }, 
         {
-            "champName": "Twitch", 
-            "downvotes": "35", 
-            "upvotes": "113"
+            "champName": "Cassiopeia", 
+            "downvotes": "946", 
+            "upvotes": "2013"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "944", 
-            "upvotes": "1733"
+            "downvotes": "945", 
+            "upvotes": "1740"
         }, 
         {
             "champName": "Ashe", 
@@ -155,9 +155,9 @@
             "upvotes": "63"
         }, 
         {
-            "champName": "Pantheon", 
-            "downvotes": "3", 
-            "upvotes": "39"
+            "champName": "Caitlyn", 
+            "downvotes": "14", 
+            "upvotes": "57"
         }
     ]
 }

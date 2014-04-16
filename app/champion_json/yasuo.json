@@ -6,158 +6,158 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "2102", 
-            "upvotes": "9519"
+            "downvotes": "2125", 
+            "upvotes": "9602"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "594", 
-            "upvotes": "2177"
+            "downvotes": "605", 
+            "upvotes": "2205"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "446", 
-            "upvotes": "1438"
+            "downvotes": "453", 
+            "upvotes": "1450"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "102", 
-            "upvotes": "373"
+            "downvotes": "113", 
+            "upvotes": "390"
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "45", 
-            "upvotes": "216"
+            "downvotes": "46", 
+            "upvotes": "219"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "563", 
-            "upvotes": "1512"
-        }, 
-        {
-            "champName": "Kayle", 
-            "downvotes": "97", 
-            "upvotes": "343"
-        }, 
-        {
-            "champName": "Soraka", 
-            "downvotes": "888", 
-            "upvotes": "2314"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "227", 
-            "upvotes": "663"
+            "downvotes": "565", 
+            "upvotes": "1525"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "640", 
-            "upvotes": "1687"
+            "downvotes": "647", 
+            "upvotes": "1716"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "893", 
+            "upvotes": "2325"
+        }, 
+        {
+            "champName": "Vladimir", 
+            "downvotes": "74", 
+            "upvotes": "284"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "101", 
+            "upvotes": "350"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Vel'Koz", 
-            "downvotes": "1004", 
-            "upvotes": "5401"
+            "downvotes": "1011", 
+            "upvotes": "5441"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "732", 
-            "upvotes": "2912"
+            "downvotes": "741", 
+            "upvotes": "2942"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "581", 
-            "upvotes": "1587"
+            "downvotes": "592", 
+            "upvotes": "1592"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "936", 
-            "upvotes": "2272"
+            "downvotes": "943", 
+            "upvotes": "2286"
         }, 
         {
             "champName": "Caitlyn", 
-            "downvotes": "283", 
-            "upvotes": "722"
+            "downvotes": "287", 
+            "upvotes": "725"
         }, 
         {
             "champName": "Ziggs", 
-            "downvotes": "675", 
-            "upvotes": "1537"
+            "downvotes": "679", 
+            "upvotes": "1553"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "68", 
-            "upvotes": "220"
-        }, 
-        {
-            "champName": "Kassadin", 
-            "downvotes": "190", 
-            "upvotes": "452"
-        }, 
-        {
-            "champName": "Twisted Fate", 
-            "downvotes": "5", 
-            "upvotes": "88"
+            "downvotes": "71", 
+            "upvotes": "225"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "348", 
-            "upvotes": "758"
+            "downvotes": "349", 
+            "upvotes": "763"
+        }, 
+        {
+            "champName": "Kassadin", 
+            "downvotes": "195", 
+            "upvotes": "454"
+        }, 
+        {
+            "champName": "Katarina", 
+            "downvotes": "169", 
+            "upvotes": "403"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/yasuo.png", 
     "GoodWith": [
         {
             "champName": "Nami", 
-            "downvotes": "18", 
-            "upvotes": "337"
+            "downvotes": "17", 
+            "upvotes": "339"
         }, 
         {
             "champName": "Blitzcrank", 
             "downvotes": "19", 
-            "upvotes": "271"
+            "upvotes": "273"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "13", 
-            "upvotes": "215"
+            "downvotes": "12", 
+            "upvotes": "219"
         }, 
         {
             "champName": "Alistar", 
             "downvotes": "45", 
-            "upvotes": "422"
+            "upvotes": "424"
         }, 
         {
             "champName": "Zyra", 
             "downvotes": "15", 
-            "upvotes": "202"
+            "upvotes": "203"
         }, 
         {
             "champName": "Janna", 
             "downvotes": "125", 
-            "upvotes": "728"
+            "upvotes": "732"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "148", 
-            "upvotes": "838"
+            "downvotes": "153", 
+            "upvotes": "843"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "76", 
-            "upvotes": "448"
-        }, 
-        {
-            "champName": "Jarvan IV", 
-            "downvotes": "18", 
-            "upvotes": "164"
+            "upvotes": "453"
         }, 
         {
             "champName": "Wukong", 
-            "downvotes": "139", 
-            "upvotes": "681"
+            "downvotes": "143", 
+            "upvotes": "690"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "19", 
+            "upvotes": "164"
         }
     ]
 }

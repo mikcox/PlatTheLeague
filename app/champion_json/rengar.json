@@ -6,118 +6,118 @@
     "WeakAgainst": [
         {
             "champName": "Pantheon", 
-            "downvotes": "535", 
-            "upvotes": "1221"
+            "downvotes": "537", 
+            "upvotes": "1225"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "2001", 
-            "upvotes": "4203"
+            "downvotes": "2011", 
+            "upvotes": "4219"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "815", 
-            "upvotes": "1734"
+            "downvotes": "823", 
+            "upvotes": "1743"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "854", 
-            "upvotes": "1530"
+            "downvotes": "859", 
+            "upvotes": "1536"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "404", 
-            "upvotes": "726"
+            "upvotes": "729"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "556", 
-            "upvotes": "932"
+            "downvotes": "560", 
+            "upvotes": "935"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "440", 
-            "upvotes": "728"
+            "upvotes": "732"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "543", 
-            "upvotes": "872"
+            "upvotes": "878"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "53", 
-            "upvotes": "137"
+            "downvotes": "55", 
+            "upvotes": "143"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "131", 
-            "upvotes": "251"
+            "upvotes": "252"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Kha'Zix", 
-            "downvotes": "1327", 
-            "upvotes": "2503"
+            "downvotes": "1334", 
+            "upvotes": "2510"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "74", 
+            "downvotes": "77", 
             "upvotes": "187"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "287", 
-            "upvotes": "510"
+            "downvotes": "289", 
+            "upvotes": "514"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "278", 
-            "upvotes": "478"
+            "downvotes": "279", 
+            "upvotes": "480"
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "416", 
-            "upvotes": "670"
+            "downvotes": "418", 
+            "upvotes": "673"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "43", 
-            "upvotes": "120"
+            "downvotes": "46", 
+            "upvotes": "122"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "262", 
-            "upvotes": "430"
-        }, 
-        {
-            "champName": "Tryndamere", 
-            "downvotes": "176", 
-            "upvotes": "291"
+            "downvotes": "264", 
+            "upvotes": "431"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "12", 
-            "upvotes": "70"
+            "upvotes": "71"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "178", 
+            "upvotes": "291"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "26", 
-            "upvotes": "87"
+            "downvotes": "27", 
+            "upvotes": "88"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/rengar.png", 
     "GoodWith": [
         {
             "champName": "Kha'Zix", 
-            "downvotes": "926", 
-            "upvotes": "3002"
+            "downvotes": "927", 
+            "upvotes": "3007"
         }, 
         {
             "champName": "Orianna", 
             "downvotes": "209", 
-            "upvotes": "437"
+            "upvotes": "438"
         }, 
         {
             "champName": "Aatrox", 
@@ -126,28 +126,28 @@
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "461", 
-            "upvotes": "754"
+            "downvotes": "460", 
+            "upvotes": "755"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "406", 
+            "downvotes": "407", 
             "upvotes": "648"
         }, 
         {
-            "champName": "Jax", 
-            "downvotes": "29", 
-            "upvotes": "64"
+            "champName": "Nocturne", 
+            "downvotes": "158", 
+            "upvotes": "232"
         }, 
         {
-            "champName": "Nocturne", 
-            "downvotes": "159", 
-            "upvotes": "230"
+            "champName": "Jax", 
+            "downvotes": "30", 
+            "upvotes": "63"
         }, 
         {
             "champName": "Zilean", 
-            "downvotes": "196", 
-            "upvotes": "247"
+            "downvotes": "195", 
+            "upvotes": "248"
         }, 
         {
             "champName": "Ahri", 

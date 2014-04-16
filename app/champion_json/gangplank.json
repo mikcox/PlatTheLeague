@@ -6,118 +6,118 @@
     "WeakAgainst": [
         {
             "champName": "Pantheon", 
-            "downvotes": "1231", 
-            "upvotes": "6478"
+            "downvotes": "1236", 
+            "upvotes": "6498"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "711", 
-            "upvotes": "2379"
+            "downvotes": "715", 
+            "upvotes": "2394"
         }, 
         {
             "champName": "Udyr", 
-            "downvotes": "442", 
-            "upvotes": "991"
+            "downvotes": "444", 
+            "upvotes": "994"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "78", 
-            "upvotes": "201"
+            "upvotes": "202"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "410", 
-            "upvotes": "758"
+            "downvotes": "411", 
+            "upvotes": "766"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "322", 
-            "upvotes": "609"
+            "downvotes": "323", 
+            "upvotes": "610"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "1078", 
-            "upvotes": "1829"
+            "downvotes": "1080", 
+            "upvotes": "1834"
         }, 
         {
             "champName": "Lee Sin", 
             "downvotes": "78", 
-            "upvotes": "188"
+            "upvotes": "189"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "98", 
-            "upvotes": "215"
+            "downvotes": "100", 
+            "upvotes": "218"
         }, 
         {
             "champName": "Poppy", 
-            "downvotes": "401", 
-            "upvotes": "667"
+            "downvotes": "402", 
+            "upvotes": "668"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Malzahar", 
-            "downvotes": "690", 
-            "upvotes": "1978"
+            "downvotes": "689", 
+            "upvotes": "1985"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "564", 
-            "upvotes": "1202"
+            "downvotes": "565", 
+            "upvotes": "1204"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "619", 
-            "upvotes": "1011"
+            "downvotes": "622", 
+            "upvotes": "1013"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "185", 
-            "upvotes": "342"
+            "downvotes": "186", 
+            "upvotes": "345"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "369", 
-            "upvotes": "583"
+            "downvotes": "372", 
+            "upvotes": "586"
         }, 
         {
             "champName": "Rengar", 
             "downvotes": "66", 
-            "upvotes": "132"
-        }, 
-        {
-            "champName": "Elise", 
-            "downvotes": "169", 
-            "upvotes": "259"
+            "upvotes": "133"
         }, 
         {
             "champName": "Kha'Zix", 
             "downvotes": "65", 
-            "upvotes": "130"
+            "upvotes": "131"
+        }, 
+        {
+            "champName": "Elise", 
+            "downvotes": "170", 
+            "upvotes": "260"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "376", 
-            "upvotes": "515"
+            "downvotes": "379", 
+            "upvotes": "517"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "150", 
-            "upvotes": "230"
+            "downvotes": "151", 
+            "upvotes": "232"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/gangplank.png", 
     "GoodWith": [
         {
             "champName": "Amumu", 
-            "downvotes": "198", 
-            "upvotes": "312"
+            "downvotes": "199", 
+            "upvotes": "313"
         }, 
         {
             "champName": "Twisted Fate", 
-            "downvotes": "268", 
-            "upvotes": "349"
+            "downvotes": "267", 
+            "upvotes": "351"
         }, 
         {
             "champName": "Aatrox", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "415", 
-            "upvotes": "452"
+            "downvotes": "417", 
+            "upvotes": "450"
         }, 
         {
             "champName": "Janna", 
             "downvotes": "76", 
-            "upvotes": "95"
+            "upvotes": "96"
         }, 
         {
             "champName": "Ahri", 
@@ -145,19 +145,19 @@
             "upvotes": "68"
         }, 
         {
+            "champName": "Nidalee", 
+            "downvotes": "26", 
+            "upvotes": "41"
+        }, 
+        {
             "champName": "Quinn", 
-            "downvotes": "76", 
+            "downvotes": "77", 
             "upvotes": "85"
         }, 
         {
-            "champName": "Nidalee", 
-            "downvotes": "27", 
-            "upvotes": "40"
-        }, 
-        {
             "champName": "Nunu", 
-            "downvotes": "63", 
-            "upvotes": "70"
+            "downvotes": "62", 
+            "upvotes": "71"
         }
     ]
 }

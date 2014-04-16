@@ -6,133 +6,133 @@
     "WeakAgainst": [
         {
             "champName": "Teemo", 
-            "downvotes": "3335", 
-            "upvotes": "9460"
+            "downvotes": "3349", 
+            "upvotes": "9509"
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "1032", 
-            "upvotes": "2742"
+            "downvotes": "1040", 
+            "upvotes": "2761"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "904", 
-            "upvotes": "2208"
+            "downvotes": "908", 
+            "upvotes": "2223"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "81", 
-            "upvotes": "244"
-        }, 
-        {
-            "champName": "Kayle", 
-            "downvotes": "185", 
-            "upvotes": "437"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "134", 
-            "upvotes": "336"
-        }, 
-        {
-            "champName": "Garen", 
-            "downvotes": "1886", 
-            "upvotes": "3714"
+            "downvotes": "89", 
+            "upvotes": "257"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "747", 
-            "upvotes": "1516"
+            "downvotes": "750", 
+            "upvotes": "1524"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1893", 
+            "upvotes": "3728"
+        }, 
+        {
+            "champName": "Kayle", 
+            "downvotes": "187", 
+            "upvotes": "437"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "78", 
-            "upvotes": "223"
+            "downvotes": "79", 
+            "upvotes": "229"
         }, 
         {
-            "champName": "Vladimir", 
-            "downvotes": "616", 
-            "upvotes": "1234"
+            "champName": "Aatrox", 
+            "downvotes": "136", 
+            "upvotes": "338"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "1257", 
+            "upvotes": "2451"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Hecarim", 
-            "downvotes": "738", 
-            "upvotes": "1834"
+            "downvotes": "741", 
+            "upvotes": "1845"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "831", 
-            "upvotes": "1548"
+            "downvotes": "839", 
+            "upvotes": "1553"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "72", 
+            "downvotes": "74", 
             "upvotes": "198"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "419", 
-            "upvotes": "706"
-        }, 
-        {
-            "champName": "Fiora", 
-            "downvotes": "127", 
-            "upvotes": "250"
-        }, 
-        {
-            "champName": "Tryndamere", 
-            "downvotes": "1275", 
-            "upvotes": "1961"
+            "downvotes": "422", 
+            "upvotes": "712"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "9", 
-            "upvotes": "73"
+            "downvotes": "11", 
+            "upvotes": "77"
+        }, 
+        {
+            "champName": "Rengar", 
+            "downvotes": "55", 
+            "upvotes": "143"
         }, 
         {
             "champName": "Kha'Zix", 
             "downvotes": "221", 
-            "upvotes": "388"
+            "upvotes": "389"
         }, 
         {
-            "champName": "Rengar", 
-            "downvotes": "53", 
-            "upvotes": "137"
+            "champName": "Tryndamere", 
+            "downvotes": "1283", 
+            "upvotes": "1968"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "1007", 
-            "upvotes": "1529"
+            "downvotes": "1008", 
+            "upvotes": "1534"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "132", 
+            "upvotes": "248"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/nasus.png", 
     "GoodWith": [
         {
             "champName": "Renekton", 
-            "downvotes": "1091", 
-            "upvotes": "2367"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "125", 
-            "upvotes": "194"
+            "downvotes": "1096", 
+            "upvotes": "2378"
         }, 
         {
             "champName": "Lulu", 
-            "downvotes": "240", 
-            "upvotes": "340"
+            "downvotes": "241", 
+            "upvotes": "342"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "130", 
+            "upvotes": "191"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "427", 
-            "upvotes": "555"
+            "downvotes": "428", 
+            "upvotes": "557"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "364", 
-            "upvotes": "453"
+            "downvotes": "367", 
+            "upvotes": "451"
         }, 
         {
             "champName": "Kha'Zix", 
@@ -145,9 +145,9 @@
             "upvotes": "95"
         }, 
         {
-            "champName": "Cho'Gath", 
-            "downvotes": "80", 
-            "upvotes": "98"
+            "champName": "Ashe", 
+            "downvotes": "78", 
+            "upvotes": "96"
         }, 
         {
             "champName": "Malphite", 
@@ -155,9 +155,9 @@
             "upvotes": "70"
         }, 
         {
-            "champName": "Ashe", 
-            "downvotes": "78", 
-            "upvotes": "95"
+            "champName": "Anivia", 
+            "downvotes": "7", 
+            "upvotes": "26"
         }
     ]
 }

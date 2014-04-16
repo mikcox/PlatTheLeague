@@ -6,104 +6,104 @@
     "WeakAgainst": [
         {
             "champName": "Xin Zhao", 
-            "downvotes": "188", 
+            "downvotes": "190", 
             "upvotes": "283"
-        }, 
-        {
-            "champName": "Lee Sin", 
-            "downvotes": "150", 
-            "upvotes": "189"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "108", 
-            "upvotes": "147"
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "150", 
+            "upvotes": "190"
         }, 
         {
             "champName": "Morgana", 
             "downvotes": "198", 
-            "upvotes": "234"
+            "upvotes": "237"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "100", 
+            "downvotes": "101", 
             "upvotes": "124"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "43", 
-            "upvotes": "66"
+            "downvotes": "44", 
+            "upvotes": "67"
         }, 
         {
             "champName": "Quinn", 
-            "downvotes": "153", 
-            "upvotes": "152"
+            "downvotes": "155", 
+            "upvotes": "153"
         }, 
         {
             "champName": "Udyr", 
-            "downvotes": "94", 
-            "upvotes": "103"
+            "downvotes": "96", 
+            "upvotes": "104"
+        }, 
+        {
+            "champName": "Shyvana", 
+            "downvotes": "137", 
+            "upvotes": "134"
         }, 
         {
             "champName": "Karthus", 
             "downvotes": "155", 
             "upvotes": "147"
-        }, 
-        {
-            "champName": "Shyvana", 
-            "downvotes": "137", 
-            "upvotes": "133"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Hecarim", 
             "downvotes": "345", 
-            "upvotes": "752"
+            "upvotes": "756"
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "287", 
-            "upvotes": "458"
+            "downvotes": "288", 
+            "upvotes": "460"
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "196", 
-            "upvotes": "308"
+            "downvotes": "197", 
+            "upvotes": "310"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "54", 
-            "upvotes": "120"
+            "downvotes": "55", 
+            "upvotes": "124"
         }, 
         {
             "champName": "Darius", 
             "downvotes": "148", 
-            "upvotes": "198"
+            "upvotes": "199"
         }, 
         {
             "champName": "Evelynn", 
             "downvotes": "136", 
-            "upvotes": "145"
+            "upvotes": "146"
         }, 
         {
             "champName": "Anivia", 
             "downvotes": "144", 
-            "upvotes": "147"
+            "upvotes": "148"
         }, 
         {
             "champName": "Akali", 
             "downvotes": "67", 
-            "upvotes": "83"
+            "upvotes": "84"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "95", 
-            "upvotes": "104"
+            "downvotes": "96", 
+            "upvotes": "105"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "129", 
+            "downvotes": "130", 
             "upvotes": "130"
         }
     ], 
@@ -116,8 +116,8 @@
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "236", 
-            "upvotes": "446"
+            "downvotes": "237", 
+            "upvotes": "445"
         }, 
         {
             "champName": "Wukong", 
@@ -126,8 +126,8 @@
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "173", 
-            "upvotes": "299"
+            "downvotes": "172", 
+            "upvotes": "300"
         }, 
         {
             "champName": "Yasuo", 
@@ -136,8 +136,8 @@
         }, 
         {
             "champName": "Rumble", 
-            "downvotes": "273", 
-            "upvotes": "378"
+            "downvotes": "274", 
+            "upvotes": "379"
         }, 
         {
             "champName": "Leona", 
@@ -151,8 +151,8 @@
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "131", 
-            "upvotes": "175"
+            "downvotes": "133", 
+            "upvotes": "176"
         }, 
         {
             "champName": "Anivia", 

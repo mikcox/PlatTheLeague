@@ -6,128 +6,123 @@
     "WeakAgainst": [
         {
             "champName": "Lee Sin", 
-            "downvotes": "2121", 
-            "upvotes": "5942"
+            "downvotes": "2127", 
+            "upvotes": "5970"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "482", 
-            "upvotes": "1197"
+            "downvotes": "485", 
+            "upvotes": "1198"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "551", 
-            "upvotes": "1161"
+            "downvotes": "552", 
+            "upvotes": "1167"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "932", 
-            "upvotes": "1786"
+            "downvotes": "933", 
+            "upvotes": "1793"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "932", 
-            "upvotes": "1780"
+            "downvotes": "934", 
+            "upvotes": "1786"
         }, 
         {
             "champName": "Rengar", 
-            "downvotes": "1327", 
-            "upvotes": "2503"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "131", 
-            "upvotes": "310"
+            "downvotes": "1334", 
+            "upvotes": "2510"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "124", 
-            "upvotes": "296"
+            "downvotes": "125", 
+            "upvotes": "300"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "162", 
-            "upvotes": "361"
+            "downvotes": "161", 
+            "upvotes": "364"
         }, 
         {
-            "champName": "Fiora", 
-            "downvotes": "94", 
-            "upvotes": "227"
+            "champName": "Aatrox", 
+            "downvotes": "134", 
+            "upvotes": "314"
+        }, 
+        {
+            "champName": "Swain", 
+            "downvotes": "187", 
+            "upvotes": "386"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Kassadin", 
-            "downvotes": "981", 
-            "upvotes": "2192"
+            "downvotes": "983", 
+            "upvotes": "2197"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "714", 
-            "upvotes": "1547"
+            "downvotes": "718", 
+            "upvotes": "1554"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "405", 
-            "upvotes": "754"
-        }, 
-        {
-            "champName": "Fizz", 
-            "downvotes": "18", 
-            "upvotes": "95"
+            "downvotes": "406", 
+            "upvotes": "759"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "144", 
-            "upvotes": "301"
+            "downvotes": "147", 
+            "upvotes": "302"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "110", 
+            "downvotes": "111", 
             "upvotes": "239"
         }, 
         {
-            "champName": "Zed", 
-            "downvotes": "32", 
-            "upvotes": "114"
-        }, 
-        {
             "champName": "Twisted Fate", 
-            "downvotes": "493", 
-            "upvotes": "843"
+            "downvotes": "496", 
+            "upvotes": "846"
         }, 
         {
-            "champName": "Nasus", 
-            "downvotes": "94", 
-            "upvotes": "206"
+            "champName": "Fizz", 
+            "downvotes": "21", 
+            "upvotes": "96"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "35", 
+            "upvotes": "115"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "126", 
+            "upvotes": "254"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "10", 
-            "upvotes": "76"
+            "downvotes": "34", 
+            "upvotes": "113"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/khazix.png", 
     "GoodWith": [
         {
             "champName": "Rengar", 
-            "downvotes": "926", 
-            "upvotes": "3002"
+            "downvotes": "927", 
+            "upvotes": "3007"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "68", 
-            "upvotes": "148"
+            "upvotes": "149"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "19", 
-            "upvotes": "63"
-        }, 
-        {
-            "champName": "Lux", 
-            "downvotes": "15", 
-            "upvotes": "50"
+            "downvotes": "20", 
+            "upvotes": "62"
         }, 
         {
             "champName": "Jarvan IV", 
@@ -135,14 +130,19 @@
             "upvotes": "62"
         }, 
         {
+            "champName": "Lux", 
+            "downvotes": "16", 
+            "upvotes": "49"
+        }, 
+        {
             "champName": "Xin Zhao", 
             "downvotes": "378", 
-            "upvotes": "536"
+            "upvotes": "537"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "90", 
-            "upvotes": "138"
+            "downvotes": "89", 
+            "upvotes": "139"
         }, 
         {
             "champName": "Thresh", 
@@ -151,13 +151,13 @@
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "266", 
-            "upvotes": "350"
+            "downvotes": "265", 
+            "upvotes": "353"
         }, 
         {
-            "champName": "Gragas", 
-            "downvotes": "117", 
-            "upvotes": "164"
+            "champName": "Akali", 
+            "downvotes": "22", 
+            "upvotes": "51"
         }
     ]
 }

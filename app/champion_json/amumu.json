@@ -6,128 +6,128 @@
     "WeakAgainst": [
         {
             "champName": "Shyvana", 
-            "downvotes": "640", 
-            "upvotes": "1610"
+            "downvotes": "643", 
+            "upvotes": "1619"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "383", 
-            "upvotes": "722"
+            "downvotes": "385", 
+            "upvotes": "729"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "487", 
-            "upvotes": "819"
+            "downvotes": "490", 
+            "upvotes": "825"
         }, 
         {
             "champName": "Shaco", 
-            "downvotes": "397", 
-            "upvotes": "613"
+            "downvotes": "399", 
+            "upvotes": "619"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "169", 
-            "upvotes": "278"
+            "downvotes": "171", 
+            "upvotes": "285"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "191", 
-            "upvotes": "293"
+            "downvotes": "192", 
+            "upvotes": "295"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "479", 
-            "upvotes": "643"
+            "downvotes": "482", 
+            "upvotes": "645"
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "291", 
-            "upvotes": "366"
+            "downvotes": "292", 
+            "upvotes": "368"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "98", 
-            "upvotes": "144"
+            "upvotes": "145"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "35", 
-            "upvotes": "76"
+            "downvotes": "36", 
+            "upvotes": "79"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Blitzcrank", 
-            "downvotes": "398", 
-            "upvotes": "765"
+            "downvotes": "399", 
+            "upvotes": "770"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "249", 
-            "upvotes": "309"
+            "downvotes": "251", 
+            "upvotes": "312"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "95", 
-            "upvotes": "140"
+            "downvotes": "96", 
+            "upvotes": "142"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "143", 
-            "upvotes": "189"
-        }, 
-        {
-            "champName": "Akali", 
-            "downvotes": "131", 
-            "upvotes": "163"
+            "downvotes": "144", 
+            "upvotes": "191"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "144", 
-            "upvotes": "173"
+            "downvotes": "146", 
+            "upvotes": "177"
         }, 
         {
-            "champName": "Cho'Gath", 
-            "downvotes": "114", 
-            "upvotes": "130"
+            "champName": "Akali", 
+            "downvotes": "133", 
+            "upvotes": "164"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "169", 
-            "upvotes": "174"
+            "upvotes": "176"
         }, 
         {
-            "champName": "Darius", 
-            "downvotes": "151", 
-            "upvotes": "156"
+            "champName": "Cho'Gath", 
+            "downvotes": "118", 
+            "upvotes": "132"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "146", 
-            "upvotes": "151"
+            "downvotes": "147", 
+            "upvotes": "153"
+        }, 
+        {
+            "champName": "Tryndamere", 
+            "downvotes": "77", 
+            "upvotes": "95"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/amumu.png", 
     "GoodWith": [
         {
             "champName": "Miss Fortune", 
-            "downvotes": "26", 
+            "downvotes": "27", 
             "upvotes": "334"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "23", 
-            "upvotes": "210"
+            "downvotes": "22", 
+            "upvotes": "212"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "591", 
-            "upvotes": "2463"
+            "downvotes": "596", 
+            "upvotes": "2464"
         }, 
         {
             "champName": "Vel'Koz", 
             "downvotes": "39", 
-            "upvotes": "163"
+            "upvotes": "164"
         }, 
         {
             "champName": "Pantheon", 
@@ -135,29 +135,29 @@
             "upvotes": "102"
         }, 
         {
-            "champName": "Morgana", 
-            "downvotes": "299", 
-            "upvotes": "750"
-        }, 
-        {
             "champName": "Leona", 
             "downvotes": "6", 
             "upvotes": "61"
         }, 
         {
+            "champName": "Morgana", 
+            "downvotes": "303", 
+            "upvotes": "750"
+        }, 
+        {
             "champName": "Ezreal", 
             "downvotes": "16", 
-            "upvotes": "80"
+            "upvotes": "81"
         }, 
         {
             "champName": "Fiddlesticks", 
-            "downvotes": "299", 
-            "upvotes": "694"
+            "downvotes": "300", 
+            "upvotes": "696"
         }, 
         {
             "champName": "Zyra", 
-            "downvotes": "294", 
-            "upvotes": "680"
+            "downvotes": "295", 
+            "upvotes": "681"
         }
     ]
 }

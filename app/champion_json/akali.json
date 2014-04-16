@@ -6,104 +6,104 @@
     "WeakAgainst": [
         {
             "champName": "Lee Sin", 
-            "downvotes": "2973", 
-            "upvotes": "18575"
+            "downvotes": "2985", 
+            "upvotes": "18646"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "1515", 
-            "upvotes": "3906"
+            "downvotes": "1521", 
+            "upvotes": "3924"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "1066", 
-            "upvotes": "2695"
-        }, 
-        {
-            "champName": "Renekton", 
-            "downvotes": "1316", 
-            "upvotes": "2864"
+            "downvotes": "1074", 
+            "upvotes": "2709"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "384", 
-            "upvotes": "892"
+            "downvotes": "389", 
+            "upvotes": "905"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "1323", 
+            "upvotes": "2875"
         }, 
         {
             "champName": "Annie", 
-            "downvotes": "852", 
-            "upvotes": "1869"
+            "downvotes": "858", 
+            "upvotes": "1882"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "624", 
-            "upvotes": "1363"
+            "downvotes": "627", 
+            "upvotes": "1374"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "82", 
-            "upvotes": "244"
+            "downvotes": "84", 
+            "upvotes": "250"
         }, 
         {
             "champName": "Fiddlesticks", 
-            "downvotes": "374", 
-            "upvotes": "827"
+            "downvotes": "376", 
+            "upvotes": "832"
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "593", 
-            "upvotes": "1235"
+            "downvotes": "601", 
+            "upvotes": "1243"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Vel'Koz", 
-            "downvotes": "122", 
-            "upvotes": "465"
+            "downvotes": "128", 
+            "upvotes": "479"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "640", 
-            "upvotes": "1687"
+            "downvotes": "647", 
+            "upvotes": "1716"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "826", 
-            "upvotes": "2124"
+            "downvotes": "829", 
+            "upvotes": "2127"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "761", 
-            "upvotes": "1772"
-        }, 
-        {
-            "champName": "Vel'Koz", 
-            "downvotes": "12", 
-            "upvotes": "108"
+            "downvotes": "765", 
+            "upvotes": "1782"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "171", 
-            "upvotes": "437"
+            "upvotes": "447"
+        }, 
+        {
+            "champName": "Vel'Koz", 
+            "downvotes": "12", 
+            "upvotes": "110"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "2518", 
-            "upvotes": "4896"
+            "downvotes": "2534", 
+            "upvotes": "4929"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "163", 
-            "upvotes": "388"
+            "downvotes": "165", 
+            "upvotes": "391"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "62", 
-            "upvotes": "193"
+            "downvotes": "63", 
+            "upvotes": "196"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "293", 
+            "downvotes": "295", 
             "upvotes": "625"
         }
     ], 
@@ -111,13 +111,18 @@
     "GoodWith": [
         {
             "champName": "Aatrox", 
-            "downvotes": "25", 
-            "upvotes": "125"
+            "downvotes": "24", 
+            "upvotes": "127"
         }, 
         {
             "champName": "Diana", 
             "downvotes": "799", 
-            "upvotes": "1547"
+            "upvotes": "1551"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "394", 
+            "upvotes": "711"
         }, 
         {
             "champName": "Teemo", 
@@ -125,39 +130,34 @@
             "upvotes": "58"
         }, 
         {
-            "champName": "LeBlanc", 
-            "downvotes": "390", 
-            "upvotes": "698"
-        }, 
-        {
             "champName": "Jarvan IV", 
-            "downvotes": "14", 
-            "upvotes": "54"
+            "downvotes": "13", 
+            "upvotes": "55"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "37", 
-            "upvotes": "89"
+            "downvotes": "36", 
+            "upvotes": "90"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "629", 
-            "upvotes": "1012"
-        }, 
-        {
-            "champName": "Leona", 
-            "downvotes": "0", 
-            "upvotes": "31"
+            "downvotes": "632", 
+            "upvotes": "1017"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "577", 
-            "upvotes": "919"
+            "downvotes": "576", 
+            "upvotes": "921"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "184", 
-            "upvotes": "297"
+            "downvotes": "185", 
+            "upvotes": "296"
+        }, 
+        {
+            "champName": "Leona", 
+            "downvotes": "1", 
+            "upvotes": "30"
         }
     ]
 }

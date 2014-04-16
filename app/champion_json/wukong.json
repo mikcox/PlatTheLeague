@@ -7,47 +7,47 @@
         {
             "champName": "Lee Sin", 
             "downvotes": "1892", 
-            "upvotes": "5546"
+            "upvotes": "5548"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "2045", 
-            "upvotes": "4949"
+            "downvotes": "2049", 
+            "upvotes": "4956"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "1300", 
-            "upvotes": "2618"
+            "downvotes": "1301", 
+            "upvotes": "2619"
         }, 
         {
             "champName": "Soraka", 
             "downvotes": "97", 
-            "upvotes": "264"
+            "upvotes": "265"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "956", 
-            "upvotes": "1886"
+            "downvotes": "959", 
+            "upvotes": "1885"
         }, 
         {
             "champName": "Pantheon", 
             "downvotes": "614", 
-            "upvotes": "1216"
+            "upvotes": "1217"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "872", 
-            "upvotes": "1692"
+            "downvotes": "873", 
+            "upvotes": "1694"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "87", 
-            "upvotes": "232"
+            "downvotes": "86", 
+            "upvotes": "233"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "93", 
-            "upvotes": "224"
+            "downvotes": "92", 
+            "upvotes": "225"
         }, 
         {
             "champName": "Jax", 
@@ -58,13 +58,13 @@
     "StrongAgainst": [
         {
             "champName": "Zed", 
-            "downvotes": "1119", 
-            "upvotes": "2588"
+            "downvotes": "1120", 
+            "upvotes": "2590"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "79", 
-            "upvotes": "203"
+            "downvotes": "78", 
+            "upvotes": "204"
         }, 
         {
             "champName": "Jax", 
@@ -72,47 +72,47 @@
             "upvotes": "137"
         }, 
         {
-            "champName": "Teemo", 
-            "downvotes": "1038", 
-            "upvotes": "1708"
+            "champName": "Yasuo", 
+            "downvotes": "81", 
+            "upvotes": "194"
         }, 
         {
-            "champName": "Yasuo", 
-            "downvotes": "82", 
-            "upvotes": "193"
+            "champName": "Teemo", 
+            "downvotes": "1040", 
+            "upvotes": "1707"
         }, 
         {
             "champName": "Elise", 
             "downvotes": "944", 
-            "upvotes": "1544"
+            "upvotes": "1545"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "1792", 
-            "upvotes": "2862"
+            "downvotes": "1791", 
+            "upvotes": "2867"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "116", 
-            "upvotes": "242"
+            "downvotes": "117", 
+            "upvotes": "241"
         }, 
         {
             "champName": "Master Yi", 
             "downvotes": "552", 
-            "upvotes": "887"
+            "upvotes": "888"
         }, 
         {
             "champName": "Jax", 
             "downvotes": "614", 
-            "upvotes": "978"
+            "upvotes": "979"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/wukong.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "142", 
-            "upvotes": "688"
+            "downvotes": "143", 
+            "upvotes": "690"
         }, 
         {
             "champName": "Lulu", 
@@ -125,18 +125,13 @@
             "upvotes": "80"
         }, 
         {
-            "champName": "Soraka", 
-            "downvotes": "4", 
-            "upvotes": "48"
-        }, 
-        {
             "champName": "Jarvan IV", 
             "downvotes": "179", 
-            "upvotes": "395"
+            "upvotes": "396"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "432", 
+            "downvotes": "433", 
             "upvotes": "869"
         }, 
         {
@@ -145,9 +140,14 @@
             "upvotes": "429"
         }, 
         {
+            "champName": "Soraka", 
+            "downvotes": "5", 
+            "upvotes": "47"
+        }, 
+        {
             "champName": "Galio", 
-            "downvotes": "168", 
-            "upvotes": "336"
+            "downvotes": "169", 
+            "upvotes": "335"
         }, 
         {
             "champName": "Sejuani", 
@@ -156,8 +156,8 @@
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "230", 
-            "upvotes": "402"
+            "downvotes": "231", 
+            "upvotes": "401"
         }
     ]
 }

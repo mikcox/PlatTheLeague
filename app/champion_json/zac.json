@@ -6,117 +6,117 @@
     "WeakAgainst": [
         {
             "champName": "Vi", 
-            "downvotes": "509", 
-            "upvotes": "1867"
+            "downvotes": "511", 
+            "upvotes": "1872"
         }, 
         {
             "champName": "Zilean", 
-            "downvotes": "358", 
-            "upvotes": "1166"
+            "downvotes": "360", 
+            "upvotes": "1178"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "155", 
-            "upvotes": "318"
+            "downvotes": "156", 
+            "upvotes": "320"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "313", 
-            "upvotes": "493"
+            "downvotes": "315", 
+            "upvotes": "499"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "205", 
-            "upvotes": "335"
+            "downvotes": "206", 
+            "upvotes": "337"
         }, 
         {
             "champName": "Yorick", 
             "downvotes": "36", 
-            "upvotes": "100"
+            "upvotes": "101"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "176", 
-            "upvotes": "266"
+            "downvotes": "177", 
+            "upvotes": "268"
         }, 
         {
             "champName": "Cho'Gath", 
             "downvotes": "175", 
-            "upvotes": "244"
+            "upvotes": "245"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "65", 
-            "upvotes": "118"
+            "downvotes": "66", 
+            "upvotes": "120"
         }, 
         {
-            "champName": "Renekton", 
-            "downvotes": "82", 
-            "upvotes": "134"
+            "champName": "Vayne", 
+            "downvotes": "120", 
+            "upvotes": "171"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Katarina", 
-            "downvotes": "223", 
-            "upvotes": "572"
+            "downvotes": "224", 
+            "upvotes": "575"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "158", 
-            "upvotes": "344"
+            "downvotes": "159", 
+            "upvotes": "351"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "192", 
-            "upvotes": "376"
+            "downvotes": "193", 
+            "upvotes": "378"
         }, 
         {
             "champName": "Malphite", 
             "downvotes": "210", 
-            "upvotes": "370"
+            "upvotes": "372"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "72", 
-            "upvotes": "152"
+            "downvotes": "74", 
+            "upvotes": "154"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "59", 
-            "upvotes": "133"
+            "downvotes": "60", 
+            "upvotes": "135"
         }, 
         {
             "champName": "Soraka", 
-            "downvotes": "273", 
-            "upvotes": "396"
+            "downvotes": "274", 
+            "upvotes": "399"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "28", 
-            "upvotes": "82"
+            "downvotes": "29", 
+            "upvotes": "85"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "129", 
-            "upvotes": "197"
+            "downvotes": "132", 
+            "upvotes": "199"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "79", 
-            "upvotes": "136"
+            "downvotes": "82", 
+            "upvotes": "139"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/zac.png", 
     "GoodWith": [
         {
             "champName": "Yasuo", 
-            "downvotes": "49", 
-            "upvotes": "228"
+            "downvotes": "48", 
+            "upvotes": "230"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "196", 
+            "downvotes": "197", 
             "upvotes": "575"
         }, 
         {
@@ -126,28 +126,28 @@
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "83", 
-            "upvotes": "161"
+            "downvotes": "84", 
+            "upvotes": "162"
         }, 
         {
             "champName": "Syndra", 
-            "downvotes": "147", 
-            "upvotes": "249"
+            "downvotes": "146", 
+            "upvotes": "252"
         }, 
         {
             "champName": "Malphite", 
-            "downvotes": "80", 
-            "upvotes": "120"
-        }, 
-        {
-            "champName": "Jarvan IV", 
-            "downvotes": "44", 
-            "upvotes": "76"
+            "downvotes": "79", 
+            "upvotes": "121"
         }, 
         {
             "champName": "Wukong", 
             "downvotes": "40", 
             "upvotes": "71"
+        }, 
+        {
+            "champName": "Jarvan IV", 
+            "downvotes": "46", 
+            "upvotes": "75"
         }, 
         {
             "champName": "Ahri", 
@@ -156,8 +156,8 @@
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "13", 
-            "upvotes": "32"
+            "downvotes": "12", 
+            "upvotes": "33"
         }
     ]
 }

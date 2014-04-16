@@ -6,118 +6,123 @@
     "WeakAgainst": [
         {
             "champName": "Jax", 
-            "downvotes": "1499", 
-            "upvotes": "4637"
+            "downvotes": "1513", 
+            "upvotes": "4710"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "282", 
-            "upvotes": "688"
+            "downvotes": "284", 
+            "upvotes": "696"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "693", 
-            "upvotes": "1363"
+            "downvotes": "698", 
+            "upvotes": "1375"
         }, 
         {
             "champName": "Rammus", 
-            "downvotes": "481", 
-            "upvotes": "950"
+            "downvotes": "484", 
+            "upvotes": "959"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "529", 
-            "upvotes": "1013"
+            "downvotes": "530", 
+            "upvotes": "1023"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "164", 
-            "upvotes": "358"
+            "upvotes": "360"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "120", 
-            "upvotes": "278"
+            "upvotes": "280"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "324", 
-            "upvotes": "622"
-        }, 
-        {
-            "champName": "Lee Sin", 
-            "downvotes": "58", 
-            "upvotes": "159"
+            "downvotes": "327", 
+            "upvotes": "626"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "117", 
-            "upvotes": "254"
+            "downvotes": "120", 
+            "upvotes": "257"
+        }, 
+        {
+            "champName": "Lee Sin", 
+            "downvotes": "62", 
+            "upvotes": "163"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
             "downvotes": "296", 
-            "upvotes": "611"
+            "upvotes": "616"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "271", 
-            "upvotes": "531"
+            "downvotes": "273", 
+            "upvotes": "539"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "806", 
-            "upvotes": "1342"
+            "downvotes": "808", 
+            "upvotes": "1345"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "187", 
-            "upvotes": "345"
+            "downvotes": "191", 
+            "upvotes": "353"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "462", 
-            "upvotes": "660"
+            "downvotes": "461", 
+            "upvotes": "663"
         }, 
         {
             "champName": "Heimerdinger", 
-            "downvotes": "474", 
-            "upvotes": "633"
+            "downvotes": "478", 
+            "upvotes": "637"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "34", 
-            "upvotes": "90"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "53", 
-            "upvotes": "111"
+            "downvotes": "54", 
+            "upvotes": "114"
         }, 
         {
             "champName": "Twisted Fate", 
             "downvotes": "213", 
-            "upvotes": "299"
+            "upvotes": "302"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "38", 
+            "upvotes": "90"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "111", 
-            "upvotes": "169"
+            "downvotes": "115", 
+            "upvotes": "172"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/masteryi.png", 
     "GoodWith": [
         {
             "champName": "Aatrox", 
-            "downvotes": "27", 
-            "upvotes": "72"
+            "downvotes": "26", 
+            "upvotes": "75"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "373", 
+            "downvotes": "375", 
             "upvotes": "590"
+        }, 
+        {
+            "champName": "Darius", 
+            "downvotes": "30", 
+            "upvotes": "71"
         }, 
         {
             "champName": "Amumu", 
@@ -130,34 +135,29 @@
             "upvotes": "227"
         }, 
         {
-            "champName": "Darius", 
-            "downvotes": "32", 
-            "upvotes": "68"
-        }, 
-        {
-            "champName": "Blitzcrank", 
-            "downvotes": "112", 
-            "upvotes": "158"
-        }, 
-        {
-            "champName": "Ahri", 
-            "downvotes": "133", 
-            "upvotes": "179"
-        }, 
-        {
             "champName": "Morgana", 
-            "downvotes": "238", 
-            "upvotes": "300"
+            "downvotes": "237", 
+            "upvotes": "303"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "50", 
-            "upvotes": "80"
+            "downvotes": "49", 
+            "upvotes": "81"
         }, 
         {
-            "champName": "Jax", 
-            "downvotes": "110", 
-            "upvotes": "142"
+            "champName": "Blitzcrank", 
+            "downvotes": "114", 
+            "upvotes": "157"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "134", 
+            "upvotes": "180"
+        }, 
+        {
+            "champName": "Fiora", 
+            "downvotes": "6", 
+            "upvotes": "29"
         }
     ]
 }

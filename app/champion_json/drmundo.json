@@ -6,133 +6,133 @@
     "WeakAgainst": [
         {
             "champName": "Trundle", 
-            "downvotes": "193", 
-            "upvotes": "712"
+            "downvotes": "200", 
+            "upvotes": "721"
         }, 
         {
             "champName": "Kog'Maw", 
-            "downvotes": "524", 
-            "upvotes": "1305"
+            "downvotes": "525", 
+            "upvotes": "1309"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "91", 
-            "upvotes": "289"
+            "downvotes": "93", 
+            "upvotes": "294"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "486", 
-            "upvotes": "1094"
+            "downvotes": "495", 
+            "upvotes": "1122"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "167", 
-            "upvotes": "399"
+            "downvotes": "169", 
+            "upvotes": "402"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "345", 
-            "upvotes": "742"
+            "downvotes": "349", 
+            "upvotes": "745"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "180", 
-            "upvotes": "414"
+            "downvotes": "179", 
+            "upvotes": "418"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "538", 
-            "upvotes": "1070"
+            "downvotes": "539", 
+            "upvotes": "1080"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "35", 
-            "upvotes": "133"
+            "downvotes": "36", 
+            "upvotes": "136"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "139", 
-            "upvotes": "315"
+            "upvotes": "319"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Nasus", 
             "downvotes": "282", 
-            "upvotes": "536"
+            "upvotes": "540"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "487", 
-            "upvotes": "819"
+            "downvotes": "490", 
+            "upvotes": "825"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "556", 
-            "upvotes": "856"
+            "downvotes": "561", 
+            "upvotes": "864"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "411", 
-            "upvotes": "623"
+            "downvotes": "418", 
+            "upvotes": "628"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "25", 
-            "upvotes": "80"
+            "upvotes": "81"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "138", 
-            "upvotes": "217"
-        }, 
-        {
-            "champName": "Renekton", 
-            "downvotes": "500", 
-            "upvotes": "646"
+            "upvotes": "219"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "41", 
-            "upvotes": "95"
+            "downvotes": "43", 
+            "upvotes": "99"
+        }, 
+        {
+            "champName": "Renekton", 
+            "downvotes": "506", 
+            "upvotes": "649"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "39", 
+            "upvotes": "92"
         }, 
         {
             "champName": "Maokai", 
             "downvotes": "266", 
-            "upvotes": "353"
-        }, 
-        {
-            "champName": "Wukong", 
-            "downvotes": "38", 
-            "upvotes": "89"
+            "upvotes": "356"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/drmundo.png", 
     "GoodWith": [
         {
             "champName": "Anivia", 
-            "downvotes": "190", 
+            "downvotes": "191", 
             "upvotes": "314"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "131", 
+            "downvotes": "133", 
             "upvotes": "204"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "60", 
-            "upvotes": "106"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "157", 
-            "upvotes": "231"
+            "upvotes": "233"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "64", 
+            "upvotes": "106"
         }, 
         {
             "champName": "Jax", 
-            "downvotes": "87", 
-            "upvotes": "113"
+            "downvotes": "91", 
+            "upvotes": "114"
         }, 
         {
             "champName": "Ezreal", 
@@ -140,14 +140,14 @@
             "upvotes": "261"
         }, 
         {
+            "champName": "Olaf", 
+            "downvotes": "40", 
+            "upvotes": "59"
+        }, 
+        {
             "champName": "Varus", 
             "downvotes": "51", 
             "upvotes": "69"
-        }, 
-        {
-            "champName": "Olaf", 
-            "downvotes": "40", 
-            "upvotes": "58"
         }, 
         {
             "champName": "Shen", 
@@ -155,9 +155,9 @@
             "upvotes": "128"
         }, 
         {
-            "champName": "Ashe", 
-            "downvotes": "41", 
-            "upvotes": "53"
+            "champName": "Fizz", 
+            "downvotes": "12", 
+            "upvotes": "28"
         }
     ]
 }

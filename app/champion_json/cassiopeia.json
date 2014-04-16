@@ -6,43 +6,43 @@
     "WeakAgainst": [
         {
             "champName": "Galio", 
-            "downvotes": "577", 
-            "upvotes": "2585"
+            "downvotes": "580", 
+            "upvotes": "2594"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "659", 
-            "upvotes": "1342"
+            "downvotes": "664", 
+            "upvotes": "1346"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "484", 
-            "upvotes": "934"
+            "downvotes": "486", 
+            "upvotes": "939"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "789", 
-            "upvotes": "1246"
+            "downvotes": "792", 
+            "upvotes": "1247"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "48", 
+            "downvotes": "50", 
             "upvotes": "128"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "316", 
-            "upvotes": "480"
+            "downvotes": "318", 
+            "upvotes": "481"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "496", 
-            "upvotes": "713"
+            "upvotes": "716"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "45", 
-            "upvotes": "113"
+            "downvotes": "46", 
+            "upvotes": "114"
         }, 
         {
             "champName": "Katarina", 
@@ -51,88 +51,83 @@
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "719", 
-            "upvotes": "978"
+            "downvotes": "723", 
+            "upvotes": "982"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "1380", 
-            "upvotes": "5914"
+            "downvotes": "1389", 
+            "upvotes": "5940"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "511", 
-            "upvotes": "1119"
+            "downvotes": "513", 
+            "upvotes": "1124"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "38", 
-            "upvotes": "145"
+            "downvotes": "39", 
+            "upvotes": "149"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "270", 
-            "upvotes": "566"
+            "downvotes": "273", 
+            "upvotes": "569"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "27", 
-            "upvotes": "117"
+            "downvotes": "28", 
+            "upvotes": "119"
         }, 
         {
             "champName": "Swain", 
-            "downvotes": "797", 
-            "upvotes": "1323"
+            "downvotes": "798", 
+            "upvotes": "1328"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "52", 
-            "upvotes": "142"
+            "downvotes": "53", 
+            "upvotes": "144"
         }, 
         {
             "champName": "Vladimir", 
-            "downvotes": "355", 
-            "upvotes": "588"
+            "downvotes": "357", 
+            "upvotes": "589"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "266", 
-            "upvotes": "436"
+            "downvotes": "268", 
+            "upvotes": "439"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "94", 
-            "upvotes": "186"
+            "downvotes": "95", 
+            "upvotes": "189"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/cassiopeia.png", 
     "GoodWith": [
         {
             "champName": "Teemo", 
-            "downvotes": "945", 
-            "upvotes": "2011"
+            "downvotes": "946", 
+            "upvotes": "2013"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "518", 
-            "upvotes": "989"
+            "upvotes": "991"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "328", 
-            "upvotes": "516"
+            "downvotes": "330", 
+            "upvotes": "514"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "16", 
-            "upvotes": "49"
-        }, 
-        {
-            "champName": "Jarvan IV", 
             "downvotes": "15", 
-            "upvotes": "46"
+            "upvotes": "50"
         }, 
         {
             "champName": "Katarina", 
@@ -140,9 +135,14 @@
             "upvotes": "59"
         }, 
         {
+            "champName": "Jarvan IV", 
+            "downvotes": "16", 
+            "upvotes": "45"
+        }, 
+        {
             "champName": "Amumu", 
-            "downvotes": "178", 
-            "upvotes": "240"
+            "downvotes": "179", 
+            "upvotes": "239"
         }, 
         {
             "champName": "Twitch", 

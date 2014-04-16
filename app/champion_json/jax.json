@@ -6,80 +6,80 @@
     "WeakAgainst": [
         {
             "champName": "Malphite", 
-            "downvotes": "2875", 
-            "upvotes": "10247"
+            "downvotes": "2881", 
+            "upvotes": "10265"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "2408", 
-            "upvotes": "5497"
+            "upvotes": "5502"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "3222", 
-            "upvotes": "7161"
+            "downvotes": "3232", 
+            "upvotes": "7173"
         }, 
         {
             "champName": "Ryze", 
             "downvotes": "49", 
-            "upvotes": "191"
+            "upvotes": "194"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "3281", 
-            "upvotes": "6448"
+            "downvotes": "3290", 
+            "upvotes": "6458"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "1181", 
-            "upvotes": "2366"
+            "downvotes": "1183", 
+            "upvotes": "2369"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "2029", 
-            "upvotes": "3745"
+            "downvotes": "2032", 
+            "upvotes": "3747"
         }, 
         {
             "champName": "Darius", 
             "downvotes": "305", 
-            "upvotes": "610"
+            "upvotes": "611"
         }, 
         {
             "champName": "Zac", 
-            "downvotes": "160", 
-            "upvotes": "350"
+            "downvotes": "159", 
+            "upvotes": "351"
         }, 
         {
-            "champName": "Lee Sin", 
-            "downvotes": "415", 
-            "upvotes": "778"
+            "champName": "Akali", 
+            "downvotes": "173", 
+            "upvotes": "365"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
-            "downvotes": "2120", 
-            "upvotes": "9597"
+            "downvotes": "2125", 
+            "upvotes": "9602"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "2655", 
-            "upvotes": "11161"
+            "downvotes": "2658", 
+            "upvotes": "11173"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "2497", 
-            "upvotes": "8520"
+            "downvotes": "2503", 
+            "upvotes": "8534"
         }, 
         {
             "champName": "Master Yi", 
-            "downvotes": "1509", 
-            "upvotes": "4702"
+            "downvotes": "1513", 
+            "upvotes": "4710"
         }, 
         {
             "champName": "Xin Zhao", 
             "downvotes": "1177", 
-            "upvotes": "3229"
+            "upvotes": "3232"
         }, 
         {
             "champName": "Vi", 
@@ -88,12 +88,12 @@
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "1716", 
-            "upvotes": "3705"
+            "downvotes": "1715", 
+            "upvotes": "3709"
         }, 
         {
             "champName": "Rengar", 
-            "downvotes": "2010", 
+            "downvotes": "2011", 
             "upvotes": "4219"
         }, 
         {
@@ -102,17 +102,17 @@
             "upvotes": "1371"
         }, 
         {
-            "champName": "Aatrox", 
-            "downvotes": "118", 
-            "upvotes": "304"
+            "champName": "Yasuo", 
+            "downvotes": "28", 
+            "upvotes": "131"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/jax.png", 
     "GoodWith": [
         {
             "champName": "Aatrox", 
-            "downvotes": "37", 
-            "upvotes": "112"
+            "downvotes": "38", 
+            "upvotes": "111"
         }, 
         {
             "champName": "Ahri", 
@@ -152,7 +152,7 @@
         {
             "champName": "Pantheon", 
             "downvotes": "252", 
-            "upvotes": "389"
+            "upvotes": "390"
         }, 
         {
             "champName": "Alistar", 

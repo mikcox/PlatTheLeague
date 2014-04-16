@@ -6,133 +6,138 @@
     "WeakAgainst": [
         {
             "champName": "Fizz", 
-            "downvotes": "1233", 
-            "upvotes": "4194"
+            "downvotes": "1238", 
+            "upvotes": "4207"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "729", 
-            "upvotes": "1844"
+            "downvotes": "733", 
+            "upvotes": "1849"
         }, 
         {
             "champName": "Nocturne", 
-            "downvotes": "355", 
-            "upvotes": "779"
-        }, 
-        {
-            "champName": "Yasuo", 
-            "downvotes": "5", 
-            "upvotes": "88"
+            "downvotes": "357", 
+            "upvotes": "780"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "712", 
-            "upvotes": "1468"
+            "downvotes": "715", 
+            "upvotes": "1472"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "528", 
-            "upvotes": "1073"
+            "downvotes": "530", 
+            "upvotes": "1076"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "8", 
+            "upvotes": "90"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "1038", 
-            "upvotes": "1917"
+            "downvotes": "1039", 
+            "upvotes": "1923"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "230", 
+            "downvotes": "231", 
             "upvotes": "468"
         }, 
         {
             "champName": "Yasuo", 
             "downvotes": "142", 
-            "upvotes": "310"
+            "upvotes": "311"
         }, 
         {
-            "champName": "Aatrox", 
-            "downvotes": "29", 
-            "upvotes": "115"
+            "champName": "Zed", 
+            "downvotes": "509", 
+            "upvotes": "913"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Ryze", 
-            "downvotes": "874", 
-            "upvotes": "1300"
+            "downvotes": "875", 
+            "upvotes": "1304"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "324", 
-            "upvotes": "450"
+            "downvotes": "326", 
+            "upvotes": "451"
         }, 
         {
             "champName": "Evelynn", 
-            "downvotes": "532", 
+            "downvotes": "536", 
             "upvotes": "667"
         }, 
         {
             "champName": "Evelynn", 
             "downvotes": "440", 
-            "upvotes": "541"
+            "upvotes": "545"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "303", 
-            "upvotes": "381"
+            "downvotes": "306", 
+            "upvotes": "380"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "128", 
-            "upvotes": "179"
+            "upvotes": "180"
         }, 
         {
             "champName": "Karthus", 
-            "downvotes": "223", 
-            "upvotes": "246"
+            "downvotes": "224", 
+            "upvotes": "249"
         }, 
         {
             "champName": "Katarina", 
             "downvotes": "345", 
-            "upvotes": "355"
+            "upvotes": "356"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "141", 
+            "upvotes": "164"
         }, 
         {
             "champName": "Fiddlesticks", 
             "downvotes": "170", 
-            "upvotes": "186"
-        }, 
-        {
-            "champName": "Teemo", 
-            "downvotes": "142", 
-            "upvotes": "160"
+            "upvotes": "187"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/twistedfate.png", 
     "GoodWith": [
         {
             "champName": "Nocturne", 
-            "downvotes": "396", 
-            "upvotes": "958"
+            "downvotes": "394", 
+            "upvotes": "960"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "425", 
-            "upvotes": "857"
+            "downvotes": "424", 
+            "upvotes": "858"
         }, 
         {
             "champName": "Gangplank", 
-            "downvotes": "268", 
-            "upvotes": "349"
+            "downvotes": "267", 
+            "upvotes": "351"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "35", 
-            "upvotes": "62"
+            "upvotes": "64"
         }, 
         {
             "champName": "Caitlyn", 
             "downvotes": "7", 
             "upvotes": "29"
+        }, 
+        {
+            "champName": "Taric", 
+            "downvotes": "93", 
+            "upvotes": "119"
         }, 
         {
             "champName": "Ashe", 
@@ -141,18 +146,13 @@
         }, 
         {
             "champName": "Rammus", 
-            "downvotes": "299", 
-            "upvotes": "331"
-        }, 
-        {
-            "champName": "Taric", 
-            "downvotes": "93", 
-            "upvotes": "117"
+            "downvotes": "298", 
+            "upvotes": "332"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "187", 
-            "upvotes": "211"
+            "downvotes": "188", 
+            "upvotes": "212"
         }, 
         {
             "champName": "Blitzcrank", 

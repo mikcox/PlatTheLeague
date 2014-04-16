@@ -6,105 +6,105 @@
     "WeakAgainst": [
         {
             "champName": "Yasuo", 
-            "downvotes": "1004", 
-            "upvotes": "5401"
+            "downvotes": "1011", 
+            "upvotes": "5441"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "407", 
-            "upvotes": "1925"
+            "downvotes": "414", 
+            "upvotes": "1944"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "280", 
-            "upvotes": "1317"
+            "downvotes": "287", 
+            "upvotes": "1325"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "247", 
-            "upvotes": "953"
+            "downvotes": "251", 
+            "upvotes": "959"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "220", 
-            "upvotes": "774"
+            "downvotes": "224", 
+            "upvotes": "781"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "122", 
-            "upvotes": "465"
+            "downvotes": "128", 
+            "upvotes": "479"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "167", 
-            "upvotes": "550"
+            "downvotes": "172", 
+            "upvotes": "554"
         }, 
         {
             "champName": "Diana", 
-            "downvotes": "129", 
-            "upvotes": "432"
+            "downvotes": "130", 
+            "upvotes": "434"
         }, 
         {
             "champName": "Syndra", 
-            "downvotes": "142", 
-            "upvotes": "432"
+            "downvotes": "144", 
+            "upvotes": "440"
         }, 
         {
-            "champName": "Katarina", 
-            "downvotes": "324", 
-            "upvotes": "857"
+            "champName": "Xerath", 
+            "downvotes": "39", 
+            "upvotes": "188"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Heimerdinger", 
-            "downvotes": "309", 
-            "upvotes": "810"
+            "downvotes": "315", 
+            "upvotes": "816"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "161", 
-            "upvotes": "341"
+            "upvotes": "345"
         }, 
         {
             "champName": "Twisted Fate", 
             "downvotes": "125", 
-            "upvotes": "223"
+            "upvotes": "225"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "197", 
-            "upvotes": "294"
+            "downvotes": "200", 
+            "upvotes": "298"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "678", 
-            "upvotes": "659"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "65", 
-            "upvotes": "90"
-        }, 
-        {
-            "champName": "Karthus", 
-            "downvotes": "63", 
-            "upvotes": "88"
+            "downvotes": "679", 
+            "upvotes": "660"
         }, 
         {
             "champName": "Swain", 
             "downvotes": "42", 
-            "upvotes": "70"
+            "upvotes": "74"
+        }, 
+        {
+            "champName": "Karthus", 
+            "downvotes": "63", 
+            "upvotes": "92"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "66", 
+            "upvotes": "91"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "142", 
-            "upvotes": "151"
+            "downvotes": "143", 
+            "upvotes": "154"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "117", 
-            "upvotes": "128"
+            "downvotes": "118", 
+            "upvotes": "129"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/velkoz.png", 
@@ -112,11 +112,11 @@
         {
             "champName": "Amumu", 
             "downvotes": "39", 
-            "upvotes": "163"
+            "upvotes": "164"
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "31", 
+            "downvotes": "32", 
             "upvotes": "74"
         }, 
         {
@@ -127,26 +127,26 @@
         {
             "champName": "Jarvan IV", 
             "downvotes": "39", 
-            "upvotes": "66"
+            "upvotes": "69"
         }, 
         {
             "champName": "Galio", 
-            "downvotes": "33", 
-            "upvotes": "54"
+            "downvotes": "34", 
+            "upvotes": "55"
+        }, 
+        {
+            "champName": "Lux", 
+            "downvotes": "10", 
+            "upvotes": "22"
+        }, 
+        {
+            "champName": "Wukong", 
+            "downvotes": "4", 
+            "upvotes": "17"
         }, 
         {
             "champName": "Annie", 
             "downvotes": "3", 
-            "upvotes": "16"
-        }, 
-        {
-            "champName": "Lux", 
-            "downvotes": "11", 
-            "upvotes": "21"
-        }, 
-        {
-            "champName": "Wukong", 
-            "downvotes": "5", 
             "upvotes": "16"
         }, 
         {

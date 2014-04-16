@@ -6,158 +6,158 @@
     "WeakAgainst": [
         {
             "champName": "Talon", 
-            "downvotes": "1446", 
-            "upvotes": "5165"
+            "downvotes": "1451", 
+            "upvotes": "5179"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "581", 
-            "upvotes": "1587"
+            "downvotes": "592", 
+            "upvotes": "1592"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "1923", 
-            "upvotes": "4384"
+            "downvotes": "1932", 
+            "upvotes": "4404"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "1552", 
-            "upvotes": "3156"
+            "downvotes": "1559", 
+            "upvotes": "3160"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "1085", 
-            "upvotes": "2213"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "180", 
-            "upvotes": "392"
+            "downvotes": "1095", 
+            "upvotes": "2218"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "1315", 
-            "upvotes": "2412"
+            "downvotes": "1319", 
+            "upvotes": "2426"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "183", 
+            "upvotes": "394"
         }, 
         {
             "champName": "Kayle", 
-            "downvotes": "177", 
-            "upvotes": "383"
-        }, 
-        {
-            "champName": "Yasuo", 
-            "downvotes": "22", 
-            "upvotes": "108"
+            "downvotes": "179", 
+            "upvotes": "382"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "808", 
-            "upvotes": "1445"
+            "downvotes": "814", 
+            "upvotes": "1456"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "889", 
+            "upvotes": "1568"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "720", 
-            "upvotes": "2260"
+            "downvotes": "719", 
+            "upvotes": "2273"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "1142", 
-            "upvotes": "2116"
+            "downvotes": "1146", 
+            "upvotes": "2127"
         }, 
         {
             "champName": "Karthus", 
             "downvotes": "578", 
-            "upvotes": "1071"
+            "upvotes": "1076"
         }, 
         {
             "champName": "Heimerdinger", 
-            "downvotes": "395", 
-            "upvotes": "741"
+            "downvotes": "396", 
+            "upvotes": "746"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "1118", 
-            "upvotes": "1950"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "40", 
-            "upvotes": "120"
+            "downvotes": "1123", 
+            "upvotes": "1963"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "131", 
-            "upvotes": "256"
+            "downvotes": "130", 
+            "upvotes": "257"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "41", 
+            "upvotes": "120"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "97", 
+            "upvotes": "201"
         }, 
         {
             "champName": "Twisted Fate", 
-            "downvotes": "593", 
-            "upvotes": "916"
+            "downvotes": "595", 
+            "upvotes": "920"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "231", 
-            "upvotes": "388"
-        }, 
-        {
-            "champName": "Annie", 
-            "downvotes": "779", 
-            "upvotes": "1162"
+            "downvotes": "233", 
+            "upvotes": "391"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/lux.png", 
     "GoodWith": [
         {
             "champName": "Jinx", 
-            "downvotes": "33", 
-            "upvotes": "172"
+            "downvotes": "35", 
+            "upvotes": "173"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "560", 
-            "upvotes": "1473"
+            "downvotes": "561", 
+            "upvotes": "1476"
         }, 
         {
             "champName": "Varus", 
-            "downvotes": "74", 
-            "upvotes": "209"
+            "downvotes": "72", 
+            "upvotes": "212"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "42", 
-            "upvotes": "132"
+            "downvotes": "40", 
+            "upvotes": "134"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "33", 
-            "upvotes": "110"
+            "downvotes": "31", 
+            "upvotes": "112"
         }, 
         {
             "champName": "Vayne", 
-            "downvotes": "62", 
-            "upvotes": "166"
+            "downvotes": "60", 
+            "upvotes": "168"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "81", 
-            "upvotes": "202"
+            "downvotes": "82", 
+            "upvotes": "201"
         }, 
         {
             "champName": "Sivir", 
-            "downvotes": "29", 
-            "upvotes": "94"
-        }, 
-        {
-            "champName": "Garen", 
-            "downvotes": "1041", 
-            "upvotes": "1943"
+            "downvotes": "30", 
+            "upvotes": "93"
         }, 
         {
             "champName": "Miss Fortune", 
-            "downvotes": "62", 
-            "upvotes": "148"
+            "downvotes": "61", 
+            "upvotes": "149"
+        }, 
+        {
+            "champName": "Garen", 
+            "downvotes": "1042", 
+            "upvotes": "1949"
         }
     ]
 }

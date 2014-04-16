@@ -6,100 +6,100 @@
     "WeakAgainst": [
         {
             "champName": "Morgana", 
-            "downvotes": "300", 
-            "upvotes": "535"
+            "downvotes": "302", 
+            "upvotes": "537"
         }, 
         {
             "champName": "Ashe", 
-            "downvotes": "447", 
-            "upvotes": "503"
+            "downvotes": "451", 
+            "upvotes": "502"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "198", 
-            "upvotes": "219"
+            "downvotes": "200", 
+            "upvotes": "221"
         }, 
         {
             "champName": "Olaf", 
             "downvotes": "164", 
-            "upvotes": "184"
+            "upvotes": "186"
         }, 
         {
             "champName": "Gangplank", 
             "downvotes": "119", 
-            "upvotes": "140"
+            "upvotes": "141"
         }, 
         {
             "champName": "Nautilus", 
-            "downvotes": "158", 
-            "upvotes": "169"
+            "downvotes": "157", 
+            "upvotes": "172"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "160", 
-            "upvotes": "167"
+            "downvotes": "161", 
+            "upvotes": "168"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "92", 
-            "upvotes": "100"
+            "downvotes": "91", 
+            "upvotes": "103"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "95", 
+            "downvotes": "96", 
             "upvotes": "97"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "127", 
-            "upvotes": "115"
+            "downvotes": "126", 
+            "upvotes": "117"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Mordekaiser", 
-            "downvotes": "238", 
-            "upvotes": "331"
+            "downvotes": "240", 
+            "upvotes": "330"
         }, 
         {
             "champName": "Vi", 
             "downvotes": "125", 
-            "upvotes": "183"
+            "upvotes": "184"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "91", 
+            "downvotes": "92", 
             "upvotes": "132"
         }, 
         {
             "champName": "Warwick", 
-            "downvotes": "230", 
-            "upvotes": "268"
+            "downvotes": "231", 
+            "upvotes": "269"
         }, 
         {
             "champName": "Rengar", 
             "downvotes": "159", 
-            "upvotes": "183"
+            "upvotes": "185"
         }, 
         {
             "champName": "Janna", 
-            "downvotes": "152", 
-            "upvotes": "156"
+            "downvotes": "153", 
+            "upvotes": "157"
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "69", 
-            "upvotes": "88"
+            "downvotes": "70", 
+            "upvotes": "89"
         }, 
         {
             "champName": "Rammus", 
-            "downvotes": "112", 
-            "upvotes": "120"
+            "downvotes": "114", 
+            "upvotes": "121"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "134", 
-            "upvotes": "137"
+            "downvotes": "136", 
+            "upvotes": "136"
         }, 
         {
             "champName": "Amumu", 
@@ -111,13 +111,13 @@
     "GoodWith": [
         {
             "champName": "Thresh", 
-            "downvotes": "121", 
-            "upvotes": "207"
+            "downvotes": "120", 
+            "upvotes": "208"
         }, 
         {
             "champName": "Orianna", 
-            "downvotes": "160", 
-            "upvotes": "228"
+            "downvotes": "162", 
+            "upvotes": "227"
         }, 
         {
             "champName": "Jayce", 
@@ -126,13 +126,13 @@
         }, 
         {
             "champName": "Heimerdinger", 
-            "downvotes": "213", 
-            "upvotes": "265"
+            "downvotes": "212", 
+            "upvotes": "267"
         }, 
         {
             "champName": "Mordekaiser", 
             "downvotes": "303", 
-            "upvotes": "365"
+            "upvotes": "366"
         }, 
         {
             "champName": "Blitzcrank", 
@@ -146,13 +146,13 @@
         }, 
         {
             "champName": "Malzahar", 
-            "downvotes": "168", 
+            "downvotes": "169", 
             "upvotes": "195"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "348", 
-            "upvotes": "368"
+            "downvotes": "349", 
+            "upvotes": "369"
         }, 
         {
             "champName": "Teemo", 

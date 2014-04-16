@@ -6,128 +6,133 @@
     "WeakAgainst": [
         {
             "champName": "Pantheon", 
-            "downvotes": "984", 
-            "upvotes": "2111"
+            "downvotes": "988", 
+            "upvotes": "2126"
         }, 
         {
             "champName": "Anivia", 
-            "downvotes": "647", 
-            "upvotes": "1210"
+            "downvotes": "651", 
+            "upvotes": "1215"
         }, 
         {
             "champName": "Gragas", 
-            "downvotes": "527", 
-            "upvotes": "975"
+            "downvotes": "536", 
+            "upvotes": "985"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "531", 
-            "upvotes": "910"
-        }, 
-        {
-            "champName": "Ziggs", 
-            "downvotes": "245", 
-            "upvotes": "419"
-        }, 
-        {
-            "champName": "Annie", 
-            "downvotes": "385", 
-            "upvotes": "624"
-        }, 
-        {
-            "champName": "Malzahar", 
-            "downvotes": "287", 
-            "upvotes": "480"
+            "downvotes": "536", 
+            "upvotes": "914"
         }, 
         {
             "champName": "LeBlanc", 
             "downvotes": "144", 
-            "upvotes": "268"
+            "upvotes": "278"
+        }, 
+        {
+            "champName": "Ziggs", 
+            "downvotes": "246", 
+            "upvotes": "427"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "289", 
+            "upvotes": "485"
+        }, 
+        {
+            "champName": "Annie", 
+            "downvotes": "388", 
+            "upvotes": "628"
         }, 
         {
             "champName": "Jarvan IV", 
             "downvotes": "608", 
-            "upvotes": "913"
+            "upvotes": "917"
         }, 
         {
-            "champName": "Aatrox", 
-            "downvotes": "127", 
-            "upvotes": "230"
+            "champName": "Orianna", 
+            "downvotes": "170", 
+            "upvotes": "289"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Zed", 
-            "downvotes": "1214", 
-            "upvotes": "5386"
+            "downvotes": "1231", 
+            "upvotes": "5463"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "1582", 
-            "upvotes": "5861"
+            "downvotes": "1596", 
+            "upvotes": "5890"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "446", 
-            "upvotes": "1438"
+            "downvotes": "453", 
+            "upvotes": "1450"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "869", 
-            "upvotes": "2539"
+            "downvotes": "875", 
+            "upvotes": "2573"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "534", 
-            "upvotes": "1525"
+            "upvotes": "1532"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "97", 
-            "upvotes": "343"
+            "downvotes": "101", 
+            "upvotes": "350"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "385", 
-            "upvotes": "983"
+            "downvotes": "388", 
+            "upvotes": "991"
         }, 
         {
             "champName": "Olaf", 
-            "downvotes": "618", 
-            "upvotes": "1479"
+            "downvotes": "621", 
+            "upvotes": "1487"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "816", 
-            "upvotes": "1870"
+            "downvotes": "822", 
+            "upvotes": "1896"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "244", 
-            "upvotes": "584"
+            "downvotes": "245", 
+            "upvotes": "585"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/kayle.png", 
     "GoodWith": [
         {
             "champName": "Aatrox", 
-            "downvotes": "55", 
-            "upvotes": "127"
+            "downvotes": "54", 
+            "upvotes": "128"
         }, 
         {
             "champName": "Ezreal", 
-            "downvotes": "225", 
-            "upvotes": "403"
+            "downvotes": "226", 
+            "upvotes": "405"
         }, 
         {
-            "champName": "Vayne", 
-            "downvotes": "53", 
-            "upvotes": "117"
+            "champName": "Jinx", 
+            "downvotes": "5", 
+            "upvotes": "41"
         }, 
         {
             "champName": "Draven", 
-            "downvotes": "27", 
-            "upvotes": "73"
+            "downvotes": "26", 
+            "upvotes": "74"
+        }, 
+        {
+            "champName": "Vayne", 
+            "downvotes": "54", 
+            "upvotes": "116"
         }, 
         {
             "champName": "Katarina", 
@@ -135,24 +140,19 @@
             "upvotes": "468"
         }, 
         {
-            "champName": "Karthus", 
-            "downvotes": "513", 
-            "upvotes": "783"
-        }, 
-        {
             "champName": "Caitlyn", 
-            "downvotes": "50", 
-            "upvotes": "102"
+            "downvotes": "49", 
+            "upvotes": "103"
         }, 
         {
-            "champName": "Jinx", 
-            "downvotes": "7", 
-            "upvotes": "39"
+            "champName": "Karthus", 
+            "downvotes": "515", 
+            "upvotes": "782"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "334", 
-            "upvotes": "492"
+            "downvotes": "336", 
+            "upvotes": "494"
         }, 
         {
             "champName": "Quinn", 

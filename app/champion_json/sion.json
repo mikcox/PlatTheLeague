@@ -6,105 +6,105 @@
     "WeakAgainst": [
         {
             "champName": "Morgana", 
-            "downvotes": "451", 
-            "upvotes": "910"
+            "downvotes": "455", 
+            "upvotes": "912"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "299", 
-            "upvotes": "527"
+            "upvotes": "530"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "269", 
-            "upvotes": "400"
+            "downvotes": "270", 
+            "upvotes": "404"
         }, 
         {
             "champName": "Jax", 
             "downvotes": "362", 
-            "upvotes": "488"
+            "upvotes": "492"
         }, 
         {
             "champName": "Teemo", 
             "downvotes": "111", 
-            "upvotes": "176"
+            "upvotes": "177"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "179", 
-            "upvotes": "252"
-        }, 
-        {
-            "champName": "Pantheon", 
-            "downvotes": "114", 
-            "upvotes": "165"
+            "downvotes": "181", 
+            "upvotes": "254"
         }, 
         {
             "champName": "Garen", 
             "downvotes": "169", 
-            "upvotes": "222"
+            "upvotes": "225"
         }, 
         {
-            "champName": "Mordekaiser", 
-            "downvotes": "158", 
-            "upvotes": "206"
+            "champName": "Pantheon", 
+            "downvotes": "115", 
+            "upvotes": "166"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "94", 
-            "upvotes": "138"
+            "downvotes": "95", 
+            "upvotes": "140"
+        }, 
+        {
+            "champName": "Mordekaiser", 
+            "downvotes": "160", 
+            "upvotes": "205"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "LeBlanc", 
-            "downvotes": "640", 
-            "upvotes": "1610"
+            "downvotes": "650", 
+            "upvotes": "1631"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "641", 
-            "upvotes": "1363"
+            "downvotes": "642", 
+            "upvotes": "1365"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "305", 
-            "upvotes": "488"
+            "downvotes": "308", 
+            "upvotes": "489"
         }, 
         {
             "champName": "Riven", 
-            "downvotes": "88", 
-            "upvotes": "174"
+            "downvotes": "89", 
+            "upvotes": "175"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "91", 
-            "upvotes": "174"
-        }, 
-        {
-            "champName": "Aatrox", 
-            "downvotes": "99", 
-            "upvotes": "183"
+            "downvotes": "92", 
+            "upvotes": "178"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "162", 
-            "upvotes": "265"
+            "downvotes": "163", 
+            "upvotes": "269"
+        }, 
+        {
+            "champName": "Aatrox", 
+            "downvotes": "100", 
+            "upvotes": "185"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "94", 
-            "upvotes": "172"
+            "downvotes": "96", 
+            "upvotes": "173"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "140", 
-            "upvotes": "210"
+            "downvotes": "141", 
+            "upvotes": "212"
         }, 
         {
             "champName": "Renekton", 
             "downvotes": "125", 
-            "upvotes": "190"
+            "upvotes": "191"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/sion.png", 
@@ -112,17 +112,17 @@
         {
             "champName": "Pantheon", 
             "downvotes": "146", 
-            "upvotes": "253"
+            "upvotes": "254"
         }, 
         {
             "champName": "Talon", 
             "downvotes": "337", 
-            "upvotes": "488"
+            "upvotes": "490"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "125", 
-            "upvotes": "194"
+            "downvotes": "128", 
+            "upvotes": "193"
         }, 
         {
             "champName": "Taric", 
@@ -131,7 +131,7 @@
         }, 
         {
             "champName": "Alistar", 
-            "downvotes": "95", 
+            "downvotes": "96", 
             "upvotes": "120"
         }, 
         {

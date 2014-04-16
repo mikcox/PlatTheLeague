@@ -6,128 +6,128 @@
     "WeakAgainst": [
         {
             "champName": "Fizz", 
-            "downvotes": "1014", 
-            "upvotes": "2900"
+            "downvotes": "1027", 
+            "upvotes": "2910"
         }, 
         {
             "champName": "Talon", 
-            "downvotes": "544", 
-            "upvotes": "1450"
+            "downvotes": "546", 
+            "upvotes": "1456"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "1606", 
-            "upvotes": "3502"
+            "downvotes": "1610", 
+            "upvotes": "3509"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "508", 
-            "upvotes": "1071"
+            "downvotes": "519", 
+            "upvotes": "1093"
         }, 
         {
             "champName": "Kassadin", 
-            "downvotes": "659", 
+            "downvotes": "663", 
             "upvotes": "1338"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "35", 
-            "upvotes": "142"
+            "downvotes": "37", 
+            "upvotes": "143"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "405", 
-            "upvotes": "778"
+            "downvotes": "407", 
+            "upvotes": "787"
         }, 
         {
             "champName": "Galio", 
-            "downvotes": "349", 
-            "upvotes": "665"
+            "downvotes": "353", 
+            "upvotes": "666"
+        }, 
+        {
+            "champName": "Diana", 
+            "downvotes": "306", 
+            "upvotes": "567"
         }, 
         {
             "champName": "Morgana", 
             "downvotes": "189", 
-            "upvotes": "374"
-        }, 
-        {
-            "champName": "Diana", 
-            "downvotes": "305", 
-            "upvotes": "561"
+            "upvotes": "375"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "547", 
-            "upvotes": "1720"
+            "downvotes": "550", 
+            "upvotes": "1723"
         }, 
         {
             "champName": "Twisted Fate", 
-            "downvotes": "299", 
-            "upvotes": "537"
-        }, 
-        {
-            "champName": "Ahri", 
-            "downvotes": "751", 
-            "upvotes": "1149"
-        }, 
-        {
-            "champName": "Ziggs", 
-            "downvotes": "31", 
-            "upvotes": "100"
+            "downvotes": "302", 
+            "upvotes": "542"
         }, 
         {
             "champName": "Nidalee", 
             "downvotes": "96", 
-            "upvotes": "191"
+            "upvotes": "203"
+        }, 
+        {
+            "champName": "Ahri", 
+            "downvotes": "753", 
+            "upvotes": "1156"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "82", 
-            "upvotes": "168"
+            "downvotes": "84", 
+            "upvotes": "173"
         }, 
         {
             "champName": "Vel'Koz", 
             "downvotes": "13", 
-            "upvotes": "71"
+            "upvotes": "73"
         }, 
         {
-            "champName": "Karma", 
-            "downvotes": "577", 
-            "upvotes": "806"
+            "champName": "Ziggs", 
+            "downvotes": "35", 
+            "upvotes": "102"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "45", 
-            "upvotes": "111"
+            "downvotes": "46", 
+            "upvotes": "113"
+        }, 
+        {
+            "champName": "Karma", 
+            "downvotes": "581", 
+            "upvotes": "808"
         }, 
         {
             "champName": "Lissandra", 
-            "downvotes": "174", 
-            "upvotes": "265"
+            "downvotes": "177", 
+            "upvotes": "271"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/veigar.png", 
     "GoodWith": [
         {
             "champName": "Warwick", 
-            "downvotes": "345", 
-            "upvotes": "480"
+            "downvotes": "348", 
+            "upvotes": "481"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "115", 
+            "downvotes": "116", 
             "upvotes": "175"
         }, 
         {
             "champName": "Maokai", 
             "downvotes": "156", 
-            "upvotes": "195"
+            "upvotes": "197"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "245", 
-            "upvotes": "289"
+            "downvotes": "246", 
+            "upvotes": "290"
         }, 
         {
             "champName": "Ahri", 
@@ -135,14 +135,14 @@
             "upvotes": "42"
         }, 
         {
+            "champName": "LeBlanc", 
+            "downvotes": "110", 
+            "upvotes": "133"
+        }, 
+        {
             "champName": "Cho'Gath", 
             "downvotes": "95", 
             "upvotes": "117"
-        }, 
-        {
-            "champName": "LeBlanc", 
-            "downvotes": "108", 
-            "upvotes": "130"
         }, 
         {
             "champName": "Katarina", 
@@ -151,12 +151,12 @@
         }, 
         {
             "champName": "Evelynn", 
-            "downvotes": "143", 
-            "upvotes": "153"
+            "downvotes": "142", 
+            "upvotes": "154"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "92", 
+            "downvotes": "93", 
             "upvotes": "105"
         }
     ]

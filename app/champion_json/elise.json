@@ -6,123 +6,123 @@
     "WeakAgainst": [
         {
             "champName": "Kassadin", 
-            "downvotes": "932", 
-            "upvotes": "1965"
+            "downvotes": "936", 
+            "upvotes": "1975"
         }, 
         {
             "champName": "Yorick", 
-            "downvotes": "620", 
+            "downvotes": "622", 
             "upvotes": "1227"
         }, 
         {
             "champName": "Mordekaiser", 
-            "downvotes": "462", 
-            "upvotes": "840"
+            "downvotes": "464", 
+            "upvotes": "846"
         }, 
         {
             "champName": "Wukong", 
-            "downvotes": "939", 
-            "upvotes": "1540"
+            "downvotes": "944", 
+            "upvotes": "1545"
         }, 
         {
             "champName": "LeBlanc", 
-            "downvotes": "304", 
-            "upvotes": "462"
+            "downvotes": "307", 
+            "upvotes": "463"
         }, 
         {
             "champName": "Malzahar", 
-            "downvotes": "356", 
-            "upvotes": "528"
+            "downvotes": "360", 
+            "upvotes": "527"
         }, 
         {
             "champName": "Gangplank", 
-            "downvotes": "169", 
-            "upvotes": "259"
+            "downvotes": "170", 
+            "upvotes": "260"
         }, 
         {
             "champName": "Riven", 
             "downvotes": "138", 
-            "upvotes": "212"
+            "upvotes": "215"
         }, 
         {
             "champName": "Aatrox", 
             "downvotes": "100", 
-            "upvotes": "164"
+            "upvotes": "167"
         }, 
         {
-            "champName": "Vladimir", 
-            "downvotes": "190", 
-            "upvotes": "260"
+            "champName": "Lee Sin", 
+            "downvotes": "68", 
+            "upvotes": "126"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Singed", 
-            "downvotes": "653", 
-            "upvotes": "1837"
+            "downvotes": "655", 
+            "upvotes": "1840"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "1301", 
-            "upvotes": "2797"
+            "downvotes": "1309", 
+            "upvotes": "2816"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "598", 
-            "upvotes": "1320"
+            "downvotes": "603", 
+            "upvotes": "1330"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "824", 
-            "upvotes": "1683"
+            "downvotes": "828", 
+            "upvotes": "1693"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "1390", 
-            "upvotes": "2765"
+            "downvotes": "1393", 
+            "upvotes": "2775"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "230", 
-            "upvotes": "511"
+            "downvotes": "231", 
+            "upvotes": "521"
         }, 
         {
             "champName": "Dr. Mundo", 
-            "downvotes": "180", 
-            "upvotes": "414"
+            "downvotes": "179", 
+            "upvotes": "418"
         }, 
         {
             "champName": "Fizz", 
-            "downvotes": "575", 
-            "upvotes": "1146"
+            "downvotes": "576", 
+            "upvotes": "1154"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "264", 
-            "upvotes": "533"
+            "downvotes": "265", 
+            "upvotes": "535"
         }, 
         {
             "champName": "Nasus", 
-            "downvotes": "292", 
-            "upvotes": "567"
+            "downvotes": "293", 
+            "upvotes": "571"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/elise.png", 
     "GoodWith": [
         {
             "champName": "Rengar", 
-            "downvotes": "461", 
-            "upvotes": "754"
+            "downvotes": "460", 
+            "upvotes": "755"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "286", 
-            "upvotes": "399"
+            "downvotes": "284", 
+            "upvotes": "402"
         }, 
         {
             "champName": "Leona", 
-            "downvotes": "323", 
-            "upvotes": "438"
+            "downvotes": "324", 
+            "upvotes": "437"
         }, 
         {
             "champName": "Orianna", 
@@ -135,6 +135,16 @@
             "upvotes": "47"
         }, 
         {
+            "champName": "Ahri", 
+            "downvotes": "107", 
+            "upvotes": "134"
+        }, 
+        {
+            "champName": "Caitlyn", 
+            "downvotes": "30", 
+            "upvotes": "52"
+        }, 
+        {
             "champName": "Karma", 
             "downvotes": "442", 
             "upvotes": "479"
@@ -145,19 +155,9 @@
             "upvotes": "89"
         }, 
         {
-            "champName": "Ahri", 
-            "downvotes": "108", 
-            "upvotes": "130"
-        }, 
-        {
-            "champName": "Caitlyn", 
-            "downvotes": "31", 
-            "upvotes": "51"
-        }, 
-        {
             "champName": "Darius", 
-            "downvotes": "57", 
-            "upvotes": "76"
+            "downvotes": "56", 
+            "upvotes": "77"
         }
     ]
 }

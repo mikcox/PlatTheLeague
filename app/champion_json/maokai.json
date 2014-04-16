@@ -6,47 +6,47 @@
     "WeakAgainst": [
         {
             "champName": "Shyvana", 
-            "downvotes": "314", 
-            "upvotes": "706"
+            "downvotes": "316", 
+            "upvotes": "713"
         }, 
         {
             "champName": "Shyvana", 
             "downvotes": "185", 
-            "upvotes": "273"
+            "upvotes": "275"
         }, 
         {
             "champName": "Dr. Mundo", 
             "downvotes": "266", 
-            "upvotes": "353"
+            "upvotes": "356"
         }, 
         {
             "champName": "Shyvana", 
-            "downvotes": "300", 
-            "upvotes": "373"
+            "downvotes": "302", 
+            "upvotes": "374"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "169", 
+            "downvotes": "170", 
             "upvotes": "213"
         }, 
         {
             "champName": "Shaco", 
-            "downvotes": "224", 
-            "upvotes": "254"
+            "downvotes": "226", 
+            "upvotes": "255"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "119", 
-            "upvotes": "123"
+            "downvotes": "120", 
+            "upvotes": "124"
         }, 
         {
             "champName": "Singed", 
             "downvotes": "106", 
-            "upvotes": "111"
+            "upvotes": "112"
         }, 
         {
             "champName": "Cho'Gath", 
-            "downvotes": "35", 
+            "downvotes": "37", 
             "upvotes": "57"
         }, 
         {
@@ -58,52 +58,52 @@
     "StrongAgainst": [
         {
             "champName": "Karthus", 
-            "downvotes": "179", 
-            "upvotes": "243"
+            "downvotes": "180", 
+            "upvotes": "244"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "119", 
-            "upvotes": "169"
+            "downvotes": "120", 
+            "upvotes": "171"
         }, 
         {
             "champName": "Vladimir", 
             "downvotes": "147", 
-            "upvotes": "183"
+            "upvotes": "185"
         }, 
         {
             "champName": "Elise", 
-            "downvotes": "176", 
-            "upvotes": "203"
-        }, 
-        {
-            "champName": "Ezreal", 
-            "downvotes": "134", 
-            "upvotes": "146"
-        }, 
-        {
-            "champName": "Hecarim", 
-            "downvotes": "97", 
-            "upvotes": "112"
+            "downvotes": "177", 
+            "upvotes": "204"
         }, 
         {
             "champName": "Rengar", 
-            "downvotes": "126", 
-            "upvotes": "135"
+            "downvotes": "125", 
+            "upvotes": "139"
+        }, 
+        {
+            "champName": "Ezreal", 
+            "downvotes": "135", 
+            "upvotes": "147"
+        }, 
+        {
+            "champName": "Hecarim", 
+            "downvotes": "98", 
+            "upvotes": "114"
         }, 
         {
             "champName": "Blitzcrank", 
             "downvotes": "137", 
-            "upvotes": "138"
+            "upvotes": "140"
         }, 
         {
             "champName": "Janna", 
             "downvotes": "135", 
-            "upvotes": "131"
+            "upvotes": "134"
         }, 
         {
             "champName": "Nunu", 
-            "downvotes": "93", 
+            "downvotes": "94", 
             "upvotes": "98"
         }
     ], 
@@ -121,33 +121,28 @@
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "503", 
-            "upvotes": "794"
+            "downvotes": "502", 
+            "upvotes": "798"
         }, 
         {
             "champName": "Zyra", 
-            "downvotes": "179", 
-            "upvotes": "237"
-        }, 
-        {
-            "champName": "LeBlanc", 
-            "downvotes": "190", 
+            "downvotes": "180", 
             "upvotes": "239"
         }, 
         {
-            "champName": "Rumble", 
-            "downvotes": "49", 
-            "upvotes": "77"
+            "champName": "LeBlanc", 
+            "downvotes": "193", 
+            "upvotes": "239"
         }, 
         {
             "champName": "Veigar", 
             "downvotes": "156", 
-            "upvotes": "195"
+            "upvotes": "197"
         }, 
         {
-            "champName": "Anivia", 
-            "downvotes": "303", 
-            "upvotes": "352"
+            "champName": "Rumble", 
+            "downvotes": "51", 
+            "upvotes": "77"
         }, 
         {
             "champName": "Lux", 
@@ -155,9 +150,14 @@
             "upvotes": "65"
         }, 
         {
-            "champName": "Kassadin", 
-            "downvotes": "214", 
-            "upvotes": "250"
+            "champName": "Anivia", 
+            "downvotes": "304", 
+            "upvotes": "351"
+        }, 
+        {
+            "champName": "Malzahar", 
+            "downvotes": "168", 
+            "upvotes": "202"
         }
     ]
 }

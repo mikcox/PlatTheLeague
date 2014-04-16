@@ -6,143 +6,143 @@
     "WeakAgainst": [
         {
             "champName": "Syndra", 
-            "downvotes": "682", 
-            "upvotes": "2757"
+            "downvotes": "685", 
+            "upvotes": "2791"
         }, 
         {
             "champName": "Vel'Koz", 
-            "downvotes": "309", 
-            "upvotes": "810"
+            "downvotes": "315", 
+            "upvotes": "816"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "1790", 
-            "upvotes": "4072"
+            "downvotes": "1812", 
+            "upvotes": "4102"
         }, 
         {
             "champName": "Ziggs", 
-            "downvotes": "680", 
-            "upvotes": "1479"
+            "downvotes": "687", 
+            "upvotes": "1495"
         }, 
         {
             "champName": "Malzahar", 
-            "downvotes": "65", 
-            "upvotes": "205"
-        }, 
-        {
-            "champName": "Yasuo", 
-            "downvotes": "71", 
-            "upvotes": "210"
+            "downvotes": "66", 
+            "upvotes": "208"
         }, 
         {
             "champName": "Morgana", 
-            "downvotes": "43", 
-            "upvotes": "155"
+            "downvotes": "44", 
+            "upvotes": "157"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "75", 
+            "upvotes": "210"
         }, 
         {
             "champName": "Lux", 
-            "downvotes": "395", 
-            "upvotes": "741"
+            "downvotes": "396", 
+            "upvotes": "746"
         }, 
         {
             "champName": "Brand", 
-            "downvotes": "45", 
-            "upvotes": "143"
+            "downvotes": "47", 
+            "upvotes": "146"
         }, 
         {
             "champName": "Xerath", 
-            "downvotes": "194", 
-            "upvotes": "383"
+            "downvotes": "196", 
+            "upvotes": "388"
         }
     ], 
     "StrongAgainst": [
         {
-            "champName": "Katarina", 
-            "downvotes": "441", 
-            "upvotes": "1122"
+            "champName": "Kassadin", 
+            "downvotes": "751", 
+            "upvotes": "1842"
         }, 
         {
-            "champName": "Kassadin", 
-            "downvotes": "749", 
-            "upvotes": "1835"
+            "champName": "Katarina", 
+            "downvotes": "450", 
+            "upvotes": "1138"
         }, 
         {
             "champName": "Akali", 
-            "downvotes": "301", 
-            "upvotes": "595"
+            "downvotes": "304", 
+            "upvotes": "603"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "20", 
-            "upvotes": "100"
+            "downvotes": "22", 
+            "upvotes": "103"
         }, 
         {
             "champName": "Yasuo", 
-            "downvotes": "42", 
-            "upvotes": "124"
+            "downvotes": "45", 
+            "upvotes": "127"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "16", 
-            "upvotes": "82"
+            "downvotes": "17", 
+            "upvotes": "84"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "68", 
-            "upvotes": "156"
-        }, 
-        {
-            "champName": "Diana", 
-            "downvotes": "661", 
-            "upvotes": "1011"
+            "downvotes": "69", 
+            "upvotes": "160"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "46", 
-            "upvotes": "123"
+            "downvotes": "48", 
+            "upvotes": "127"
         }, 
         {
-            "champName": "Talon", 
-            "downvotes": "22", 
-            "upvotes": "87"
+            "champName": "Diana", 
+            "downvotes": "663", 
+            "upvotes": "1014"
+        }, 
+        {
+            "champName": "LeBlanc", 
+            "downvotes": "217", 
+            "upvotes": "354"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/heimerdinger.png", 
     "GoodWith": [
         {
             "champName": "Blitzcrank", 
-            "downvotes": "224", 
-            "upvotes": "386"
+            "downvotes": "225", 
+            "upvotes": "390"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "99", 
-            "upvotes": "152"
+            "downvotes": "98", 
+            "upvotes": "153"
         }, 
         {
             "champName": "Amumu", 
-            "downvotes": "134", 
-            "upvotes": "186"
-        }, 
-        {
-            "champName": "Vi", 
-            "downvotes": "299", 
-            "upvotes": "365"
+            "downvotes": "135", 
+            "upvotes": "187"
         }, 
         {
             "champName": "Skarner", 
-            "downvotes": "213", 
-            "upvotes": "265"
+            "downvotes": "212", 
+            "upvotes": "267"
         }, 
         {
-            "champName": "Thresh", 
-            "downvotes": "36", 
-            "upvotes": "59"
+            "champName": "Vi", 
+            "downvotes": "301", 
+            "upvotes": "365"
         }, 
         {
             "champName": "Lee Sin", 
             "downvotes": "16", 
-            "upvotes": "37"
+            "upvotes": "38"
+        }, 
+        {
+            "champName": "Thresh", 
+            "downvotes": "37", 
+            "upvotes": "58"
         }, 
         {
             "champName": "Ezreal", 
@@ -157,7 +157,7 @@
         {
             "champName": "Darius", 
             "downvotes": "73", 
-            "upvotes": "75"
+            "upvotes": "76"
         }
     ]
 }

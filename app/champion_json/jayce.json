@@ -6,105 +6,105 @@
     "WeakAgainst": [
         {
             "champName": "Yorick", 
-            "downvotes": "1987", 
-            "upvotes": "5317"
+            "downvotes": "1990", 
+            "upvotes": "5335"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "1502", 
-            "upvotes": "2541"
+            "downvotes": "1509", 
+            "upvotes": "2548"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "872", 
-            "upvotes": "1501"
+            "downvotes": "877", 
+            "upvotes": "1506"
         }, 
         {
             "champName": "Irelia", 
-            "downvotes": "1701", 
-            "upvotes": "2774"
-        }, 
-        {
-            "champName": "Yasuo", 
-            "downvotes": "16", 
-            "upvotes": "89"
+            "downvotes": "1704", 
+            "upvotes": "2783"
         }, 
         {
             "champName": "Wukong", 
-            "downvotes": "1788", 
-            "upvotes": "2858"
+            "downvotes": "1791", 
+            "upvotes": "2867"
+        }, 
+        {
+            "champName": "Yasuo", 
+            "downvotes": "17", 
+            "upvotes": "89"
         }, 
         {
             "champName": "Ahri", 
             "downvotes": "198", 
-            "upvotes": "362"
+            "upvotes": "365"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "587", 
-            "upvotes": "951"
+            "downvotes": "589", 
+            "upvotes": "953"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "481", 
-            "upvotes": "789"
+            "downvotes": "483", 
+            "upvotes": "792"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "177", 
-            "upvotes": "327"
+            "downvotes": "179", 
+            "upvotes": "331"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Darius", 
-            "downvotes": "1877", 
-            "upvotes": "5897"
+            "downvotes": "1887", 
+            "upvotes": "5919"
         }, 
         {
             "champName": "Shen", 
-            "downvotes": "810", 
-            "upvotes": "1924"
+            "downvotes": "812", 
+            "upvotes": "1931"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "1217", 
-            "upvotes": "2421"
+            "downvotes": "1218", 
+            "upvotes": "2425"
         }, 
         {
             "champName": "Kha'Zix", 
-            "downvotes": "932", 
-            "upvotes": "1780"
-        }, 
-        {
-            "champName": "Jax", 
-            "downvotes": "2016", 
-            "upvotes": "3738"
+            "downvotes": "934", 
+            "upvotes": "1786"
         }, 
         {
             "champName": "Teemo", 
-            "downvotes": "1586", 
-            "upvotes": "2943"
+            "downvotes": "1588", 
+            "upvotes": "2950"
+        }, 
+        {
+            "champName": "Jax", 
+            "downvotes": "2032", 
+            "upvotes": "3747"
         }, 
         {
             "champName": "Katarina", 
-            "downvotes": "88", 
+            "downvotes": "89", 
             "upvotes": "229"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "1492", 
-            "upvotes": "2617"
+            "downvotes": "1495", 
+            "upvotes": "2625"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "316", 
-            "upvotes": "585"
+            "downvotes": "319", 
+            "upvotes": "588"
         }, 
         {
             "champName": "Volibear", 
-            "downvotes": "375", 
-            "upvotes": "673"
+            "downvotes": "376", 
+            "upvotes": "676"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/jayce.png", 
@@ -116,23 +116,18 @@
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "23", 
-            "upvotes": "75"
+            "downvotes": "22", 
+            "upvotes": "76"
         }, 
         {
             "champName": "Sona", 
-            "downvotes": "20", 
-            "upvotes": "58"
+            "downvotes": "19", 
+            "upvotes": "59"
         }, 
         {
             "champName": "Nidalee", 
-            "downvotes": "423", 
-            "upvotes": "635"
-        }, 
-        {
-            "champName": "Darius", 
-            "downvotes": "28", 
-            "upvotes": "68"
+            "downvotes": "421", 
+            "upvotes": "639"
         }, 
         {
             "champName": "Blitzcrank", 
@@ -141,13 +136,8 @@
         }, 
         {
             "champName": "Hecarim", 
-            "downvotes": "207", 
-            "upvotes": "319"
-        }, 
-        {
-            "champName": "Soraka", 
-            "downvotes": "410", 
-            "upvotes": "589"
+            "downvotes": "208", 
+            "upvotes": "320"
         }, 
         {
             "champName": "Taric", 
@@ -155,9 +145,19 @@
             "upvotes": "119"
         }, 
         {
-            "champName": "Lux", 
-            "downvotes": "3", 
-            "upvotes": "31"
+            "champName": "Darius", 
+            "downvotes": "29", 
+            "upvotes": "67"
+        }, 
+        {
+            "champName": "Soraka", 
+            "downvotes": "412", 
+            "upvotes": "590"
+        }, 
+        {
+            "champName": "Vi", 
+            "downvotes": "16", 
+            "upvotes": "47"
         }
     ]
 }
