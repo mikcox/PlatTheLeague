@@ -6,9 +6,11 @@
         <meta name="description" content="" />
         <meta name="author" content="Mik" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+		<!-- build:css({.tmp,app}) styles/main.min.css -->
         <link rel="stylesheet" href="styles/bootstrap.css">
         <link rel="stylesheet" href="styles/app.css">
+		<!-- endbuild -->
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
 
     <body class="no-logo fae">
@@ -26,6 +28,7 @@
             <h3 style="color:black">Powered By</h3>
             <a href="http://angularjs.org/"><img src="images/AngularJS-small.png"/></a>
         </footer>
+		<!-- build:js({.tmp,app}) scripts/main.min.js -->
         <script src="components/jquery/dist/jquery.js"></script>
         <script src="components/jquery-ui/ui/minified/jquery-ui.min.js"></script>
         <script src="components/angular/angular.min.js"></script>
@@ -39,5 +42,6 @@
 		<script src="scripts/controllers/modalInstanceCtrl.js"></script>
         <script src="scripts/services/factories.js"></script>
         <script src="scripts/filters/filters.js"></script>
+		<!-- endbuild -->
     </body>
 </html>

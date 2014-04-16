@@ -137,12 +137,19 @@ module.exports = function (grunt) {
             }
         },
         open: { server: { path: 'http://localhost:<%= connect.options.port %>' } },
+        // Empties folders to start fresh
         clean: {
-            dist: [
+          dist: {
+            files: [{
+              dot: true,
+              src: [
                 '.tmp',
-                '<%= yeoman.dist %>/*'
-            ],
-            server: '.tmp'
+                '<%= yeoman.dist %>/*',
+                '!<%= yeoman.dist %>/.git*'
+              ]
+            }]
+          },
+          server: '.tmp'
         },
         jshint: {
             scripts: {
@@ -253,50 +260,17 @@ module.exports = function (grunt) {
             dist: {},
             server: { options: { debugInfo: true } }
         },
-        concat: {
-            //ordering is crucial, concat according to the html ordering
-            '<%= yeoman.dist %>/app/scripts/main.js': [
-                '<%= yeoman.app %>/components/jquery/jquery.min.js',
-                '<%= yeoman.app %>/components/angular/angular.min.js',
-                '<%= yeoman.app %>/scripts/lib/jquery-ui.min.js',
-                '<%= yeoman.app %>/scripts/lib/angular-dragdrop.min.js',
-                '<%= yeoman.app %>/scripts/lib/ui-bootstrap-tpls-0.6.0.js',
-                '<%= yeoman.dist %>/app/scripts/main.min.js'
-            ]
-        },
-        uglify: {
-            dist: {
-                options: {
-                    beautify: false,
-                    mangle: false
-                },
-                //'output':[input,input]
-                //do not minify 3rd party minified files
-
-                files: {
-                    '<%= yeoman.dist %>/app/scripts/main.min.js': [
-//                        '<%= yeoman.app %>/components/jquery/jquery.min.js',
-//                        '<%= yeoman.app %>/components/angular/angular.min.js',
-//                        '<%= yeoman.app %>scripts/lib/jquery-ui.min.js',
-//                        '<%= yeoman.app %>scripts/lib/angular-dragdrop.min.js',
-//                        '<%= yeoman.app %>scripts/lib/ui-bootstrap-tpls-0.6.0.js',
-                        '<%= yeoman.app %>/scripts/app.js',
-                        '<%= yeoman.app %>/scripts/services/*.js',
-                        '<%= yeoman.app %>/scripts/filters/*.js',
-                        '<%= yeoman.app %>/scripts/controllers/*.js',
-                        '<%= yeoman.app %>/scripts/directives/*.js'
-                    ]
-                }
-            }
-        },
         useminPrepare: {
             html: '<%= yeoman.app %>/index.php',
             options: { dest: '<%= yeoman.dist %>' }
         },
+        // Performs rewrites based on rev and the useminPrepare configuration
         usemin: {
-            html: ['<%= yeoman.dist %>/{,*/}*.php'],
-            css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
-            options: { dirs: ['<%= yeoman.dist %>'] }
+          html: ['<%= yeoman.dist %>/{,*/}*.php'],
+          css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
+          options: {
+            assetsDirs: ['<%= yeoman.dist %>']
+          }
         },
         imagemin: {
             dist: {
@@ -306,55 +280,98 @@ module.exports = function (grunt) {
                 files: [
                     {
                         expand: true,
-                        cwd: '<%= yeoman.app %>/images',
+                        cwd: '<%= yeoman.dist %>/images',
                         src: '{,*/}*.{png,jpg,jpeg}',
-                        dest: '<%= yeoman.dist %>/app/images'
+                        dest: '<%= yeoman.dist %>/images'
                     }
                 ]
             }
         },
-        cssmin: {
-            dist: {
-                files: {
-                    '<%= yeoman.dist %>/app/styles/main.min.css': [
-                        '<%= yeoman.app %>/styles/app.css',
-                        '<%= yeoman.app %>/styles/bootstrap.css'
-                    ]
-                }
-            }
+        'json-minify': {
+        	build: {
+        		files: '<%= yeoman.dist %>/champion_json/*'
+        	}
         },
-        //using htmlmin until i can get ngTemplates working
+        // Allow the use of non-minsafe AngularJS files. Automatically makes it
+        // minsafe compatible so Uglify does not destroy the ng references -->>  not super true in my experience...
+        ngmin: {
+          dist: {
+            files: [{
+              expand: true,
+              cwd: '.tmp/concat/scripts',
+              src: '*.js',
+              dest: '.tmp/concat/scripts'
+            }]
+          }
+        },
+        //need to overwrite default uglify task since the grunt uglify plugin doesn't play nice with angular
+        uglify: {
+        	options: {
+        		//mangle rewrites variable names, which causes problems with angular injectors.
+        		//as such, I disable the mangle feature.
+        		mangle: false
+        	}
+        },
         htmlmin: {
             dist: {
-                options: {
-                    removeComments: true,
-                    collapseWhitespace: true,
-                    beautify: true
-
-                },
-                //remove html to php once debugging
-                files: {
-                    '<%= yeoman.app %>/../dist/app/index.min.html': '<%= yeoman.app %>/index.php',
-                    '<%= yeoman.app %>/../dist/app/views/all-skills.html': '<%= yeoman.app %>/views/all-skills.php',
-                    '<%= yeoman.app %>/../dist/app/views/map-a-skill.html': '<%= yeoman.app %>/views/map-a-skill.php'
-                }
+              options: {
+            	removeComments: true,
+                collapseWhitespace: true,
+                beautify: true,
+                collapseBooleanAttributes: true,
+                removeCommentsFromCDATA: true,
+                removeOptionalTags: true
+              },
+              files: [{
+                expand: true,
+                cwd: '<%= yeoman.dist %>',
+                src: ['*.php', 'views/**/*.php'],
+                dest: '<%= yeoman.dist %>'
+              }]
             }
-        },
-        copy: {
-            dist: {
-                files: [
-                    {
-                        expand: true,
-                        dot: true,
-                        cwd: '<%= yeoman.app %>',
-                        dest: '<%= yeoman.dist %>',
-                        src: [
-                            '*.{ico,txt}',
-                            '.htaccess'
-                        ]
-                    }
-                ]
+          },
+          copy: {
+              dist: {
+                files: [{
+                  expand: true,
+                  dot: true,
+                  cwd: '<%= yeoman.app %>',
+                  dest: '<%= yeoman.dist %>',
+                  src: [
+                    '*.{ico,png,txt}',
+                    '.htaccess',
+                    '*.php',
+                    'views/**/*.php',
+                    'bower_components/**/*',
+                    'images/*',
+                    'fonts/*',
+                    'champion_json/all_champs.json'
+                  ]
+                }/*, {
+                  expand: true,
+                  cwd: '.tmp/images',
+                  dest: '<%= yeoman.dist %>/images',
+                  src: ['generated/*']
+                }*/]
+              },
+              styles: {
+                expand: true,
+                cwd: '<%= yeoman.app %>/styles',
+                dest: '.tmp/styles/',
+                src: '{,*/}*.css'
+              }
+            },
+        // Renames files for browser caching purposes
+        rev: {
+          dist: {
+            files: {
+              src: [
+                '<%= yeoman.dist %>/scripts/**/*.js',
+                '<%= yeoman.dist %>/styles/{,*/}*.css',
+                '<%= yeoman.dist %>/styles/fonts/*'
+              ]
             }
+          }
         },
         bower: { all: { rjsConfig: '<%= yeoman.app %>/scripts/main.js' } }
     });
@@ -365,6 +382,8 @@ module.exports = function (grunt) {
     // Task registration, format = ('name', [task1:target, task2:target])
     //-------------------------------------------------------
 
+    grunt.loadNpmTasks('grunt-json-minify');
+    
     grunt.registerTask('server', function (target) {
         if (target === 'dist') {
             return grunt.task.run([
@@ -409,7 +428,19 @@ module.exports = function (grunt) {
         'karma:midway'
     ]);
     grunt.registerTask('build', [
-        'clean:dist',
+	'clean:dist',
+	'useminPrepare',
+	'concat',
+	'ngmin',
+	'copy:dist',
+	'cssmin',
+	'uglify',
+	'rev',
+	'usemin',
+	'htmlmin',
+	'imagemin',
+	'json-minify'
+      /*  'clean:dist',
        'useminPrepare',
         'imagemin',
         'htmlmin',
@@ -418,8 +449,8 @@ module.exports = function (grunt) {
         'cssmin',
         'uglify',
         'concat',
-        'copy'
-//        'usemin'
+        'copy',
+//        'usemin'*/
     ]);
     grunt.registerTask('hint-tests', ['jshint:tests']);
     grunt.registerTask('hint-scripts', ['jshint:scripts']);

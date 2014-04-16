@@ -6,118 +6,123 @@
     "WeakAgainst": [
         {
             "champName": "Malphite", 
-            "downvotes": "2839", 
-            "upvotes": "10136"
+            "downvotes": "2875", 
+            "upvotes": "10247"
         }, 
         {
             "champName": "Singed", 
-            "downvotes": "2398", 
-            "upvotes": "5460"
+            "downvotes": "2408", 
+            "upvotes": "5497"
         }, 
         {
             "champName": "Renekton", 
-            "downvotes": "3193", 
-            "upvotes": "7069"
+            "downvotes": "3222", 
+            "upvotes": "7161"
         }, 
         {
             "champName": "Ryze", 
-            "downvotes": "38", 
-            "upvotes": "166"
+            "downvotes": "49", 
+            "upvotes": "191"
         }, 
         {
             "champName": "Garen", 
-            "downvotes": "3256", 
-            "upvotes": "6403"
+            "downvotes": "3281", 
+            "upvotes": "6448"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "1172", 
-            "upvotes": "2345"
+            "downvotes": "1181", 
+            "upvotes": "2366"
         }, 
         {
             "champName": "Jayce", 
-            "downvotes": "2016", 
-            "upvotes": "3738"
+            "downvotes": "2029", 
+            "upvotes": "3745"
         }, 
         {
             "champName": "Darius", 
-            "downvotes": "303", 
-            "upvotes": "597"
+            "downvotes": "305", 
+            "upvotes": "610"
         }, 
         {
             "champName": "Zac", 
-            "downvotes": "158", 
-            "upvotes": "344"
+            "downvotes": "160", 
+            "upvotes": "350"
         }, 
         {
             "champName": "Lee Sin", 
-            "downvotes": "412", 
-            "upvotes": "776"
+            "downvotes": "415", 
+            "upvotes": "778"
         }
     ], 
     "StrongAgainst": [
         {
             "champName": "Yasuo", 
-            "downvotes": "2102", 
-            "upvotes": "9519"
+            "downvotes": "2120", 
+            "upvotes": "9597"
         }, 
         {
             "champName": "Aatrox", 
-            "downvotes": "2637", 
-            "upvotes": "11097"
+            "downvotes": "2655", 
+            "upvotes": "11161"
         }, 
         {
             "champName": "Fiora", 
-            "downvotes": "2477", 
-            "upvotes": "8455"
+            "downvotes": "2497", 
+            "upvotes": "8520"
         }, 
         {
             "champName": "Master Yi", 
-            "downvotes": "1499", 
-            "upvotes": "4637"
+            "downvotes": "1509", 
+            "upvotes": "4702"
         }, 
         {
             "champName": "Xin Zhao", 
-            "downvotes": "1168", 
-            "upvotes": "3211"
+            "downvotes": "1177", 
+            "upvotes": "3229"
         }, 
         {
             "champName": "Vi", 
-            "downvotes": "939", 
-            "upvotes": "2534"
+            "downvotes": "946", 
+            "upvotes": "2545"
         }, 
         {
             "champName": "Tryndamere", 
-            "downvotes": "1701", 
-            "upvotes": "3673"
+            "downvotes": "1716", 
+            "upvotes": "3705"
         }, 
         {
             "champName": "Rengar", 
-            "downvotes": "2001", 
-            "upvotes": "4203"
+            "downvotes": "2010", 
+            "upvotes": "4219"
         }, 
         {
             "champName": "Zed", 
-            "downvotes": "658", 
-            "upvotes": "1363"
+            "downvotes": "660", 
+            "upvotes": "1371"
         }, 
         {
-            "champName": "Yasuo", 
-            "downvotes": "27", 
-            "upvotes": "129"
+            "champName": "Aatrox", 
+            "downvotes": "118", 
+            "upvotes": "304"
         }
     ], 
     "ChampionImageLocation": "http://www.solomid.net/guide/champ/jax.png", 
     "GoodWith": [
         {
             "champName": "Aatrox", 
-            "downvotes": "36", 
-            "upvotes": "113"
+            "downvotes": "37", 
+            "upvotes": "112"
         }, 
         {
             "champName": "Ahri", 
-            "downvotes": "906", 
-            "upvotes": "1577"
+            "downvotes": "910", 
+            "upvotes": "1579"
+        }, 
+        {
+            "champName": "Xin Zhao", 
+            "downvotes": "37", 
+            "upvotes": "96"
         }, 
         {
             "champName": "Amumu", 
@@ -125,34 +130,29 @@
             "upvotes": "94"
         }, 
         {
-            "champName": "Xin Zhao", 
-            "downvotes": "39", 
-            "upvotes": "94"
-        }, 
-        {
-            "champName": "Teemo", 
-            "downvotes": "39", 
-            "upvotes": "92"
-        }, 
-        {
             "champName": "Darius", 
-            "downvotes": "28", 
-            "upvotes": "74"
+            "downvotes": "27", 
+            "upvotes": "75"
         }, 
         {
             "champName": "Jarvan IV", 
-            "downvotes": "30", 
-            "upvotes": "74"
+            "downvotes": "29", 
+            "upvotes": "75"
+        }, 
+        {
+            "champName": "Teemo", 
+            "downvotes": "40", 
+            "upvotes": "91"
         }, 
         {
             "champName": "Blitzcrank", 
-            "downvotes": "48", 
-            "upvotes": "97"
+            "downvotes": "47", 
+            "upvotes": "98"
         }, 
         {
             "champName": "Pantheon", 
-            "downvotes": "249", 
-            "upvotes": "383"
+            "downvotes": "252", 
+            "upvotes": "389"
         }, 
         {
             "champName": "Alistar", 
