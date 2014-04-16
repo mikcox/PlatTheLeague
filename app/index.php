@@ -15,17 +15,18 @@
 
     <body class="no-logo fae">
         <header id="branding" role="banner" style="text-align:center">
-            <a id="logo" href="#/"><img src="images/platinum_logo.png"/></a>
-        </header>
-        <div style="width:100%; text-align:center;">
-            <h1 style="margin-bottom: 0; color:black;">
-            	Team Builder Beta</h1>
+        	<div style="width:100%; text-align:center;">
+            <a id="logo" href="#/"><img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>
+            <h1 style="margin-bottom: 0; display:inline;">
+            	Team Builder Beta</h1><a id="logo" href="#/">
+            <img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>
         </div>
+        </header>
         <div ng-view>
         </div>
         <footer style="margin: 3% 0% 0% 0%">
             <p> <a href="mailto:suggestions@plattheleague.com?subject=PlatTheLeague Team Builder Suggestion&body=I want to suggest a way to improve your team builder page!  Details:">Suggestions</a>
-            <h3 style="color:black">Powered By</h3>
+            <h3 >Powered By</h3>
             <a href="http://angularjs.org/"><img src="images/AngularJS-small.png"/></a>
         </footer>
 		<!-- build:js({.tmp,app}) scripts/main.min.js -->
@@ -35,7 +36,7 @@
         <script src="components/angular-route/angular-route.js"></script>
         <script src="components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
         <script src="components/angular-dragdrop/src/angular-dragdrop.js"></script>
-        <script src="components/highcharts-ng/src/highcharts-ng.js"></script>q
+        <script src="components/highcharts-ng/src/highcharts-ng.js"></script>
         <script src="components/highcharts.com/js/highcharts.src.js"></script>
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/teamBuilderCtrl.js"></script>

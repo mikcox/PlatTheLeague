@@ -881,12 +881,32 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//top2/bot1:
+		for(var i = 0; i < $scope.topLane2.length; i++){
+			for(var j = 0; j < $scope.topLane2[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane1.length; k++){
+					if($scope.botLane1[k]["ChampionName"]["pretty"] == $scope.topLane2[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.topLane2[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//bot1/mid2:
 		for(var i = 0; i < $scope.botLane1.length; i++){
 			for(var j = 0; j < $scope.botLane1[i]["WeakAgainst"].length; j++){
 				for(var k = 0; k < $scope.midLane2.length; k++){
 					if($scope.midLane2[k]["ChampionName"]["pretty"] == $scope.botLane1[i]["WeakAgainst"][j]["champName"]){
 						$scope.lateGameScore = $scope.lateGameScore - $scope.botLane1[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		//mid2/top1:
+		for(var i = 0; i < $scope.midLane2.length; i++){
+			for(var j = 0; j < $scope.midLane2[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane1.length; k++){
+					if($scope.botLane1[k]["ChampionName"]["pretty"] == $scope.midLane2[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.midLane2[i]["WeakAgainst"][j]["confidence"]/5;
 					}
 				}
 			}
@@ -901,12 +921,32 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//top1/bot2:
+		for(var i = 0; i < $scope.topLane1.length; i++){
+			for(var j = 0; j < $scope.topLane1[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane2.length; k++){
+					if($scope.botLane2[k]["ChampionName"]["pretty"] == $scope.topLane1[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.topLane1[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//bot2/mid1:
 		for(var i = 0; i < $scope.botLane2.length; i++){
 			for(var j = 0; j < $scope.botLane2[i]["WeakAgainst"].length; j++){
 				for(var k = 0; k < $scope.midLane1.length; k++){
 					if($scope.midLane1[k]["ChampionName"]["pretty"] == $scope.botLane2[i]["WeakAgainst"][j]["champName"]){
 						$scope.lateGameScore = $scope.lateGameScore + $scope.botLane2[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		//mid1/bot2:
+		for(var i = 0; i < $scope.midLane1.length; i++){
+			for(var j = 0; j < $scope.midLane1[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane2.length; k++){
+					if($scope.botLane2[k]["ChampionName"]["pretty"] == $scope.midLane1[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.midLane1[i]["WeakAgainst"][j]["confidence"]/5;
 					}
 				}
 			}
@@ -921,6 +961,16 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//top2/mid1:
+		for(var i = 0; i < $scope.topLane2.length; i++){
+			for(var j = 0; j < $scope.topLane2[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.midLane1.length; k++){
+					if($scope.midLane1[k]["ChampionName"]["pretty"] == $scope.topLane2[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.topLane2[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//top1/mid2:
 		for(var i = 0; i < $scope.topLane1.length; i++){
 			for(var j = 0; j < $scope.topLane1[i]["WeakAgainst"].length; j++){
@@ -931,6 +981,17 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//mid2/top1:
+		for(var i = 0; i < $scope.midLane2.length; i++){
+			for(var j = 0; j < $scope.midLane2[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.topLane1.length; k++){
+					if($scope.topLane1[k]["ChampionName"]["pretty"] == $scope.midLane2[i]["WeakAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.midLane2[i]["WeakAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		
 		
 		//and finally again do the opposite for anybody on team 1 who is strong against team 2 across lanes:
 		//bot1/top2:
@@ -939,6 +1000,16 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				for(var k = 0; k < $scope.topLane2.length; k++){
 					if($scope.topLane2[k]["ChampionName"]["pretty"] == $scope.botLane1[i]["StrongAgainst"][j]["champName"]){
 						$scope.lateGameScore = $scope.lateGameScore + $scope.botLane1[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		//top2/bot1:
+		for(var i = 0; i < $scope.topLane2.length; i++){
+			for(var j = 0; j < $scope.topLane2[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane1.length; k++){
+					if($scope.botLane1[k]["ChampionName"]["pretty"] == $scope.topLane2[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.topLane2[i]["StrongAgainst"][j]["confidence"]/5;
 					}
 				}
 			}
@@ -953,12 +1024,32 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//mid2/bot1:
+		for(var i = 0; i < $scope.midLane2.length; i++){
+			for(var j = 0; j < $scope.midLane2[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane1.length; k++){
+					if($scope.botLane1[k]["ChampionName"]["pretty"] == $scope.midLane2[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.midLane2[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//bot2/top1:
 		for(var i = 0; i < $scope.botLane2.length; i++){
 			for(var j = 0; j < $scope.botLane2[i]["StrongAgainst"].length; j++){
 				for(var k = 0; k < $scope.topLane1.length; k++){
 					if($scope.topLane1[k]["ChampionName"]["pretty"] == $scope.botLane2[i]["StrongAgainst"][j]["champName"]){
 						$scope.lateGameScore = $scope.lateGameScore - $scope.botLane2[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		//top1/bot2:
+		for(var i = 0; i < $scope.topLane1.length; i++){
+			for(var j = 0; j < $scope.topLane1[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane2.length; k++){
+					if($scope.botLane2[k]["ChampionName"]["pretty"] == $scope.topLane1[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.topLane1[i]["StrongAgainst"][j]["confidence"]/5;
 					}
 				}
 			}
@@ -973,6 +1064,16 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//mid1/bot2:
+		for(var i = 0; i < $scope.midLane1.length; i++){
+			for(var j = 0; j < $scope.midLane1[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.botLane2.length; k++){
+					if($scope.botLane2[k]["ChampionName"]["pretty"] == $scope.midLane1[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore + $scope.midLane1[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//mid1/top2:
 		for(var i = 0; i < $scope.midLane1.length; i++){
 			for(var j = 0; j < $scope.midLane1[i]["StrongAgainst"].length; j++){
@@ -983,12 +1084,32 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 			}
 		}
+		//top2/mid1:
+		for(var i = 0; i < $scope.topLane2.length; i++){
+			for(var j = 0; j < $scope.topLane2[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.midLane1.length; k++){
+					if($scope.midLane1[k]["ChampionName"]["pretty"] == $scope.topLane2[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.topLane2[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
 		//top1/mid2:
 		for(var i = 0; i < $scope.topLane1.length; i++){
 			for(var j = 0; j < $scope.topLane1[i]["StrongAgainst"].length; j++){
 				for(var k = 0; k < $scope.midLane2.length; k++){
 					if($scope.midLane2[k]["ChampionName"]["pretty"] == $scope.topLane1[i]["StrongAgainst"][j]["champName"]){
 						$scope.lateGameScore = $scope.lateGameScore + $scope.topLane1[i]["StrongAgainst"][j]["confidence"]/5;
+					}
+				}
+			}
+		}
+		//mid2/top1:
+		for(var i = 0; i < $scope.midLane2.length; i++){
+			for(var j = 0; j < $scope.midLane2[i]["StrongAgainst"].length; j++){
+				for(var k = 0; k < $scope.topLane1.length; k++){
+					if($scope.topLane1[k]["ChampionName"]["pretty"] == $scope.midLane2[i]["StrongAgainst"][j]["champName"]){
+						$scope.lateGameScore = $scope.lateGameScore - $scope.midLane2[i]["StrongAgainst"][j]["confidence"]/5;
 					}
 				}
 			}
@@ -1090,7 +1211,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				      "series": {
 				        "stacking": "normal"
 				      }
-				    }
+				    },
+				    tooltip: {
+		            	
+		                formatter: function(){
+		                    return '<b>'+this.series.name+' advantage: </b>'+ Highcharts.numberFormat(Math.abs(this.point.y), 2);
+		                }
+		            }
 				  },
 				  xAxis: [{
 		                reversed: true,
@@ -1117,6 +1244,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		                min: -10,
 		                max: 10
 		            },
+		            
 				  series: [{
 		                name: 'Team 1',
 		                data: [$scope.scoresObject["top1"],
@@ -1140,6 +1268,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		            }
 		            
 		            ],
+		         
 				  "title": {
 				    "text": "Scoring Breakdown"
 				  },
