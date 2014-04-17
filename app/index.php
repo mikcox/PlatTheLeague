@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="platTheLeagueModule">
+<html lang="en" ng-app="platTheLeagueModule" style="height:100%">
     <head>
         <meta charset="utf-8" />
         <title>Plat The League</title>
@@ -13,7 +13,7 @@
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
 
-    <body class="no-logo fae">
+    <body class="no-logo fae" style="height:100%">
         <header id="branding" role="banner" style="text-align:center">
         	<div style="width:100%; text-align:center;">
             <a id="logo" href="#/"><img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>
