@@ -168,6 +168,7 @@
 									</form>
 									Optional Comments:
 									<input type="text" ng-model="feedbackComments">
+									<br>
 									<button class="btn btn-warning" ng-click="submitFeedback(wereWeCorrect, feedbackComments)">Submit Feedback</button>
 								</div>
 							</div>
@@ -366,6 +367,7 @@
 									</form>
 									Optional Comments:
 									<input type="text" ng-model="feedbackComments">
+									<br>
 									<button class="btn btn-warning" ng-click="submitFeedback(wereWeCorrect, feedbackComments)">Submit Feedback</button>
 								</div>
 							</div>
