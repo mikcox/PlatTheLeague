@@ -15,7 +15,7 @@ try:
 except HTTPError as e:
 	f = open(workingdir+"error.json", 'w')
 	f.write('{"ServerError":"The server couldn\'t fulfill the request.  Error code '+str(e.code)+'"}')
-	f.close();
+	f.close()
 	sys.exit(1)
 except URLError as e:
 	f = open(workingdir+"error.json", 'w')

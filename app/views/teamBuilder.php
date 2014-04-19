@@ -115,6 +115,16 @@
 					    <tab heading="Prediction Chart" ng-click="triggerResize()">
 				            <div style="text-align:center;">
 				            	<h2>Game Predictions:</h2>
+				            	<div id="directions" class="thumbnail" style="color: black; margin:0 auto; text-align:center; width: 80%;"
+								ng-hide="topLane1.length > 0 || midLane1.length > 0 || botLane1.length > 0 || jungle1.length > 0 ||
+										topLane2.length > 0 || midLane2.length > 0 || botLane2.length > 0 || jungle2.length > 0">
+									Drag a champion from the menu on the left into a slot on the map to begin team analysis.	
+								</div>
+								<div class="thumbnail" style="color: black; margin:0 auto; text-align:center; width: 80%;" ng-hide="(topLane1.length == 0 &&
+									midLane1.length == 0 && botLane1.length == 0 && jungle1.length == 0 &&
+									topLane2.length == 0 && midLane2.length == 0 && botLane2.length == 0 && jungle2.length == 0) || teamScore != 0">
+									No counter information yet...  Add more champions!
+								</div>
 				            	<div style="text-align:center; position:relative;" ng-show="teamScore">
 									<highchart id="highChartsTest" config="chartConfig" style="margin: 0 auto; height: 300px; width: 80%;">
 									</highchart>
@@ -147,6 +157,19 @@
 										</td>
 									</tr>
 								</table>
+								<div class="thumbnail" style="color: black; margin:0 auto; text-align:center; width: 80%;"
+									ng-show="(topLane1.length + midLane1.length + botLane1.length + jungle1.length == 5) &&
+										(topLane2.length + midLane2.length + botLane2.length + jungle2.length == 5)">
+									We want to make our game prediction algorithm as accurate as possible.  After your game ends, mind telling us if our prediction was right?
+									<br><br>
+									<form name="feedbackForm">
+										<input type="radio" ng-model="wereWeCorrect" value="yes">  Yep, you called it! <br/>
+										<input type="radio" ng-model="wereWeCorrect" value="no"> Nope, sorry. <br/>
+									</form>
+									Optional Comments:
+									<input type="text" ng-model="feedbackComments">
+									<button class="btn btn-warning" ng-click="submitFeedback(wereWeCorrect, feedbackComments)">Submit Feedback</button>
+								</div>
 							</div>
 						</tab>
 						<tab heading="By lane">
@@ -305,7 +328,7 @@
 								</tr>
 								</table>
 								<table id="teamDiv2" class="thumbnail" ng-show="teamScore"
-								style="margin:0 auto; text-align:center; width:80%">
+								style="margin:0 auto; text-align:center; width:60%">
 									<th colspan="3" style="width:100%;"><h3>Overall Team Score:</h3><th>
 									<tr>
 									<tr ng-show="teamScore">
@@ -332,6 +355,19 @@
 										</td>
 									</tr>
 								</table>
+								<div class="thumbnail" style="color: black; margin:0 auto; text-align:center; width: 80%;"
+									ng-show="(topLane1.length + midLane1.length + botLane1.length + jungle1.length == 5) &&
+										(topLane2.length + midLane2.length + botLane2.length + jungle2.length == 5)">
+									We want to make our game prediction algorithm as accurate as possible.  After your game ends, mind telling us if our prediction was right?
+									<br><br>
+									<form name="feedbackForm">
+										<input type="radio" ng-model="wereWeCorrect" value="yes">  Yep, you called it! <br/>
+										<input type="radio" ng-model="wereWeCorrect" value="no"> Nope, sorry. <br/>
+									</form>
+									Optional Comments:
+									<input type="text" ng-model="feedbackComments">
+									<button class="btn btn-warning" ng-click="submitFeedback(wereWeCorrect, feedbackComments)">Submit Feedback</button>
+								</div>
 							</div>
 						</tab>
 					</tabset>

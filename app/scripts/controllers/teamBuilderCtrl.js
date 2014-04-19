@@ -1178,7 +1178,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	};
 	
 	
-	//code for popup windows
+	//for popup windows
 	$scope.openChampCountersModal = function (champ) {
 
 		var modalInstance = $modal.open({
@@ -1193,13 +1193,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	    
 	};
 	  
-	//code for drag and drop:
+	//for drag and drop:
 	$scope.filterChamps = function() {
 		$scope.filteredChamps = $filter('allChampTextFilter')($scope.allChamps, $scope.allChampFilterQuery);
 		return $scope.filteredChamps;
 	};
 	
-	//code for highcharts graphing:
+	//for highcharts graphing:
 	$scope.refreshChartConfig = function() {
 		var categories = ['Top', 'Mid', 'Bot', 'Jungle', 'Late Game', 'Team'];
 		$scope.chartConfig = {
@@ -1277,7 +1277,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				}
 	};
 	
-	//code for handling resizing of tab content:
+	//for handling resizing of tab content:
 	$scope.triggerResize = function() {
 		  $(window).resize();
 	}
@@ -1285,6 +1285,26 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.$watch('teamScore', function() {
 		setTimeout($scope.triggerResize, 1);
       });
+	
+	//for submitting feedback:
+	$scope.submitFeedback = function(wereWeCorrect, feedbackComments) {
+		$scope.feedbackComments = 'test overwrite';
+		var feedbackJSON = {
+			"feedback":[{
+				"wereWeCorrect":wereWeCorrect,
+				"comments":feedbackComments
+			}]	
+		};
+		var feedback = JSON.stringify(feedbackJSON);
+		$.ajax({
+			type: 'POST',
+			url: 'scripts/button_actions/submitFeedback.php',
+			data: { Feedback: feedback }
+		}).success(function(data) {
+			alert('Feedback received.  Thanks!');
+			$scope.resetPage();
+		});
+	}
 	
 	$scope.resetPage = function(){
 		$scope.topLane1 = [];
@@ -1316,6 +1336,9 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				team1: null,
 				team2: null
 		}
+		$scope.wereWeCorrect = null;
+		$scope.feedbackComments = null;
+		
 		getAllChamps();
 		$scope.refreshChartConfig();
 	};
@@ -1351,6 +1374,10 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			team1: null,
 			team2: null
 	}
+	//variables for feedback
+	$scope.wereWeCorrect = null;
+	$scope.feedbackComments = null;
+	
 	getAllChamps();
 	$scope.refreshChartConfig();
 	}
