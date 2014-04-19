@@ -1288,7 +1288,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	
 	//for submitting feedback:
 	$scope.submitFeedback = function(wereWeCorrect, feedbackComments) {
-		$scope.feedbackComments = 'test overwrite';
 		var feedbackJSON = {
 			"feedback":[{
 				"wereWeCorrect":wereWeCorrect,
