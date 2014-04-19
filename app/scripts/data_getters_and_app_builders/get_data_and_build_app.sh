@@ -5,3 +5,4 @@ python get_all_champs.py
 grunt build
 rm -rf /home/mico2178/public_html/app/*
 cp -r ../../../dist/* /home/mico2178/public_html/app
+cp -r ../../scripts/button_actions /home/mico2178/public_html/app
