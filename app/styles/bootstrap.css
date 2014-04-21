@@ -153,9 +153,10 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-family: 'Vollkorn', Georgia, Times, serif;
+  font-size: 15px;
+  line-height: 22px;
+  word-spacing: 1px;
   color: white;
 }
 
@@ -415,11 +416,11 @@ a:hover {
   clear: both;
 }
 
-p {
+p {/*
   margin: 0 0 9px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  line-height: 18px;
+  line-height: 18px;*/
 }
 
 p small {
@@ -441,10 +442,11 @@ h4,
 h5,
 h6 {
   margin: 0;
+  /*
   font-family: inherit;
   font-weight: bold;
   color: inherit;
-  text-rendering: optimizelegibility;
+  text-rendering: optimizelegibility;*/
 }
 
 h1 small,
@@ -458,8 +460,9 @@ h6 small {
 }
 
 h1 {
-  font-size: 38px;
-  line-height: 44px;
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  line-height: 65px;
 }
 
 h1 small {
@@ -467,6 +470,7 @@ h1 small {
 }
 
 h2 {
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
   font-size: 24px;
   line-height: 36px;
 }
@@ -476,6 +480,7 @@ h2 small {
 }
 
 h3 {
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 27px;
 }
@@ -2727,8 +2732,8 @@ button.close {
 }
 
 .btn-primary {
-  background-color: #0074cc;
-  *background-color: #0055cc;
+  background-color: #0099FF;
+  *background-color: #0099FF;
   background-image: -ms-linear-gradient(top, #0088cc, #0055cc);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0055cc));
   background-image: -webkit-linear-gradient(top, #0088cc, #0055cc);

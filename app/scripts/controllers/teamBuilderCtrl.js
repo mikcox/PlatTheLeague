@@ -135,6 +135,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	
 	//Function to populate game prediction panel
 	$scope.populateGamePredictions = function () {
+		//variable to use around the app while waiting for this huge-ass thing to finish
+		$scope.predictionSet = false;
 		//scope variables keeping track of the various scores:
 		$scope.topScore = 0;
 		$scope.midScore = 0;
@@ -1172,11 +1174,39 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.scoresObject["team1"] = 0;
 			$scope.scoresObject["team2"] = (-1) * $scope.teamScore;
 		}
-		
 		$scope.refreshChartConfig();
-		
+		$scope.predictionSet = true;
 	};
 	
+	//creating champion suggestions:
+	$scope.getChampSuggestions = function(){
+		
+		//top:
+		$scope.champSuggestions["top"] = [];
+		for(var i = 0; i < $scope.topLane2.length; i++){
+			for(var j = 0; j < $scope.topLane2[i]["WeakAgainst"].length; j++){
+				for(var k = 0; k < $scope.allChamps.length; k++){
+					if($scope.allChamps[k]["ChampionName"]["pretty"] == $scope.topLane2[i]["WeakAgainst"][j]["champName"]){
+						$scope.predictionSet = false;
+						$scope.topLane1.push($scope.allChamps[k]);
+						$scope.populateGamePredictions();
+						while($scope.predictionSet == false){
+							i = i+1;
+						};
+						alert("champ: "+$scope.allChamps[k]["ChampionName"]["pretty"]+" teamScore: "+$scope.teamScore);
+						$scope.champSuggestions["top"].push({
+							"champ" : $scope.allChamps[k]["ChampionName"]["pretty"],
+							"teamScore" : $scope.teamScore
+						});
+						$scope.topLane1.pop();
+					}
+				}
+			}
+		}
+		
+		//reset scope and game predictions to what they were:
+		$scope.populateGamePredictions();
+	};
 	
 	//for popup windows
 	$scope.openChampCountersModal = function (champ) {
@@ -1334,7 +1364,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				lateGame2: null,
 				team1: null,
 				team2: null
-		}
+		};
+		$scope.champSuggestions = {
+			top: null,
+			mid: null,
+			bot: null,
+			jungle: null
+		};
 		$scope.wereWeCorrect = null;
 		$scope.feedbackComments = null;
 		
@@ -1372,7 +1408,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			lateGame2: null,
 			team1: null,
 			team2: null
-	}
+	};
+	$scope.champSuggestions = {
+			top: [],
+			mid: [],
+			bot: [],
+			jungle: []
+	};
 	//variables for feedback
 	$scope.wereWeCorrect = null;
 	$scope.feedbackComments = null;

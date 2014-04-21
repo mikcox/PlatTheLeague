@@ -4,9 +4,9 @@
 	</div>
 	<div class="modal-body">
 			<table ng-table class="table" ng-show="selectedChamp">
-				<th>{{selectedChamp.ChampionName.pretty}} is Weak Against:</th>
-				<th>{{selectedChamp.ChampionName.pretty}} is Strong Against:</th>
-				<th>{{selectedChamp.ChampionName.pretty}} is Good With:</th>
+				<th><h3>{{selectedChamp.ChampionName.pretty}} is Weak Against:</h3></th>
+				<th><h3>{{selectedChamp.ChampionName.pretty}} is Strong Against:</h3></th>
+				<th><h3>{{selectedChamp.ChampionName.pretty}} is Good With:</h3></th>
 				<tr>
 					<td><li ng-repeat="counterChamp in selectedChamp.WeakAgainst | orderBy: 'confidence' : true">
 						{{counterChamp.champName}} ({{counterChamp.confidence}})
@@ -21,6 +21,6 @@
 			</table>
 	</div>
 	<div class="modal-footer">
-		<button class="btn btn-warning" ng-click="cancel()">Close</button>
+		<button class="btn btn-primary" ng-click="cancel()">Close</button>
 	</div>
 </div>

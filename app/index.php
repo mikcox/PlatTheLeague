@@ -9,6 +9,8 @@
 		<!-- build:css({.tmp,app}) styles/main.min.css -->
         <link rel="stylesheet" href="styles/bootstrap.css">
         <link rel="stylesheet" href="styles/app.css">
+        <link href="http://fonts.googleapis.com/css?family=Ubuntu:bold" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
 		<!-- endbuild -->
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
