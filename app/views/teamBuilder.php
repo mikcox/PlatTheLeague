@@ -380,7 +380,8 @@
 								Drag a champion from the menu on the left into a slot on the map to begin team analysis.	
 							</div>
 							<table class="thumbnail" ng-show="topLane1.length > 0 || midLane1.length > 0 || botLane1.length > 0 || jungle1.length > 0 ||
-									topLane2.length > 0 || midLane2.length > 0 || botLane2.length > 0 || jungle2.length > 0">
+									topLane2.length > 0 || midLane2.length > 0 || botLane2.length > 0 || jungle2.length > 0"
+									style="border: 1px solid black;">
 								<th>Lane</th>
 								<th>Champion and Resulting Team Score</th>
 								<tr>
@@ -392,19 +393,19 @@
 								<tr>
 									<td> Mid: </td>
 									<td>
-										<ul ng-repeat="champ in champSuggestions['mid']">{{champ.champ}}: {{champ.teamScore}}</ul>
+										<ul ng-repeat="champ in champSuggestions['mid'] | orderBy:'-teamScore'">{{champ.champ}}: {{champ.teamScore}}</ul>
 									</td>
 								</tr>
 								<tr>
 									<td> Bot: </td>
 									<td>
-										<ul ng-repeat="champ in champSuggestions['bot']">{{champ.champ}}: {{champ.teamScore}}</ul>
+										<ul ng-repeat="champ in champSuggestions['bot'] | orderBy:'-teamScore'">{{champ.champ}}: {{champ.teamScore}}</ul>
 									</td>
 								</tr>
 								<tr>
 									<td> Jungle: </td>
 									<td>
-										<ul ng-repeat="champ in champSuggestions['jungle']">{{champ.champ}}: {{champ.teamScore}}</ul>
+										<ul ng-repeat="champ in champSuggestions['jungle'] | orderBy:'-teamScore'">{{champ.champ}}: {{champ.teamScore}}</ul>
 									</td>
 								</tr>
 							</table>
