@@ -371,7 +371,7 @@
 									<button class="btn btn-warning" ng-click="submitFeedback(wereWeCorrect, feedbackComments)">Submit Feedback</button>
 								</div>
 							</div>
-						</tab><!--
+						</tab>
 						<tab heading="Champ Suggestions" ng-click="getChampSuggestions()">
 							<h2 style="text-align:center;">Champ Suggestions:</h2>
 							<div class="thumbnail" style="color: black; margin:0 auto; text-align:center; width: 80%;"
@@ -382,19 +382,33 @@
 							<table class="thumbnail" ng-show="topLane1.length > 0 || midLane1.length > 0 || botLane1.length > 0 || jungle1.length > 0 ||
 									topLane2.length > 0 || midLane2.length > 0 || botLane2.length > 0 || jungle2.length > 0">
 								<th>Lane</th>
-								<th>Champion</th>
-								<th>Resulting Team Score</th>
+								<th>Champion and Resulting Team Score</th>
 								<tr>
-								<td> Top: {{topLane1}}</td>
-								<td>
-									<ul ng-repeat="champ in champSuggestions['top']">{{champ.champ}}</ul>
-								</td>
-								<td>
-									<ul ng-repeat="champ in champSuggestions['top']">{{champ.teamScore}}</ul>
-								</td>
+									<td> Top: </td>
+									<td>
+										<ul ng-repeat="champ in champSuggestions['top'] | orderBy:'-teamScore'">{{champ.champ}}: {{champ.teamScore}}</ul>
+									</td>
+								</tr>
+								<tr>
+									<td> Mid: </td>
+									<td>
+										<ul ng-repeat="champ in champSuggestions['mid']">{{champ.champ}}: {{champ.teamScore}}</ul>
+									</td>
+								</tr>
+								<tr>
+									<td> Bot: </td>
+									<td>
+										<ul ng-repeat="champ in champSuggestions['bot']">{{champ.champ}}: {{champ.teamScore}}</ul>
+									</td>
+								</tr>
+								<tr>
+									<td> Jungle: </td>
+									<td>
+										<ul ng-repeat="champ in champSuggestions['jungle']">{{champ.champ}}: {{champ.teamScore}}</ul>
+									</td>
 								</tr>
 							</table>
-						</tab>-->
+						</tab>
 					</tabset>
 				</div>
 			</div>
