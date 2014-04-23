@@ -32,7 +32,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		function getCounterJSON(champion, openModal) {
 			var indexOfMatch = -1;
 			for(var i = 0; i < $scope.allChamps.length; i++) {
-				//alert('champsStaticName: '+$scope.allChampsStatic[i]["ChampionName"]["lower"]+', champion: '+champion);
 				if($scope.allChamps[i]["ChampionName"]["lower"] == champion){
 					indexOfMatch = i;
 					break;
@@ -42,7 +41,9 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				alert('Internal problem... lost track of champion "'+champion+'". Whoops!!');
 				return;
 			}
+			//alert(JSON.stringify($scope.allChamps[indexOfMatch]));
 			var selectedChamp = $scope.allChamps[indexOfMatch];
+			//var selectedChamp = $scope.allChamps.indexOf();
 			$scope.error = "";
 			
 			//filter duplicates from WeakAgainst list
@@ -371,6 +372,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.ajaxGetChampInfo(champion);
 		}
 		$scope.dragged = false;
+		$scope.selectedChamp = getCounterJSON(champion, false);
 	};
 
 	$scope.startDragging = function() {

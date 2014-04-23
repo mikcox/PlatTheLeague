@@ -29,7 +29,7 @@
 							left:5%; top: 20%; padding:0px;">
 							<p ng-hide="topLane1.length > 0" style="text-align: center;">Your Top</p>
 							<div class="btn btn-draggable" ng-repeat="champ in topLane1" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="topLane1"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="topLane1" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -38,7 +38,7 @@
 							jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}" data-jqyoui-options ng-model="topLane2">
 							<p ng-hide="topLane2.length > 0" style="text-align: center;">Their Top</p>
 							<div class="btn btn-draggable" ng-repeat="champ in topLane2" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="topLane2"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="topLane2" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -50,7 +50,7 @@
 							left:38%; top: 54%; padding:0px;">
 							<p ng-hide="midLane1.length > 0" style="text-align: center;">Your Mid</p>
 							<div class="btn btn-draggable" ng-repeat="champ in midLane1" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="midLane1"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="midLane1" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -59,7 +59,7 @@
 							jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}" data-jqyoui-options ng-model="midLane2">
 							<p ng-hide="midLane2.length > 0" style="text-align: center;">Their Mid</p>
 							<div class="btn btn-draggable" ng-repeat="champ in midLane2" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="midLane2"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="midLane2" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -71,7 +71,7 @@
 							left:70%; top: 85%; padding:0px;">
 							<p ng-hide="botLane1.length > 0" style="text-align: center;">Your Bot</p>
 							<div class="btn btn-draggable" ng-repeat="champ in botLane1" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="botLane1"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="botLane1" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -80,7 +80,7 @@
 							jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}" data-jqyoui-options ng-model="botLane2">
 							<p ng-hide="botLane2.length > 0" style="text-align: center;">Their Bot</p>
 							<div class="btn btn-draggable" ng-repeat="champ in botLane2" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="botLane2"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="botLane2" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -92,7 +92,7 @@
 							left:22%; top: 40%; padding:0px;">
 							<p ng-hide="jungle1.length > 0">Your Jungle</p>
 							<div class="btn btn-draggable" ng-repeat="champ in jungle1" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="jungle1"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="jungle1" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
@@ -101,14 +101,13 @@
 							jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}" data-jqyoui-options ng-model="jungle2">
 							<p ng-hide="jungle2.length > 0">Their Jungle</p>
 							<div class="btn btn-draggable" ng-repeat="champ in jungle2" data-drag="true" data-jqyoui-options="{revert: 'invalid', animate:false}"
-								ng-model="jungle2"  jqyoui-draggable="{index: $index, onStart: 'startDragging'}"
+								ng-model="jungle2" jqyoui-draggable="{index: $index}"
 								style="width:95%; text-align:center; padding: 1px; word-wrap:break-word">
 								<img ng-src="{{champ.ChampionImageLocation}}" style="width: 20px; height:20px;"></img> {{champ.ChampionName.pretty}}
 							</div>
 						</div>	
 					</div>
 					<button class="btn btn-primary" ng-click="resetPage()">Reset</button>
-					{{allChampsStatic}}
 				</div>
 				{{error}}
 				<div style="color:white; float:left; padding-left:2%; width:47%;">
