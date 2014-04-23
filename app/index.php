@@ -15,7 +15,7 @@
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
 
-    <body class="no-logo fae" style="height:100%">
+    <body class="no-logo fae" style="height:100%; min-width:1200px;">
         <header id="branding" role="banner" style="text-align:center">
         	<div style="width:100%; text-align:center;">
             <a id="logo" href="#/"><img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>

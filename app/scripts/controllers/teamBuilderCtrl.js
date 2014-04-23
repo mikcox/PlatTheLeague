@@ -32,6 +32,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		function getCounterJSON(champion, openModal) {
 			var indexOfMatch = -1;
 			for(var i = 0; i < $scope.allChamps.length; i++) {
+				//alert('champsStaticName: '+$scope.allChampsStatic[i]["ChampionName"]["lower"]+', champion: '+champion);
 				if($scope.allChamps[i]["ChampionName"]["lower"] == champion){
 					indexOfMatch = i;
 					break;
@@ -42,7 +43,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				return;
 			}
 			var selectedChamp = $scope.allChamps[indexOfMatch];
-			//var selectedChamp = $scope.allChamps.indexOf();
 			$scope.error = "";
 			
 			//filter duplicates from WeakAgainst list
@@ -128,8 +128,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			}
 			//alert(selectedChamp);
 			return selectedChamp;
-			//});
-			//return promise;
 		};
 	
 	//Function to populate game prediction panel
@@ -153,11 +151,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
-						//save the resulting champ and score in an object on the scope
-						$scope.champSuggestions["top"].push({
-							"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
-							"teamScore" : scopeObj.teamScore
-						});
+						//save the resulting champ and score in an object on the scope if it's a unique name
+						if(JSON.stringify($scope.champSuggestions["top"]).indexOf(scopeObj.allChamps[k]["ChampionName"]["pretty"]) == -1){
+							$scope.champSuggestions["top"].push({
+								"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
+								"teamScore" : scopeObj.teamScore
+							});
+						}
 						//remove the temporary champ from the topLane1 list
 						scopeObj.topLane1.pop();
 					}
@@ -175,11 +175,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
-						//save the resulting champ and score in an object on the scope
-						$scope.champSuggestions["mid"].push({
-							"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
-							"teamScore" : scopeObj.teamScore
-						});
+						//save the resulting champ and score in an object on the scope if it's a unique name
+						if(JSON.stringify($scope.champSuggestions["mid"]).indexOf(scopeObj.allChamps[k]["ChampionName"]["pretty"]) == -1){
+							$scope.champSuggestions["mid"].push({
+								"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
+								"teamScore" : scopeObj.teamScore
+							});
+						}
 						//remove the temporary champ from the midLane1 list
 						scopeObj.midLane1.pop();
 					}
@@ -197,11 +199,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
-						//save the resulting champ and score in an object on the scope
-						$scope.champSuggestions["bot"].push({
-							"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
-							"teamScore" : scopeObj.teamScore
-						});
+						//save the resulting champ and score in an object on the scope if it's a unique name
+						if(JSON.stringify($scope.champSuggestions["bot"]).indexOf(scopeObj.allChamps[k]["ChampionName"]["pretty"]) == -1){
+							$scope.champSuggestions["bot"].push({
+								"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
+								"teamScore" : scopeObj.teamScore
+							});
+						}
 						//remove the temporary champ from the botLane1 list
 						scopeObj.botLane1.pop();
 					}
@@ -219,11 +223,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
-						//save the resulting champ and score in an object on the scope
-						$scope.champSuggestions["jungle"].push({
-							"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
-							"teamScore" : scopeObj.teamScore
-						});
+						//save the resulting champ and score in an object on the scope if it's a unique name
+						if(JSON.stringify($scope.champSuggestions["jungle"]).indexOf(scopeObj.allChamps[k]["ChampionName"]["pretty"]) == -1){
+							$scope.champSuggestions["jungle"].push({
+								"champ" : scopeObj.allChamps[k]["ChampionName"]["pretty"],
+								"teamScore" : scopeObj.teamScore
+							});
+						}
 						//remove the temporary champ from the jungle1 list
 						scopeObj.jungle1.pop();
 					}
@@ -359,6 +365,18 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		});
 	}
 	
+	//for handling drag and drop clicking issues:
+	$scope.onChampClick = function(champion) {
+		if (!$scope.dragged) {
+			$scope.ajaxGetChampInfo(champion);
+		}
+		$scope.dragged = false;
+	};
+
+	$scope.startDragging = function() {
+		$scope.dragged = true;    
+	};
+	
 	$scope.resetPage = function(){
 		$scope.topLane1 = [];
 		$scope.topLane2 = [];
@@ -442,6 +460,12 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	//variables for feedback
 	$scope.wereWeCorrect = null;
 	$scope.feedbackComments = null;
+	
+	//for drag and drop clicking issue
+	$scope.dragged = false;
+	
+	//give $scope the Math service
+	$scope.Math = window.Math;
 	
 	getAllChamps();
 	$scope.refreshChartConfig();
