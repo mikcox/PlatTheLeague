@@ -1,4 +1,10 @@
 <!doctype html>
+<div id='cssmenu'>
+	<ul>
+	   <li class='active'><a href='#'><span>Team Builder Beta</span></a></li>
+	   <li class='last'><a href='mailto:suggestions@plattheleague.com?subject=Suggestion%20for%20PlatTheLeague.com'><span>Contact</span></a></li>
+	</ul>
+</div>
 <div class="container-fluid">
 	<div id="circle">&nbsp;</div>
 		<div class="row-fluid">
@@ -110,7 +116,7 @@
 					<button class="btn btn-primary" ng-click="resetPage()">Reset</button>
 				</div>
 				{{error}}
-				<div style="color:white; float:left; padding-left:2%; width:47%;">
+				<div style="color:white; float:left; padding-left:2%; width:48%;">
 					<tabset>
 					    <tab heading="Prediction Chart" ng-click="triggerResize()">
 				            <div style="text-align:center;">

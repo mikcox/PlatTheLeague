@@ -109,6 +109,8 @@ input[type="search"] {
   -webkit-appearance: textfield;
 }
 
+
+
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button {
   -webkit-appearance: none;
@@ -766,7 +768,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Vollkorn', Georgia, Times, serif;
 }
 
 label {
@@ -2732,8 +2734,8 @@ button.close {
 }
 
 .btn-primary {
-  background-color: #0099FF;
-  *background-color: #0099FF;
+  background-color: #0f73a8;
+  *background-color: #0f73a8;
   background-image: -ms-linear-gradient(top, #0088cc, #0055cc);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0055cc));
   background-image: -webkit-linear-gradient(top, #0088cc, #0055cc);
@@ -3325,7 +3327,7 @@ input[type="submit"].btn.btn-mini {
 
 .nav-tabs > .active > a,
 .nav-tabs > .active > a:hover {
-  color: #555555;
+  color: #0f73a8;
   cursor: default;
   background-color: #ffffff;
   border: 1px solid #ddd;
@@ -3345,7 +3347,7 @@ input[type="submit"].btn.btn-mini {
 .nav-pills > .active > a,
 .nav-pills > .active > a:hover {
   color: #ffffff;
-  background-color: #0088cc;
+  background-color: #0f73a8;
 }
 
 .nav-stacked > li {
@@ -3407,8 +3409,8 @@ input[type="submit"].btn.btn-mini {
 .nav-tabs .dropdown-toggle .caret,
 .nav-pills .dropdown-toggle .caret {
   margin-top: 6px;
-  border-top-color: #0088cc;
-  border-bottom-color: #0088cc;
+  border-top-color: #0f73a8;
+  border-bottom-color: #0f73a8;
 }
 
 .nav-tabs .dropdown-toggle:hover .caret,

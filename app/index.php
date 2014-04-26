@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="platTheLeagueModule" style="height:100%">
+<html lang="en" ng-app="platTheLeagueModule" style="height:100%; min-width:1200px;">
     <head>
         <meta charset="utf-8" />
         <title>Plat The League</title>
@@ -15,19 +15,15 @@
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     </head>
 
-    <body class="no-logo fae" style="height:100%; min-width:1200px;">
-        <header id="branding" role="banner" style="text-align:center">
-        	<div style="width:100%; text-align:center;">
-            <a id="logo" href="#/"><img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>
-            <h1 style="margin-bottom: 0; display:inline;">
-            	Team Builder Beta</h1><a id="logo" href="#/">
-            <img src="images/platinum_logo.png" style="width: 100px; height:100px;"/></a>
+    <body class="no-logo fae" style="height:100%; min-width:1200px; padding:0px;">
+        <header id="branding" role="banner">
+        	<div style="width:98%; margin: 0 auto; padding:0px;">
+        	<a href="#"><img src="images/logo-light.png" style="width:200px; height:125px;"/></a>            
         </div>
         </header>
         <div ng-view>
         </div>
         <footer style="margin: 3% 0% 0% 0%">
-            <p> <a href="mailto:suggestions@plattheleague.com?subject=PlatTheLeague Team Builder Suggestion&body=I want to suggest a way to improve your team builder page!  Details:">Suggestions</a>
             <h3 >Powered By</h3>
             <a href="http://angularjs.org/"><img src="images/AngularJS-small.png"/></a>
         </footer>
