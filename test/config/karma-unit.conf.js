@@ -11,19 +11,21 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'app/components/angular/angular.js',
-      'app/components/jquery/dist/jquery.js',
-      'app/components/angular-dragdrop/src/angular-dragdrop.js',
-      'app/components/angular-route/angular-route.js',
-      'app/components/angular-mocks/angular-mocks.js',
-      'app/components/angular-bootstrap/ui-bootstrap-tpls.min.js',
-      'app/components/jquery-ui/ui/minified/jquery-ui.min.js',
-      'app/scripts/app.js',
-      'app/scripts/controllers/*.js',
-      'app/scripts/directives/*.js',
-      'app/scripts/filters/*.js',
-      'app/scripts/services/*.js',
-      'test/unit/*.js'
+		'app/components/jquery/dist/jquery.js',
+		'app/components/jquery-ui/ui/minified/jquery-ui.min.js',
+		'app/components/angular/angular.min.js',
+		'app/components/angular-route/angular-route.js',
+		'app/components/angular-bootstrap/ui-bootstrap-tpls.js',
+		'app/components/angular-dragdrop/src/angular-dragdrop.js',
+		'app/components/highcharts-ng/src/highcharts-ng.js',
+		'app/components/highcharts.com/js/highcharts.src.js',
+		'app/components/angular-mocks/angular-mocks.js',
+		'app/scripts/app.js',
+		'app/scripts/controllers/teamBuilderCtrl.js',
+		'app/scripts/controllers/modalInstanceCtrl.js',
+		'app/scripts/services/factories.js',
+		'app/scripts/filters/filters.js',
+		'test/unit/*.js'
     ],
 
     // list of files / patterns to exclude

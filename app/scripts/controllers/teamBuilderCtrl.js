@@ -7,13 +7,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	'dataFactory',
 	function ($scope, $filter, $modal, $q, dataFactory) {
 		
-		function getAllChamps() {
+		$scope.getAllChamps = function() {
 			dataFactory.readJSON('champion_json/all_champs.json').then(function(data) {
 				$scope.allChamps = data["Champions"];
-				$scope.filterChamps();
+				//$scope.filterChamps();
 			});
 			
-		};
+		}
 		
 		$scope.ajaxGetChampInfo = function(champion) {		
 			
@@ -135,7 +135,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.populateGamePredictions = function () {
 		$scope.getChampSuggestions();
 		$scope = dataFactory.calculateScores($scope);
-		$scope.refreshChartConfig();
+		$scope.chartConfig = $scope.refreshChartConfig();
 	};
 	
 	//creating champion suggestions:
@@ -256,14 +256,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	  
 	//for drag and drop:
 	$scope.filterChamps = function() {
-		$scope.filteredChamps = $filter('allChampTextFilter')($scope.allChamps, $scope.allChampFilterQuery);
-		return $scope.filteredChamps;
+		return $filter('allChampTextFilter')($scope.allChamps, $scope.allChampFilterQuery);
 	};
 	
 	//for highcharts graphing:
 	$scope.refreshChartConfig = function() {
 		var categories = ['Top', 'Mid', 'Bot', 'Jungle', 'Late Game', 'Team'];
-		$scope.chartConfig = {
+		return {
 				"options": {
 				    "chart": {
 				      "type": "bar"
@@ -418,8 +417,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		$scope.wereWeCorrect = null;
 		$scope.feedbackComments = null;
 		
-		getAllChamps();
-		$scope.refreshChartConfig();
+		$scope.allChamps = $scope.getAllChamps();
+		$scope.chartConfig = $scope.refreshChartConfig();
 	};
 	  
 	
@@ -469,8 +468,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	//give $scope the Math service
 	$scope.Math = window.Math;
 	
-	getAllChamps();
-	$scope.refreshChartConfig();
+	$scope.allChamps = $scope.getAllChamps();
+	$scope.chartConfig = $scope.refreshChartConfig();
 	}
 	
 ]);

@@ -63,7 +63,35 @@ module.exports = function (grunt) {
                     '<%= yeoman.app %>/images/{,*/}*.{png,jpg,jpeg,webp}'
                 ],
                 tasks: ['livereload']
-            }
+            },
+            karma_e2e: {
+          		files: [
+        				'test/e2e/*.js',
+        				'app/scripts/**/*.js',
+        				'app/views/**/*'
+        				],
+        			tasks: ['karma:e2e'],
+        			options: {
+        				atBegin: true,
+        				spawn: false    // necessary to preserve console output
+        			}
+        		},
+        		karma_unit: {
+        			files: [
+        					'app/bower_components/angular/angular.js',
+        					'app/bower_components/angular-mocks/angular-mocks.js',
+        					'app/bower_components/angular-resource/angular-resource.js',
+        					'app/bower_components/angular-route/angular-route.js',
+        					'app/scripts/*.js',
+        					'app/scripts/**/*.js',
+        					'test/unit/*.js'
+        		    ],
+        		    tasks: ['karma:unit'],
+        		    options: {
+        		    	atBegin: true,
+        		    	spawn: false    // necessary to preserve console output
+        		    }
+        		}
         },
         concurrent: {
             options: { logConcurrentOutput: true },
@@ -405,27 +433,32 @@ module.exports = function (grunt) {
         'e2e'
     ]);
     grunt.registerTask('unit', [
-        'clean:server',
-        'karma:unit'
+    	'clean:server',
+    	'connect:test',
+    	'karma:unit'
     ]);
+
     grunt.registerTask('e2e', [
-        'clean:server',
-        'livereload-start',
-        'connect:livereload',
-        'karma:e2e'
+    	'clean:server',
+    	'connect:test',
+    	'karma:e2e'
     ]);
+    grunt.registerTask('unit_auto', [
+    	'clean:server',
+    	'connect:test',
+    	'karma:unit_auto'
+    ]);
+
+    grunt.registerTask('e2e_auto', [
+    	'clean:server',
+    	'connect:test',
+    	'karma:e2e_auto'
+    ]);
+
     grunt.registerTask('continuous', [
-        'clean:server',
-        'livereload-start',
-        'connect:livereload',
-        'concurrent:continuous'
-    ]);
-    //    still debating on benefit of midway tests
-    grunt.registerTask('test:midway', [
-        'clean:server',
-        'livereload-start',
-        'connect:livereload',
-        'karma:midway'
+    	'clean:server',
+    	//'concurrent:continuous'
+    	'watch'
     ]);
     grunt.registerTask('build', [
 	'clean:dist',
@@ -440,17 +473,6 @@ module.exports = function (grunt) {
 	'htmlmin',
 	'imagemin',
 	'json-minify'
-      /*  'clean:dist',
-       'useminPrepare',
-        'imagemin',
-        'htmlmin',
-        //currently broken, using htmlmin instead until it is fixed
-        //'ngtemplates:skillsModule',
-        'cssmin',
-        'uglify',
-        'concat',
-        'copy',
-//        'usemin'*/
     ]);
     grunt.registerTask('hint-tests', ['jshint:tests']);
     grunt.registerTask('hint-scripts', ['jshint:scripts']);
