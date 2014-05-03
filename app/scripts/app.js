@@ -3,13 +3,15 @@
 /* App Module */
 var platTheLeagueModule = angular.module('platTheLeagueModule', [ 'ngDragDrop',
                                                                   'ui.bootstrap',
+                                                                  'ng-app',
                                                                   'ngRoute',
                                                                   'highcharts-ng',
                                                                   'teamBuilderFilters']); //dependencies go inside the square brackets
 
 platTheLeagueModule.config(function ($routeProvider, $httpProvider) {
     $routeProvider. //this controls navigation within our app
-        when('/', { controller: 'teamBuilderCtrl', templateUrl: 'views/teamBuilder.php'}).
+        when('/', { controller: 'teamBuilderCtrl', templateUrl: 'views/teamBuilder.html'}).
+        when('/about', {templateUrl: 'views/about.html'}).
         otherwise({ redirectTo: '/' });
 
 //enable cross domain requests

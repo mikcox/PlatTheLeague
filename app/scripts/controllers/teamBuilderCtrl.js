@@ -24,12 +24,12 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			champion = champion.replace(".", "");
 			
 			//set $scope.selectedChamp to the champ that was clicked and return a modal
-			$scope.selectedChamp = getCounterJSON(champion, true);
+			$scope.selectedChamp = $scope.getCounterJSON(champion, true);
 		
 			
 		}
 		//reads the contents of the champion's JSON, does a bit of formatting, and generates a $scope.error if there is one.
-		function getCounterJSON(champion, openModal) {
+		$scope.getCounterJSON = function(champion, openModal) {
 			var indexOfMatch = -1;
 			for(var i = 0; i < $scope.allChamps.length; i++) {
 				if($scope.allChamps[i]["ChampionName"]["lower"] == champion){
@@ -148,7 +148,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				for(var k = 0; k < scopeObj.allChamps.length; k++){
 					if(scopeObj.allChamps[k]["ChampionName"]["pretty"] == scopeObj.topLane2[i]["WeakAgainst"][j]["champName"]){
 						//get the matching champ's counter JSON and temporarily add it to the topLane1 list:
-						scopeObj.topLane1.push(getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
+						scopeObj.topLane1.push($scope.getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
@@ -172,7 +172,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				for(var k = 0; k < scopeObj.allChamps.length; k++){
 					if(scopeObj.allChamps[k]["ChampionName"]["pretty"] == scopeObj.midLane2[i]["WeakAgainst"][j]["champName"]){
 						//get the matching champ's counter JSON and temporarily add it to the midLane1 list:
-						scopeObj.midLane1.push(getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
+						scopeObj.midLane1.push($scope.getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
@@ -196,7 +196,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				for(var k = 0; k < scopeObj.allChamps.length; k++){
 					if(scopeObj.allChamps[k]["ChampionName"]["pretty"] == scopeObj.botLane2[i]["WeakAgainst"][j]["champName"]){
 						//get the matching champ's counter JSON and temporarily add it to the botLane1 list:
-						scopeObj.botLane1.push(getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
+						scopeObj.botLane1.push($scope.getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
@@ -220,7 +220,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				for(var k = 0; k < scopeObj.allChamps.length; k++){
 					if(scopeObj.allChamps[k]["ChampionName"]["pretty"] == scopeObj.jungle2[i]["WeakAgainst"][j]["champName"]){
 						//get the matching champ's counter JSON and temporarily add it to the jungle1 list:
-						scopeObj.jungle1.push(getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
+						scopeObj.jungle1.push($scope.getCounterJSON(scopeObj.allChamps[k]["ChampionName"]["lower"], false));
 						//Calculate the team scores
 						scopeObj = dataFactory.calculateScores(scopeObj);
 						//alert("champ: "+scopeObj.allChamps[k]["ChampionName"]["pretty"]+" score: "+scopeObj.teamScore);
@@ -243,7 +243,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.openChampCountersModal = function (champ) {
 
 		var modalInstance = $modal.open({
-	      templateUrl: 'views/champ_counter_modal_content.php',
+	      templateUrl: 'views/champ_counter_modal_content.html',
 	      controller: 'modalInstanceCtrl',
 	      resolve: {
 	    	  data: function () {
@@ -371,7 +371,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.ajaxGetChampInfo(champion);
 		}
 		$scope.dragged = false;
-		$scope.selectedChamp = getCounterJSON(champion, false);
+		$scope.selectedChamp = $scope.getCounterJSON(champion, false);
 	};
 
 	$scope.startDragging = function() {
