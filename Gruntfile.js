@@ -45,7 +45,7 @@ module.exports = function (grunt) {
                     removeScriptTypeAttributes: true,
                     removeStyleLinkTypeAttributes: true
                 },
-                src: ['<%= yeoman.app %>/views/*.php'],
+                src: ['<%= yeoman.app %>/views/*.html'],
                 dest: '<%= yeoman.app %>/scripts/skillsModuleTemplates.js'
             }
         },
@@ -289,12 +289,12 @@ module.exports = function (grunt) {
             server: { options: { debugInfo: true } }
         },
         useminPrepare: {
-            html: '<%= yeoman.app %>/index.php',
+            html: '<%= yeoman.app %>/index.html',
             options: { dest: '<%= yeoman.dist %>' }
         },
         // Performs rewrites based on rev and the useminPrepare configuration
         usemin: {
-          html: ['<%= yeoman.dist %>/{,*/}*.php'],
+          html: ['<%= yeoman.dist %>/{,*/}*.html'],
           css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
           options: {
             assetsDirs: ['<%= yeoman.dist %>']
@@ -353,7 +353,7 @@ module.exports = function (grunt) {
               files: [{
                 expand: true,
                 cwd: '<%= yeoman.dist %>',
-                src: ['*.php', 'views/**/*.php'],
+                src: ['*.html', 'views/**/*.html'],
                 dest: '<%= yeoman.dist %>'
               }]
             }
@@ -368,8 +368,8 @@ module.exports = function (grunt) {
                   src: [
                     '*.{ico,png,txt}',
                     '.htaccess',
-                    '*.php',
-                    'views/**/*.php',
+                    '*.html',
+                    'views/**/*.html',
                     'bower_components/**/*',
                     'images/*',
                     'fonts/*',
