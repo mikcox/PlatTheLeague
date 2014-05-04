@@ -3,7 +3,6 @@
 /* App Module */
 var platTheLeagueModule = angular.module('platTheLeagueModule', [ 'ngDragDrop',
                                                                   'ui.bootstrap',
-                                                                  'ng-app',
                                                                   'ngRoute',
                                                                   'highcharts-ng',
                                                                   'teamBuilderFilters']); //dependencies go inside the square brackets
