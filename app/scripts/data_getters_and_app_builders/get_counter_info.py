@@ -140,7 +140,8 @@ else:
             json.dump({"ChampionName":{"pretty":championPrettyName, "lower":champion}, "WeakAgainst":weakAgainst, "StrongAgainst":strongAgainst, "GoodWith":goodWith, "ChampionImageLocation":"http://www.solomid.net/guide/champ/"+champion+".png"}, file, indent=4);
     if(foundProblem == 1):
         print 'Failed to create champion JSON for '+championPrettyName
-        SERVER = 'localhost'
+        '''
+        SERVER = 'plattheleague.com'
         SUBJECT = 'Failed to create champion JSON for '+championPrettyName
         FROM = 'mico2178@plattheleague.com'
         TO = 'mico2178@plattheleague.com'
@@ -157,4 +158,5 @@ else:
         server = smtplib.SMTP(SERVER)
         server.sendmail(FROM, TO, message)
         server.quit()
+        '''
     sys.exit(0)
