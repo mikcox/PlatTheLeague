@@ -131,7 +131,7 @@ else:
             foundProblem = 1
             #print 'we found a problem.'
     for i in range(0, len(goodWith)):
-        if(not (isinstance(goodWith[i]["upvotes"], long) and goodWith[i]["upvotes"] >= 0 and isinstance(goodWith[i]["downvotes"], int) and goodWith[i]["downvotes"])):
+        if(not (isinstance(goodWith[i]["upvotes"], int) and goodWith[i]["upvotes"] >= 0 and isinstance(goodWith[i]["downvotes"], int) and goodWith[i]["downvotes"])):
             foundProblem = 1
             #print 'we found a problem.'
     if(foundProblem == 0):
