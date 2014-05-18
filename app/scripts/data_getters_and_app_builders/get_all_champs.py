@@ -29,7 +29,7 @@ else:
     champjson = json.loads(returnString)
     allChamps = []
     for i in champjson["data"]:
-        print champjson["data"][i]["name"]
+        #print champjson["data"][i]["name"]
         prettyName = champjson["data"][i]["name"]
         lowerName = champjson["data"][i]["name"].lower().replace(" ", "").replace("'", "").replace(".", "")
         allChamps.append({"ChampionName":{"pretty":prettyName, "lower":lowerName}})
