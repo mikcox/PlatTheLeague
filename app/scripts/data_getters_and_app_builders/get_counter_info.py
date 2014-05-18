@@ -135,14 +135,16 @@ else:
             foundProblem = 1
             #print 'we found a problem.'
     if(foundProblem == 0):
+        print championPrettyName
         with open(workingdir+champion+'.json', 'w') as file:
             json.dump({"ChampionName":{"pretty":championPrettyName, "lower":champion}, "WeakAgainst":weakAgainst, "StrongAgainst":strongAgainst, "GoodWith":goodWith, "ChampionImageLocation":"http://www.solomid.net/guide/champ/"+champion+".png"}, file, indent=4);
     if(foundProblem == 1):
+        print 'Failed to create champion JSON for '+championPrettyName
         SERVER = 'localhost'
-        SUBJECT = 'Failed to create champion JSON'
+        SUBJECT = 'Failed to create champion JSON for '+championPrettyName
         FROM = 'mico2178@plattheleague.com'
         TO = 'mico2178@plattheleague.com'
-        TEXT = 'failed to create champ JSON!'
+        TEXT = 'failed to create JSON!'
         # Prepare actual message
         message = """\
         From: %s
