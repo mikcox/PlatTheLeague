@@ -242,3 +242,9 @@ background: url('../images/sort_both.png') no-repeat center right;
   background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 60%, #0f73a8 61%, #0f73a8 100%);
   background: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
 }
+
+.buffTimer {
+	text-align: center;
+	display: inline-block;
+	margin-left: 20px;
+}

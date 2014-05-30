@@ -4,10 +4,43 @@
 	   <li class='active'><a href='#'><span>Team Builder Beta</span></a></li>
 	   <li class='last'><a href='#/about'><span>About</span></a></li>
 	   <li class='last'><a href='mailto:suggestions@plattheleague.com?subject=Suggestion%20for%20PlatTheLeague.com'><span>Contact</span></a></li>
+	   <li class='last' ng-click="toggleTimers()"><a><span>Timers</span></a></li>
 	</ul>
 </div>
 <div class="container-fluid">
 	<div id="circle">&nbsp;</div>
+		<div ng-hide="timersCollapsed" class="thumbnail" style="color:black; text-align:center; margin-bottom: 10px;">
+			<div class="buffTimer" id="yourBlue">
+				<img src="images/blue-buff.png" ng-click="startTimer('yourBlue')"/>
+				<p>Your Blue:</p>
+				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+			<div class="buffTimer" id="yourRed">
+				<img src="images/red-buff.png" ng-click="startTimer('yourRed')"/>
+				<p>Your Red:</p>
+				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+			<div class="buffTimer" id="theirBlue">
+				<img src="images/blue-buff.png" ng-click="startTimer('theirBlue')"/>
+				<p>Their Blue:</p>
+				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+			<div class="buffTimer" id="theirRed">
+				<img src="images/red-buff.png" ng-click="startTimer('theirRed')"/>
+				<p>Their Red:</p>
+				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+			<div class="buffTimer" id="dragon">
+				<img src="images/dragon.png" ng-click="startTimer('dragon')"/>
+				<p>Dragon:</p>
+				<timer interval="1000" countdown="360" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+			<div class="buffTimer" id="baron">
+				<img src="images/baron.png" ng-click="startTimer('baron')"/>
+				<p>Baron:</p>
+				<timer interval="1000" countdown="420" autostart="false">{{minutes}}:{{sseconds}}</timer>
+			</div>
+		</div>
 		<div class="row-fluid">
 			<div id="allChampsList" class="thumbnail" style="float:left; width:15%;" data-drop="true" data-jqyoui-options ng-model="allChamps"
 			jqyoui-droppable="{index: $index, onDrop: 'populateGamePredictions'}">

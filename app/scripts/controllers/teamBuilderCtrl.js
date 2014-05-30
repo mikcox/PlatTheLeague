@@ -363,7 +363,7 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			alert('Feedback received.  Thanks!');
 			$scope.resetPage();
 		});
-	}
+	};
 	
 	//for handling drag and drop clicking issues:
 	$scope.onChampClick = function(champion) {
@@ -378,7 +378,26 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		$scope.dragged = true;    
 	};
 	
+	//for timers:
+	$scope.toggleTimers = function () {
+		$scope.timersCollapsed = !$scope.timersCollapsed;
+	};
+	$scope.startTimer = function (divId) {
+		if($scope.timersRunning[divId] === false){
+			document.getElementById(divId).getElementsByTagName('timer')[0].start();
+			$scope.timersRunning[divId] = true;
+		} else {
+			$scope.timersRunning[divId] = false;
+			document.getElementById(divId).getElementsByTagName('timer')[0].stop();
+		}
+	};
+	
 	$scope.resetPage = function(){
+		$scope.init();
+	};
+	  
+	$scope.init = function() {
+		//THE ACTUAL CODE THAT RUNS ON WEBPAGE LOAD
 		$scope.topLane1 = [];
 		$scope.topLane2 = [];
 		$scope.midLane1 = [];
@@ -392,7 +411,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		$scope.midScore = 0;
 		$scope.botScore = 0;
 		$scope.jungleScore = 0;
-		$scope.lateGameScore = 0;
 		$scope.teamScore = 0;
 		$scope.scoresObject = {
 				top1: null,
@@ -409,67 +427,34 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				team2: null
 		};
 		$scope.champSuggestions = {
-			top: [],
-			mid: [],
-			bot: [],
-			jungle: []
+				top: [],
+				mid: [],
+				bot: [],
+				jungle: []
 		};
+		$scope.timersRunning = {
+			yourBlue: false,
+			yourRed: false,
+			theirBlue: false,
+			theirRed: false,
+			dragon: false,
+			baron: false
+		};
+		//variables for feedback
 		$scope.wereWeCorrect = null;
 		$scope.feedbackComments = null;
 		
+		//for drag and drop clicking issue
+		$scope.dragged = false;
+		
+		//give $scope the Math service
+		$scope.Math = window.Math;
+		
 		$scope.allChamps = $scope.getAllChamps();
 		$scope.chartConfig = $scope.refreshChartConfig();
+		$scope.timersCollapsed = true;
 	};
-	  
 	
-	
-	//THE ACTUAL CODE THAT RUNS ON WEBPAGE LOAD
-	$scope.topLane1 = [];
-	$scope.topLane2 = [];
-	$scope.midLane1 = [];
-	$scope.midLane2 = [];
-	$scope.botLane1 = [];
-	$scope.botLane2 = [];
-	$scope.jungle1 = [];
-	$scope.jungle2 = [];
-	//scope variables keeping track of the various scores:
-	$scope.topScore = 0;
-	$scope.midScore = 0;
-	$scope.botScore = 0;
-	$scope.jungleScore = 0;
-	$scope.teamScore = 0;
-	$scope.scoresObject = {
-			top1: null,
-			top2: null,
-			mid1: null,
-			mid2: null,
-			bot1: null,
-			bot2: null,
-			jungle1: null,
-			jungle2: null,
-			lateGame1: null,
-			lateGame2: null,
-			team1: null,
-			team2: null
-	};
-	$scope.champSuggestions = {
-			top: [],
-			mid: [],
-			bot: [],
-			jungle: []
-	};
-	//variables for feedback
-	$scope.wereWeCorrect = null;
-	$scope.feedbackComments = null;
-	
-	//for drag and drop clicking issue
-	$scope.dragged = false;
-	
-	//give $scope the Math service
-	$scope.Math = window.Math;
-	
-	$scope.allChamps = $scope.getAllChamps();
-	$scope.chartConfig = $scope.refreshChartConfig();
-	}
-	
-]);
+	$scope.init();
+
+}]);
