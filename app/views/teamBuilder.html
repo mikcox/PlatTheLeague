@@ -11,34 +11,40 @@
 	<div id="circle">&nbsp;</div>
 		<div ng-hide="timersCollapsed" class="thumbnail" style="color:black; text-align:center; margin-bottom: 10px;">
 			<div class="buffTimer" id="yourBlue">
-				<img src="images/blue-buff.png" ng-click="startTimer('yourBlue')"/>
+				<img src="images/blue-buff.png" ng-click="startTimer('yourBlue')" ng-show="!timers.yourBlue.isRunning"/>
+				<img src="images/blue-buff-down.png" ng-click="stopTimer('yourBlue')" ng-show="timers.yourBlue.isRunning"/>
 				<p>Your Blue:</p>
-				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.yourBlue.minutes}}:{{timers.yourBlue.seconds}}</p>
 			</div>
 			<div class="buffTimer" id="yourRed">
-				<img src="images/red-buff.png" ng-click="startTimer('yourRed')"/>
+				<img src="images/red-buff.png" ng-click="startTimer('yourRed')" ng-show="!timers.yourRed.isRunning"/>
+				<img src="images/red-buff-down.png" ng-click="stopTimer('yourRed')" ng-show="timers.yourRed.isRunning"/>
 				<p>Your Red:</p>
-				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.yourRed.minutes}}:{{timers.yourRed.seconds}}</p>
 			</div>
 			<div class="buffTimer" id="theirBlue">
-				<img src="images/blue-buff.png" ng-click="startTimer('theirBlue')"/>
+				<img src="images/blue-buff.png" ng-click="startTimer('theirBlue')" ng-show="!timers.theirBlue.isRunning"/>
+				<img src="images/blue-buff-down.png" ng-click="stopTimer('theirBlue')" ng-show="timers.theirBlue.isRunning"/>
 				<p>Their Blue:</p>
-				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.theirBlue.minutes}}:{{timers.theirBlue.seconds}}</p>
 			</div>
 			<div class="buffTimer" id="theirRed">
-				<img src="images/red-buff.png" ng-click="startTimer('theirRed')"/>
+				<img src="images/red-buff.png" ng-click="startTimer('theirRed')" ng-show="!timers.theirRed.isRunning"/>
+				<img src="images/red-buff-down.png" ng-click="stopTimer('theirRed')" ng-show="timers.theirRed.isRunning"/>
 				<p>Their Red:</p>
-				<timer interval="1000" countdown="300" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.theirRed.minutes}}:{{timers.theirRed.seconds}}</p>
 			</div>
 			<div class="buffTimer" id="dragon">
-				<img src="images/dragon.png" ng-click="startTimer('dragon')"/>
+				<img src="images/dragon.png" ng-click="startTimer('dragon')" ng-show="!timers.dragon.isRunning"/>
+				<img src="images/dragon-down.png" ng-click="stopTimer('dragon')" ng-show="timers.dragon.isRunning"/>
 				<p>Dragon:</p>
-				<timer interval="1000" countdown="360" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.dragon.minutes}}:{{timers.dragon.seconds}}</p>
 			</div>
 			<div class="buffTimer" id="baron">
-				<img src="images/baron.png" ng-click="startTimer('baron')"/>
+				<img src="images/baron.png" ng-click="startTimer('baron')" ng-show="!timers.baron.isRunning"/>
+				<img src="images/baron-down.png" ng-click="stopTimer('baron')" ng-show="timers.baron.isRunning"/>
 				<p>Baron:</p>
-				<timer interval="1000" countdown="420" autostart="false">{{minutes}}:{{sseconds}}</timer>
+				<p>{{timers.baron.minutes}}:{{timers.baron.seconds}}</p>
 			</div>
 		</div>
 		<div class="row-fluid">

@@ -19,6 +19,7 @@ module.exports = function(config) {
 		'app/components/angular-dragdrop/src/angular-dragdrop.js',
 		'app/components/highcharts-ng/src/highcharts-ng.js',
 		'app/components/highcharts.com/js/highcharts.src.js',
+		'app/components/angular-timer/app/js/timer.js',
 		'app/components/angular-mocks/angular-mocks.js',
 		'app/scripts/app.js',
 		'app/scripts/controllers/teamBuilderCtrl.js',

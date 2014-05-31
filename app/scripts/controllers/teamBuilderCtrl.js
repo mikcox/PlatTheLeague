@@ -5,7 +5,8 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	'$modal',
 	'$q',
 	'dataFactory',
-	function ($scope, $filter, $modal, $q, dataFactory) {
+	'$timeout',
+	function ($scope, $filter, $modal, $q, dataFactory, $timeout) {
 		
 		$scope.getAllChamps = function() {
 			dataFactory.readJSON('champion_json/all_champs.json').then(function(data) {
@@ -382,15 +383,67 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.toggleTimers = function () {
 		$scope.timersCollapsed = !$scope.timersCollapsed;
 	};
-	$scope.startTimer = function (divId) {
-		if($scope.timersRunning[divId] === false){
-			document.getElementById(divId).getElementsByTagName('timer')[0].start();
-			$scope.timersRunning[divId] = true;
-		} else {
-			$scope.timersRunning[divId] = false;
-			document.getElementById(divId).getElementsByTagName('timer')[0].stop();
+	$scope.startTimer = function (buff) {
+		//set the passed buff's 'isRunning' to true if it wasn't running before
+		if($scope.timers[buff].isRunning === false){
+			$scope.timers[buff].isRunning = true;
+		} else { // if the buff's timer WAS running:
+			$scope.timers[buff].isRunning = false;
+			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
+			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
+		}
+		//count how many buff timers are running
+		var runningCount = 0;
+		for(var key in $scope.timers){
+			if($scope.timers[key].isRunning){
+				runningCount = runningCount+1;
+			}
+		}
+		//alert(runningCount);
+		//start the timeout sequence if exactly one buff is running
+		if(runningCount === 1){
+			$scope.mytimeout = $timeout($scope.onTimeout, 200);
 		}
 	};
+	$scope.stopTimer = function (buff) {
+		//set the passed buff's 'isRunning' to false if it wasn't running before
+		if($scope.timers[buff].isRunning === true){
+			$scope.timers[buff].isRunning = false;
+			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
+			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
+		}
+		//count how many buff timers are running
+		var runningCount = 0;
+		for(var key in $scope.timers){
+			if($scope.timers[key].isRunning){
+				runningCount = runningCount+1;
+			}
+		}
+		//stop the timeout sequence if no timers are running
+		if(runningCount === 0){
+			$timeout.cancel($scope.mytimeout);
+		}
+	};
+	//runs every 200ms, and updates all timers that are running
+	$scope.onTimeout = function() {
+		for(var key in $scope.timers) {
+			if($scope.timers[key].isRunning) {
+				//if minutes and seconds are both at 0, we're done!
+				if($scope.timers[key].seconds === 0 && $scope.timers[key].minutes === 0){
+					alert('done!');
+				}
+				//if seconds hit 0, decrement minutes
+				if($scope.timers[key].seconds === 0){
+					$scope.timers[key].minutes = $scope.timers[key].minutes - 1;
+					$scope.timers[key].seconds = 59.8;
+				} else {
+					$scope.timers[key].seconds = Math.round(($scope.timers[key].seconds - 0.2)*10)/10;
+				}
+			}
+		}
+		$scope.mytimeout = $timeout($scope.onTimeout, 200);
+	};
+	
 	
 	$scope.resetPage = function(){
 		$scope.init();
@@ -432,13 +485,13 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				bot: [],
 				jungle: []
 		};
-		$scope.timersRunning = {
-			yourBlue: false,
-			yourRed: false,
-			theirBlue: false,
-			theirRed: false,
-			dragon: false,
-			baron: false
+		$scope.timers = {
+			yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false},
+			yourRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
+			theirBlue: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
+			theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
+			dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false},
+			baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false}
 		};
 		//variables for feedback
 		$scope.wereWeCorrect = null;
