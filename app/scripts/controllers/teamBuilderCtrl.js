@@ -392,18 +392,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
 			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
 		}
-		//count how many buff timers are running
-		var runningCount = 0;
-		for(var key in $scope.timers){
-			if($scope.timers[key].isRunning){
-				runningCount = runningCount+1;
-			}
-		}
-		//alert(runningCount);
-		//start the timeout sequence if exactly one buff is running
-		if(runningCount === 1){
-			$scope.mytimeout = $timeout($scope.onTimeout, 200);
-		}
 	};
 	$scope.stopTimer = function (buff) {
 		//set the passed buff's 'isRunning' to false if it wasn't running before
@@ -417,37 +405,24 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
 			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
 		}
-		//count how many buff timers are running
-		var runningCount = 0;
-		for(var key in $scope.timers){
-			if($scope.timers[key].isRunning){
-				runningCount = runningCount+1;
-			}
-		}
-		//stop the timeout sequence if no timers are running
-		if(runningCount === 0){
-			$timeout.cancel($scope.mytimeout);
-		}
+		
 	};
 	//runs every 200ms, and updates all timers that are running
 	$scope.onTimeout = function() {
-		var runningCount = 0;
 		for(var key in $scope.timers) {
 			if($scope.timers[key].isRunning) {
 				//if minutes and seconds are both at 0, we're done!
 				if($scope.timers[key].seconds === 0 && $scope.timers[key].minutes === 0){
 					var audio = new Audio('audio/alarm-clock.wav');
 					audio.play();
+					$scope.stopTimer(key);
 					$scope.timers[key].upRecently = true;
 					$timeout(function() {
 						for(var key in $scope.timers) {
 							$scope.timers[key].upRecently = false;
 							}
 						}, 8000);
-					$scope.timers[key].minutes = $scope.timers[key].startMinutes;
-					$scope.timers[key].seconds = $scope.timers[key].startSeconds;
-					$scope.timers[key].isRunning = false;
-					$timeout.cancel($scope.myTimeout);
+					continue;
 				}
 				//if seconds hit 0, decrement minutes
 				if($scope.timers[key].seconds === 0){
@@ -457,14 +432,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 					$scope.timers[key].seconds = Math.round(($scope.timers[key].seconds - 0.2)*10)/10;
 				}
 			}
-			//increment the running counter
-			if($scope.timers[key].isRunning){
-				runningCount = runningCount+1;
-			}
-		}
-		//stop the timeout sequence if this was the last timer running
-		if(runningCount === 0){
-			$timeout.cancel($scope.mytimeout);
 		}
 		$scope.mytimeout = $timeout($scope.onTimeout, 200);
 	};
@@ -510,14 +477,6 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				bot: [],
 				jungle: []
 		};
-		$scope.timers = {
-			yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
-			yourRed: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
-			theirBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
-			theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
-			dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false, upRecently: false},
-			baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false, upRecently: false}
-		};
 		//variables for feedback
 		$scope.wereWeCorrect = null;
 		$scope.feedbackComments = null;
@@ -532,7 +491,17 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		$scope.chartConfig = $scope.refreshChartConfig();
 		$scope.timersCollapsed = true;
 	};
-	
+	//initialize all stuff for the scope
 	$scope.init();
-
+	//initialize timing stuff
+	$scope.timers = {
+		yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+		yourRed: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+		theirBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+		theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
+		dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false, upRecently: false},
+		baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false, upRecently: false}
+	};
+	//start our timeout that will re-run every 200ms and keep track of buff timings
+	$scope.mytimeout = $timeout($scope.onTimeout, 200);
 }]);
