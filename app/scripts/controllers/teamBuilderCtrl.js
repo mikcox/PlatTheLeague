@@ -412,6 +412,11 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
 			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
 		}
+		if($scope.timers[buff].upRecently === true){
+			$scope.timers[buff].upRecently = false;
+			$scope.timers[buff].minutes = $scope.timers[buff].startMinutes;
+			$scope.timers[buff].seconds = $scope.timers[buff].startSeconds;
+		}
 		//count how many buff timers are running
 		var runningCount = 0;
 		for(var key in $scope.timers){
@@ -426,11 +431,23 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	};
 	//runs every 200ms, and updates all timers that are running
 	$scope.onTimeout = function() {
+		var runningCount = 0;
 		for(var key in $scope.timers) {
 			if($scope.timers[key].isRunning) {
 				//if minutes and seconds are both at 0, we're done!
 				if($scope.timers[key].seconds === 0 && $scope.timers[key].minutes === 0){
-					alert('done!');
+					var audio = new Audio('audio/alarm-clock.wav');
+					audio.play();
+					$scope.timers[key].upRecently = true;
+					$timeout(function() {
+						for(var key in $scope.timers) {
+							$scope.timers[key].upRecently = false;
+							}
+						}, 8000);
+					$scope.timers[key].minutes = $scope.timers[key].startMinutes;
+					$scope.timers[key].seconds = $scope.timers[key].startSeconds;
+					$scope.timers[key].isRunning = false;
+					$timeout.cancel($scope.myTimeout);
 				}
 				//if seconds hit 0, decrement minutes
 				if($scope.timers[key].seconds === 0){
@@ -440,6 +457,14 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 					$scope.timers[key].seconds = Math.round(($scope.timers[key].seconds - 0.2)*10)/10;
 				}
 			}
+			//increment the running counter
+			if($scope.timers[key].isRunning){
+				runningCount = runningCount+1;
+			}
+		}
+		//stop the timeout sequence if this was the last timer running
+		if(runningCount === 0){
+			$timeout.cancel($scope.mytimeout);
 		}
 		$scope.mytimeout = $timeout($scope.onTimeout, 200);
 	};
@@ -486,12 +511,12 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 				jungle: []
 		};
 		$scope.timers = {
-			yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false},
-			yourRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
-			theirBlue: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
-			theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false},
-			dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false},
-			baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false}
+			yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+			yourRed: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+			theirBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+			theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
+			dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false, upRecently: false},
+			baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false, upRecently: false}
 		};
 		//variables for feedback
 		$scope.wereWeCorrect = null;

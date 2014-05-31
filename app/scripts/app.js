@@ -5,7 +5,6 @@ var platTheLeagueModule = angular.module('platTheLeagueModule', [ 'ngDragDrop',
                                                                   'ui.bootstrap',
                                                                   'ngRoute',
                                                                   'highcharts-ng',
-                                                                  'timer',
                                                                   'teamBuilderFilters']); //dependencies go inside the square brackets
 
 platTheLeagueModule.config(function ($routeProvider, $httpProvider) {

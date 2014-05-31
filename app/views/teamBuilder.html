@@ -11,40 +11,46 @@
 	<div id="circle">&nbsp;</div>
 		<div ng-hide="timersCollapsed" class="thumbnail" style="color:black; text-align:center; margin-bottom: 10px;">
 			<div class="buffTimer" id="yourBlue">
-				<img src="images/blue-buff.png" ng-click="startTimer('yourBlue')" ng-show="!timers.yourBlue.isRunning"/>
+				<img src="images/blue-buff.png" ng-click="startTimer('yourBlue')" ng-show="!timers.yourBlue.isRunning && !timers.yourBlue.upRecently"/>
 				<img src="images/blue-buff-down.png" ng-click="stopTimer('yourBlue')" ng-show="timers.yourBlue.isRunning"/>
+				<img src="http://i.picasion.com/pic77/39e68b6c19d064caa4461eae6ba2c043.gif" ng-click="stopTimer('yourBlue')" ng-show="timers.yourBlue.upRecently"/>
 				<p>Your Blue:</p>
-				<p>{{timers.yourBlue.minutes}}:{{timers.yourBlue.seconds}}</p>
+				<p>{{timers.yourBlue.minutes}}:{{Math.floor(timers.yourBlue.seconds)}}</p>
 			</div>
 			<div class="buffTimer" id="yourRed">
-				<img src="images/red-buff.png" ng-click="startTimer('yourRed')" ng-show="!timers.yourRed.isRunning"/>
+				<img src="images/red-buff.png" ng-click="startTimer('yourRed')" ng-show="!timers.yourRed.isRunning && !timers.yourRed.upRecently"/>
 				<img src="images/red-buff-down.png" ng-click="stopTimer('yourRed')" ng-show="timers.yourRed.isRunning"/>
+				<img src="http://i.picasion.com/pic77/ab8538abf831704883f5debc10ef1bd4.gif" ng-click="stopTimer('yourRed')" ng-show="timers.yourRed.upRecently"/>
 				<p>Your Red:</p>
-				<p>{{timers.yourRed.minutes}}:{{timers.yourRed.seconds}}</p>
+				<p>{{timers.yourRed.minutes}}:{{Math.floor(timers.yourRed.seconds)}}</p>
 			</div>
 			<div class="buffTimer" id="theirBlue">
-				<img src="images/blue-buff.png" ng-click="startTimer('theirBlue')" ng-show="!timers.theirBlue.isRunning"/>
+				<img src="images/blue-buff.png" ng-click="startTimer('theirBlue')" ng-show="!timers.theirBlue.isRunning && !timers.theirBlue.upRecently"/>
 				<img src="images/blue-buff-down.png" ng-click="stopTimer('theirBlue')" ng-show="timers.theirBlue.isRunning"/>
+				<img src="http://i.picasion.com/pic77/39e68b6c19d064caa4461eae6ba2c043.gif" ng-click="stopTimer('theirBlue')" ng-show="timers.theirBlue.upRecently"/>
 				<p>Their Blue:</p>
-				<p>{{timers.theirBlue.minutes}}:{{timers.theirBlue.seconds}}</p>
+				<p>{{timers.theirBlue.minutes}}:{{Math.floor(timers.theirBlue.seconds)}}</p>
 			</div>
 			<div class="buffTimer" id="theirRed">
-				<img src="images/red-buff.png" ng-click="startTimer('theirRed')" ng-show="!timers.theirRed.isRunning"/>
+				<img src="images/red-buff.png" ng-click="startTimer('theirRed')" ng-show="!timers.theirRed.isRunning && !timers.theirRed.upRecently"/>
 				<img src="images/red-buff-down.png" ng-click="stopTimer('theirRed')" ng-show="timers.theirRed.isRunning"/>
+				<img src="http://i.picasion.com/pic77/ab8538abf831704883f5debc10ef1bd4.gif" ng-click="stopTimer('theirRed')" ng-show="timers.theirRed.upRecently"/>
 				<p>Their Red:</p>
-				<p>{{timers.theirRed.minutes}}:{{timers.theirRed.seconds}}</p>
+				<p>{{timers.theirRed.minutes}}:{{Math.floor(timers.theirRed.seconds)}}</p>
 			</div>
 			<div class="buffTimer" id="dragon">
-				<img src="images/dragon.png" ng-click="startTimer('dragon')" ng-show="!timers.dragon.isRunning"/>
+				<img src="images/dragon.png" ng-click="startTimer('dragon')" ng-show="!timers.dragon.isRunning && !timers.dragon.upRecently"/>
 				<img src="images/dragon-down.png" ng-click="stopTimer('dragon')" ng-show="timers.dragon.isRunning"/>
+				<img src="http://i.picasion.com/pic77/534b8d4a992e13aedcff1506828dd56b.gif" ng-click="stopTimer('dragon')" ng-show="timers.dragon.upRecently"/>
 				<p>Dragon:</p>
-				<p>{{timers.dragon.minutes}}:{{timers.dragon.seconds}}</p>
+				<p>{{timers.dragon.minutes}}:{{Math.floor(timers.dragon.seconds)}}</p>
 			</div>
 			<div class="buffTimer" id="baron">
-				<img src="images/baron.png" ng-click="startTimer('baron')" ng-show="!timers.baron.isRunning"/>
+				<img src="images/baron.png" ng-click="startTimer('baron')" ng-show="!timers.baron.isRunning && !timers.baron.upRecently"/>
 				<img src="images/baron-down.png" ng-click="stopTimer('baron')" ng-show="timers.baron.isRunning"/>
+				<img src="http://i.picasion.com/pic77/aa4a36c35173e644d93317285ba19a78.gif" ng-click="stopTimer('baron')" ng-show="timers.baron.upRecently"/>
 				<p>Baron:</p>
-				<p>{{timers.baron.minutes}}:{{timers.baron.seconds}}</p>
+				<p>{{timers.baron.minutes}}:{{Math.floor(timers.baron.seconds)}}</p>
 			</div>
 		</div>
 		<div class="row-fluid">
