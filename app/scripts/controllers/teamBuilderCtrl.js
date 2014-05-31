@@ -435,6 +435,14 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 		}
 		$scope.mytimeout = $timeout($scope.onTimeout, 200);
 	};
+	//take floor of seconds, and pad with leading zero if necessary
+	$scope.formatSeconds = function(numSeconds) {
+		if(numSeconds < 10) {
+	        return  '0'+Math.floor(numSeconds);
+	    } else {
+	        return Math.floor(numSeconds);
+	    }
+	}
 	
 	
 	$scope.resetPage = function(){
@@ -495,9 +503,9 @@ platTheLeagueModule.controller('teamBuilderCtrl', [
 	$scope.init();
 	//initialize timing stuff
 	$scope.timers = {
-		yourBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
-		yourRed: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
-		theirBlue: {startMinutes: 0, startSeconds: 10, minutes: 0, seconds:10, isRunning: false, upRecently: false},
+		yourBlue: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
+		yourRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
+		theirBlue: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
 		theirRed: {startMinutes: 5, startSeconds: 0,minutes: 5, seconds:0, isRunning: false, upRecently: false},
 		dragon: {startMinutes: 6, startSeconds: 0,minutes: 6, seconds:0, isRunning: false, upRecently: false},
 		baron: {startMinutes: 7, startSeconds: 0,minutes: 7, seconds:0, isRunning: false, upRecently: false}
